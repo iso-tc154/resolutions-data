@@ -481,6 +481,7 @@ resolutions:
         degree: unanimous
         message: The resolution was taken by unanimity.
 
+    actions:
       - type: resolves
         date_effective: 2019-10-17
         message: resolves to initiate a ballot to call for the appointment of liaison representatives from ISO/TC154 to the ISO internal committee liaisons.
@@ -496,6 +497,11 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: The resolution was taken by unanimity.
+        
+    actions:
+       - type: encourages
+         date_effective: 2019-10-17
+         message: Encourage experts and contribution to projects in ISO/TC 154
 
 
   - category: General Resolutions
@@ -509,9 +515,10 @@ resolutions:
         degree: unanimous
         message: The resolution was taken by unanimity.
 
-      - type: affirmative
-        degree: unanimous
-        message: TC 154 approves the revised business plan.
+    actions:
+       - type: approves
+         date_effective: 2019-10-17
+         message: TC 154 approves the revised business plan.
 
 
   - category: General Resolutions
@@ -526,6 +533,7 @@ resolutions:
         degree: unanimous
         message: The resolution was taken by unanimity.
 
+    actions:
       - type: delegates
         degree: unanimous
         message: Delegates to its Coordination Advisory Group the final decision on the location and host for its 39th plenary on 12th - 15th, October 2020 at the location to be decided before Dec ember 2019 CAG meeting.
@@ -543,6 +551,7 @@ resolutions:
         degree: unanimous
         message: The resolution was taken by unanimity.
 
+    actions:
       - type: thanks
         degree: unanimous
         message: warmly thanks Prof Peter Plapper, Mr. Jeff Mangers, and in particular thank s our hosts University of Luxembourg and ILNAS for their kind hospitality and hosting of a successful week of Working Groups meetings and the 38th plenary meeting and for organizing social events.
