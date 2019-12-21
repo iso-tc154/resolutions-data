@@ -1,0 +1,563 @@
+metadata:
+  title: Resolutions of the 38th plenary meeting of ISO/TC 154
+  date: 2019-10-17
+  source: ISO/TC 154 Secretariat
+resolutions:
+  - category: Resolutions related to JWG 1
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of NWIP ballot for ISO/PWI 9735-11 “Electronic data interchange for administration, commerce and transport (EDIFACT) - Part 11: Version 3 compatible profile for Version 4 of ISO 9735”"
+    identifier: 2019-01
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the voting result of NWIP (6 of 7 voting P-members approved the proposal and 1 of 7 voting P-members rejected the proposal and only 3 P-members approving the proposal nominated experts)
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the importance of interoperability between the version 3 and version 4 of ISO 9735
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the request from JWG1 to initiate a new NWIP ballot and encourage participation from experts from KATS, DIN, SAC, BSI, GOST R
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to submit ISO 9735-11 for NWIP ballot again by end of this year.
+
+  - category: Resolutions related to JWG 1
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Secretariat of ISO/TC 154/JWG 1 remaining with DIN"
+    identifier: 2019-02
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the official letter (N1004) from DIN on 2018-12-04 to confirm to undertake the secretariat of JWG1
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves that the secretariat of ISO/TC 154/JWG 1 remains with DIN.
+
+
+  - category: Resolutions related to WG 5
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of a ISO/PWI 34100 “Date and time – Reference time scales”"
+    identifier: 2019-03
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the presentation report on the status of the project from CalConnect
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the project is relevant to ISO 34000, ISO 34200, ISO 34300
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: requests
+        date_effective: 2019-10-17
+        message: requests SO/CS to register the project as ISO/PWI 34100, “Date and time – Reference time scales”.
+
+
+  - category: Resolutions related to WG 6
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of DIS ballot for ISO/CD 19626-2“Trusted Communication Platforms for Electronic Documents - Part2: Applications”"
+    identifier: 2019-04
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the result of voting on ISO/CD 19626-2 in N1081 (Form 08A)
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to submit ISO 19626-2 for DIS ballot before 2020-02-01 after modifications to the draft.
+
+
+  - category: Resolutions related to WG 6
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of CD ballot for ISO/AWI 14533-2“Long term signature profiles-Part2: XAdEs”"
+    identifier: 2019-05
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the result of voting on ISO/NP 14533-2 in N1086
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the discussion and comments on the project during the meeting
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the revision development period has already been registered for 2 years as per Form4(N1065)
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to submit ISO 14533-2 for CD ballot before 2020-03-10 after modifications to the draft.
+
+
+  - category: Resolutions related to WG 6
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of a project ISO/PWI TR 19626-3 “Trusted Communication Platforms for Electronic Documents -Part3: implementation guideline”"
+    identifier: 2019-06
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the presentation report on the status of the project from KATS
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to register a project ISO/PWI TR 19626-3 “Trusted Communication Platforms for Electronic Documents -Part3: implementation guideline”. The Part3 should only be published after the publication of Part1 and Part2.
+
+
+  - category: Resolutions related to WG 6
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of a PWI ‘Trusted smart contract-based electronic transactions for personal data and confidential business information - Part 1 Conceptual model;"
+    identifier: 2019-07
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the presentation report on the status of the project from KATS
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the scope and potential overlap with ISO/TC 307
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to register a project ISO/PWI "trusted smart contract-based electronic transactions for personal data and confidential business information - Part 1：Conceptual model" and requests ISO TC154 WG6 to check with the related TCs/SCs and to provide the overlap report.
+
+
+  - category: Resolutions related to WG 7
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of the IS publication of ISO 22468 “Value Stream Management (VSM)”"
+    identifier: 2019-08
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the result of voting on ISO/DIS 22468 in N1079 (Form 13)
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the disposition of the comments from ISO/CS
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to submit ISO 22468 for publication before 2020-03-20 after modification.
+
+
+  - category: Resolutions related to WG 7
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Withdrawal of ISO/TS WD 21981 “Business Semantics Thesaurus (BST)”"
+    identifier: 2019-09
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering that there is no new progress of ISO/WD 21981 since the last plenary
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering that the project has already been extended for one year as per resolution 2018-13
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering that the project is still lack ing active participation
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to withdraw ISO/TS 21981.
+
+
+  - category: Resolutions related to WG 7
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Withdrawal of ISO/DTR 18262“Open data interchange framework (ODIF)”"
+    identifier: 2019-10
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the status of the updated draft and disposition of comments circ ulated via email to all WG7 members twice with no comments received
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the voting result to call for experts to participate in ISO/TR 18262(N1064)
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering that the suggestion from ISO/CS is to cancel the project for lack of active participat ion, and Its valuable content can be used in future when either this project is revived or it is incorporated into another project
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the disposition of comments on NWIP ballot in 2013(N1062) and the updated draft(N1063) that was distributed to a ll members for information
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to withdraw ISO/TR 18262 for lack of active participation.
+
+
+  - category: Resolutions related to JWG 8
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of NWIP ballot for ISO/PWI 23355 “Visibility data interchange between logistics information service providers”"
+    identifier: 2019-11
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the report presentation of ISO/PWI 23355 from CN/SAC
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering Resolution 2018-18, Adoption of NWIP ballot for ISO/PWI 23355
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: restates
+        date_effective: 2019-10-17
+        message: restates the resolution 2018-18 and resolves to modify the draft and Form 4 and launch a NWIP ballot on ISO/PWI 23355.
+
+
+  - category: Resolutions related to others possible NWIPs
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of NWIP ballot for ”Specification for an Enterprise Canonical Model Part 1: Architecture”"
+    identifier: 2019-12
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering resolution 2016-08, resolution 2017-20 and resolution 2018-25
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the Form4 and draft submission and presentation by OAGi
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to launch a NWIP ballot for the project” Specification for an Enterprise Canonical Model — Part 1: Architecture” after further modification of Form 4 and the accompanying draft. If approved, the projects will be assigned to ISO/TC154/WG7.
+
+
+  - category: Resolutions related to others possible NWIPs
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of a PWI for the project “Specification for e-Commerce development index data model”"
+    identifier: 2019-13
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the presentation of a proposal from SAC
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the project is relevant to WG7
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to adopt a PWI on “Specification for e-Commerce development index data model”, assigns the project to WG 7, and requests the project leader to check the overlap with related organizations.
+
+
+  - category: Resolutions related to renewal of WG 4
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of a ISO/PWI 36100 for the project “Standardization documents – Metadata”"
+    identifier: 2019-14
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the presentation report status of the project from CalConnect
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to adopt a ISO/PWI on “Standardization documents – Metadata”.
+
+
+  - category: Resolutions related to renewal of WG 4
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Re-establishment of ISO/TC 154/WG 4 with the title of “e-document”"
+    identifier: 2019-15
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: Considering Resolution 2018-19, re-establishes ISO/TC 154/WG 4 with the title of “e-document”
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: Considering that ISO 36001 ballot is open
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering the several PWI projects under the title of “Standardization documents” will be registered and assigned to WG4 when it is established, and NWIP ballots will be initiated in the future
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: restates
+        date_effective: 2019-10-17
+        message: restates the resolution 2018-19 and resolves to re-establish WG 4 with a new title of “e-document” after the approval of NWIP ballot of ISO 36001 or other projects.
+
+
+  - category: Resolutions related to renewal of WG 4
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Appointment of Mr. Ronald Tse from CalConnect as the co-convener of ISO/TC 154/WG4, Mr. Jamie Clark from OASIS as the co-convener of ISO/TC 154/WG4, for a term of 3 years (until the end of 2022)"
+    identifier: 2019-16
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: Considering that ISO 36001 ballot is open
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: Considering Resolution 2018-19 Re-establishment of ISO/TC 154/WG 4 with the title of “e-document”
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: Considering that WG4 will be established when ISO 36001 is approved
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to appoint Mr. Ronald Henry Tse from Calconnect as the co-convener of ISO/TC 154/WG4
+
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to appoint Mr. Jamie Clark from OASIS as the co-convener of ISO/TC 154/WG4. Their terms are for 3 years until the end of 2022.
+
+
+  - category: Resolutions related to liaison membership
+    dates:
+      - 2019-10-17
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Re-submission of ISO/NP PAS 15000-1 and ISO/NP PAS 15000-2"
+    identifier: 2019-17
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: acknowledges that the ballot of ISO/NP PAS 15000-1 and ISO/NP PAS 15000-2 was conducted under an inappropriate procedure
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: agrees that OASIS, as a Category A liaison, will instead submit both drafts directly to ISO/CS as DIS via the fast-track procedure outlined in ISO/IEC Directives, Part 1, F.2.1.1.
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: assigns the project to WG7
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+
+  - category: Resolutions related to liaison membership
+    dates:
+      - 2019-10-18
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Resolves to initiate a ballot to call for liaison representatives from ISO/TC154 to the ISO internal committee liaisons"
+    identifier: 2019-18
+    considerations:
+      - type: considering
+        date_effective: 2019-10-17
+        message: considering that A-liaison members of ISO/TC 154 have nominated liaison representatives to ISO/TC 154
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: Considering the increase of ISO internal committee liaisons with ISO/TC 154
+
+      - type: considering
+        date_effective: 2019-10-17
+        message: Considering the liaison representatives have been nominated to ISO/PC 317, ISO/TC 215, but no liaison representatives have been nominated to other ISO internal liaisons
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to initiate a ballot to call for the appointment of liaison representatives from ISO/TC154 to the ISO internal committee liaisons.
+
+
+  - category: General Resolutions
+    dates:
+      - 2019-10-17
+    title: "Encourage experts and contribution to projects in ISO/TC 154"
+    identifier: 2019-19
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+        
+    actions:
+       - type: encourages
+         date_effective: 2019-10-17
+         message: Encourage experts and contribution to projects in ISO/TC 154
+
+
+  - category: General Resolutions
+    dates:
+      - 2019-10-17
+    title: "Approval of the Business Plan"
+    identifier: 2019-20
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+       - type: approves
+         date_effective: 2019-10-17
+         message: TC 154 approves the revised business plan.
+
+
+  - category: General Resolutions
+    dates:
+      - 2019-10-18
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Next meetings"
+    identifier: 2019-21
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: delegates
+        degree: unanimous
+        message: Delegates to its Coordination Advisory Group the final decision on the location and host for its 39th plenary on 12th - 15th, October 2020 at the location to be decided before Dec ember 2019 CAG meeting.
+
+
+  - category: General Resolutions
+    dates:
+      - 2019-10-18
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Appreciation of the meeting host and all participants"
+    identifier: 2019-22
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity.
+
+    actions:
+      - type: thanks
+        degree: unanimous
+        message: warmly thanks Prof Peter Plapper, Mr. Jeff Mangers, and in particular thank s our hosts University of Luxembourg and ILNAS for their kind hospitality and hosting of a successful week of Working Groups meetings and the 38th plenary meeting and for organizing social events.
+
+      - type: thanks
+        degree: unanimous
+        message: Warm thanks to all participants for the ir active participation, including those attending remotely.
+
+
