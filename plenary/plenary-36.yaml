@@ -1,0 +1,582 @@
+metadata:
+  title: Resolutions of the 36th virtual plenary meeting of ISO/TC 154
+  date: 2017-10-27
+  source: ISO/TC 154 Secretariat
+resolutions:
+   - category:
+     dates:
+       - 2017-10-27
+     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+     title: "ISO/TC154 express great appreciation to Mr. Klaus-Dieter Naujok (former Chairperson) for his persistent and outstanding contributions to ISO/TC 154, and wish him all the best."
+     identifier: 2017-01
+
+     approvals:
+       - type: affirmative
+         degree: unanimous
+         message: The resolution was adopted by unanimity.
+
+
+   - category:
+     dates:
+       - 2017-10-27
+     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+     title: "resolves that CAT should continue to communicate with ISO/CS to set up the new website"
+     identifier: 2017-02
+     considerations:
+        - type: considering
+          date_effective: 2017-10-27
+          message: considering the transition of chairperson and CS role to have official website, and the result of voting for the new website in N902
+
+     approvals:
+       - type: affirmative
+         degree: unanimous
+         message: The resolution was adopted by unanimity.
+
+     actions:
+       - type: resolves
+         date_effective: 2017-10-27
+         messages: resolves to establish the new website of ISO/TC 154 (https://committee.iso.org/home/tc154), and CAT members will provide the content of website
+
+   - category:
+     dates:
+       - 2017-10-27
+     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+     title: "resolves to remain ISO/TC 154/JWG 1 and not to establish the ISO 9735 MA or RA"
+     identifier: 2017-03
+     considerations:
+        - type: considering
+          date_effective: 2017-10-27
+          message: considering that UNECE renew interest in ISO/TC 154 JWG1 and their dedication input to the possible revision of ISO 9735(UN/EDIFACT)
+        - type: considering
+          date_effective: 2017-10-27
+          message: considering that UNECE nominated two new experts resources to participate in the ISO/TC154/JWG1
+        - type: considering
+          date_effective: 2017-10-27
+          message: considering that the possibility of the revision of a part of ISO 9735(UN/EDIFACT)
+        - type: considering
+          date_effective: 2017-10-27
+          message: considering new possible project from GS1 to participate in the ISO/TC 154 JWG1
+
+    # This resolution will replace resolution 01-2014, resolution 01-2015；
+     approvals:
+        - type: affirmative
+          date_effective: 2017-10-27
+          message: The resolution was adopted by unanimity
+
+     actions:
+        - type: resolves
+          date_effective: 2017-10-27
+          messages: resolves to remain ISO/TC 154 JWG1
+
+
+   - category:
+     dates:
+       - 2017-10-27
+     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+     title: "Appointment of Zhang Yan from UNECE as convener of ISO/TC 154/JWG1"
+     identifier: 2017-04
+     approvals:
+        - type: affirmative
+          date_effective: 2017-10-27
+          message: The resolution was adopted by unanimity
+
+     actions:
+        - type: resolves
+          date_effective: 2017-10-27
+          messages: resolves to ap point Zhang Yan from UNECE as the convener of JWG1
+
+    - category:
+      dates:
+        - 2017-10-27
+      subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+      title: "Adoption FDIS ballot for ISO/DIS 8601-1"
+      identifier: 2017-05
+      considerations:
+        - type: considering
+          date_effective: 2017-10-27
+          message: considering the comment disposition status of ISO/DIS 8601-1
+
+     approvals:
+        - type: affirmative
+          date_effective: 2017-10-27
+          message: The resolution was adopted by unanimity
+
+     actions:
+        - type: resolves
+          date_effective: 2017-10-27
+          message: resolves ISO 8601-1 to be submitted a new draft for FDIS ballot after all of the comments resolved
+
+   - category:
+     dates:
+        - 2017-10-27
+     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+     title: "Adoption FDIS ballot for ISO/DIS 8601-2"
+     identifier: 2017-06
+     considerations:
+        - type: considering
+           date_effective: 2017-10-27
+           message: considering the comment disposition status of ISO/DIS 8601-2
+
+     approvals:
+        - type: affirmative
+          date_effective: 2017-10-27
+          message: The resolution was adopted by unanimity
+
+     actions:
+        - type: resolves
+          date_effective: 2017-10-27
+          message: resolves ISO 8601-2 to be submitted for FDIS ballot after further modification
+
+
+   - category:
+     dates:
+        - 2017-10-27
+     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+     title: "Adoption CD ballot for ISO/WD 14533-4"
+     identifier: 2017-07
+     considerations:
+        - type: considering
+          date_effective: 2017-10-27
+          message: considering ISO/WD 14533-4 status
+
+     approvals:
+        - type: affirmative
+          date_effective: 2017-10-27
+          message: The resolution was adopted by unanimity
+
+     actions:
+        - type: resolves
+          date_effective: 2017-10-27
+          message: resolves ISO/WD 14533-4 to be submitted for CD ballot after further modification
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Adoption NWIP ballot for the revision of ISO 14533-2"
+       identifier: 2017-08
+       considerations:
+         - type: considering
+           date_effective: 2017-10-27
+           message: considering ISO 14533-2 published for over 5 years
+         - type: considering
+           date_effective: 2017-10-27
+           message: considering that ETSI has updated the accordingly XAdES standard
+         - type: considering
+           date_effective: 2017-10-27
+           message: considering the request from SK/SOSMT and JP/JISC to revise ISO 14533-2
+
+      approvals:
+        - type: affirmative
+          date_effective: 2017-10-27
+          message: The resolution was adopted by unanimity
+
+      actions:
+        - type: resolves
+          date_effective: 2017-10-27
+          message: resolves to revise ISO 14533-2, and requests SOSMT and JISC to prepare the final draft for NWIP ballot
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Adoption DIS ballot for ISO/CD 19626-1"
+       identifier: 2017-09
+       considerations:
+         - type: considering
+           date_effective: 2017-10-27
+           message: considering the comment disposition status of ISO/CD 19626-1
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: resolves ISO/CD 19626-1 to be submitted for DIS ballot after further modification
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Adoption NWIP ballot for ISO/PWI 19626-2"
+       identifier: 2017-10
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering ISO/PWI 19626-2 draft status
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: resolves ISO 19626-2 to be submitted for NWIP ballot, and requests KATS to prepare the final draft for NWIP ballot
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Adoption CD ballot for ISO/AWI 22468"
+       identifier: 2017-11
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering ISO/AWI 22468 draft status
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: resolves ISO 22468 to be submitted for CD ballot after further modification
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Adoption CD ballot for ISO/WD 21981"
+       identifier: 2017-12
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering ISO/WD 21981 draft status
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: resolves ISO/WD 21981 to be submitted for CD ballot after further modification
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Adoption of a PWI for the project “Business requirements for end-to-end visibility of logistics flow”"
+       identifier: 2017-13
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the informal ad hoc group presentation report status of the project from CN/SAC
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: Resolves to adopt a PWI on “Business requirements for end to end visibility of logistics flow”, and requests SAC to prepare the final draft for NWIP ballot
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Adoption of a PWI for the project “Visibility data interchange between logistics information service providers”"
+       identifier: 2017-14
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the informal ad hoc group presentation report status of the project from CN/SAC
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: Resolves to adopt a PWI on “Visibility data interchange between logistics information service providers”, and requests SAC to prepare the final draft for NWIP ballot
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Adoption of a PWI for the project “Visibility logistics data interchange interface”"
+       identifier: 2017-15
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the informal ad hoc group presentation report status of the project from CN/SAC
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: Resolves to adopt a PWI on “Visibility logistics data interchange interface”, and requests SAC to prepare the final draft for NWIP ballot
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Establishment of ISO/TC 154/JWG8"
+       identifier: 2017-16
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering that 3 new PWI projects on logistics need to be assigned to a WG
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering that existing WGs cannot cover the scope of logistics
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering leveraging existing standards and strengthening the cooperation between ISO/TC154 and UNECE
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: resolves to establish ISO/TC 154/JWG8 (with UNECE) with the title "logistics data contents and process"
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Appointment of Mr. Dapeng(Max) Liu as convener of ISO/TC 154/JWG8"
+       identifier: 2017-17
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: resolves to appoint Mr.Dapeng(Max) Liu as the convener of JWG8, effective immediately.
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "resolves that ISO/TC 154 and UNECE work together to update ISO7372/UNTDED"
+       identifier: 2017-18
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering that it is a long time since the last version ISO 7372/UNTDED published in 2005
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the renewed interest in ISO 7372/UNTDED JMA from UNECE and its important dedication input to the update of ISO 7372/UNTDED
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the importance of agreeing on the ToR(terms of reference) for the ISO 7372/UNTDED JMA
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: Resolves that ISO/TC 154 and UNECE continue to work together on the ToR for ISO 7372/UNTDED JMA and to update ISO 7372/UNTDED
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Appoint Mr. Jianfang Zhang as the new project leader to forward ISO/DTR 18262, and assign the project to WG7"
+       identifier: 2017-19
+       checkings:
+            - type: checking
+              date_effective: 2017-10-27
+              message: checking the documents N702, N707, N742 with ISO/DTR 18262
+
+      considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering that ISO/DTR 18262 contains valuable content that can be used in other work of TC 154
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the resignation of the former project leader(Klaus) for his health reason
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the relationship with WG7
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: resolves to appoint Mr. Jianfang Zhang(TC secretary) as the project leader of ISO/DTR 18262 to communicate with ISO/CS and to forward the project, and assign the project to WG7
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "resolves to revise the business plan and welcome expert volunteers to participate in the revision"
+       identifier: 2017-20
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: Considering that the old business plan of ISO/TC 154 cannot keep in pace with the development of requirement in e-business
+            - type: considering
+              date_effective: 2017-10-27
+              message: Considering the mandatory regular review of strategic business plan as per new ISO/IEC directives
+            - type: considering
+              date_effective: 2017-10-27
+              message: Considering the new liaison organizations and more experts resources input to ISO/TC 154 in logistic and e-commerce
+
+       approvals:
+          - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was taken by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: Resolves that the current business plan is still valid, and resolves to revise a new version for review at the next plenary meeting, and welcome volunteers to participate in the revision of strategic business plan.
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Welcome MoU/MG members to participate in ISO/TS 21981 through active liaisons"
+       identifier: 2017-21
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering ISO/TC 21981 is a part of the shared semantic repository activity in MoU/MG
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the Resolution 17/04 from MoU/MG in April 2017
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: resolves to welcome MoU/MG members to participate in ISO/TC 21981 through active liaisons
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "request ISO/TC 184 to nominate experts to Join projects VSM in ISO/TC154/WG7"
+       identifier: 2017-22
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the comment from the BSI in Form6 (N880) of VSM (ISO 22468) after ISO/TC 154 finished the Resolution 16/18 of MoU/MG
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the communication between ISO/CS and ISO/TC 184/SC5
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: resolves to request TC 184 to nominate experts to join the work of VSM(ISO 22468) project in ISO/TC 154/WG7
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "resolve to continue to communicate with OAGi for their final draft submission “Specification for an Enterprise Canonical Model”"
+       identifier: 2017-23
+       considerations:
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the resolution 2016-08
+            - type: considering
+              date_effective: 2017-10-27
+              message: considering the final draft submission by OAGi to fast track “OAGIS Specification for an Enterprise Canonical Model” has not been received yet
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: resolves to wait for the final draft submission from OAGi to NWIP ballot.
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "resolves to have the plenary meetings of 2018 in China"
+       identifier: 2017-24
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: resolves
+           date_effective: 2017-10-27
+           message: resolves that the next physical plenary meeting of 2018 will be held in China in October or November 2018
+
+
+     - category:
+       dates:
+          - 2017-10-27
+       subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+       title: "Appreciation of on-line participants"
+       identifier: 2017-25
+
+       approvals:
+         - type: affirmative
+           date_effective: 2017-10-27
+           message: The resolution was adopted by unanimity
+
+       actions:
+         - type: thanks
+           degree: unanimous
+           message: warmly thanks all the on-line participants for the active participation, in particular those being on line during unearthly hours
