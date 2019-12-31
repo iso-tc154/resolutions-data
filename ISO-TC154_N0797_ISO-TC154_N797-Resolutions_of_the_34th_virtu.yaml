@@ -1,0 +1,51 @@
+metadata:
+  title: Resolution of the 34th virtual plenary meeting
+  date: 2015-10-23
+  source: ISO/TC 154 Secretariat
+resolutions:
+  - category: 
+    dates:
+      - 2015-10-23
+    title: "ISO/TC154 resolves that CAT should continue the conversation with ISO/CS in order to establish the ISO 9735/MA for replacing ISO/TC 154/JWG 1"
+    identifier: 2015-01
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was adopted by unanimity.
+
+
+  - category: 
+    dates:
+      - 2015-10-23
+    title: "ISO/TC154 resolves to create a NWIP to update ISO 8601 to take into account the new part 2 with its new links, minor text changes, and references and to be published as ISO 8601-1"
+    identifier: 2015-02
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was adopted by unanimity.
+
+
+  - category: 
+    dates:
+      - 2015-10-23
+    title: "ISO/TC154 resolves that the CD ballots for 8601-1 and 8601-2 be issued at the same time"
+    identifier: 2015-03
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was adopted by unanimity.
+
+
+  - category: 
+    dates:
+      - 2015-10-23
+    title: "ISO/TC154 resolves to raise an issue with the signatories of the MoU that, at the next MoU MG meeting, a discussion should be started on how best to address coordination issues in order to resolve identified overlaps and duplications in work items and to encourage effective collaboration between standards development teams that share a common goal"
+    identifier: 2015-04
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was adopted by unanimity.

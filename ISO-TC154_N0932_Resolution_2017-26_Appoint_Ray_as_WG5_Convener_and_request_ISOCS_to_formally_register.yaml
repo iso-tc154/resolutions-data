@@ -1,0 +1,23 @@
+metadata:
+  title: Resolution 2017-26 Appoint Mr. Ray Denneberg as WG5 Convener and project leader of ISO 8601, and request ISO/CS to formally register in ISO global data directory according to the result of voting via CIB in N901, and the email from ISO/CS, and the annotation under item 8.2 in N929.
+  date: 2018-01-01
+  source: ISO/TC 154 Secretariat
+  notes: Mr. Ray Denenberg was approved as WG5 convener as per the result of voting via CIB in N901, and he is a liaison representative from ISO/TC46. Considering that ANSI (USA) is P-member in ISO/TC 46 but not in ISO/TC 154. Then Ray cannot be formally register as WG5 convener as the internal liaison representative as per the document in N903. Henry (ISO/CS) emailed to ISO/TC 154 on 2017-11-14, and confirmed that internal liaison representative can serve as convener of a Working Group in the committee in which they sit as liaison representative. ISO/CS has agreed to formalize Ray Denneberg’s role as WG5 Convener in the form of a TC 154 resolution. This has added as an annotation under item 8.2 of the draft minutes in N929, and this has also been approved in the CAT meeting on 2017-12-06. This document (N932) replaces N903.
+  
+resolutions:
+  - category:
+    dates:
+      - 2018-01-01
+    identifier: 2018-01
+
+    actions:
+      - type: discusses
+        date_effective: 2019-10-17
+        message: Hi Jianfang, 
+        A few months ago we were discussing the idea of Ray Denenberg serving as TC 154/WG 5 Convenor. I mentioned that I was doubtful that this could take place because he participates in TC 154 as a liaison representative only. I did, add, however, that I wasn’t planning to raise any issues since the ongoing development of ISO 8601 and 8602 are the highest priority.
+        I have been continuing this discussion with colleagues and it has now been confirmed to me that a liaison representative from another ISO committee can, after all, serve as convenor of a Working Group in the committee in which they sit as liaison representative.
+        If you would like to formalize Ray Denneberg’s role as WG5 Convenor in the form of a TC 154 resolution, please do so.
+        I am happy that we reached this outcome, but I regret not being able to give you this update before your Plenary meeting.
+        Best regards,
+        Henry
+
