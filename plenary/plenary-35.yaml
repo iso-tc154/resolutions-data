@@ -3,8 +3,7 @@ metadata:
   date: 2016-10-21
   source: ISO/TC 154 Secretariat
 resolutions:
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of a PWI for the new part ISO 14533-4"
@@ -25,8 +24,7 @@ resolutions:
         message: resolves to adopt a PWI as the new part ISO 14533-4 on “Attributes pointing to external Proof of Existence objects used in Long term signature formats (PoEAttributes)”, and requests SK/SOSMT to prepare the final working draft for NWIP ballot
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Assignment of ISO 14533-4 to WG6, and adoption of a NWIP ballot for ISO 14533-4"
@@ -47,8 +45,7 @@ resolutions:
         message: resolves to assign the new part ISO 14533-4 to WG6, and resolves to create a NWIP ballot as International Standard
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption DIS ballot for ISO/CD 8601-1"
@@ -69,8 +66,7 @@ resolutions:
         message: resolves to ISO 8601-1 to be submitted for DIS ballot
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption DIS ballot for ISO/CD 8601-2"
@@ -91,8 +87,7 @@ resolutions:
         message: resolves to ISO 8601-2 to be submitted for DIS ballot
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Encouragement the use of ISO 8601 series"
@@ -113,8 +108,7 @@ resolutions:
         message: resolves that ISO/TC 154 members, who have a link to Standards Development Organizations and others which use ISO 8601, to review the impact of the proposed changes in order to determine what alignment may be needed to their standards, specifications and recommendations
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of a PWI for the project VSM"
@@ -135,8 +129,7 @@ resolutions:
         message: resolves to adopt a PWI on “Standardized cross-enterprise Value Stream Management Method”, and to investigate with the ISO/CS and MoU/MG chair, if this WI should be led by ISO/TC 154 with other ISO/TC and/or MoU-eB/MG members joining the work, and requests ILNAS to prepare the final draft for PWI ballot
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of a NWI for XMLFACT"
@@ -157,8 +150,7 @@ resolutions:
         message: resolves to initiate a NWIP on XMLFACT based on ISO/TS 20625
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of a NWI to Fast-track “OAGIS – Specification for an Enterprise Canonical Model”"
@@ -170,7 +162,9 @@ resolutions:
 
     approvals:
       - type: affirmative
-        degree: # dissenting?
+        degree: 
+          negative: 
+            - BSI
         message: The resolution was approved with one negative vote by BSI
 
     actions:
@@ -179,8 +173,7 @@ resolutions:
         message: resolves to initiate a NWIP and DIS ballot
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Withdrawal of ISO/PWI 9735-11"
@@ -201,8 +194,7 @@ resolutions:
         message: resolves to withdraw ISO/PWI 9735-11
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Establishment of ISO/TC 154/WG7"
@@ -223,8 +215,7 @@ resolutions:
         message: resolves to create ISO/TC 154/WG 7 with the title "Business"
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Appointment of Mr. Klaus-Dieter Naujok as convener of ISO/TC 154/WG7"
@@ -240,8 +231,7 @@ resolutions:
         message: resolves to appoint Mr. Klaus-Dieter Naujok as the convener of Working Group 7, effective immediately
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Allocation of the secretariat of ISO/TC 154/WG7 to SAC"
@@ -257,8 +247,7 @@ resolutions:
         message: resolves that the secretariat of ISO/TC 154/WG 7 is allocated to SAC. In addition the ISO/TC154 secretariat is requested to initiate an appropriate call for experts for the new WG 7
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Distribution of approved NWIP"
@@ -274,25 +263,25 @@ resolutions:
         message: recommends that all approved New Work Items Proposals from the MoU on eBusiness Management Group (MoU/MG) members shall be disseminated to the MoU/MG membership for review and possible action at the earliest stage
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Next ISO/TC 154 meetings"
     identifier: 2016-14
     approvals:
       - type: affirmative
-        degree: # dissenting?
+        degree: 
+          negative: 
+            - KATS
         message: The resolution was approved with one negative vote by KATS
 
     actions:
-      - type: agreed
+      - type: agrees
         date_effective: 2016-10-21
         message: agreed to alternate its plenaries and working group meetings between physical and virtual meetings with the next meeting being a virtual meeting for the week starting 23 October 2017 and the next face-to-face meeting being held in 2018 in China
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Appreciation of on-line participants"
@@ -308,8 +297,7 @@ resolutions:
         message: warmly thanks all the on-line participants for the active participation, in particular those being on-line during unearthly hours
 
 
-  - category:
-    dates:
+  - dates:
       - 2016-10-21
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Appreciation of the meeting host"
