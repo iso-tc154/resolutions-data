@@ -1,20 +1,27 @@
 metadata:
   title: Resolutions of the 37th plenary meeting of ISO/TC 154
-  date: 2018-10-11
+  date: 
+    start: 2018-10-11
+    end: 2018-10-12
   source: ISO/TC 154 Secretariat
   resolutions:
   - category: Resolutions related to JWG 1
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of ISO/PWI 9735-11 “Electronic data interchange for administration, commerce and transport (EDIFACT) - Part 11: Version 3 compatible profile for Version 4 of ISO 9735”"
     identifier: 2018-01
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the presentation report status of the project from GS1 and UNECE
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the interoperability between the version 3 and version 4 of ISO 9735
 
     approvals:
@@ -24,22 +31,29 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to adopt ISO/PWI 9735-11 on “Electronic data interchange for administration, commerce and transport (EDIFACT) - Part 11: Version 3 compatible profile for Version 4 of ISO 9735”, and requests JWG 1 to prepare the submission for NWIP ballot by end of this year
 
 
   - category: Resolutions related to JWG 1
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "secretariat of ISO/TC 154/JWG 1 remaining with DIN until the end of next year"
     identifier: 2018-02
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the announcement from DIN to relinquish the secretariat of JWG 1
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering that volunteers from UNECE and SAC (GS1 China) have expressed willingness to take over the JWG 1 secretariat role but with unconfirmed commitment
 
     approvals:
@@ -49,25 +63,34 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves that the secretariat of ISO/TC 154/JWG 1 will be re-allocated within the period of 12 months, according to the ISO Directives Part 1 (1.9.4)
 
 
   - category: Resolutions related to WG 5
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Encouragement the use of ISO 8601 series"
     identifier: 2018-03
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the ISO 8601 series has already been submitted to ISO/CS for FDIS ballot and will be published as an International Standard (IS)
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering that ISO 8601 serves a very important role and is of high priority amongst ISO standards
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the resolution 2016-05 “encouragement the use of ISO 8601 series”
 
     approvals:
@@ -77,22 +100,29 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to encourage Standards Development Organizations (SDOs) and others who use ISO 8601 to determine if any alignment is necessary for the adoption of the new version of ISO 8601-1 and ISO 8601-2 in their standards, specifications and recommendations
       - type: requests
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: requests ISO/CS for assistance in encouraging use of the updated ISO 8601 series amongst user communities and ISO members.
 
 
   - category: Resolutions related to WG 5
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of a PWI for the project “Date and time — Concepts and vocabulary”"
     identifier: 2018-04
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the presentation of a proposal from CalConnect
 
     approvals:
@@ -102,19 +132,24 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to adopt a PWI on “Date and time — Concepts and vocabulary”, and requests CalConnect to prepare the submission for NWIP ballot
 
 
   - category: Resolutions related to WG 5
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of a PWI for the project “Date and time — Timezone”"
     identifier: 2018-05
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the presentation of a proposal from CalConnect
 
     approvals:
@@ -124,19 +159,24 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to adopt a PWI on “Date and time — Timezone”, and requests CalConnect to prepare the submission for NWIP ballot
 
 
   - category: Resolutions related to WG 5
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of a PWI for the project “Date and time — Codes for calendar systems”"
     identifier: 2018-06
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the presentation of a proposal from CalConnect
 
     approvals:
@@ -146,19 +186,24 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to adopt a PWI on “Date and time — Codes for calendar systems”, and requests CalConnect to prepare the submission for NWIP ballot
 
 
   - category: Resolutions related to WG 5
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Appreciation to the outgoing convener of ISO/TC 154/WG 5"
     identifier: 2018-07
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the resignation of the ISO/TC 154/WG 5 convener (Mr. Ray Denenberg) after the publication of ISO 8601-1 and ISO 8601-2
 
     approvals:
@@ -175,18 +220,25 @@ metadata:
   - category: Resolutions related to WG 5
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Appointment of Mr. Ronald Tse from CalConnect as new convener of ISO/TC 154/WG 5"
     identifier: 2018-08
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the request to resign from Mr. Ray Denenberg
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the contribution from CalConnect to ISO/TC 154/WG5
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering that Mr. Ray Denenberg has recommended Mr. Ronald Henry Tse as a candidate to replace his position
 
     approvals:
@@ -196,22 +248,29 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to appoint Mr. Ronald Henry Tse as the convener of WG 5, effective after the publication of ISO 8601-1 and ISO 8601-2
 
 
   - category: Resolutions related to WG 6
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of DIS ballot for ISO/CD 14533-4"
     identifier: 2018-09
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the result of voting on ISO/CD 14533-4 in N964 (Form 08A)
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the results of the disposition of the received comments during the ISO/CD 14533-4 ballot
 
     approvals:
@@ -221,22 +280,29 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to submit ISO 14533-4 for DIS ballot after further modification
 
 
   - category: Resolutions related to WG 6
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of NWIP ballot for the revision of ISO 14533-2"
     identifier: 2018-10
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering Mr. Naoto Miyachi from Japan (JISC) is preparing for the draft of ISO 14533-2
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the resolution 2017-07 “Adoption NWIP ballot for the revision of ISO 14533-2”
 
     approvals:
@@ -246,19 +312,24 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to restate the resolution 2017-07 on the revision of ISO 14533-2, and requests JISC/JP to prepare the submission for NWIP ballot
 
 
   - category: Resolutions related to WG 6
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of CD ballot for ISO/WD 19626-2"
     identifier: 2018-11
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the draft status of ISO/WD 19626-2
 
     approvals:
@@ -268,22 +339,29 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to submit ISO 19626-2 for CD ballot after further modification
 
 
   - category: Resolutions related to WG 6
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of DIS ballot for ISO/CD 20415"
     identifier: 2018-12
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the result of voting on ISO/CD 20415 in N936 (Form 08A)
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the draft status of ISO/CD 20415 and the results of the disposition of the received comments during the ISO/CD 20415 ballot
 
     approvals:
@@ -293,22 +371,29 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to submit ISO 20415 for DIS ballot after further modification
 
 
   - category: Resolutions related to WG 7
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of DIS ballot for ISO/CD 22468"
     identifier: 2018-13
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the result of voting on ISO/CD 22468 in N967 (Form 08A)
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the draft status of ISO/CD 22468 and the results of the disposition of the received comments during the ISO/CD 22468 ballot
 
     approvals:
@@ -318,25 +403,34 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to submit ISO 22468 for DIS ballot after further modification
 
 
   - category: Resolutions related to WG 7
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Extension of one year for the time deadline of ISO 21981 until 2020-10-04"
     identifier: 2018-14
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the length of time it took to appoint a new project leader for ISO/WD 21981 after the resignation of the previous project leader (Klaus)
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the lack of input from experts of the MoU/MG and ISO/TC 154 to the project since the resignation of Klaus
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering two normative references standards ISO 25964-1:2011 and 25964-2:2013 need to contact with ISO/TC46 or ISO/CS to be provided for the project leader to ensure compliance
 
     approvals:
@@ -346,25 +440,34 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to extend the publication deadline (stage 60.60) of ISO 21981 by one year until 2020-10-04 to allow the project leader to move forward with the project
 
 
   - category: Resolutions related to WG 7
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of CD ballot for ISO/WD 21981"
     identifier: 2018-15
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering that the meaning of some received comments on ISO/NP 21981 was unclear and with no rationale provided
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering an updated draft will be finished by the end of this year
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the resolution 2017-12 “Adoption CD ballot for ISO/WD 21981”
 
     approvals:
@@ -374,24 +477,33 @@ metadata:
 
     actions:
       - type: restates
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: restates the resolution 2017-12 that resolves to submit ISO 21981 for CD ballot after further modification
 
   - category: Resolutions related to WG 7
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of CD ballot for ISO/DTR 18262 after the communication with ISO/CS and MoU/MG"
     identifier: 2018-16
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering that it is an old informative project, but contains valuable content that can be used in other work of ISO/TC 154
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the revised first draft and comment disposition status of ISO/DTR 18262 since last year
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the identified 4 options as per document N707
 
     approvals:
@@ -401,18 +513,23 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to communicate with ISO/CS and MoU/MG about the status of the project, and then to launch a ballot for the publication of TR via CIB as long as no definitive objections are raised by ISO/CS or MoU/MG
 
   - category: Resolutions related to JWG 8
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of CD ballot for ISO/AWI 23354 (Business requirements for end-to-end visibility of logistics flow)"
     identifier: 2018-17
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the draft status of ISO/AWI 23354 and the results of the disposition of received comments of it
 
     approvals:
@@ -422,18 +539,23 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to submit ISO 23354 for CD ballot after further modification
 
   - category: Resolutions related to JWG 8
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of NWIP ballot for ISO/PWI 23355 (Visibility data interchange between logistics information service providers)"
     identifier: 2018-18
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the presentation of the report of ISO/PWI 23355 from CN/SAC
 
     approvals:
@@ -443,21 +565,28 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to launch a NWIP ballot on ISO/PWI 23355 “visibility data exchange between logistics information service providers” after further modification of the NWIP form (Form 4) and accompanying draft
 
   - category: Resolutions related to renewal of WG 4
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Re-establishment of ISO/TC 154/WG 4 with the title of “e-document”"
     identifier: 2018-19
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the PWI projects “Standardization documents — Metanorma” will be registered and NWIP ballots will be initiated in the near future
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering its relationship with previous WG 4 work item “electronic Layout Key”
 
     approvals:
@@ -467,21 +596,28 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to re-establish WG 4 with a new title of “e-document” after the approval of NWIP ballot on the project “Standardization documents — Metanorma” or other projects
 
   - category: Resolutions related to possible NWIPs
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of a PWI for the project “Standardization documents — Metanorma — Document metamodel”"
     identifier: 2018-20
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the presentation of a proposal from CalConnect
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the possible re-establishment of WG 4
 
     approvals:
@@ -491,21 +627,28 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to adopt a PWI on “Standardization documents — Metanorma — Document metamodel”, assigns the project to WG 4 when it is re-established, and requests CalConnect to prepare the final draft for NWIP ballot
 
   - category: Resolutions related to possible NWIPs
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of a PWI for the project “Standardization documents — Metanorma — Representation in XML”"
     identifier: 2018-21
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the presentation of a proposal from CalConnect
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the possible re-establishment of WG 4
 
     approvals:
@@ -515,21 +658,28 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to adopt a PWI on “Standardization documents — Metanorma — Representation in XML”, assigns the project to WG 4 when it is re-established, and requests CalConnect to prepare the final draft for NWIP ballot
 
   - category: Resolutions related to possible NWIPs
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of a PWI for the project “Directory — Standardized profile — Persons and organizations” and assignment of the PWI to WG4"
     identifier: 2018-22
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the presentation of a proposal from CalConnect
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the possible re-establishment of WG 4
 
     approvals:
@@ -539,22 +689,29 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to adopt a PWI on “Directory — Standardized profile — Persons and organizations”, assigns the project to WG 4 when it is re-established, and requests CalConnect to prepare the final draft for NWIP ballot
 
 
   - category: Resolutions related to ISO 7372(UNTDED) JMA
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Approval of Terms of Reference (ToRs) of ISO 7372(UNTDED) JMA"
     identifier: 2018-23
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the draft ToRs of ISO 7372(UNTDED) JMA was distributed as N927 last year, but no comments received
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the Terms of Reference for the ISO 7372(UNTDED) JMA was formally approved by UN/CEFACT
 
     approvals:
@@ -564,22 +721,29 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to approve the Terms of Reference (ToRs) of ISO 7372(UNTDED) JMA and to send the ToR to the ISO/CS for final approval and feasibility
 
 
   - category: Resolutions related to ISO 7372(UNTDED) JMA
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of a PWI for the project “Alignment between ISO 7372, UN/EDIFACT EDED+UNCL and UN/CEFACT/CCL”"
     identifier: 2018-24
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering that ISO7372 UN/EDIFACT EDED+UNCL, UN/CEFACT/CCL are used for different but related purposes and they share a number of significant semantics, and the current lack of full alignment across these libraries causes confusion and impedes data standardization
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the past input to the project from BSI and UNECE
 
     approvals:
@@ -589,22 +753,29 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: Resolves to adopt a PWI on “Alignment between ISO 7372, UN/EDIFACT EDED+UNCL and UN/CEFACT/CCL”, and requests BSI to prepare the final draft for NWIP ballot
 
 
   - category: Resolutions related to liaison membership
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Resolve to continue to communicate with OAGi for their final draft submission “Specification for an Enterprise Canonical Model"
     identifier: 2018-25
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the resolution 2016-08 and the resolution 2017-20
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the final draft submission by OAGi to fast-track “OAGIS–Specification for an Enterprise Canonical Model” still need to be formatted for several months
 
     approvals:
@@ -614,22 +785,29 @@ metadata:
 
     actions:
       - type: restates
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: restates the resolution 2017-20 and resolves to wait for the final draft submission from OAGi to NWIP ballot
 
 
   - category: Resolutions related to liaison membership
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of NWIP ballot for the revision of ISO/TS 15000 series"
     identifier: 2018-26
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the submission of ebXML MSG V3 as ISO 15000-2 or ISO/TS 15000-2 by OASIS
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the request on the revision of ISO 15000 series and other parts submission of ISO series in the future
 
     approvals:
@@ -639,25 +817,34 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to initiate a NWIP and DIS ballot on the ebXML MSG V3 as ISO 15000-2 or ISO/TS 15000-2
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to wait for other parts final draft submission of ebXML as ISO 15000 series (Parts 1 to 4, and Part 6 if submitted) from OASIS to NWIP ballot
 
 
   - category: Resolutions related to liaison membership
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Resolves to establish a liaison to ISO/PC 317"
     identifier: 2018-27
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: Considering the request from ISO/PC 317 to nominate a liaison officer of ISO/TC 154 to ISO 23485 “Consumer protection: Privacy by design for consumer goods and services”
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: Considering that the work of ISO/PC 317 is related to the scope of ISO/TC 154
 
     approvals:
@@ -667,19 +854,24 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to establish a liaison to ISO/PC 317
 
 
   - category: Resolutions related to liaison membership
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Appointment of Mr. Dapeng Liu and Mrs. Ting Hong as the liaison representative to ISO/PC 317"
     identifier: 2018-28
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: Considering that the result of voting in document N956 and additional information in N959 for the liaison officers to ISO/PC 317
 
     approvals:
@@ -689,22 +881,29 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to appoint two experts Mr. Dapeng Liu and Mrs. Ting Hong as the liaison representatives to ISO/PC 317, led by Mr. Dapeng Liu
 
 
   - category: Resolutions related to liaison membership
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Resolves to establish a liaison to ISO/IEC/JTC1/SC29"
     identifier: 2018-29
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: Considering that Document N958 (ISO/IEC/JTC1/SC29/WG11/M42881“A future for MPEG”) is related to the scope of ISO/TC 154
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: Considering the request from ISO/IEC/JTC1/SC29/WG11 convener to cooperate via a liaison with ISO/TC154
 
     approvals:
@@ -714,19 +913,24 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to establish a liaison to ISO/IEC/JTC1/SC29, and continue to communicate with ISO/IEC/JTC1/SC 29/WG11 for future cooperation
 
 
   - category: Resolutions related to liaison membership
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Resolves to establish a liaison to ISO/TC 321"
     identifier: 2018-30
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: Considering the establishment of ISO/TC 321 “Transaction assurance in E-commerce” and its relationship with ISO/TC 154
 
     approvals:
@@ -736,42 +940,56 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to establish a liaison to ISO/TC321
 
 
   - category: Resolutions related to liaison membership
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Supporting the request from CalConnect on the establishment of a PSDO (Partner Standards Development Organization) relationship for the publication of dual logo standards under the ISO IPR policy"
     identifier: 2018-31
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the contribution of CalConnect to ISO 8601-1, ISO 8601-2, and possible continuous contributions by them to ISO/TC 154 in the future
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: considering the request from CalConnect to establish the PSDO relationship with ISO for the publication of dual-logo standards developed in collaboration by ISO/TC 154 and CalConnect
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to support establishment of the PSDO relationship between ISO and CalConnect for the publication of dual-logo standards under the ISO IPR policy; and requests ISO/CS to support the proposed PSDO agreement from CalConnect for the submission and publication of dual-logo standards developed by ISO/TC 154 and CalConnect
 
 
   - category: General Resolutions
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Adoption of business plan via CIB ballot"
     identifier: 2018-32
     considerations:
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: Considering that the revised business plan has been reviewed by members
         - type: considering
-          date_effective: 2018-10-11
+          date_effective: 
+            start: 2018-10-11 
+            end: 2018-10-12
           message: Considering the discussion of and comments on the business plan draft at the plenary meeting
 
     approvals:
@@ -781,13 +999,16 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves to update the business plan as per the discussion at the plenary meeting, and resolves to review by all members via CIB ballot before the end of the year
 
 
   - category: General Resolutions
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "38th plenary meetings and working group meetings 2019 to be held in Luxembourg"
     identifier: 2018-33
@@ -799,13 +1020,16 @@ metadata:
 
     actions:
       - type: resolves
-        date_effective: 2018-10-11
+        date_effective: 
+          start: 2018-10-11 
+          end: 2018-10-12
         message: resolves that the next face to face plenary meeting of 2019 will be held in Luxembourg for the week (14-18th, October 2019)
 
 
   - category: General Resolutions
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Appreciation of all participants"
     identifier: 2018-34
@@ -824,6 +1048,7 @@ metadata:
   - category: General Resolutions
     dates:
       - 2018-10-11
+      - 2018-10-12
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Appreciation of the meeting host"
     identifier: 2018-35
