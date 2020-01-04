@@ -1,0 +1,294 @@
+metadata:
+  title: Resolutions adopted at the meeting of ISO/TC 154 in Cologne
+  date: 
+    start: 1995-08-31
+    end: 1995-09-01
+  source: ISO/TC 154 Secretariat
+resolutions:
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 88
+    
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: UNANIMOUS
+        
+    actions:
+      - type: scopes
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: |
+        The current scope of ISO/TC is:
+        "Standardization of documents and representation of data used for information interchange within administration, commerce and industry. Excluded are documents intended to be read by machines only, fallin into the responsibility of ISO/IEC JTC 1."
+        
+        # TC 154 wants to give the following interpretation of its present scope:
+        
+        # Bodies other than ISO/IEC JTC 1 are responsible for standards in the area of machine readable data and shall be added to the exclusion.
+        
+        # Also excluded from the scope are:
+        
+        # 1 Development of methodology and registration procedures
+        # 2 Industrial data (related to manufacturing or production industrial activities)
+        
+        # Within the scope is work based on the following and which, where relevant, will be developed into international standards following, when available, existing standardized methodologies:
+        
+        # 1 Provide and/or offer coordination for application oriented data.
+        # 2 Specify requirements to improve the use of EDI in business processes in administration, commerce and industry. Based on these requirements, register and where appropriate develop into International Standard EDI scenarios and data structures (e.g. messages, segments and data from UN/EDIFACT TDID) for administration, commerce and industry.
+        # 3 For application oriented EDI scenarios and data structures, developed outside of administration, commerce and industry by other ISO/TCs or external bodies, provide coherency (e.g. between the use of data on paper and in EDI) and assist in resolving issues between technical and business data
+        # 4 Maintain existing ISO/TC 154 standards such as the EDIFACT syntax (ISO 9735) AND TDED (ISO 7372) in accordance with the Memorandum of Understanding (MoU) between IEC, ISO and UN/ECE concerning standardization in the field of EDI and Open-edi.
+        
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 89
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: UNANIMOUS
+
+    actions:
+      - type: directs
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: |
+        TC 154 directs its secretariat to review, maintain and establish offical liaisons with bodies within and outside ISO. These include but are not limited to:
+        BSR, JTC 1 and its relevant SCs, concerned ISO/TCs (e.g. TC 68, TC 184 and TC 46), and other relevant EDI organisations (e.g. UN/ECE and CCC)
+        
+
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 90
+    
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: UNANIMOUS
+
+    actions:
+      - type: directs
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: ISO/TC 154 directs its secretariat to enforce Annex A.2 of the Memorandum of Understanding (MoU) between IEC, ISO and UN/ECE concerning standardization in the field of EDI and Open-edi
+      - type: asks
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: TC 154 asks its secretariat to undertake the necessary steps to fulfill the requirements of this annex
+      - type: asks
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: ISO/TC 154 asks its secretariat to inform all members of the collaborative ISO-UN/ECE activity in the field of EDIFACT application level syntax (ISO 9735) and to ask for the nomination of experts for the meeting of the joint group (Geneva 1995-11-27/12-01)
+
+        # Annex A.2 reads
+        # "Recognizing that the standardization of syntaxes for edi is broader than EDIFACT, it is recognized that ISO and IEC are the more appropiate organizations for the development and maintenance of standardized syntaxes for electronic data interchange. However, in the case of the EDIFACT application level syntax (ISO 9735), including its interactive version and associated security, it is understood that its development and maintenance is a collaborative ISO-UN/ECE activity, to be carried out in a joint group, the secretariat of which is to be provided by ISO and the chair to be provided by UN/ECE WP.4. The results of the work of the joint group will be submitted for parallel approval in both ISO and UN/ECE and will be published jointly by ISO and UN/ECE."
+        
+
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 91
+    
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: UNANIMOUS
+        
+    actions:
+      - type: adopts
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: ISO/TC 154 adopts the ISO/TC 154 U.S. TAG position as expressed in document in ISO/TC 154 N 164, page 1 (see annex)
+        
+
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 92
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: UNANIMOUS
+        
+    actions:
+      - type: resolves
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: |
+        TC 154 resolves to create an ad hoc group to consider:
+        1 maintainenance of the current ISO 7372 or
+        2 redevelopment of ISO 7372 in harmony with UN/ECE TDID and publication of both directories as ISO Standards
+        
+
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 93
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: UNANIMOUS
+        
+    actions:
+      - type: thanks
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: ISO/TC 154 appreciates the announcement of a member of the U.S. delegation to investigate the possibility for taking over the responsability of the SC2 (Documents) secretariat before 1995-12-31        
+        
+        
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 94
+    
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: UNANIMOUS
+
+    actions:
+      - type: asks
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: |
+        ISO/TC 154 asks its secretariat to take the necessary steps for the review of the following old and overdue work items:
+        
+        - ISO/CD 6423 Documents used in administration, commerce and industry - Invoice layout key (reg.: 78-02)
+        - ISO/CD 6760 Documents and data elements in administration, commerce and industry - Vocabulary (reg.: 79-02)
+        - ISO/CD 10886 Interprofessional vocabulary of tourism and leisure (reg.: 83-04)
+        - ISO/NP 13183 Envelopes - Dimensions and position of the transparent panel (reg.: 88-02)
+        - ISO/NP 13185 Envelopes - Dimensions and location of transparent windows (reg.: 88-02)
+        - ISO/NP 13186 Issued documents (reg.: 83-04)
+        - ISO/NP 13187 Representation of tourism data elements for data interchange (reg.: 83-04)
+        
+        This should be done in accordance with the Technical Management Board decisions taken at the meeting on 1995-05-12/13 by letter ballot before 1995-12-31       
+        
+        
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 95
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: UNANIMOUS
+
+    actions:
+      - type: requests
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: |
+        ISO/TC 154 requests its P member bodies to decide upon the results of the periodical reviews (see ISO/TC 154 N 154) of
+        
+        - ISO 6422 Layout key for trade documents
+        - ISO 8439 Forms design - Basic layout
+        
+        before 1996-12-31
+
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 96
+    
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: UNANIMOUS
+
+    actions:
+      - type: asks
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: ISO/TC 154 asks its secretariat to clarify in contact with the UN/ECE WP.4 secretariat whether the wish still exists to transfer the ECE Recommendation No 6 "Aligned Invoice Layout Key" into an ISO Standard
+        
+        
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 97
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: UNANIMOUS
+        
+    actions:
+      - type: agrees
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: |
+        ISO/TC 154 agrees that ISO 8601 (Dates and times) is to be revised. This work shall be carried out by an ad hoc group taking into account
+        
+        - Technical Corrigendum 1:1991
+        - Draft Amendment 1:1992
+
+      - type: thanks
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: ISO/TC 154 appreciates the offer of NNI to take over the secretariat
+
+
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 98
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: UNANIMOUS
+        
+    actions:
+      - type: asks
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: ISO/TC 154 asks its secretariat to take the necessary steps to raise a new work item on the basis of the Dutch proposal as expressed in document ISO/TC 154 N 151 "Standardization of functional data elements"
+        
+        
+  - dates: 
+      - 1995-08-31
+      - 1995-09-01
+    subject: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and Industry"
+    identifier: 99
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: ACCLAMATION
+
+    actions:
+      - type: thanks
+        date_effective:
+          start: 1995-08-31
+          end: 1995-09-01
+        message: The Committee expresses its appreciation to DIN for hosting the meeting, to the chairman for his excellent leadership and to the secretary for his goo support
