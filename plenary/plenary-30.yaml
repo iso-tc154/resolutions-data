@@ -118,19 +118,29 @@ resolutions:
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 316
 
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Approved unanimously
+
     actions:
       - type: resolves
         date_effective: 2011-09-14
         message: ISO/TC 154 resolves together with the UNECE and UN/CEFACT liaisons to change TC154/JWG 4 to a WG as there is no joint publication foreseen at this time
 
     # Note 1: This resolution was taken because there is no work at this time on a standard that was intended to be published jointly. Should a joint publication be approved between UN/CEFACT and TC154, it can be changed to a Joint Working Group.
-    #Note 2: This resolution should be explicitly read with the note that liaison experts are welcome and explicitly invited to participate in the future development of the technical report on the usage of ISO 6422 in the world.
+    # Note 2: This resolution should be explicitly read with the note that liaison experts are welcome and explicitly invited to participate in the future development of the technical report on the usage of ISO 6422 in the world.
     
     
   - dates:
       - 2011-09-14
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 317
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Approved unanimously
 
     actions:
       - type: resolves
