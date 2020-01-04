@@ -1,0 +1,277 @@
+metadata:
+  title: Resolutions of the 33th plenary meeting of ISO/TC 154
+  date: 2014-10-24
+  source: ISO/TC 154 Secretariat
+resolutions:
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Request to CAT to work with ISO/CS to replace JWG1 by an ISO/MA"
+    identifier: 01-2014
+    considerations:
+      - type: considering
+        date_effective: 2014-10-24
+        message: noting that after the revision of ISO 9735-10 no further revision of the other parts of the EDIFACT syntax (ISO 9735) are expected
+      - type: considering
+        date_effective: 2014-10-24
+        message: noting also that over the last 10 years only code DMRs were implemented in the Service Directory, recognizing finally that there was no active participation from the UNECE side
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: resolves
+        date_effective: 2014-10-24
+        message: resolves to request CAT to work with ISO/CS to replace JWG 1 by a ISO/MA (Maintenance Agency) by keeping the secretariat at DIN
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Establishment of ISO/TC 154/WG6"
+    identifier: 02-2014
+    considerations:
+      - type: considering
+        date_effective: 2014-10-24
+        message: considering that two new PWIs related to “Trusted eCommunications”
+      - type: considering
+        date_effective: 2014-10-24
+        message: noting that the new project on ISO 14533-3 has a close relationship to this work
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: resolves
+        date_effective: 2014-10-24
+        message: resolves to establish ISO/TC 154/WG 6 with the title "Trusted eCommunication", and WG 6 includes projects "Trusted Communication Platform for Electronic Documents" and project "Trusted Mobile e-Document Framework" and "ISO 14533-3".
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Appointment of Ms. Jasmine Chang as convener of ISO/TC 154/WG6"
+    identifier: 03-2014
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: resolves
+        date_effective: 2014-10-24
+        message: resolves to appoint Ms. Jasmine Chang as the convener of Working Group 6,effective immediately
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Allocation of the secretariat of ISO/TC 154/WG6 to South Korea (KATS)"
+    identifier: 04-2014
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: resolves
+        date_effective: 2014-10-24
+        message: resolves that the secretariat of ISO/TC 154/WG 6 is allocated to South Korea (KATS). In addition the ISO/TC154 secretariat is requested to initiate an appropriate call for experts for the new WG 6
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Adoption of a PWI “Trusted Mobile e-Document Framework”"
+    identifier: 05-2014
+    considerations:
+      - type: considering
+        date_effective: 2014-10-24
+        message: considering the Korean proposal for an ISO standard on “Trusted Mobile e-Document Framework”
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: resolves
+        date_effective: 2014-10-24
+        message: resolves to adopt a PWI on “Trusted Mobile e-Document Framework”
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Disbandment of ISO/TC 154/WG3"
+    identifier: 06-2014
+    considerations:
+      - type: considering
+        date_effective: 2014-10-24
+        message: considering that the WG3 on ISO 15000-5 “Electronic Business Extensible Markup Language (ebXML) - Part 5: Core Components Specification (CCS)” has been successfully completed with the publication as an International Standard in April 2014
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: resolves
+        date_effective: 2014-10-24
+        message: resolves to disband ISO/TC154/WG 3
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Appreciation to the outgoing convener of ISO/TC 154/WG3"
+    identifier: 07-2014
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: thanks
+        date_effective: 2014-10-24
+        message: likes to express their special thanks to the convener of WG 3, Ms. Mary Kay Blantz (ANSI), for her strong support and leadership in successfully completing the work on ISO 15000-5
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Disbandment of ISO/TC 154/WG4"
+    identifier: 08-2014
+    considerations:
+      - type: considering
+        date_effective: 2014-10-24
+        message: considering that the WG4 with the automatic cancellation of ISO/PWI 6422-3 "Layout key for trade documents – Part 3: Analysis for user requirements for layout key of trade documents" on 2014-11-18 has no more active WIs
+      - type: considering
+        date_effective: 2014-10-24
+        message: noting that there was no majority to activate the ISO/PWI 6422-3
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: resolves
+        date_effective: 2014-10-24
+        message: resolves to disband ISO/TC154/WG 4
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Appreciation to the outgoing convener of ISO/TC 154/WG4"
+    identifier: 09-2014
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: thanks
+        date_effective: 2014-10-24
+        message: likes to express their special thanks to the convener of WG 4, Ms. Sue Probert (BSI), for her strong support and leadership in promoting the work of the WG
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Allocating the secretariat of ISO/TC 154/WG5 to SAC"
+    identifier: 10-2014
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: resolves
+        date_effective: 2014-10-24
+        message: resolves to allocate China (SAC) as the secretariat of ISO/TC 154/WG 5. In addition the ISO/TC154 secretariat is requested to initiate an appropriate call for experts for the WG 5
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Initiating the combined NWIP and CD ballot for ISO 14533-3"
+    identifier: 11-2014
+    considerations:
+      - type: considering
+        date_effective: 2014-10-24
+        message: considering Japan's proposal and WD draft for an ISO standard on ISO 14533-3 “Long term signature profiles for PDF Advanced Electronic Signatures (PAdES)”
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: resolves
+        date_effective: 2014-10-24
+        message: resolves to initiate a combined NWIP+CD ballot and allocate ISO 14533-3 to the new ISO/TC 154/WG 6
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Acceptance of ebXML parts as IS for “Fast Tracking”"
+    identifier: 12-2014
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: agrees
+        date_effective: 2014-10-24
+        message: |
+        agrees to accept the submissions of ebCPP, ebMS (Core), ebBPSS and ebRegRep for ‘Fast Tracking’ as International Standards with the following assumptions:
+        - OASIS will accept ISO/TC 154 recommendation to include AS4 as an appendix within ebMS (Core), and
+        - The material as submitted in the OASIS format is accepted by ISO/CS
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Appreciation of online participants"
+    identifier: 13-2014
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: thanks
+        date_effective: 2014-10-24
+        message: warmly thanks all the online participants for the active participation, in particular those being online during unearthly hours
+
+
+  - dates:
+      - 2014-10-24
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Appreciation of the meeting host"
+    identifier: 14-2014
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: The resolution was taken by unanimity
+
+    actions:
+      - type: thanks
+        date_effective: 2014-10-24
+        message: warmly thanks Ms. Jasmine Chang, Ms. Euna Choi and Mr. Jeon Il, in particular thank our hosts the Korea Agency of Technology and Standards (KATS), sponsors National Institute IT industry Promotion Agency (NIPA) & Korea Digital Content Association (DCA), for their kind hospitality and hosting of a successful week of WG meetings and the 33rd ISO/TC 154 plenary meeting and for organizing social events
+
