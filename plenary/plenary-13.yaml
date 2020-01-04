@@ -1,0 +1,238 @@
+metadata:
+  title: Resolutions taken at the 13th meeting of ISO/TC 154
+  date:
+    start: 1997-06-12
+    end: 1997-06-13
+  source: Secretariat of ISO/TC 154
+resolutions:
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier: 126
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: resolves
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: |
+        ISO/TC 154 resolves to approve the new title, scope, mission, principles, objectives and work items as contained in document N 227 rev. 1 and circulate it to ISO/TC 154 member bodies for consideration by 1997-07-31.
+        Thereafter ISO/TC 154 secretariat will submit do. N 227 rev. 1 to ISO/TMB for approval.
+
+
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier: 127
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: requests
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: ISO/TC 154 request its secretariat to submit the procedural comments of the member body of Canada on ISO DIS 9735 Part 1, 2, 3 and 8 to ISO/CS for clarification
+
+
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier: 128
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: resolves
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: |
+        ISO/TC 154 resolves to establish an editing committee for the revision of ISO 9735, to request Don Trafford to serve as chair of this editing committee and Bernd Boesler as its secretary.
+        The chair of the editing committee shall in consulation with his secretary propose the core membership and set a date for a first meeting of the editing committee respecting the time consideration as specified in the ISO Directives.
+
+
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier: 129
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: recommends
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: ISO/TC 154 recommends that the member bodies of ISO/TC 154 which have submitted substantial technical comments on Parts 1, 2, 3 and 8 of ISO DIS 9735 should be invited to assist the editing committee meeting, though their non-attendance shall not cause postponement of the meeting
+
+
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier: 130
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: recognises
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: ISO/TC 154 recognises and approves the nomination of Don Trafford as chair of the Joint Syntax Development Working Group (JSDWG) and appoints Bernd Boesler as secretary
+
+
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier: 131
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: suppports
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: ISO/TC 154 supports Res. 55/1997 on the submission of the UN/EDIFACT Directives from the TMB and requests that it be considered in conjunction with the recommendations given in the High Level Steering Group (HLSG) on CALS report to the TMB (1997-05-25)
+
+
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier: 132
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: recognises
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: ISO/TC 154 recognises that ISO TMB has not yet decided that TC 154 is the appropiate TC to deal with the BSR. However, in order to provide initial support, ISO/TC 154 has decided to initiate preliminary work items at stage 0 (zero) relating to the BSR. ISO/TC 154 will provide the results of its studies to whichever TC is considered appropriate for the subject by the TMB
+
+
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier: 133
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: resolves
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: |
+        ISO/TC 154 resolves to recommend that changes to the ISO IEC UN/ECE MoU be considered in accordance with the report from the ISO HLSG on CALS.
+        In this regard ISO/TC 154 will establish an ad hoc group which will work electronically to analyse the report from HLSG on CALS with respect to ISO/TC 154.
+        Members of the ad hoc group are:
+        Ingeborg Burger-Balogh
+        Hartmut Hermes
+        Denis Hill
+        Alain Thienot
+        Peter Wilson
+
+
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier: 134
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: resolves
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: |
+        ISO/TC 154 resolves to disband ISO/TC 154/SC 2 and consequently delete the following work items
+        - ISO/NP 6423
+        - ISO/NP 13183
+        - ISO/NP 13185
+        from its programme of work
+
+
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier: 135
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: thanks
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: ISO/TC 154 thanks DIN for hosting the plenary meeting and providing support
+
+
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier: 136
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: thanks
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: ISO/TC 154 expresses its appreciation to Mrs. Ingeborg Burger-Balogh to her excellent chairing of the meeting
+
+
+  - dates:
+      - 1997-06-12
+      - 1997-06-13
+    identifier:
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: thanks
+        date_effective:
+          start: 1997-06-12
+          end: 1997-06-13
+        message: ISO/TC 154 thanks its secretariat and the editing committee for their efficient support
