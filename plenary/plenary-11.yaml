@@ -1,0 +1,235 @@
+metadata:
+  title: Resolutions adopted at the 11th meeting of ISO/TC 154
+  date: 1996-03-15
+  source: ISO/TC 154 Secretariat
+resolutions:
+  - dates:
+      - 1996-03-15
+    identifier: 100
+    
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: resolves
+        date_effective: 1996-03-15
+        message: |
+        ISO/TC 154 resolves to confirm the following ISO standards:
+        - ISO 6422
+        - ISO 8439
+        
+      - type: resolves
+        date_effective: 1996-03-15
+        message: |
+        ISO/TC 154 resolves to delete the following work items from the programme of work:
+        - ISO/CD 6423
+        - ISO/CD 6760
+        - ISO CD 10886
+        - ISO/NP 13183
+        - ISO/NP 13185
+        - ISO/NP 13186
+        - ISP/NP 13187
+
+  - dates:
+      - 1996-03-15
+    identifier: 101
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: requests
+        date_effective: 1996-03-15
+        message: ISO/TC 154 requests its secretariat to distribute the French member body contribution to the meeting of ISO/TC 154 (Doc. N 187) to all P members of ISO/TC 154 for comments. It is requested that comments be submitted via e-mail to the secretariat. Comments must be received by 1996-06-28. 
+
+        # An ad hoc group will be established to review the comments received and, if necessary, identify any changes to the present scope.
+        
+        # Members of the ad hoc group are:
+        
+        # Tuisko Buchmann
+        # Marcel Deturche
+        # Ingeborg Burger-Balogh
+        # Peter Wilson
+        # Billie Zidek
+        
+        # The results of the ad hoc group are expected to be submitted to the secretariat before the end of August 1996.
+        
+        # The results should provide the basis for the strategic policy statement of TC 154 which will be discussed at the next plenary meeting.
+        
+        
+  - dates:
+      - 1996-03-15
+    identifier: 102
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: advises
+        date_effective: 1996-03-15
+        message: ISO/TC 154 advises UN/ECE to submit the revised versions of ISO 9735 (V4) Parts 1, 2, 3 and 8 approved by UN/ECE as "existing standars" (according to ISO/IEC Directives Part 1 G.2.1.1) for ISO "Fast track procedure" within ISO
+
+
+  - dates:
+      - 1996-03-15
+    identifier: 103
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+        
+    actions:
+      - type: resolves
+        date_effective: 1996-03-15
+        message: ISO/TC resolves to adopt the recommendation of the ad hoc group on Resolution 92 (Doc. N 174) with the exception of the additional remark as contained in the last paragraph. The ad hoc group was asked to continue their discussion on the subject by considering how the maintenance process for the UN/TDID and UN/TDED could be synchronised so that the single standard could be effectively managed, and present a proposal before the end of August 1996 for discussion at the next plenary meeting.
+        
+        # Attached is a copy of the edited recommendation
+        # The ad hoc group shall also investigate the link between the electronic messages especially UN/EDIFACT and the respective paper documents.
+        
+        
+  - dates:
+      - 1996-03-15
+    identifier: 104
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+        
+    actions:
+      - type: resolves
+        date_effective: 1996-03-15
+        message: TC 154 resolves that BSR may be of major interest in the field of TC 154 activities
+      - type: resolves
+        date_effective: 1996-03-15
+        message: |
+        TC 154 also resolves that, because of lack of information, it is too early to take any decision on the take over of BSR results or any specific aspect of it, until further investigation is performed.
+        In that respect TC 154 is expecting to get as soon as possible the documents to be issued by the BSR/MC (see BSR N102 Resolution 96/8) and the ISO/BSR Coordinating Committee documents. These documents will be submitted along with the Australian contribution on BSR (Doc. N 188). Comments are to be received by 1996-06-28, and allocated to a sub group created by resolution 92. Comments are especially expected on:
+        - is TC 154 to take any role in BSR standardization activities?
+        - in case of yes, which aspects of the BSR project may (or need to) be standardized by TC 154?    
+
+
+  - dates:
+      - 1996-03-15
+    identifier: 105
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+        
+    actions:
+      - type: requests
+        date_effective: 1996-03-15
+        message: ISO/TC requests its chair to represent ISO/TC 154 in the ISO-IEC-UN/ECE Co-ordinating Commitee
+        
+        
+  - dates:
+      - 1996-03-15
+    identifier: 106
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+        
+    actions:
+      - type: thanks
+        date_effective: 1996-03-15
+        message: ISO/TC 154 appreciates the offer from the US to take over the responsability of the secretariat of ISO/TC 154/SC 2 "Documents" (Doc. N 189)
+        
+        
+  - dates:
+      - 1996-03-15
+    identifier: 107
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+        
+    actions:
+      - type: resolves
+        date_effective: 1996-03-15
+        message: ISO/TC 154 resolves to maintain ISO/TC 154 SC 5 "Tourism and Leisure" for the time being. P members, especially the Czech Republic and the Russian Federation, are requested to investigate on new projects. Subject to lack of new work item proposals within the next 6 months ISO/TC 154 will decide upon the dissolving of SC5 at the next plenary meeting
+        
+        
+  - dates:
+      - 1996-03-15
+    identifier: 108
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+        
+    actions:
+      - type: requests
+        date_effective: 1996-03-15
+        message: ISO/TC 154 requests its secretariat to invite the members of ISO/TC 154 to nominate experts to the working group to be established for the revision of ISO 8601
+
+  - dates:
+      - 1996-03-15
+    identifier: 109
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+        
+    actions:
+      - type: thanks
+        date_effective: 1996-03-15
+        message: ISO/TC 154 thanks ISO CS for hosting the plenary meeting and efficient support
+        
+
+  - dates:
+      - 1996-03-15
+    identifier: 110
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+        
+    actions:
+      - type: thanks
+        date_effective: 1996-03-15
+        message: ISO/TC 154 expresses its appreciation to Ms Ingeborg Burger-Balogh for her excellent chairing of the meeting
+        
+        
+  - dates:
+      - 1996-03-15
+    identifier: 111
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+        
+    actions:
+      - type: thanks
+        date_effective: 1996-03-15
+        message: ISO/TC thanks Siemens AG for sponsoring the social event
+        
+        
+  - dates:
+      - 1996-03-15
+    identifier: 112
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: thanks
+        date_effective: 1996-03-15
+        message: ISO/TC 154 thanks its secretariat for its efficient support of the meeting
