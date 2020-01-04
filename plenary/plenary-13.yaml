@@ -110,7 +110,7 @@ resolutions:
         message: Unanimous
 
     actions:
-      - type: suppports
+      - type: supports
         date_effective:
           start: 1997-06-12
           end: 1997-06-13
