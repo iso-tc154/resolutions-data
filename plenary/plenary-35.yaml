@@ -44,7 +44,7 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: assigns
         date_effective: 2016-10-21
         message: resolves to assign the new part ISO 14533-4 to WG6
       - type: resolves
@@ -134,6 +134,7 @@ resolutions:
       - type: adopts
         date_effective: 2016-10-21
         message: resolves to adopt a PWI on “Standardized cross-enterprise Value Stream Management Method”
+
       - type: requests
         date_effective: 2016-10-21
         message: to investigate with the ISO/CS and MoU/MG chair, if this WI should be led by ISO/TC 154 with other ISO/TC and/or MoU-eB/MG members joining the work
