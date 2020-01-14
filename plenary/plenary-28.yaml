@@ -30,7 +30,7 @@ resolutions:
         message: Approved with Unanimity
 
     actions:
-      - type: resolves
+      - type: requests
         date_effective: 2009-09-25
         message: ISO/TC 154 resolves to ask its secretariat to send out the New Work Item proposal that makes the revision of ISO 7372 possible, as soon as this proposal is drafted by the TDED joint MA.
 
@@ -46,7 +46,7 @@ resolutions:
         message: Approved with Unanimity
 
     actions:
-      - type: resolves
+      - type: thanks
         date_effective: 2009-09-25
         message: ISO/TC154 resolves to thank IATA and Mrs. Andrea Graf-Gruber for hosting this meeting and their excellent hospitality
 

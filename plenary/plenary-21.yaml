@@ -14,7 +14,7 @@ resolutions:
         message: Approved
 
     actions:
-      - type: resolves
+      - type: requests
         date_effective: 2003-09-12
         message: |
         In the overall framework of current standardisation work for the supply chain security, ISO/TC154 resolves to establish a liaison with:
@@ -38,10 +38,11 @@ resolutions:
         message: Approved
 
     actions:
-      - type: resolves
+      - type: thanks
         date_effective: 2003-09-12
         message: ISO/TC 154 resolves to thank the ISO/TC215 chair for contributing their liaison report (see doc. 154N454) and for identifying a very interesting range of issues for further joint discussions and hopefully successful joint work
-      - type: agrees
+
+      - type: welcomes
         date_effective: 2003-09-12
         message: ISO/TC154 welcomes the agreement of the Chairs of ISO/TC 215 and ISO/TC154 to identify any areas of common interest
 
@@ -58,7 +59,7 @@ resolutions:
         message: Approved
 
     actions:
-      - type: resolves
+      - type: endorses
         date_effective: 2003-09-12
         message: ISO/TC 154 resolves to endorse the resolutions and action items adopted by the ISO7372MA documented in documents 154N446 and 154N452
 
@@ -74,10 +75,15 @@ resolutions:
         degree: unanimous
         message: Approved
 
+    considering:
+      - type: recalling
+        date_effective: 2003-09-12
+        message: Recalling the existing ISO/TC154 liaison with OASIS (see doc. 154N406, 2002-02-27)
+
     actions:
       - type: endorses
         date_effective: 2003-09-12
-        message: Recalling the existing ISO/TC154 liaison with OASIS (see doc. 154N406, 2002-02-27), ISO/TC154 endorses the Resolution of the ISO7372MA to include the OASIS UBL TC as member (see doc. 154n452).
+        message: ISO/TC154 endorses the Resolution of the ISO7372MA to include the OASIS UBL TC as member (see doc. 154n452).
 
 
   - dates:
@@ -92,7 +98,7 @@ resolutions:
         message: Approved
 
     actions:
-      - type: resolves
+      - type: requests
         date_effective: 2003-09-12
         message: |
         ISO/TC154 resolves (unanimous agreement of P-members present at our 21st session) to establish a Liaison A (active) with OAGi (see doc. 154N457 and http://www.openapplications.org/ ), with the following OAGi contact persons:
@@ -112,16 +118,20 @@ resolutions:
         degree: unanimous
         message: Approved
 
-    actions:
-      - type: notes
+    considerations:
+      - type: noting
         date_effective: 2003-09-12
         message: notes that the in-depth revision project has been launched in 2000-07; as the 3 years time-frame is over, and as the draft revision is not yet ready for balloting, this work item has been withdrawn last month (2003-07)
-      - type: notes
+
+      - type: noting
         date_effective: 2003-09-12
         message: notes that the next "ISO periodic review" will take place in 2005
-      - type: notes
+
+      - type: noting
         date_effective: 2003-09-12
-        message: notes the on-going work (see also Resolution 230 and Action 15 above, both open) managed by Mr. L. Visser (NEN/NL): Thanks a lot, Louis !
+        message: "notes the on-going work (see also Resolution 230 and Action 15 above, both open) managed by Mr. L. Visser (NEN/NL): Thanks a lot, Louis!"
+
+    actions:
       - type: confirms
         date_effective: 2003-09-12
         message: confirms its availability to launch a ballot on this draft revision, when available
@@ -138,49 +148,67 @@ resolutions:
         degree: unanimous
         message: Approved
 
-    actions:
-      - type: recalls
+    considerations:
+      - type: recalling
         date_effective: 2003-09-12
         message: recalling that trade in goods and services need to identify, in an open environment allowing interoperability, the parties and the location of the commodity, most of which parties and locations having a name and address, processable by all parties and all modes of transport and usable across all syntaxes
-      - type: recalls
-        date_effective: 2003-09-12
-        message: recalling that ISO11180:1993 had been launched by UPU
-      - type: recalls
-        date_effective: 2003-09-12
-        message: recalling core inconsistencies between two ISO/TC154 standards: ISO6422 Layout Key (e.g. 5x35 car.) and ISO11180 (e.g. 6x30 car.)
-      - type: notes
-        date_effective: 2003-09-12
-        message: noting that ISO11180 has not been widely implemented by ISO members
-      - type: notes
-        date_effective: 2003-09-12
-        message: noting that ISO11180 is no longer referenced by UPU (see e.g. the new UPU S42 standard)
-      - type: resolves
-        date_effective: 2003-09-12
-        message: resolves to withdraw ISO11180:1993
-      - type: resolves
-        date_effective: 2003-09-12
-        message: resolves to investigate the possibility of launching an ISO New Work Item (NWI) on name and address (follow-up: see action 19)
 
-    # SECTION 19
-    # 1. The ISO/TC154 chair is tasked with the preparatory steps (draft job description and membership) for this possible ISO New Work Item (NWI) on name and address
-    # 2. draft job description: [open]
-    # 3. draft membership: this possible NWI could involve the following ISO/TC154 P(active)-members, at least 5 (identified contact persons):
-    # - BE Mr. J.-L. Champion
-    # - CH Mr. F. Vuilleumier
-    # - DE Mr. M. Dill
-    # - GB Ms. S.L. Probert
-    # - JP Mr. K. Wakaizumi
-    # - KR Mr. Y.-G. Jung
-    # - US Ms. M.K. Blantz
-    # in co-operation with the following ISO/TC154 L(iaison)-members:
-    # - UPU (standard S42),
-    # - CEN/TC331 (standard CEN14142)
-    # - ISO/TC215 as well as other interested TC’s
-    # - ISO/IEC JTC1/SC32 as well as other interested SC’s
-    # - UN/CEFACT Forum: at least TBG, possibly ATG
-    # - UNECE UNeDocs Project
-    # - OASIS Management and UBL TC + CIQ TC
-    # - OAGI
+      - type: recalling
+        date_effective: 2003-09-12
+        message: recalling that ISO 11180:1993 had been launched by UPU
+
+      - type: recalling
+        date_effective: 2003-09-12
+        message: |
+          recalling core inconsistencies between two ISO/TC154 standards: ISO 6422 Layout Key (e.g. 5x35 car.) and ISO 11180 (e.g. 6x30 car.)
+
+      - type: noting
+        date_effective: 2003-09-12
+        message: noting that ISO 11180 has not been widely implemented by ISO members
+
+      - type: noting
+        date_effective: 2003-09-12
+        message: noting that ISO 11180 is no longer referenced by UPU (see e.g. the new UPU S42 standard)
+
+    actions:
+      - type: withdraws
+        date_effective: 2003-09-12
+        message: resolves to withdraw ISO 11180:1993
+
+      - type: investigates
+        date_effective: 2003-09-12
+        message: |
+          resolves to investigate the possibility of launching an ISO New
+          Work Item (NWI) on name and address (follow-up: see action 19)
+
+          Action 19
+
+          1. The ISO/TC154 chair is tasked with the preparatory steps (draft
+            job description and membership) for this possible ISO New Work Item
+            (NWI) on name and address
+          2. draft job description: [open]
+
+          3. draft membership: this possible NWI could involve the following
+            ISO/TC154 P(active)-members, at least 5 (identified contact
+            persons):
+
+            - BE Mr. J.-L. Champion
+            - CH Mr. F. Vuilleumier
+            - DE Mr. M. Dill
+            - GB Ms. S.L. Probert
+            - JP Mr. K. Wakaizumi
+            - KR Mr. Y.-G. Jung
+            - US Ms. M.K. Blantz
+
+          in co-operation with the following ISO/TC154 L(iaison)-members:
+            - UPU (standard S42),
+            - CEN/TC331 (standard CEN14142)
+            - ISO/TC215 as well as other interested TC’s
+            - ISO/IEC JTC1/SC32 as well as other interested SC’s
+            - UN/CEFACT Forum: at least TBG, possibly ATG
+            - UNECE UNeDocs Project
+            - OASIS Management and UBL TC + CIQ TC
+            - OAGI
 
 
   - dates:
@@ -194,13 +222,15 @@ resolutions:
         degree: unanimous
         message: Approved
 
-    actions:
-      - type: notes
+    considerations:
+      - type: noting
         date_effective: 2003-09-12
-        message: notes that the ISO TS16668:2000 has not been widely implemented by ISO members
-      - type: notes
+        message: notes that the ISO/TS 16668:2000 has not been widely implemented by ISO members
+      - type: noting
         date_effective: 2003-09-12
         message: notes that this TS is also largely superseded by the latest deliverables of ISO/IEC JTC1/SC32 on ISO11179 (and related products), as well as current developments of ebXML parts, especially by OASIS
+
+    actions:
       - type: resolves
         date_effective: 2003-09-12
         message: resolves to withdraw ISO TS11168:2000
@@ -217,14 +247,14 @@ resolutions:
         degree: unanimous
         message: Approved
 
-    actions:
-      - type: recalls
+    considerations:
+      - type: recalling
         date_effective: 2003-09-12
         message: recall that this New Project ISO NP22208 (EDIRA) has been launched in 2000-07
-      - type: notes
+      - type: noting
         date_effective: 2003-09-12
         message: notes that EDIRA has since abandoned this ISO project
-      - type: notes
+      - type: noting
         date_effective: 2003-09-12
         message: notes that, in 2003-07, NP22208 has been withdrawn from the work program of ISO/TC154
 

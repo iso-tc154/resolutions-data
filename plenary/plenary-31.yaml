@@ -36,9 +36,17 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+
+      - type: accepts
         date_effective: 2012-10-12
-        message: with regret accepts the resignation of its WG 4 convenor Mr. Michael Dill, effective immediately. The TC expresses its appreciation to Mr. Michael Dill for his outstanding contribution to the work of ISO/TC 154. The Technical Committee wishes Mr. Michael Dill every success for the future.
+        message: with regret accepts the resignation of its WG 4 convenor Mr. Michael Dill, effective immediately.
+
+      - type: appreciates
+        date_effective: 2012-10-12
+        The TC expresses its appreciation to Mr. Michael Dill for his outstanding contribution to the work of ISO/TC 154. The Technical Committee wishes Mr. Michael Dill every success for the future.
+
+    message: |
+      with regret accepts the resignation of its WG 4 convenor Mr. Michael Dill, effective immediately. The TC expresses its appreciation to Mr. Michael Dill for his outstanding contribution to the work of ISO/TC 154. The Technical Committee wishes Mr. Michael Dill every success for the future.
 
 
   - dates:
@@ -59,7 +67,6 @@ resolutions:
       - type: requests
         date_effective: 2012-10-12
         message: requests DIN to continue to offer the secretariat of ISO/TC 154/WG 4
-
 
   - dates:
       - 2012-10-12
@@ -84,13 +91,16 @@ resolutions:
     title: "Reinstatement all withdrawn versions of ISO 9735"
     identifier: 010-2012
     considerations:
-      - type: considering
+
+      - type: noting
         date_effective: 2012-10-12
         message: noting that older versions of the EDIFACT syntax (ISO 9735) were recently withdrawn in the ISO database
-      - type: considering
+
+      - type: reminding
         date_effective: 2012-10-12
         message: reminding that there was an older TC 154 resolution on retaining older EDIFACT syntax versions which is still valid
-      - type: considering
+
+      - type: recognising
         date_effective: 2012-10-12
         message: recognizing that there is still a user/business need to keep the older EDIFACT syntax versions available
 
@@ -110,7 +120,9 @@ resolutions:
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "Participation in ISO/TC 154"
     identifier: 011-2012
+
     considerations:
+
       - type: considering
         date_effective: 2012-10-12
         message: considering the ISO Internal Regulations ‐ Part 1, clause 1.7, Participation in the work of technical committees and subcommittees

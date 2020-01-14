@@ -1,6 +1,6 @@
 metadata:
   title: Resolutions from the 27th plenary meeting of ISO/TC 154
-  date: 2019-10-17
+  date: 2010-05-04
   source: Secretariat
 resolutions:
   - dates:
@@ -8,13 +8,13 @@ resolutions:
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     title: "ISO 15000-5"
     identifier: 302
-    
+
     actions:
-      - type: resolves
+      - type: requests
         date_effective: 2009-09-25
         message: ISO/TC 154 resolves to ask ISO to publish ISO 15000-5 including corrigenda as approved at the TC154 meeting in 2008-11 (Brussels).
-        
-        
+
+
   - dates:
       - 2010-05-04
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration

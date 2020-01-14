@@ -46,7 +46,7 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: establishes
         date_effective: 2014-10-24
         message: resolves to establish ISO/TC 154/WG 6 with the title "Trusted eCommunication", and WG 6 includes projects "Trusted Communication Platform for Electronic Documents" and project "Trusted Mobile e-Document Framework" and "ISO 14533-3".
 
@@ -63,9 +63,9 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: appoints
         date_effective: 2014-10-24
-        message: resolves to appoint Ms. Jasmine Chang as the convener of Working Group 6,effective immediately
+        message: resolves to appoint Ms. Jasmine Chang as the convener of Working Group 6, effective immediately
 
   - dates:
       - 2014-10-24
@@ -79,9 +79,13 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: allocates
         date_effective: 2014-10-24
-        message: resolves that the secretariat of ISO/TC 154/WG 6 is allocated to South Korea (KATS). In addition the ISO/TC154 secretariat is requested to initiate an appropriate call for experts for the new WG 6
+        message: resolves that the secretariat of ISO/TC 154/WG 6 is allocated to South Korea (KATS)
+
+      - type: requests
+        date_effective: 2014-10-24
+        message: In addition the ISO/TC154 secretariat is requested to initiate an appropriate call for experts for the new WG 6
 
 
   - dates:
@@ -121,9 +125,9 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: disbands
         date_effective: 2014-10-24
-        message: resolves to disband ISO/TC154/WG 3
+        message: resolves to disband ISO/TC 154/WG 3
 
 
   - dates:
@@ -146,13 +150,14 @@ resolutions:
   - dates:
       - 2014-10-24
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Disbandment of ISO/TC 154/WG4"
+    title: "Disbandment of ISO/TC 154/WG 4"
     identifier: 08-2014
     considerations:
       - type: considering
         date_effective: 2014-10-24
-        message: considering that the WG4 with the automatic cancellation of ISO/PWI 6422-3 "Layout key for trade documents – Part 3: Analysis for user requirements for layout key of trade documents" on 2014-11-18 has no more active WIs
-      - type: considering
+        message: |
+          considering that the WG4 with the automatic cancellation of ISO/PWI 6422-3 "Layout key for trade documents – Part 3: Analysis for user requirements for layout key of trade documents" on 2014-11-18 has no more active WIs
+      - type: noting
         date_effective: 2014-10-24
         message: noting that there was no majority to activate the ISO/PWI 6422-3
 
@@ -162,7 +167,7 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: disbands
         date_effective: 2014-10-24
         message: resolves to disband ISO/TC154/WG 4
 
@@ -196,9 +201,13 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: allocates
         date_effective: 2014-10-24
-        message: resolves to allocate China (SAC) as the secretariat of ISO/TC 154/WG 5. In addition the ISO/TC154 secretariat is requested to initiate an appropriate call for experts for the WG 5
+        message: resolves to allocate China (SAC) as the secretariat of ISO/TC 154/WG 5
+
+      - type: requests
+        date_effective: 2014-10-24
+        message: In addition the ISO/TC154 secretariat is requested to initiate an appropriate call for experts for the WG 5
 
 
   - dates:
@@ -219,7 +228,11 @@ resolutions:
     actions:
       - type: resolves
         date_effective: 2014-10-24
-        message: resolves to initiate a combined NWIP+CD ballot and allocate ISO 14533-3 to the new ISO/TC 154/WG 6
+        message: resolves to initiate a combined NWIP+CD ballot
+
+      - type: allocates
+        date_effective: 2014-10-24
+        message: allocate ISO 14533-3 to the new ISO/TC 154/WG 6
 
 
   - dates:
@@ -234,12 +247,12 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: agrees
+      - type: accepts
         date_effective: 2014-10-24
         message: |
-        agrees to accept the submissions of ebCPP, ebMS (Core), ebBPSS and ebRegRep for ‘Fast Tracking’ as International Standards with the following assumptions:
-        - OASIS will accept ISO/TC 154 recommendation to include AS4 as an appendix within ebMS (Core), and
-        - The material as submitted in the OASIS format is accepted by ISO/CS
+          agrees to accept the submissions of ebCPP, ebMS (Core), ebBPSS and ebRegRep for ‘Fast Tracking’ as International Standards with the following assumptions:
+          - OASIS will accept ISO/TC 154 recommendation to include AS4 as an appendix within ebMS (Core), and
+          - The material as submitted in the OASIS format is accepted by ISO/CS
 
 
   - dates:

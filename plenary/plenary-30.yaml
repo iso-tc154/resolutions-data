@@ -7,7 +7,7 @@ resolutions:
       - 2011-09-14
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 310
-    
+
     approvals:
       - type: affirmative
         degree: unanimous
@@ -25,7 +25,7 @@ resolutions:
       - 2011-09-14
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 311
-    
+
     approvals:
       - type: affirmative
         degree: unanimous
@@ -35,7 +35,7 @@ resolutions:
       - type: resolves
         date_effective: 2011-09-14
         message: ISO/TC 154 resolves to accept the NWIP to update ISO 9735-10:2002 taking into account all releases of the service code list directories starting from release 40006 until the current release
-        
+
     # Note: The NWIP is available in the meeting documents.
 
 
@@ -67,18 +67,29 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: Approved unanimously
-        
+
     actions:
-      - type: resolves
+      - type: acknowledges
         date_effective: 2011-09-14
-        message: |
-        ISO/TC 154 resolves to:
-        - Acknowledge the deliverable of ISO/NP TS 17369 to become a full ISO standard;
-        - Accept the latest draft delivered by WG2 as a Committee Draft;
-        - Install an ad-hoc working group with the task to deliver a DIS 17369 to the TC154 secretariat and invite TC 154 members to participate;
-        - Install Mr Chris Nelson from the United Kingdom as Project leader
-        
-        
+        message: Acknowledge the deliverable of ISO/NP TS 17369 to become a full ISO standard;
+      - type: accepts
+        date_effective: 2011-09-14
+        message: Accept the latest draft delivered by WG2 as a Committee Draft;
+      - type: creates
+        date_effective: 2011-09-14
+        message: Install an ad-hoc working group with the task to deliver a DIS 17369 to the TC154 secretariat and invite TC 154 members to participate;
+      - type: appoints
+        date_effective: 2011-09-14
+        message: Install Mr Chris Nelson from the United Kingdom as Project leader
+
+    message: |
+      ISO/TC 154 resolves to:
+      - Acknowledge the deliverable of ISO/NP TS 17369 to become a full ISO standard;
+      - Accept the latest draft delivered by WG2 as a Committee Draft;
+      - Install an ad-hoc working group with the task to deliver a DIS 17369 to the TC154 secretariat and invite TC 154 members to participate;
+      - Install Mr Chris Nelson from the United Kingdom as Project leader
+
+
   - dates:
       - 2011-09-14
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
@@ -88,12 +99,12 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: Approved unanimously
-        
+
     actions:
       - type: resolves
         date_effective: 2011-09-14
         message: ISO/TC 154 resolves to ask ISO/TMB for an extension of the timeframe for ISO/NP TS 17369
-        
+
 
   - dates:
       - 2011-09-14
@@ -104,15 +115,15 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: Approved unanimously
-        
+
     actions:
       - type: resolves
         date_effective: 2011-09-14
-        message: ISO/TC 154 resolves to approve the NWIP to revise ISO/TS 15000-5:2005 in preparation for submission as an International Standard  
+        message: ISO/TC 154 resolves to approve the NWIP to revise ISO/TS 15000-5:2005 in preparation for submission as an International Standard
 
     # Note: The NWIP is available in the meeting documents.
-    
-    
+
+
   - dates:
       - 2011-09-14
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
@@ -126,12 +137,22 @@ resolutions:
     actions:
       - type: resolves
         date_effective: 2011-09-14
-        message: ISO/TC 154 resolves together with the UNECE and UN/CEFACT liaisons to change TC154/JWG 4 to a WG as there is no joint publication foreseen at this time
+        message: |
+          ISO/TC 154 resolves together with the UNECE and UN/CEFACT liaisons
+          to change TC154/JWG 4 to a WG as there is no joint publication
+          foreseen at this time
 
-    # Note 1: This resolution was taken because there is no work at this time on a standard that was intended to be published jointly. Should a joint publication be approved between UN/CEFACT and TC154, it can be changed to a Joint Working Group.
-    # Note 2: This resolution should be explicitly read with the note that liaison experts are welcome and explicitly invited to participate in the future development of the technical report on the usage of ISO 6422 in the world.
-    
-    
+          Note 1: This resolution was taken because there is no work at this
+          time on a standard that was intended to be published jointly.
+          Should a joint publication be approved between UN/CEFACT and TC154,
+          it can be changed to a Joint Working Group.
+
+          Note 2: This resolution should be explicitly read with the note
+          that liaison experts are welcome and explicitly invited to
+          participate in the future development of the technical report on
+          the usage of ISO 6422 in the world.
+
+
   - dates:
       - 2011-09-14
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
@@ -146,9 +167,9 @@ resolutions:
       - type: resolves
         date_effective: 2011-09-14
         message: ISO/TC 154 resolves to instruct its secretariat to prepare a NWIP ballot to develop a Technical Report regarding the progress of ISO 6422, taking into account the various comments from National Standard Bodies. This work item is registered in the preliminary stage
-        
-    # Note: The NWIP is available in the meeting documents.    
-    
+
+    # Note: The NWIP is available in the meeting documents.
+
   - dates:
       - 2011-09-14
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
@@ -158,17 +179,17 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: Approved unanimously
-        
+
     actions:
-      - type: resolves
+      - type: requests
         date_effective: 2011-09-14
-        message: | 
-        ISO/TC 154 resolves to request the ebMoU/MG to endorse TC154’s action
-        - To note that the new ISO28000 series standards contradict and are misaligned with other established ISO and UN standards;
-        - To note that this is a breach of one of the principal rules of ISO standards;
-        - To note that ISO/TC 8 has not been responding to requests of the ebMoU/MG to clarify the situation;
-        - Request ISO/TMB to act on this situation – to ensure that TC8 does not publish standards without due consultation with other TCs and acknowledged liaison organizations.
-        - Request ISO/TMB to suspend the work on the ISO 28000 series and consider the withdrawal of its published standards should TC 8 continue to work on this topic without the due consultation of other groups
+        message: |
+          ISO/TC 154 resolves to request the ebMoU/MG to endorse TC154’s action
+          - To note that the new ISO28000 series standards contradict and are misaligned with other established ISO and UN standards;
+          - To note that this is a breach of one of the principal rules of ISO standards;
+          - To note that ISO/TC 8 has not been responding to requests of the ebMoU/MG to clarify the situation;
+          - Request ISO/TMB to act on this situation – to ensure that TC8 does not publish standards without due consultation with other TCs and acknowledged liaison organizations.
+          - Request ISO/TMB to suspend the work on the ISO 28000 series and consider the withdrawal of its published standards should TC 8 continue to work on this topic without the due consultation of other groups
 
 
   - dates:
@@ -180,12 +201,12 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: Approved unanimously
-        
+
     actions:
       - type: resolves
         date_effective: 2011-09-14
         message: ISO/TC 154 resolves to dissolve the Coordination Advisory Group
-        
+
 
   - dates:
       - 2011-09-14
@@ -196,13 +217,13 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: Approved unanimously
-        
+
     actions:
-      - type: resolves
+      - type: supports
         date_effective: 2011-09-14
         message: ISO/TC 154 resolves to support the two chairmen of TC 154 and UN/CEFACT in their effort to coordinate the activities of their organisations
-        
-        
+
+
   - dates:
       - 2011-09-14
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
@@ -212,13 +233,13 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: Approved unanimously
-        
+
     actions:
-      - type: resolves
+      - type: thanks
         date_effective: 2011-09-14
         message: ISO/TC 154 resolves to thank Mrs. Melitta Rafelt for the excellent technical service she has provided for updating the JSWG (ISO9735) web page
-        
-        
+
+
   - dates:
       - 2011-09-14
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
@@ -228,9 +249,9 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: Approved unanimously
-        
+
     actions:
-      - type: resolves
+      - type: thanks
         date_effective: 2011-09-14
         message: ISO/TC 154 resolves to thank ITU, Martin Euchner, for their excellent hosting of the TC 154 meetings and explicitly for the GoToMeeting facilities
-        
+

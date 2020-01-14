@@ -38,11 +38,17 @@ resolutions:
         message: UNANIMOUS
 
     actions:
-      - type: resolves
+      - type: approves
         date_effective:
           start: 2008-11-25
           end: 2008-11-26
-        message: ISO/TC 154 resolves to approve the draft business plan (document 154n514) including the changes that have been agreed at the meeting on 25 and 26 November 2008, and to send this document for a ballot by correspondence to the P-members of ISO/TC 154
+        message: ISO/TC 154 resolves to approve the draft business plan (document 154n514) including the changes that have been agreed at the meeting on 25 and 26 November 2008
+
+      - type: sends
+        date_effective:
+          start: 2008-11-25
+          end: 2008-11-26
+        message: to send this document for a ballot by correspondence to the P-members of ISO/TC 154
 
 
   - dates:
@@ -58,7 +64,7 @@ resolutions:
         message: UNANIMOUS
 
     actions:
-      - type: resolves
+      - type: disbands
         date_effective:
           start: 2008-11-25
           end: 2008-11-26
@@ -77,12 +83,18 @@ resolutions:
         degree: unanimous
         message: UNANIMOUS
 
+    considerations:
+      - type: considering
+        date_effective: 2008-11-25
+        message: |
+          the result of the systematic review of ISO 9735:2002 parts 1 through 10 Electronic data interchange for administration, commerce and transport (EDIFACT) – Application level syntax rules (Syntax version number: 4, Syntax release number: 1) (document 154n495)
+
     actions:
-      - type: resolves
+      - type: confirms
         date_effective:
           start: 2008-11-25
           end: 2008-11-26
-        message: ISO/TC 154, having considered the result of the systematic review of ISO 9735:2002 parts 1 through 10 Electronic data interchange for administration, commerce and transport (EDIFACT) – Application level syntax rules (Syntax version number: 4, Syntax release number: 1) (document 154n495), resolves to confirm ISO 9735:2002 parts 1 through 10
+        message: resolves to confirm ISO 9735:2002 parts 1 through 10
 
 
   - dates:
@@ -98,7 +110,7 @@ resolutions:
         message: UNANIMOUS
 
     actions:
-      - type: resolves
+      - type: requests
         date_effective:
           start: 2008-11-25
           end: 2008-11-26
@@ -117,12 +129,17 @@ resolutions:
         degree: unanimous
         message: UNANIMOUS
 
+    considerations:
+      - type: considering
+        date_effective: 2008-11-25
+        message: the result of the systematic review of ISO 7372:2005 Trade data interchange – Trade data elements directory (document 154n506)
+
     actions:
-      - type: resolves
+      - type: confirms
         date_effective:
           start: 2008-11-25
           end: 2008-11-26
-        message: ISO/TC 154, having considered the result of the systematic review of ISO 7372:2005 Trade data interchange – Trade data elements directory (document 154n506), resolves to confirm ISO 7372:2005
+        message: resolves to confirm ISO 7372:2005
 
 
   - dates:
@@ -276,12 +293,17 @@ resolutions:
         degree: unanimous
         message: UNANIMOUS
 
+    considerations:
+      - type: considering
+        date_effective: 2008-11-25
+        message: the result of the systematic review of ISO 8601:2004 Data elements and interchange formats – Information interchange Representation of dates and times (document 154n507)
+
     actions:
-      - type: resolves
+      - type: confirms
         date_effective:
           start: 2008-11-25
           end: 2008-11-26
-        message: ISO/TC 154, having considered the result of the systematic review of ISO 8601:2004 Data elements and interchange formats – Information interchange Representation of dates and times (document 154n507), resolves to confirm ISO 8601:2004
+        message: resolves to confirm ISO 8601:2004
 
 
   - dates:
@@ -296,12 +318,20 @@ resolutions:
         degree: unanimous
         message: UNANIMOUS
 
+    considerations:
+      - type: considering
+        date_effective: 2008-11-25
+        message: |
+          the result of the systematic review
+          of ISO/TS 15000:2004 Electronic business eXtensible Markup Language
+          (ebXML) parts 1 through 4 (document 154n508 – 154n511)
+
     actions:
       - type: resolves
         date_effective:
           start: 2008-11-25
           end: 2008-11-26
-        message: ISO/TC 154, having considered the result of the systematic review of ISO/TS 15000:2004 Electronic business eXtensible Markup Language (ebXML) parts 1 through 4 (document 154n508 – 154n511), resolves to confirm ISO/TS 15000: 2004 parts 1 through 4
+        message: "resolves to confirm ISO/TS 15000: 2004 parts 1 through 4"
 
 
   - dates:
@@ -317,10 +347,17 @@ resolutions:
         message: ACCLAMATION
 
     actions:
-      - type: thanks
-        degree: unanimous
-        message: ISO/TC 154 notes with regret the resignation of Mr. Vuilleumier as chair and secretary of ISO/TC 154 and thanks him for the excellent and important work he has done in the area of standards for trade facilitation. His enthusiasm and leadership of ISO/TC 154 have played an important role in the achievements of ISO/TC 154
+      - type: regrets
+        date_effective:
+          start: 2008-11-25
+          end: 2008-11-26
+        message: ISO/TC 154 notes with regret the resignation of Mr. Vuilleumier as chair and secretary of ISO/TC 154
 
+      - type: thanks
+        date_effective:
+          start: 2008-11-25
+          end: 2008-11-26
+        message: thanks him for the excellent and important work he has done in the area of standards for trade facilitation. His enthusiasm and leadership of ISO/TC 154 have played an important role in the achievements of ISO/TC 154
 
   - dates:
       - 2008-11-25
@@ -336,5 +373,7 @@ resolutions:
 
     actions:
       - type: thanks
-        degree: unanimous
+        date_effective:
+          start: 2008-11-25
+          end: 2008-11-26
         message: ISO/TC 154 expresses its sincere appreciation to the World Customs Organisation for arranging the twenty-fifth meeting of ISO/TC 154 in Brussels and hospitality

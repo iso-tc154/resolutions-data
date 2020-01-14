@@ -12,13 +12,13 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: Accepted with unanimity
-        
+
     actions:
-      - type: resolves
+      - type: thanks
         date_effective: 2011-02-18
         message: ISO/TC154 resolves to thank LMI and Mrs. Delta Pelgrim for hosting this meeting and their excellent hospitality.
-        
-        
+
+
   - dates:
       - 2011-02-18
     title: "Thanks to Ms. Blantz"
@@ -28,9 +28,9 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: Accepted with unanimity
-        
+
     actions:
-      - type: resolves
+      - type: thanks
         date_effective: 2011-02-18
         message: ISO/TC154 resolves to thank Ms Blantz for performing the role of acting chair for this plenary meeting
 

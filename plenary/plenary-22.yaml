@@ -17,7 +17,11 @@ resolutions:
     actions:
       - type: resolves
         date_effective: 2004-09-10
-        message: ISO/TC154 resolves to endorse the resolutions and action items adopted by the ISO7372MA documented in documents 154N471, and to ask the ISO/CS to launch the relevant ballot for the possible adoption of the current draft revision of ISO7372
+        message: ISO/TC154 resolves to endorse the resolutions and action items adopted by the ISO7372MA documented in documents 154N471
+
+      - type: requests
+        date_effective: 2004-09-10
+        message: ask the ISO/CS to launch the relevant ballot for the possible adoption of the current draft revision of ISO7372
 
 
   - dates:
@@ -31,7 +35,7 @@ resolutions:
         message: Approved
 
     actions:
-      - type: resolves
+      - type: requests
         date_effective: 2004-09-10
         message: Pending approval of the ballot on 15000-Part 5, ISO/TC154 resolves to request the establishment of a formal liaison between the ISO/TC154 project team for TS 15000-Part 5 and ISO/IEC JTC 1/SC32 (WG1 & 2). The purpose of this liaison is to avoid possible duplication of efforts and the publication of conflicting specifications
 
@@ -48,7 +52,7 @@ resolutions:
         message: Approved
 
     actions:
-      - type: resolves
+      - type: requests
         date_effective: 2004-09-10
         message: ISO/TC154 becoming aware of the establishment of a JTC1 Web Services Study Group, is eager to ensure that  its suite of ebXML specifications that in themselves comprise a valuable form of web services is actively involve in the discussion. Therefore ISO/TC154 resolves to establish an active liaison with the JTC1 web services study group
 
@@ -63,13 +67,21 @@ resolutions:
         degree: unanimous
         message: Approved
 
+    considerations:
+      - type: noting
+        date_effective: 2004-09-10
+        message: |
+          ISO/TC154, noting that the chair and secretary duty of Mr. Vuilleumier ends in December 2004
     actions:
+      - type: thanks
+        date_effective: 2004-09-10
+        message: |
+          to thank Mr. Vuilleumier for agreeing to fulfill these duties at least for one more year (up to his foreseen retirement from the Swiss government, in December 2005)
+
       - type: resolves
         date_effective: 2004-09-10
         message: |
-        ISO/TC154, noting that the chair and secretary duty of Mr. Vuilleumier ends in December 2004, resolves
-        - to thank Mr. Vuilleumier for agreeing to fulfill these duties at least for one more year (up to his foreseen retirement from the Swiss government, in December 2005)
-        - to identify which ISO/TC154 P-member could, in due time, take over these duties
+          to identify which ISO/TC154 P-member could, in due time, take over these duties
 
 
   - dates:
