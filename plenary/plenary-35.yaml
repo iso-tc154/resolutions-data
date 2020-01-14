@@ -21,7 +21,11 @@ resolutions:
     actions:
       - type: resolves
         date_effective: 2016-10-21
-        message: resolves to adopt a PWI as the new part ISO 14533-4 on “Attributes pointing to external Proof of Existence objects used in Long term signature formats (PoEAttributes)”, and requests SK/SOSMT to prepare the final working draft for NWIP ballot
+        message: resolves to adopt a PWI as the new part ISO 14533-4 on “Attributes pointing to external Proof of Existence objects used in Long term signature formats (PoEAttributes)”
+
+      - type: requests
+        date_effective: 2016-10-21
+        message: requests SK/SOSMT to prepare the final working draft for NWIP ballot
 
 
   - dates:
@@ -42,7 +46,10 @@ resolutions:
     actions:
       - type: resolves
         date_effective: 2016-10-21
-        message: resolves to assign the new part ISO 14533-4 to WG6, and resolves to create a NWIP ballot as International Standard
+        message: resolves to assign the new part ISO 14533-4 to WG6
+      - type: resolves
+        date_effective: 2016-10-21
+        message: resolves to create a NWIP ballot as International Standard
 
 
   - dates:
@@ -103,7 +110,7 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: requests
         date_effective: 2016-10-21
         message: resolves that ISO/TC 154 members, who have a link to Standards Development Organizations and others which use ISO 8601, to review the impact of the proposed changes in order to determine what alignment may be needed to their standards, specifications and recommendations
 
@@ -124,9 +131,16 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: adopts
         date_effective: 2016-10-21
-        message: resolves to adopt a PWI on “Standardized cross-enterprise Value Stream Management Method”, and to investigate with the ISO/CS and MoU/MG chair, if this WI should be led by ISO/TC 154 with other ISO/TC and/or MoU-eB/MG members joining the work, and requests ILNAS to prepare the final draft for PWI ballot
+        message: resolves to adopt a PWI on “Standardized cross-enterprise Value Stream Management Method”
+      - type: requests
+        date_effective: 2016-10-21
+        message: to investigate with the ISO/CS and MoU/MG chair, if this WI should be led by ISO/TC 154 with other ISO/TC and/or MoU-eB/MG members joining the work
+
+      - type: requests
+        date_effective: 2016-10-21
+        message: requests ILNAS to prepare the final draft for PWI ballot
 
 
   - dates:
@@ -162,8 +176,8 @@ resolutions:
 
     approvals:
       - type: affirmative
-        degree: 
-          negative: 
+        degree:
+          negative:
             - BSI
         message: The resolution was approved with one negative vote by BSI
 
@@ -210,7 +224,7 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: creates
         date_effective: 2016-10-21
         message: resolves to create ISO/TC 154/WG 7 with the title "Business"
 
@@ -226,7 +240,7 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: appoints
         date_effective: 2016-10-21
         message: resolves to appoint Mr. Klaus-Dieter Naujok as the convener of Working Group 7, effective immediately
 
@@ -242,9 +256,13 @@ resolutions:
         message: The resolution was taken by unanimity
 
     actions:
-      - type: resolves
+      - type: allocates
         date_effective: 2016-10-21
-        message: resolves that the secretariat of ISO/TC 154/WG 7 is allocated to SAC. In addition the ISO/TC154 secretariat is requested to initiate an appropriate call for experts for the new WG 7
+        message: resolves that the secretariat of ISO/TC 154/WG 7 is allocated to SAC
+
+      - type: requests
+        date_effective: 2016-10-21
+        message: In addition the ISO/TC154 secretariat is requested to initiate an appropriate call for experts for the new WG 7
 
 
   - dates:
@@ -270,8 +288,8 @@ resolutions:
     identifier: 2016-14
     approvals:
       - type: affirmative
-        degree: 
-          negative: 
+        degree:
+          negative:
             - KATS
         message: The resolution was approved with one negative vote by KATS
 

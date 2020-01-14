@@ -1,0 +1,193 @@
+metadata:
+  title: Resolutions and action items of the ISO/TC154 24th meeting
+  date: 2006-03-22
+  source: ISO/TC154
+resolutions:
+  - dates:
+      - 2006-03-22
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    identifier: 266
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Approved
+
+    actions:
+      - type: welcomes
+        date_effective: 2004-09-10
+        message: ISO/TC 154 welcomes the preparatory work of the TDED Joint MA Secretary with the ISO 20022 RA, to identify possible joint work items concerning e.g. registration, correlation, maintenance and interoperability issues
+
+
+  - dates:
+      - 2006-03-22
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    identifier: 267
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Approved
+
+    considerations:
+      - type: considering
+        date_effective: 2004-09-10
+        message: |
+          The ISO/TC 154 suite of ISO/TS 15000 ebXML specifications in themselves comprise a valuable form of web services.
+
+      - type: considering
+        date_effective: 2004-09-10
+        message: |
+          ISO/TC 154 being aware of the establishment of a JTC1 Web Services Study Group, is eager to ensure to be actively involved in the discussion.
+
+    actions:
+      - type: confirms
+        date_effective: 2004-09-10
+        message: |
+          Therefore ISO/TC154 confirms its need to be in active liaison with the JTC1 Web Services Study Group.
+          F. Vuilleumier (ISO/TC154 chair) to secure with Scott Jameson (JTC1 chair) that this liaison is formally established.
+
+
+  - dates:
+      - 2006-03-22
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    identifier: 268
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Approved
+
+    actions:
+      - type: creates
+        date_effective: 2004-09-10
+        message: ISO/TC154 resolves to create a Working group to maintain the ISO/TS 15000-5 CCTS, in close liaison with UN/CEFACT TMG
+
+
+  - dates:
+      - 2006-03-22
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    identifier: 269
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Approved
+
+    actions:
+      - type: requests
+        date_effective: 2004-09-10
+        message: ISO/TC154 resolves to request the establishment of a formal liaison between the ISO/TC154 project team for ISO/TS 15000-5 CCTS and ISO/IEC JTC 1/SC32 (WG1 & 2). The purpose of this liaison is to avoid possible duplication of efforts and the publication of conflicting specifications
+
+
+  - dates:
+      - 2006-03-22
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    identifier: 270
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Approved
+
+    actions:
+      - type: recommends
+        date_effective: 2004-09-10
+        message: |
+        In accordance with the context and resolutions of the eBusiness MoU and its MG, ISO/TC154 resolves to recommend to the ISO/TC154 member countries and liaison organizations that they should:
+        - submit candidate standards for business vocabularies to UN/CEFACT;
+        - submit only eBusiness-related candidate implementation methodologies, specifications and guidelines based on the UN/CEFACT Core Component Technical Specification (ISO/TS 15000-5) for consideration as future ISO publications through ISO/TC154;
+        - implement the UN/CEFACT Core Component Technical Specification (ISO/TS 15000-5).
+
+
+  - dates:
+      - 2006-03-22
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    identifier: 271
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Approved
+
+    considerations:
+      - type: considering
+        date_effective: 2004-09-10
+        message: It is critically important that all member organizations who have maintenance responsibility of ISO/TC154 standards fulfil their responsibilities.
+      - type: [recognising]
+        date_effective: 2004-09-10
+        message: ISO/TC154 recognized and appreciates the update provided by OASIS during the March 2006 forum.
+      - type: acknowledging
+        date_effective: 2004-09-10
+        message: TC154 acknowledges that OASIS has committed to update their standards contributions, following a schedule consistent with the needs of OASIS, the originating OASIS TC, ISO/TC154 and the broader user community
+
+    actions:
+      - type: requests
+        date_effective: 2004-09-10
+        message: ISO/TC154 resolves to request that OASIS continue to keep this TC abreast of submission plans to include projected timelines, for updates to all contributed standards.
+      - type: requests
+        date_effective: 2004-09-10
+        message: ISO/TC154 also resolves that all other contributors of specifications to ISO/TC154 who retain maintenance responsibility do likewise
+
+
+  - dates:
+      - 2006-03-22
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    identifier: 272
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Approved
+
+    considerations:
+      - type: noting
+        date_effective: 2004-09-10
+        message: noting that the chair and secretary duty of Mr. Vuilleumier ends in December 2006
+
+    actions:
+      - type: thanks
+        date_effective: 2004-09-10
+        message: to thank Mr. Vuilleumier for agreeing to fulfil these duties for two more years, up to end of 2008
+
+      - type: requests
+        date_effective: 2004-09-10
+        message: to request Mr. Vuilleumier to identify which ISO/TC154 P-member could, in due time, take over these duties
+
+    message: |
+      ISO/TC154, noting that the chair and secretary duty of Mr. Vuilleumier ends in December 2006, resolves
+      - to thank Mr. Vuilleumier for agreeing to fulfil these duties for two more years, up to end of 2008
+      - to request Mr. Vuilleumier to identify which ISO/TC154 P-member could, in due time, take over these duties
+
+
+  - dates:
+      - 2006-03-22
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    identifier: 273
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Approved
+
+    actions:
+      - type: thanks
+        date_effective: 2004-09-10
+        message: ISO/TC154 resolves to thank Mr. Duane Nickull, UN/CEFACT Vice Chair, and the Canadian team, for having provided very efficiently the hosting for this meeting
+
+
+  - dates:
+      - 2006-03-22
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
+    title: "Next ISO/TC154 meetings"
+    identifier: 274
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Approved
+
+    actions:
+      - type: consults
+        date_effective: 2004-09-10
+        message: The ISO/TC154 chair shall consult with the participants of the last ISO/TC154 meetings to set the date and place of this 25th meeting, preferably back-to-back to a relevant other meeting of e.g. ISO/TC184, the UN/CEFACT Forum, the e-Business MoU/MG, or of course of a WG or JWG of ISO/TC154

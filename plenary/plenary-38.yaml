@@ -75,7 +75,7 @@ resolutions:
     actions:
       - type: requests
         date_effective: 2019-10-17
-        message: requests SO/CS to register the project as ISO/PWI 34100, “Date and time – Reference time scales”.
+        message: requests ISO/CS to register the project as ISO/PWI 34100, “Date and time – Reference time scales”.
 
 
   - category: Resolutions related to WG 6
@@ -149,7 +149,8 @@ resolutions:
     actions:
       - type: resolves
         date_effective: 2019-10-17
-        message: resolves to register a project ISO/PWI TR 19626-3 “Trusted Communication Platforms for Electronic Documents -Part3: implementation guideline”. The Part3 should only be published after the publication of Part1 and Part2.
+        message: |
+          resolves to register a project ISO/PWI TR 19626-3 “Trusted Communication Platforms for Electronic Documents -Part3: implementation guideline”. The Part3 should only be published after the publication of Part1 and Part2.
 
 
   - category: Resolutions related to WG 6
@@ -173,9 +174,13 @@ resolutions:
         message: The resolution was taken by unanimity.
 
     actions:
-      - type: resolves
+      - type: registers
         date_effective: 2019-10-17
-        message: resolves to register a project ISO/PWI "trusted smart contract-based electronic transactions for personal data and confidential business information - Part 1：Conceptual model" and requests ISO TC154 WG6 to check with the related TCs/SCs and to provide the overlap report.
+        message: resolves to register a project ISO/PWI "trusted smart contract-based electronic transactions for personal data and confidential business information - Part 1：Conceptual model"
+
+      - type: requests
+        date_effective: 2019-10-17
+        message: requests ISO TC154 WG6 to check with the related TCs/SCs and to provide the overlap report.
 
 
   - category: Resolutions related to WG 7
@@ -229,7 +234,7 @@ resolutions:
         message: The resolution was taken by unanimity.
 
     actions:
-      - type: resolves
+      - type: withdraws
         date_effective: 2019-10-17
         message: resolves to withdraw ISO/TS 21981.
 
@@ -255,7 +260,7 @@ resolutions:
 
       - type: considering
         date_effective: 2019-10-17
-        message: considering the disposition of comments on NWIP ballot in 2013(N1062) and the updated draft(N1063) that was distributed to a ll members for information
+        message: considering the disposition of comments on NWIP ballot in 2013(N1062) and the updated draft(N1063) that was distributed to all members for information
 
     approvals:
       - type: affirmative
@@ -263,7 +268,7 @@ resolutions:
         message: The resolution was taken by unanimity.
 
     actions:
-      - type: resolves
+      - type: withdraws
         date_effective: 2019-10-17
         message: resolves to withdraw ISO/TR 18262 for lack of active participation.
 
@@ -291,7 +296,15 @@ resolutions:
     actions:
       - type: restates
         date_effective: 2019-10-17
-        message: restates the resolution 2018-18 and resolves to modify the draft and Form 4 and launch a NWIP ballot on ISO/PWI 23355.
+        message: restates the resolution 2018-18
+
+      - type: resolves
+        date_effective: 2019-10-17
+        message: resolves to modify the draft and Form 4
+
+      - type: resolves
+        date_effective: 2019-10-17
+        message: launch a NWIP ballot on ISO/PWI 23355.
 
 
   - category: Resolutions related to others possible NWIPs
@@ -317,7 +330,8 @@ resolutions:
     actions:
       - type: resolves
         date_effective: 2019-10-17
-        message: resolves to launch a NWIP ballot for the project” Specification for an Enterprise Canonical Model — Part 1: Architecture” after further modification of Form 4 and the accompanying draft. If approved, the projects will be assigned to ISO/TC154/WG7.
+        message: |
+          resolves to launch a NWIP ballot for the project” Specification for an Enterprise Canonical Model — Part 1: Architecture” after further modification of Form 4 and the accompanying draft. If approved, the projects will be assigned to ISO/TC154/WG7.
 
 
   - category: Resolutions related to others possible NWIPs
@@ -343,7 +357,15 @@ resolutions:
     actions:
       - type: resolves
         date_effective: 2019-10-17
-        message: resolves to adopt a PWI on “Specification for e-Commerce development index data model”, assigns the project to WG 7, and requests the project leader to check the overlap with related organizations.
+        message: resolves to adopt a PWI on “Specification for e-Commerce development index data model”
+
+      - type: resolves
+        date_effective: 2019-10-17
+        message: assigns the project to WG 7
+
+      - type: resolves
+        date_effective: 2019-10-17
+        message: requests the project leader to check the overlap with related organizations.
 
 
   - category: Resolutions related to renewal of WG 4
@@ -395,7 +417,11 @@ resolutions:
     actions:
       - type: restates
         date_effective: 2019-10-17
-        message: restates the resolution 2018-19 and resolves to re-establish WG 4 with a new title of “e-document” after the approval of NWIP ballot of ISO 36001 or other projects.
+        message: restates the resolution 2018-19
+
+      - type: restates
+        date_effective: 2019-10-17
+        message: resolves to re-establish WG 4 with a new title of “e-document” after the approval of NWIP ballot of ISO 36001 or other projects.
 
 
   - category: Resolutions related to renewal of WG 4
@@ -443,19 +469,19 @@ resolutions:
         date_effective: 2019-10-17
         message: acknowledges that the ballot of ISO/NP PAS 15000-1 and ISO/NP PAS 15000-2 was conducted under an inappropriate procedure
 
-      - type: considering
-        date_effective: 2019-10-17
-        message: agrees that OASIS, as a Category A liaison, will instead submit both drafts directly to ISO/CS as DIS via the fast-track procedure outlined in ISO/IEC Directives, Part 1, F.2.1.1.
-
-      - type: considering
-        date_effective: 2019-10-17
-        message: assigns the project to WG7
-
     approvals:
       - type: affirmative
         degree: unanimous
         message: The resolution was taken by unanimity.
 
+    actions:
+      - type: agrees
+        date_effective: 2019-10-17
+        message: agrees that OASIS, as a Category A liaison, will instead submit both drafts directly to ISO/CS as DIS via the fast-track procedure outlined in ISO/IEC Directives, Part 1, F.2.1.1.
+
+      - type: assigns
+        date_effective: 2019-10-17
+        message: assigns the project to WG7
 
   - category: Resolutions related to liaison membership
     dates:
@@ -497,7 +523,7 @@ resolutions:
       - type: affirmative
         degree: unanimous
         message: The resolution was taken by unanimity.
-        
+
     actions:
        - type: encourages
          date_effective: 2019-10-17
@@ -558,6 +584,6 @@ resolutions:
 
       - type: thanks
         degree: unanimous
-        message: Warm thanks to all participants for the ir active participation, including those attending remotely.
+        message: Warm thanks to all participants for their active participation, including those attending remotely.
 
 

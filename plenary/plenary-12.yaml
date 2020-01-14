@@ -1,0 +1,304 @@
+metadata:
+  title: Resolutions taken at the 12th meeting of ISO/TC 154
+  date:
+    start: 1996-10-21
+    end: 1996-10-22
+  source: Secretariat of ISO/TC 154
+resolutions:
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 113
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    considerations:
+      - type: considering
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: at the request of ISO/IEC JTC1 SC 31
+
+    actions:
+      - type: agrees
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 resolves to set up a liaison with ISO/IEC JTC1/SC 31
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 114
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    considerations:
+      - type: considering
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 regards the harmonisation and registration of data as one of its major roles and recognises that the BSR is a key tool to achieve that objective.
+
+      - type: according
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: Further, in accordance with the ISO BSR/CC resolution 96/8 stating that the BSR Rules and Guidelines and Content shall become ISO standards with its own registration authority
+
+    actions:
+      - type: requests
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 would like to be given the responsibility for processing the BSR Project during the project phase and will require the setting up of a subcommittee and establishing a maintenance agency for ongoing BSR operation and maintenance once the project phase has been completed
+
+      - type: requests
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 also request its members to participate actively in the BSR work
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 115
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: resolves
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 resolves that the ISO-UN/ECE Joint Working Group on ISO 9735, established by ISO/TC 154 according to the MoU between UN/ECE, ISO and IEC, shall work according to ISO Directives
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 116
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: requests
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 requests the secretariat to write a letter to the MoU Coordinating Committee requesting for an end of September 1997 cut off date for the submission of further parts of ISO 9735 Version 4 for the Fast-track procedure
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 117
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: requests
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 requests its secretariat to write a letter requesting ISO/TC 154 members and the UN/ECE to nominate experts to the Joint Working Group to resolve the commets received on ISO 9735 Version 4. According to the MoU the UN/ECE is also to be requested to nominate the convenor of the group
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 118
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    considerations:
+      - type: following
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: following on the resolution 101
+
+    actions:
+      - type: resolves
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: |
+          ISO/TC 154 resolves, following on the resolution 101, that the ad hoc group shall continue the work to revise the existing scope in accordance with the agreements reached at this meeting. The proposals shall be submitted to ISO/TC 154 Secretariat by the end of March 1997
+
+        Convenor of this group will be Tuisko Buchmann
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 119
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    considerations:
+      - type: recognising
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: Recognising that the ISO 7372 (TDED) covers data elements in support of trade and that these data elements are composed of data elements concepts plus representation and that the BSR is predicated on the specification of data elements concepts alone
+
+
+    actions:
+      - type: establishes
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: |
+          ISO/TC 154 resolves to establish a special task force for the revision of ISO 7372. Subject to confirmation the group will consist of:
+          Marcel Deturche (Convenor)
+          Pierre Chaussard
+          Tuisko Buchmann
+          Robert (Bob) Crowley
+          Denis Hill
+          Alain Thiénot
+          Jean Kubler / Francois Vuillemier
+          Hartmut Hermes / Sabine Hofmann
+
+      - type: resolves
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: |
+          ISO/TC 154 resolved that
+          - there is a need for a consolidated data element directory to cover BSU representation in standards published by ISO/TC 154, mainly ISO 6422 (Layout key for trade documents) and UN/TDID
+          - in order to achieve consistency of data specification across all subject areas, the work of ISO/TC 154 shall be progressed in close collaboration with ISO/IEC JTC 1/SC 14 (and the use of ISO/IEC 11179) and the BSR project
+          - the data element directory shall have its own maintenance procedures and rules
+          - at a further stage other subject areas can be added
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 120
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: requests
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: Subject to confirmation by the US member body to take over the responsibility of the secretariat of ISO/TC 154/SC 2 "Documents", ISO/TC 154 requests that the US member body prepare a proposal for a new scope for ISO/TC 154/SC 2 and a possible new title for approval by ISO/TC 154 at the next plenary meeting
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 121
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: resolves
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 resolves to retain the WI on ISO 8601 "Data elements and interchange formats - information interchange - Representation of Dates and Times". The secretariat is requested to write a letter to the ISO/CS, confirming this with justification
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 122
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: disbands
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 resolves to disband ISO/TC 154/SC 5 "Tourism and leisure" according to resolution 107
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 123
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: thanks
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 thanks AFNOR for hosting the plenary meeting and the efficient support
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier: 124
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: thanks
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 expresses its appreciation to Ms Ingeborg Burger-Balogh to her excellent chairing of the meeting
+
+
+  - dates:
+      - 1996-10-21
+      - 1996-10-22
+    identifier:
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Unanimous
+
+    actions:
+      - type: thanks
+        date_effective:
+          start: 1996-10-21
+          end: 1996-10-22
+        message: ISO/TC 154 thanks its secretariat and the editing committee for its efficient support
+
