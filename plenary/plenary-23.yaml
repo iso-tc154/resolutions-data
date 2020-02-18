@@ -4,9 +4,9 @@ metadata:
   source: ISO/TC154
 resolutions:
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 21
+    identifier: action-21
 
     approvals:
       - type: affirmative
@@ -17,17 +17,18 @@ resolutions:
       - type: requests
         date_effective: 2004-09-23
         message: |
-        Having identified few errors in ISO 7372:2005 Trade Data Elements Directory, ISO/TC154 resolves to ask the Joint ISO 7372 - UNTDED MA to draft a corrigendum. The Task Force to finalize this draft will include:
-        - François Vuilleumier (convenor)
-        - Sue Probert
-        - Freddy De Vos
-        - Henk van Maaren
-        - Petr Wallenfels
-        This Task Force, working with UN/CEFACT TBG, shall identify which TBG Work Group(s) shall process all comments that cannot be addressed by the corrigendum.
+          Having identified few errors in ISO 7372:2005 Trade Data Elements Directory, ISO/TC154 resolves to ask the Joint ISO 7372 - UNTDED MA to draft a corrigendum. The Task Force to finalize this draft will include:
+
+          - François Vuilleumier (convenor)
+          - Sue Probert
+          - Freddy De Vos
+          - Henk van Maaren
+          - Petr Wallenfels
+          This Task Force, working with UN/CEFACT TBG, shall identify which TBG Work Group(s) shall process all comments that cannot be addressed by the corrigendum.
 
 
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 256
 
@@ -43,7 +44,7 @@ resolutions:
 
 
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 257
 
@@ -59,7 +60,7 @@ resolutions:
 
 
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 258
 
@@ -75,7 +76,7 @@ resolutions:
 
 
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 259
 
@@ -88,14 +89,15 @@ resolutions:
       - type: resolves
         date_effective: 2004-09-23
         message: |
-        In accordance with the eBusiness MoU, ISO/TC154 resolves to recommend to the ISO/TC154 member countries and liaison organizations that they should:
-        - submit candidate standards for business vocabularies to UN/CEFACT;
-        - submit only eBusiness-related candidate implementation methodologies, specifications and guidelines based on the Core Component Technical Specification (ISO/TS 15000) for consideration as future ISO publications through ISO/TC154;
-        - implement the UN/CEFACT Core Component Technical Specification (ISO/TS 15000) and the UN/CEFACT XML naming and design rules.
+          In accordance with the eBusiness MoU, ISO/TC154 resolves to recommend to the ISO/TC154 member countries and liaison organizations that they should:
+
+          - submit candidate standards for business vocabularies to UN/CEFACT;
+          - submit only eBusiness-related candidate implementation methodologies, specifications and guidelines based on the Core Component Technical Specification (ISO/TS 15000) for consideration as future ISO publications through ISO/TC154;
+          - implement the UN/CEFACT Core Component Technical Specification (ISO/TS 15000) and the UN/CEFACT XML naming and design rules.
 
 
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 260
 
@@ -108,12 +110,13 @@ resolutions:
       - type: resolves
         date_effective: 2004-09-23
         message: |
-        Several ebXML parts have been updated since being approved as ISO/TS 15000 Technical Specifications. However, no requests have been received to formally update these ISO specifications. It is critically important that all members who have maintenance responsibility of ISO/TC154 standards fulfil their responsibilities.
-        Therefore, ISO/TC154 resolves to remind OASIS that as the Maintenance Agency for ISO/TS 15000 parts 1 through 4, they must initiate action to update these ISO/TSs consistent with updated versions published as OASIS specifications, or else ISO/TC154 will take action to request removal of the appropriate ISO version.
+          Several ebXML parts have been updated since being approved as ISO/TS 15000 Technical Specifications. However, no requests have been received to formally update these ISO specifications. It is critically important that all members who have maintenance responsibility of ISO/TC154 standards fulfil their responsibilities.
+
+          Therefore, ISO/TC154 resolves to remind OASIS that as the Maintenance Agency for ISO/TS 15000 parts 1 through 4, they must initiate action to update these ISO/TSs consistent with updated versions published as OASIS specifications, or else ISO/TC154 will take action to request removal of the appropriate ISO version.
 
 
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 261
 
@@ -129,7 +132,7 @@ resolutions:
 
 
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 262
 
@@ -142,14 +145,15 @@ resolutions:
       - type: resolves
         date_effective: 2004-09-23
         message: |
-        Concerning the current ballot on ISO/NP 25557 eDocs, ISO/TC154 resolves to recommend to its voting members to take note of the position of the UN/CEFACT Forum concerning the possible outcomes of the discussion on the UNeDocs eUNLK issues.
-        Independent of the outcome of the currently worded ballot, ISO/TC154 resolves to create a Joint Working group with the UN/CEFACT Forum, providing that the Forum agrees.
+          Concerning the current ballot on ISO/NP 25557 eDocs, ISO/TC154 resolves to recommend to its voting members to take note of the position of the UN/CEFACT Forum concerning the possible outcomes of the discussion on the UNeDocs eUNLK issues.
+
+          Independent of the outcome of the currently worded ballot, ISO/TC154 resolves to create a Joint Working group with the UN/CEFACT Forum, providing that the Forum agrees.
 
 
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 22
+    identifier: action-22
 
     approvals:
       - type: affirmative
@@ -163,7 +167,7 @@ resolutions:
 
 
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 263
 
@@ -176,13 +180,14 @@ resolutions:
       - type: resolves
         date_effective: 2004-09-23
         message: |
-        ISO/TC154, noting that the chair and secretary duty of Mr. Vuilleumier ends in December 2005, resolves
-        - to thank Mr. Vuilleumier for agreeing to fulfil these duties for at least one more year
-        - to request Mr. Vuilleumier to identify which ISO/TC154 P-member could, in due time, take over these duties
+          ISO/TC154, noting that the chair and secretary duty of Mr. Vuilleumier ends in December 2005, resolves
+
+          - to thank Mr. Vuilleumier for agreeing to fulfil these duties for at least one more year
+          - to request Mr. Vuilleumier to identify which ISO/TC154 P-member could, in due time, take over these duties
 
 
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 264
 
@@ -198,7 +203,7 @@ resolutions:
 
 
   - dates:
-        - 2004-09-23
+      - 2004-09-23
     subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
     identifier: 265
 
@@ -211,6 +216,8 @@ resolutions:
       - type: resolves
         date_effective: 2004-09-23
         message: |
-        Next ISO/TC154 meetings:
-        The 24th meeting, should take place on the Wednesday, 22 March 2006, in Vancouver, BC, back-to-back after the eBusiness MoU/MG (meeting 2006-03-20/21) and the UN/CEFACT Forum (meeting 2006-03-13/17), both these meetings also taking place in Vancouver.
-        The 25th meeting should take place in the 2nd half of 2006. The ISO/TC154 chair shall consult with the participants of the 23rd/24th meeting(s) to set the date and place of this 25th meeting back-to-back to a relevant other meeting of e.g. ISO/TC184 or the UN/CEFACT Forum.
+          Next ISO/TC154 meetings:
+
+          The 24th meeting, should take place on the Wednesday, 22 March 2006, in Vancouver, BC, back-to-back after the eBusiness MoU/MG (meeting 2006-03-20/21) and the UN/CEFACT Forum (meeting 2006-03-13/17), both these meetings also taking place in Vancouver.
+
+          The 25th meeting should take place in the 2nd half of 2006. The ISO/TC154 chair shall consult with the participants of the 23rd/24th meeting(s) to set the date and place of this 25th meeting back-to-back to a relevant other meeting of e.g. ISO/TC184 or the UN/CEFACT Forum.
