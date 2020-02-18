@@ -1,11 +1,8 @@
 metadata:
   title:  Resolutions taken at the 15th plenary meeting of ISO/TC 154
-  date: 
   source: ISO/TC154
 resolutions:
-  - dates:
-      -  
-    identifier: 138
+  - identifier: 138
 
     approvals:
       - type: affirmative
@@ -14,13 +11,10 @@ resolutions:
 
     actions:
       - type: agrees
-        date_effective:
         message: As there will be on-going users for version 3 of ISO 9735, ISO Central Secretariat has agreed that this version will be kept as retained edition.
 
 
-  - dates:
-      -  
-    identifier: 139
+  - identifier: 139
 
     approvals:
       - type: affirmative
@@ -29,13 +23,10 @@ resolutions:
 
     actions:
       - type: forwards
-        date_effective:
         message: The ad hoc group under resolution 139 has prepared a contribution to the problem of maintenance and disctribution of service elements. This contribution was forwarded to the JSWG and will be delt with under item 7.1.5 of draft agenda.
 
 
-  - dates:
-      -  
-    identifier: 140
+  - identifier: 140
 
     approvals:
       - type: affirmative
@@ -44,16 +35,13 @@ resolutions:
 
     actions:
       - type: recommends
-        date_effective:
         message: |
         This resolution was passed basing on a misleading interpretation. The chair of the Joint Syntax Working Group will further be available.
-        
+
         It is recommended to withdraw this resolution. This subject will be delt with under item 5.1 of the draft agenda.
 
 
-  - dates:
-      -  
-    identifier: 141
+  - identifier: 141
 
     approvals:
       - type: affirmative
@@ -62,13 +50,10 @@ resolutions:
 
     actions:
       - type: agrees
-        date_effective:
         message: In agreement with the TMB the name of the BSR was changed to "Basic Semantic Register".
 
 
-  - dates:
-      -  
-    identifier: 142
+  - identifier: 142
 
     approvals:
       - type: affirmative
@@ -77,13 +62,10 @@ resolutions:
 
     actions:
       - type: resolves
-        date_effective:
         message: Only one of the formerly three system providers has hold its offer for the BSR operating platform and registration authority open. The offer was investigated by the review team. The review team came to the conclusion that the French offer could be developed to be capable of satisfying the requirements for the BSR. The report of the review team will be delt with under item 7.3.4 of the draft agenda.
 
 
-  - dates:
-      -  
-    identifier: 143
+  - identifier: 143
 
     approvals:
       - type: affirmative
@@ -92,13 +74,10 @@ resolutions:
 
     actions:
       - type: recommends
-        date_effective:
         message: The recommended collaboration with other bodies in relation to the BSR was persued. Especially with regard to ISO/TC 68 a close cooperation in to be expected. This subject will be discussed under item 7.3.5 of the draft agenda.
 
 
-  - dates:
-      -  
-    identifier: 144
+  - identifier: 144
 
     approvals:
       - type: affirmative
@@ -107,20 +86,17 @@ resolutions:
 
     actions:
       - type: approves
-        date_effective:
         message: |
         The two new work item proposals concerning BSR were approved. The new project numbers were allocated as follows:
-        
+
         - ISO/NP 16668 Basic Semantic Repository (BSR) - Rules, Guidelines and Methodology
-        
+
         - ISO/NP 16669 Basic Semantic Repository (BSR) - Content (Semantic Components; Semantic Constructs and Bridges)
-        
+
         The further procedure will be subject of discussion under items 7.3.2 and 7.3.3 of the draft agenda
 
 
-  - dates:
-      -  
-    identifier: 145
+  - identifier: 145
 
     approvals:
       - type: affirmative
@@ -129,13 +105,10 @@ resolutions:
 
     actions:
       - type: considers
-        date_effective:
         message: The recommendation of ISO/TC 154 for the setting up of a single ISO Technical Commitee covering the meta standards and the implementation level standards in support of EDI/EC has led to discussions in several committees. Further negotiations will be necessary before a concrete proposal can be made. It should be considered whether this subject should not better be delt with at a higher level, e.g. the MoU/Management Group.
 
 
-  - dates:
-      -  
-    identifier: 146
+  - identifier: 146
 
     approvals:
       - type: affirmative
@@ -144,13 +117,10 @@ resolutions:
 
     actions:
       - type: forwards
-        date_effective:
         message: With regard to the US position to the extended MoU especially the inclusion of CALS ISO Central Secretariat has forwarded a letter to the US TAG setting out the correct TMB position.
 
 
-  - dates:
-      -  
-    identifier: 147
+  - identifier: 147
 
     approvals:
       - type: affirmative
@@ -159,13 +129,10 @@ resolutions:
 
     actions:
       - type: approves
-        date_effective:
         message: The members of ISO/TC were requested to submit comments on the draft extended MoU. No comments were received. The secretariat therefore has notified ISO/CS of its approval.
 
 
-  - dates:
-      -  
-    identifier: 150
+  - identifier: 150
 
     approvals:
       - type: affirmative
@@ -174,5 +141,4 @@ resolutions:
 
     actions:
       - type: resolves
-        date_effective:
         message: By support of the German member body as a first step a list server was installed.
