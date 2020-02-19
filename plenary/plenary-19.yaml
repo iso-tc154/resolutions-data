@@ -113,11 +113,11 @@ resolutions:
       - type: resolves
         date_effective: 2002-09-06
         message: |
-        ISO/TC 154 resolves to set up a Task Force to process the substantive comments in a subsequent revision of ISO 8601, "Representation of dates and times".
+          ISO/TC 154 resolves to set up a Task Force to process the substantive comments in a subsequent revision of ISO 8601, "Representation of dates and times".
 
-        The task force members are: Mr Vuilleumier (SNV, CH, Convener), Mr Visser (NEN, NL), Mr Crowley (US), Mr Itoh (JISC, JP), Mr Boesler (DIN, DE) and Mr Bezos (ISO/TC 184 liaison).
+          The task force members are: Mr Vuilleumier (SNV, CH, Convener), Mr Visser (NEN, NL), Mr Crowley (US), Mr Itoh (JISC, JP), Mr Boesler (DIN, DE) and Mr Bezos (ISO/TC 184 liaison).
 
-        The TF Convener shall report back to the ISO/TC 154 before end of 2002.
+          The TF Convener shall report back to the ISO/TC 154 before end of 2002.
 
 
   - dates:
@@ -181,7 +181,8 @@ resolutions:
     actions:
       - type: requests
         date_effective: 2002-09-06
-        message: ISO/TC 154 resolves, in line with ISO7372MA resolution 2 (see document 154 N 420), to request its WG 1 contact other "standardisation bodies or consortia" in order to know if they want to bring their data and participate to the analysis and comparison with other directories contained in the multilingual semantic tool developed during the BSR project. Examples of such bodies are: CEFACT Forum, OASIS, SWIFT, ISO/TC 68, ISO/TC 184. The WG 1 shall report to TC 154 at its next meeting.
+        message: |
+          ISO/TC 154 resolves, in line with ISO7372MA resolution 2 (see document 154 N 420), to request its WG 1 contact other "standardisation bodies or consortia" in order to know if they want to bring their data and participate to the analysis and comparison with other directories contained in the multilingual semantic tool developed during the BSR project. Examples of such bodies are: CEFACT Forum, OASIS, SWIFT, ISO/TC 68, ISO/TC 184. The WG 1 shall report to TC 154 at its next meeting.
 
 
   - dates:
@@ -197,7 +198,8 @@ resolutions:
     actions:
       - type: agrees
         date_effective: 2002-09-06
-        message: ISO/TC 154, taking account of changes in semantic registers development, agrees to the WG 1 request to change its name to: "Semantic engine", in order to provide a better visibility on this part of its work. The objective of the WG 1 remains: "to act as a central reference to assist in the universal, multilingual understanding of data across commerce, industry and administration" (TC 154 resolution 159: see doc. 154n303).
+        message: |
+          ISO/TC 154, taking account of changes in semantic registers development, agrees to the WG 1 request to change its name to: "Semantic engine", in order to provide a better visibility on this part of its work. The objective of the WG 1 remains: "to act as a central reference to assist in the universal, multilingual understanding of data across commerce, industry and administration" (TC 154 resolution 159: see doc. 154n303).
 
 
   - dates:
