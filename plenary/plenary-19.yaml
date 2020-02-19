@@ -147,7 +147,7 @@ resolutions:
         message: Unanimous
 
     actions:
-      - type: chairs
+      - type: resolves
         date_effective: 2002-09-06
         message: ISO/TC 154 Chair to take note that the next ISO 11180, "Postal addressing", systematic review will take place in 2003.
 
@@ -163,7 +163,7 @@ resolutions:
         message: Unanimous
 
     actions:
-      - type: chairs
+      - type: resolves
         date_effective: 2002-09-06
         message: ISO/TC 154 Chair to take note that the next ISO TS 16668, "BSR", systematic review will take place in 2003.
 
