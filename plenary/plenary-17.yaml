@@ -1,5 +1,5 @@
 metadata:
-  title: Resolutions/action items of the 17th meeting in Prague
+  title: Resolutions and action items of the ISO/TC154 17th meeting, Revision 1 2000-09-20/21, Prague, CZ.
   date:
     start: 2000-09-20
     end: 2000-09-21
@@ -83,12 +83,22 @@ resolutions:
         date_effective: 2000-09-21
         message: |
           ISO/TC 154 resolves to issue a Technical Corrigendum on ISO8440:1986, based on document TC154N316.
+
           The editor is Mr Boesler (DIN, DE).
 
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    identifier: 6
+
+    actions:
+      - type: notes
+        date_effective: 2000-09-21
+        message: The resulting document will be forwarded to the Secretariat of ISO/TC 154.
 
   - dates:
-      start: 2000-09-20
-      end: 2000-09-21
+    start: 2000-09-20
+    end: 2000-09-21
     subject: ISO/TC 154
     identifier: 186
 
@@ -160,7 +170,11 @@ resolutions:
 
       - type: noting
         date_effective: 2000-09-21
-        message: "noting the TC154/WG 1 Resolution 13, which states : “ISO/TC154/WG1 appoints Mr Vuilleumier as liaison officer, to be assisted by deputies, to the EWG meeting to be held in Washington DC in 2001-03” ;"
+        message: and furthermore noting the will and need expressed in this Resolution 19 of EWG 2000-09, for a single, syntax independent repository of semantic concepts ;
+
+      - type: noting
+        date_effective: 2000-09-21
+        message: "noting the TC154/WG 1 (BSR) Resolution 13, which states : “ISO/TC154/WG1 appoints Mr Vuilleumier as liaison officer, to be assisted by deputies, to the EWG meeting to be held in Washington DC in 2001-03” ;"
 
       - type: recognising
         date_effective: 2000-09-21
@@ -176,16 +190,13 @@ resolutions:
 
       - type: noting
         date_effective: 2000-09-21
-        message: and furthermore noting the will and need expressed in Resolution 19 of EWG September 2000, for a single, syntax independent repository of semantic concepts ;
-
-      - type: noting
-        date_effective: 2000-09-21
         message: |
-          BACKGROUND:
-            - Historically the UNTDED was first issued as the single, common repository of semantic concepts that are used in the paper environment, later also in EDI, with bridges (so called "topographical co-ordinates") to sectoral directories as CIMP of IATA, SAD of EC/EFTA, SWIFT and MAR of IMO ;
-            - the EDI developments, specially UN/EDIFACT, were based initially on this semantic concepts repository ISO7372 (UNTDED) ;
-            - over time, the concept of generic data element and coded qualifiers developed by UN/EDIFACT enforced the syntax dependence for expressing semantic concepts ;
-            - hence a semantic concept in UN/EDIFACT requires usually a combination of at least a data element along with a code value.
+          BACKGROUND :
+          - Historically the UNTDED was first issued as the single, common repository of semantic concepts that are used in the paper environment, later also in EDI, with bridges (so called "topographical co-ordinates") to sectoral directories as CIMP of IATA, SAD of EC/EFTA, SWIFT and MAR of IMO ;
+          - the EDI developments, specially UN/EDIFACT, were based initially on this semantic concepts repository ISO7372 (UNTDED) ;
+          - over time, the concept of generic data element and coded qualifiers developed by UN/EDIFACT enforced the syntax dependence for expressing semantic concepts ;
+          - hence a semantic concept in UN/EDIFACT requires usually a combination of at least a data element along with a code value.
+
 
     actions:
       - type: resolves
@@ -195,6 +206,7 @@ resolutions:
       - type: resolves
         date_effective: 2000-09-21
         message: to present BSR and ISO 7372 (UNTDED) to EWG and discuss opportunities for cooperation with UN/EDIFACT.
+
 
   - dates:
       start: 2000-09-20
@@ -210,15 +222,15 @@ resolutions:
     actions:
       - type: resolves
         date_effective: 2000-09-21
-        message: "to further process the issue of a possible revision of ISO7372 (UNTDED) ;"
+        message: to further process the issue of a possible revision of ISO7372:1993 (UNTDED) ;
 
       - type: resolves
         date_effective: 2000-09-21
-        message: "to deliver its position by 2001-05-11."
+        message: to deliver its position by 2001-05-11.
 
       - type: notes
         date_effective: 2000-09-21
-        message: "This may result in a reactivation of the Joint UN-ECE/ISO Maintenance Agency (see document ISO/TC154N339)."
+        message: This may result in a reactivation of the Joint UN-ECE/ISO Maintenance Agency (see document ISO/TC154N339).
 
 
   - dates:
@@ -304,6 +316,22 @@ resolutions:
       - type: resolves
         date_effective: 2000-09-21
         message: ISO/TC 154 resolves to hold its next meeting (18th) back-to-back before the EWG meeting in Europe, 2001-09 (date and place to be determined).
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject: ISO/TC 154
+    identifier: action-7
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: notes
+        date_effective: 2000-09-21
+        message: "The Secretary of JSWG to deliver to ISO/TC154 Chairman (for distribution as a TC154 document) an overview paper of the new 10 parts of ISO 9735 “EDIFACT – Application level syntax rules (Syntax version number: 4)” and time-plan for the publication of these 10 parts."
 
 
   - dates:

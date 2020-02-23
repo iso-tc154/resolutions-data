@@ -1,0 +1,402 @@
+metadata:
+  title: Resolutions and action items of the ISO/TC 154 18th meeting 2001-09-05/07, Brussels, BE
+  date: 
+    start: 2001-09-05
+    end: 2001-09-07
+  source: ISO/TC 154
+
+resolutions:
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 197
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2001-09-07
+        message: ISO/TC 154 resolves to publish the document ISO/TC154/WG1 N22 Rev 2 (see document 154 N 377 add 1) as a standing document. Mr J-L Commo will finalize the document.
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    identifier: 198
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: appreciates
+        date_effective: 2001-09-07
+        message: ISO/TC 154 appreciates the demonstration of the “BSR tool” made by Mr Alain Chapdaniel during the meeting and thanks very much the French consortium for their valuable contribution.
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 199
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2001-09-07
+        message: |
+        ISO/TC 154 expresses strong interest in the possible use of the BSR tool. Therefore, TC 154 resolves to approach the French consortium to request that this tool may be made available for a trial arranged as follows :
+
+        a/ Participants to the trial : CH, FR, US, DE, AU, GB, YU, JP, CZ, CN, and ISO/TC68, ISO/TC184, EWG(T1), FIATA and WCO (see document 154 N 373: ISO/TC 154 18th meeting attendance list) ;
+
+        b/ Populating directory        and        contact person :
+        - ISO 7372:1993 (UNTDED)              Mr François Vuilleumier ;
+        - EDIFACT directories                 Ms Margaret Pemberton ;
+        - ebXML core components               Ms Mary K. Blantz ;
+        - G 7 data harmonisation group        Mr Thomas Morawietz ;
+        - ISO/TC 68                           Mr Frank Vandamme ; and
+        - ISO/TC 184 (STEP)                   Mr Alain Bezos ; and
+        - candidates BSUs                     Mr Hartmut Hermes.
+        These directories must be sent by 2001-09-20 to Mr Alain Chapdaniel ;
+
+        c/ Trial period :
+        - 2001-10-01 : starting of the trial ;
+        - 2002-03-08 : closing of the trial and delivery of a trial reports to TC 154 Chair ;
+        - 2002-04-30 : TC 154 Chair to circulate a summary report on the results of the trial to TC 154 Members for further processing.
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject:
+    identifier: 8
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: notes
+        date_effective: 2001-09-07
+        message: ISO/TC 154 notes that its WG 1 will organise a workshop, in Paris, on 2001-10-23 afternoon and 24 morning, and afternoon if necessary, (dates to be confirmed), to discuss the BSR tool and to make proposals on the BSR project.
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 200
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2001-09-07
+        message: |
+        ISO/TC 154 resolves to discontinue, at least for the time being, any development of new BSUs for the BSR. ISO/TC 154 recognises that there are empowered bodies within UN/CEFACT that are better resourced to do this work, and that any duplication of effort would be a waste of their limited resources.
+        This resolution will be reassessed at the next (19th) plenary meeting.
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject:
+    identifier: 9
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: asks
+        date_effective: 2001-09-07
+        message: ISO/TC 154 asks the BSR consortium to deliver the latest results of the ISO/TC 154 project on the development of BSUs to the Core Components (cc) developers as input to their development work. This shall happen prior to the meetings of the Core Components developers in Rotterdam, starting on 2001-09-10.
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 201
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: appreciates
+        date_effective: 2001-09-07
+        message: ISO/TC 154, considering action 9, will greatly appreciate to receive the results of the Core Components developers’ work.
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject:
+    identifier: 202
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2001-09-07
+        message: |
+        ISO/TC 154 resolves to grant an International Liaison A status for :
+        - EFTA
+          liaison officer : Mr Knut Hermansen, EFTA Secretariat
+        - EWG (UN/EDIFACT Working Group)
+          liaison officer : Ms Margaret Pemberton, EWG/T1 chair
+        - CDWG (UN/CEFACT Code Working Group)
+          liaison officer : Mr David Dobbing, CDWG chair.
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject:
+    identifier: 203
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: confirms
+        date_effective: 2001-09-07
+        message: ISO/TC 154 confirms ISO 6422:1985, [UN] Layout key for trade documents [UNLK], and ISO 8439:1990, “Forms design – Basic layout”.
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject:
+    identifier: 204
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2001-09-07
+        message: ISO/TC 154 resolves to send the 2nd edition of ISO 9735:1998/1999 (i.e. : version 4 release 1) to ISO/CS for fast-tracking.
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: ISO/TC 154 :
+    identifier: 205
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    considerations:
+      - type: recalling
+        date_effective: 2001-09-07
+        message: |
+        recalling the role and importance of international standards and that :
+        - when members from international organizations adopt international standards and harmonize their technical regulations worldwide, everybody stands to gain ;
+        - national legislative and regulatory work is simplified and accelerated when reference can be made to internationally agreed standards ;
+        - the vital role of international standards as the technical foundation for the global market is explicitly recognized in the World Trade Organization (WTO) Agreement on Technical Barriers to Trade ;
+
+      - type: recalling
+        date_effective: 2001-09-07
+        message: |
+        recalling the role of the IEC, ISO, ITU and UNECE Memorandum of Understanding on Electronic Business and that :
+        - coordinated standards are essential and that standards developed within the domain of each organization will be interoperable and technically consistent ;
+        - with a view to avoiding duplication of efforts, the standardization organizations will continue their technical cooperation to secure complementary and synergetic efforts ;
+        - there is a need to avoid confusion amongst users ;
+
+      - type: recognizing
+        date_effective: 2001-09-07
+        message: recognizing the need for a single global business semantics repository for the development of e-business applications ;
+
+      - type: recognizing
+        date_effective: 2001-09-07
+        message: recognizing the role of ISO 7372 and recalling ISO/TC 154 Resolutions 189 and 190 (see above) on a possible revision of ISO 7372 in cooperation with relevant bodies ;
+
+      - type: acknowledging
+        date_effective: 2001-09-07
+        message: acknowledging the work done by the UN/EDIFACT Working group (EWG) since 1993 and other works, such as the WCO/G 7 Customs Harmonization Initiative based on ISO 7372:1993 ; and
+
+      - type: recognizing
+        date_effective: 2001-09-07
+        message: recognizing that ISO 7372 should be inclusive of the various sectors resulting in a common set of basic semantic elements and resolving the harmonization of the semantics when required ;
+
+    actions:
+      - type: resolves
+        date_effective: 2001-09-07
+        message: to initiate an upward compatible revision of ISO 7372:1993, with the next version available by 2003 ;
+
+      - type: resolves
+        date_effective: 2001-09-07
+        message: | 
+        to reactivate the ISO 7372 Maintenance Agency (see document 154 N 339), by establishing a Task Team chaired by Mr François Vuilleumier (ISO/TC 154 Chair) and consisting of : Mr Dietmar Jost (WCO), Mr David Dobbing (CDWG Chair), Mr Sandro Consoli (FIATA), Ms Sophie Clivio (ISO/CS), Mr Claude Chiaramonti (ISO/TC 154/WG 1 Convenor), Mr Frank Vandamme (ISO/TC 68 ; person to be confirmed), Mr Jean Kubler (UNECE Secretariat) and Ms Margaret Pemberton (EWG/T1 Chair), mandated to :
+        - develop by 2001-11-22 a concept document that describes the vision that supports the revision of ISO 7372, the strategy and a workplan. The document should take into account the UNTDID (UN/EDIFACT) and related work, agreed definitions to be used and issues to be resolved ;
+        - submit the document to ISO/TC 154 for comments for a review period of 1 month and reconcile the comments received for approval by ISO/TC 154 members ;
+        - submitting the approved document to the ISO 7372 Maintenance Agency (MA) for implementation, with an invitation letter for a first meeting of the ISO 7372 MA (see Resolution 208).
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 206
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2001-09-07
+        message: ISO/TC 154 resolves to request ISO/TMB to put ISO 8601:2000, “Representation of dates and times”, into the public domain.
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 10
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2001-09-07
+        message: ISO/TC 154 Chair will inform Mr Louis Visser (ISO 8601 editor) of Resolution 206, thanking him for his excellent work.
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 207
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: establishes
+        date_effective: 2001-09-07
+        message: |
+        ISO/TC 154 establishes a Project Team in charge of further work on ISO/NP 22208 “Rules for the operation of EDI/EC registration authorities”, consisting of :
+        - Mr Alain Thiénot (Edira), Project leader,
+        - Ms Éva Imre (HU),
+        - Mr Hartmut Hermes (DE),
+        - Mr Louis Visser (NL),
+        - Mr Petr Wallenfels (CZ),
+        - Mr Otto Mueller (CH, Edira Chair),
+        - Ms Anna Wadsworth (BSI, ISO 6523 Registration Authority),
+        - [name to be provided] (ISO/TC 68),
+        - [name to be provided] (ISO/IEC JTC 1/SC 32),and
+        - [name to be provided] (ANSI ASC X12).
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 11
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: notes
+        date_effective: 2001-09-07
+        message: ISO/TC 154 Chair will issue the draft of ISO/CD22208-1 as document 154 N 381.
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 208
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2001-09-07
+        message: ISO/TC 154 resolves to organize a meeting of ISO 7372 MA (see resolution 205). The meeting will take place in Geneva (CH), in the period of 2002-03-12 afternoon to 2002-03-15 morning.
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 209
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2001-09-07
+        message: ISO/TC 154 resolves to hold its next meeting (19th) in Geneva (CH), on 2002-03-15 afternoon.
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 210
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: thanks
+        date_effective: 2001-09-07
+        message: ISO/TC 154 thanks Mr François Vuilleumier for his wise and efficient chairmanship.
+
+
+  - dates:
+    start: 2001-09-05
+    end: 2001-09-07
+    subject: 
+    identifier: 211
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: adopted
+
+    actions:
+      - type: thanks
+        date_effective: 2001-09-07
+        message: ISO/TC 154 thanks World Customs Organization and Mr Dietmar Jost, for hosting the meeting and for the excellent arrangement.
