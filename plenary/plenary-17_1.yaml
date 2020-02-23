@@ -1,0 +1,323 @@
+metadata:
+  title: Resolutions/action items of the 17th meeting in Prague
+  date: 
+    start: 2000-09-20
+    end: 2000-09-21
+  source: ISO/TC 154
+
+resolutions:
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    identifier: 172
+
+    approvals:
+      - type: 
+        degree: 
+        message: Open
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: ISO/TC 154 resolves that all documents of ISO/TC 154 will only be distributed electronically from now on. A task force composed of TC 154 Chair, secretary, WG1 secretary, ISO/CS and JSWG secretary will finalize the organization of the stock of ISO TC 154 documents.
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    identifier: 178
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Confirmed
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: ISO/TC 154 resolves to create a ISO/TC 154 Chair Advisory Board, consisting of JISC (JP), BSI (GB), DIN (DE) and AFNOR (FR) to progress inter-sessional work activities. The Board will not have any decision making authority unless agreed by ISO/TC 154.
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    identifier: 180
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Confirmed
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: ISO/TC 154 resolves to nominate DIN (H. Hermes, DE) and BSI (S. Probert, UK) to act as TC 154 representative in the ebXML initiative and report back to ISO/TC 154.
+
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject: 
+    identifier: 184
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: confirms
+        date_effective: 2000-09-21
+        message: ISO/TC 154 confirms ISO 8440:1986, “Location of codes in trade documents”.
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    identifier: 185
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: |
+        ISO/TC 154 resolves to issue a Technical Corrigendum on ISO8440:1986, based on document TC154N316.
+        The editor is Mr Boesler (DIN, DE).
+
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject:
+    identifier: 186
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: ISO/TC 154 resolves to draw the attention of W3C (WWW Consortium) and other relevant bodies as, e.g., UN/CEFACT and MoU/MG, on ISO8440:1986 and its Technical Corrigendum, as well as an up-dated document TC154N324 (“Suite of ISO standards around the UN layout-key and UNTDED” of 1999-12-06) to be provided by ISO/TC154 Secretary.
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject: 
+    identifier: 187
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: ISO/TC 154 resolves to submit the revision of ISO8601:1988, “Representation of dates and times”, related to Year 2000 compliance (document TC154N344) to FDIS ballot using the ISO Minor Revision process, aiming to publish it in 2000.
+
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject:
+    identifier: 188
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: |
+        ISO/TC 154 further resolves to set up a Task Force to process the substantive comments in a subsequent revision of ISO8601, “Representation of dates and times”. 
+        The task force members are: Mr Visser (NNI, NL, Convenor), Mr Crowley (US), Mr Vuilleumier (ISO/TC 154 Chairman) and Mr Bezos (ISO/TC 184 liaison).
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject: ISO/TC 154:
+    identifier: 189
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    considerations:
+      - type: identifying
+        date_effective: 2000-09-21
+        message: identifying ISO7372 (UNTDED) as a key element in the set of ISO standards as listed in TC143N324 “Suite of ISO standards around the UN layout-key and UNTDED”, recognising MoU resolution 99/27, confirming the maintenance procedures of the standard as stated in ISO 7372 (UNTDED), section 2 (see TC154N339) :
+
+      - type: noting
+        date_effective: 2000-09-21
+        message: noting the EWG Resolution 19 from the 2000-09 meeting, related to joint collaboration between EWG and ANSI ASC X12 about core components ;
+
+      - type: noting
+        date_effective: 2000-09-21
+        message: noting the TC154/WG 1 Resolution 13, which states : “ISO/TC154/WG1 appoints Mr Vuilleumier as liaison officer, to be assisted by deputies, to the EWG meeting to be held in Washington DC in 2001-03” ;
+
+      - type: recognising
+        date_effective: 2000-09-21
+        message: recognising the need to secure consistency and continuity for existing user communities ;
+
+      - type: considering
+        date_effective: 2000-09-21
+        message: considering that any revision to ISO7372 (UNTDED) requires to take into account both EDED and UNCL of UN/EDIFACT ;
+
+      - type: taking
+        date_effective: 2000-09-21
+        message: taking stock of the need for it to address the role of the BSR in relation to the revision of ISO7372 (UNTDED) ;
+
+      - type: noting
+        date_effective: 2000-09-21
+        message: and furthermore noting the will and need expressed in Resolution 19 of EWG September 2000, for a single, syntax independent repository of semantic concepts ;
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: to establish a liaison group, composed of Mr Vuilleumier (ISO/TC 154 Chairman), liaison officer assisted by Mr Boesler (DIN, DE), Mr Chiaramonti (ISO/TC 154/WG 1 Convener), Mr Hermes (DIN, DE), Mr Kubler (ISO/TC 154 Secretary), to attend the EWG meeting to be held in Washington DC in 2001-03 ; and
+
+      - type: resolves
+        date_effective: 2000-09-21
+        message: to present BSR and ISO 7372 (UNTDED) to EWG and discuss opportunities for cooperation with UN/EDIFACT.
+
+      - type: notes
+        date_effective: 2000-09-21
+        message: |
+        BACKGROUND :
+        - Historically the UNTDED was first issued as the single, common repository of semantic concepts that are used in the paper environment, later also in EDI, with bridges (so called "topographical co-ordinates") to sectoral directories as CIMP of IATA, SAD of EC/EFTA, SWIFT and MAR of IMO ;
+        - the EDI developments, specially UN/EDIFACT, were based initially on this semantic concepts repository ISO7372 (UNTDED) ;
+        - over time, the concept of generic data element and coded qualifiers developed by UN/EDIFACT enforced the syntax dependence for expressing semantic concepts ;
+        - hence a semantic concept in UN/EDIFACT requires usually a combination of at least a data element along with a code value.
+
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject: ISO/TC 154, in cooperation with the relevant bodies, resolves :
+    identifier: 190
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: to further process the issue of a possible revision of ISO7372 (UNTDED) ;
+
+      - type: resolves
+        date_effective: 2000-09-21
+        message: to deliver its position by 2001-05-11.
+
+     - type: notes
+        date_effective: 2000-09-21
+        message: This may result in a reactivation of the Joint UN-ECE/ISO Maintenance Agency (see document ISO/TC154N339).
+
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject:
+    identifier: 191
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: ISO/TC 154 resolves to grant an International Liaison A status for the EDI/EC [Electronic Commerce] Registration Authorities Association (EDIRA).
+
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject:
+    identifier: 192
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: ISO/TC 154 resolves to set ISO/AWI 16669 to stage 00.20
+
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject:
+    identifier: 193
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: ISO/TC 154 resolves to publish the standing document ISO/TC154/WG1 N22 Rev.1 as an ISO/TC154[N353] document.
+
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject: 
+    identifier: 194
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: ISO/TC 154 resolves to ballot the New Work Item proposal for “Rules for the operation of EDI/EC registration authorities” (see TC154N318, to updated as TC154N354) for a three months ballot.
+
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject: 
+    identifier: 195
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: Adopted
+
+    actions:
+      - type: resolves
+        date_effective: 2000-09-21
+        message: ISO/TC 154 resolves to hold its next meeting (18th) back-to-back before the EWG meeting in Europe, 2001-09 (date and place to be determined).
+
+
+  - dates:
+    start: 2000-09-20
+    end: 2000-09-21
+    subject: 
+    identifier: 196
+
+    approvals:
+      - type: affirmative
+        degree: unanimous
+        message: By acclamation
+
+    actions:
+      - type: thanks
+        date_effective: 2000-09-21
+        message: ISO/TC 154 thanks ČSNI, MPO and Mr Petr Wallenfels (ČSNI) for hosting the meeting and for the excellent arrangement.
