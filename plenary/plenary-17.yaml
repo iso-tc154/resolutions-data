@@ -71,6 +71,7 @@ resolutions:
   - dates:
       start: 2000-09-20
       end: 2000-09-21
+    subject: ISO/TC 154
     identifier: 185
 
     approvals:
@@ -86,19 +87,20 @@ resolutions:
 
           The editor is Mr Boesler (DIN, DE).
 
-  - dates:
-    start: 2000-09-20
-    end: 2000-09-21
-    identifier: 6
+  # - dates:
+  #     start: 2000-09-20
+  #     end: 2000-09-21
+  #   subject: ISO/TC 154
+  #   identifier: action-6
+  #
+  #   actions:
+  #     - type: notes
+  #       date_effective: 2000-09-21
+  #       message: The resulting document will be forwarded to the Secretariat of ISO/TC 154.
 
-    actions:
-      - type: notes
-        date_effective: 2000-09-21
-        message: The resulting document will be forwarded to the Secretariat of ISO/TC 154.
-
   - dates:
-    start: 2000-09-20
-    end: 2000-09-21
+      start: 2000-09-20
+      end: 2000-09-21
     subject: ISO/TC 154
     identifier: 186
 
@@ -148,6 +150,7 @@ resolutions:
 
           The task force members are: Mr Visser (NNI, NL, Convenor), Mr Crowley (US), Mr Vuilleumier (ISO/TC 154 Chairman) and Mr Bezos (ISO/TC 184 liaison).
 
+
   - dates:
       start: 2000-09-20
       end: 2000-09-21
@@ -162,7 +165,11 @@ resolutions:
     considerations:
       - type: identifying
         date_effective: 2000-09-21
-        message: identifying ISO7372 (UNTDED) as a key element in the set of ISO standards as listed in TC143N324 “Suite of ISO standards around the UN layout-key and UNTDED”, recognising MoU resolution 99/27, confirming the maintenance procedures of the standard as stated in ISO 7372 (UNTDED), section 2 (see TC154N339)
+        message: "identifying ISO7372 (UNTDED) as a key element in the set of ISO standards as listed in TC143N324 “Suite of ISO standards around the UN layout-key and UNTDED”"
+
+      - type: identifying
+        date_effective: 2000-09-21
+        message: "recognising MoU resolution 99/27, confirming the maintenance procedures of the standard as stated in ISO 7372 (UNTDED), section 2 (see TC154N339):"
 
       - type: noting
         date_effective: 2000-09-21
@@ -184,19 +191,9 @@ resolutions:
         date_effective: 2000-09-21
         message: considering that any revision to ISO7372 (UNTDED) requires to take into account both EDED and UNCL of UN/EDIFACT ;
 
-      - type: taking
+      - type: considering
         date_effective: 2000-09-21
         message: taking stock of the need for it to address the role of the BSR in relation to the revision of ISO7372 (UNTDED) ;
-
-      - type: noting
-        date_effective: 2000-09-21
-        message: |
-          BACKGROUND :
-          - Historically the UNTDED was first issued as the single, common repository of semantic concepts that are used in the paper environment, later also in EDI, with bridges (so called "topographical co-ordinates") to sectoral directories as CIMP of IATA, SAD of EC/EFTA, SWIFT and MAR of IMO ;
-          - the EDI developments, specially UN/EDIFACT, were based initially on this semantic concepts repository ISO7372 (UNTDED) ;
-          - over time, the concept of generic data element and coded qualifiers developed by UN/EDIFACT enforced the syntax dependence for expressing semantic concepts ;
-          - hence a semantic concept in UN/EDIFACT requires usually a combination of at least a data element along with a code value.
-
 
     actions:
       - type: resolves
@@ -206,6 +203,15 @@ resolutions:
       - type: resolves
         date_effective: 2000-09-21
         message: to present BSR and ISO 7372 (UNTDED) to EWG and discuss opportunities for cooperation with UN/EDIFACT.
+
+      - type: notes
+        date_effective: 2000-09-21
+        message: |
+          BACKGROUND :
+            - Historically the UNTDED was first issued as the single, common repository of semantic concepts that are used in the paper environment, later also in EDI, with bridges (so called "topographical co-ordinates") to sectoral directories as CIMP of IATA, SAD of EC/EFTA, SWIFT and MAR of IMO ;
+            - the EDI developments, specially UN/EDIFACT, were based initially on this semantic concepts repository ISO7372 (UNTDED) ;
+            - over time, the concept of generic data element and coded qualifiers developed by UN/EDIFACT enforced the syntax dependence for expressing semantic concepts ;
+            - hence a semantic concept in UN/EDIFACT requires usually a combination of at least a data element along with a code value.
 
 
   - dates:
@@ -317,21 +323,21 @@ resolutions:
         date_effective: 2000-09-21
         message: ISO/TC 154 resolves to hold its next meeting (18th) back-to-back before the EWG meeting in Europe, 2001-09 (date and place to be determined).
 
-  - dates:
-    start: 2000-09-20
-    end: 2000-09-21
-    subject: ISO/TC 154
-    identifier: action-7
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Adopted
-
-    actions:
-      - type: notes
-        date_effective: 2000-09-21
-        message: "The Secretary of JSWG to deliver to ISO/TC154 Chairman (for distribution as a TC154 document) an overview paper of the new 10 parts of ISO 9735 “EDIFACT – Application level syntax rules (Syntax version number: 4)” and time-plan for the publication of these 10 parts."
+  # - dates:
+  #     start: 2000-09-20
+  #     end: 2000-09-21
+  #   subject: ISO/TC 154
+  #   identifier: action-7
+  #
+  #   approvals:
+  #     - type: affirmative
+  #       degree: unanimous
+  #       message: Adopted
+  #
+  #   actions:
+  #     - type: notes
+  #       date_effective: 2000-09-21
+  #       message: "The Secretary of JSWG to deliver to ISO/TC154 Chairman (for distribution as a TC154 document) an overview paper of the new 10 parts of ISO 9735 “EDIFACT – Application level syntax rules (Syntax version number: 4)” and time-plan for the publication of these 10 parts."
 
 
   - dates:

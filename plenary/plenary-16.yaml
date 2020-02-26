@@ -1,95 +1,104 @@
 metadata:
   title: Resolutions and action items of ISO/TC 154 meeting of 7-8 December 1999.
-  date: 
+  date:
     start: 1999-12-07
     end: 1999-12-08
   source: ISO/TC 154
+  apologies:
+    - Italy
+    - US
+    - UN/CEFACT
+    - WG1 Chair
 
 resolutions:
+
+  # - dates:
+  #     start: 1999-12-07
+  #     end: 1999-12-08
+  #   subject: ISO/TC 154
+  #   identifier: 154-157
+  #
+  #   approvals:
+  #     - type: affirmative
+  #       degree: unanimous
+  #       message: Addressed
+  #
+  #
+  # - dates:
+  #     start: 1999-12-07
+  #     end: 1999-12-08
+  #   subject: ISO/TC 154
+  #   identifier: 158
+  #
+  #   approvals:
+  #     - type: affirmative
+  #       degree: unanimous
+  #       message: Addressed
+  #
+  #   actions:
+  #     - type: notes
+  #       date_effective: 1999-12-08
+  #       message: See resolution 175
+  #
+  # - dates:
+  #     start: 1999-12-07
+  #     end: 1999-12-08
+  #   subject: ISO/TC 154
+  #   identifier: 159-161
+  #
+  #   approvals:
+  #     - type: affirmative
+  #       degree: unanimous
+  #       message: Addressed
+  #
+  # - dates:
+  #     start: 1999-12-07
+  #     end: 1999-12-08
+  #   subject: ISO/TC 154
+  #   identifier: 162
+  #
+  #   approvals:
+  #     - type: affirmative
+  #       degree: unanimous
+  #       message: Addressed
+  #
+  #   actions:
+  #     - type: notes
+  #       date_effective: 1999-12-08
+  #       message: See resolution 174
+  #
+  #
+  # - dates:
+  #     start: 1999-12-07
+  #     end: 1999-12-08
+  #   subject: ISO/TC 154
+  #   identifier: 163
+  #
+  #   approvals:
+  #     - type:
+  #       degree:
+  #       message: Addressed
+  #
+  #   actions:
+  #     - type: notes
+  #       date_effective: 1999-12-08
+  #       message: ISO/TC 154 confirms this resolution and request its Chair to consult with UPU on ISO 11180 Postal addressing. See also resolution 174.
+  #
+  # - dates:
+  #     start: 1999-12-07
+  #     end: 1999-12-08
+  #   subject: ISO/TC 154
+  #   identifier: 164-170
+  #
+  #   approvals:
+  #     - type:
+  #       degree:
+  #       message: Addressed
+
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
-    identifier: 154-157
-
-    approvals:
-      - type: 
-        degree: 
-        message: Addressed
-
-
-  - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    identifier: 158
-
-    approvals:
-      - type: 
-        degree: 
-        message: Addressed
-
-    actions:
-      - type: notes
-        date_effective: 1999-12-08
-        message: See resolution 175
-
-  - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    identifier: 159-161
-    
-    approvals:
-      - type: 
-        degree: 
-        message: Addressed
-
-  - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    identifier: 162
-    
-    approvals:
-      - type: 
-        degree: 
-        message: Addressed
-
-    actions:
-      - type: notes
-        date_effective: 1999-12-08
-        message: See resolution 174
-
-
-  - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject:
-    identifier: 163
-
-    approvals:
-      - type:
-        degree:
-        message: Addressed
-
-    actions:
-      - type: notes
-        date_effective: 1999-12-08
-        message: ISO/TC 154 confirms this resolution and request its Chair to consult with UPU on ISO 11180 Postal addressing. See also resolution 174.
-
-  - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
-    identifier: 164-170
-
-    approvals:
-      - type:
-        degree:
-        message: Addressed
-
-  - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject:
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 171
 
     approvals:
@@ -104,9 +113,9 @@ resolutions:
 
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject:
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 172
 
     approvals:
@@ -121,9 +130,9 @@ resolutions:
 
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject:
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 173
 
     approvals:
@@ -142,10 +151,29 @@ resolutions:
 
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: ISO/TC 154, identifying ISO 7372 as a key element in the set of ISO standards as listed in N324 - Suite of ISO standards around the UN Layout-Key and UNTDED, recognizing TC 154 resolutions 162 and 163 and MoU resolution 99/27, confirming the maintenance procedures of the standard as stated in ISO 7372, section 2:
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 174
+
+    considerations:
+      - type: identifying
+        date_effective:
+          start: 1999-12-07
+          end: 1999-12-08
+        message: identifying ISO 7372 as a key element in the set of ISO standards as listed in N324 - Suite of ISO standards around the UN Layout-Key and UNTDED
+
+      - type: recognizing
+        date_effective:
+          start: 1999-12-07
+          end: 1999-12-08
+        message: recognizing TC 154 resolutions 162 and 163 and MoU resolution 99/27
+
+      - type: recognizing
+        date_effective:
+          start: 1999-12-07
+          end: 1999-12-08
+        message: confirming the maintenance procedures of the standard as stated in ISO 7372, section 2
 
     approvals:
       - type: affirmative
@@ -159,7 +187,7 @@ resolutions:
 
       - type: resolves
         date_effective: 1999-12-08
-        message: resolves to set-up a Task Team to consult with UN/CEFACT and report back to TC 154 for decision. The team is composed as follows: BSI (S. Probert, UK), AFNOR (A. Thienot, FR), DIN (H. Hermes, DE), Chair and secretary. The team will work electronically;
+        message: "resolves to set-up a Task Team to consult with UN/CEFACT and report back to TC 154 for decision. The team is composed as follows: BSI (S. Probert, UK), AFNOR (A. Thienot, FR), DIN (H. Hermes, DE), Chair and secretary. The team will work electronically;"
 
       - type: resolves
         date_effective: 1999-12-08
@@ -167,9 +195,9 @@ resolutions:
 
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject:
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 175
 
     approvals:
@@ -180,13 +208,13 @@ resolutions:
     actions:
       - type: resolves
         date_effective: 1999-12-08
-        message: ISO/TC 154 resolves that the corrections to be made to ISO 8440 to be Y2K compatible as stated in N316 – Proposal for the revision of ISO 8440 “Location of codes in trade , are a minor revision of the standard. TC 154 secretary with the Chair will prepare the changes to be sent for FDIS ballot.
+        message: ISO/TC 154 resolves that the corrections to be made to ISO 8440 to be Y2K compatible as stated in N316 – Proposal for the revision of ISO 8440 “Location of codes in trade", are a minor revision of the standard. TC 154 secretary with the Chair will prepare the changes to be sent for FDIS ballot.
 
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject:
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 176
 
     approvals:
@@ -201,10 +229,17 @@ resolutions:
 
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: ISO/TC 154 recognises the need of the users for easy implementation of ISO 9735, version 4, published in 1998/99 and therefore recommends to the Joint Syntax Working Group (JSWG):
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 177
+
+    considerations:
+      - type: recognises
+        date_effective:
+          start: 1999-12-07
+          end: 1999-12-08
+        message: "recognises the need of the users for easy implementation of ISO 9735, version 4, published in 1998/99 and therefore recommends to the Joint Syntax Working Group (JSWG):"
 
     approvals:
       - type: affirmative
@@ -214,7 +249,7 @@ resolutions:
     actions:
       - type: recommends
         date_effective: 1999-12-08
-        message: to consolidate all syntax service directories` addendums of the published parts 1 to 9 of ISO 9735, version 4, and the content of the Technical Corrigendum 1 into one document to be published as a further part of ISO 9735;
+        message: to consolidate all syntax service directories' addendums of the published parts 1 to 9 of ISO 9735, version 4, and the content of the Technical Corrigendum 1 into one document to be published as a further part of ISO 9735;
 
       - type: recommends
         date_effective: 1999-12-08
@@ -222,7 +257,8 @@ resolutions:
 
       - type: recommends
         date_effective: 1999-12-08
-        message: to remove the information on the replacement of former syntax version as it actually reads in the Forewords of parts 1 and 2: "Together with ISO 9735-x, this part of ISO 9735 cancels and replaces ISO 9735:1988 (amended and reprinted in 1990) and Amendment 1:1992." and replace this by: "Together with ISO 9735-x, this part of ISO 9735 replaces ISO 9735:1988 (amended and reprinted in 1990) and Amendment 1:1992.";
+        message: |
+          to remove the information on the replacement of former syntax version as it actually reads in the Forewords of parts 1 and 2: "Together with ISO 9735-x, this part of ISO 9735 cancels and replaces ISO 9735:1988 (amended and reprinted in 1990) and Amendment 1:1992." and replace this by: "Together with ISO 9735-x, this part of ISO 9735 replaces ISO 9735:1988 (amended and reprinted in 1990) and Amendment 1:1992.";
 
       - type: recommends
         date_effective: 1999-12-08
@@ -230,9 +266,9 @@ resolutions:
 
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 178
 
     approvals:
@@ -246,9 +282,9 @@ resolutions:
         message: ISO/TC 154 resolves to create a ISO/TC 154 Chair Advisory Board, consisting of JISC (JP), BSI (GB), DIN (DE) and AFNOR (FR) to progress inter-sessional work activities. The Board will not have any decision making authority unless agreed by ISO/TC 154.
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: ISO/TC 154 considering:
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 179
 
     approvals:
@@ -259,7 +295,7 @@ resolutions:
     considerations:
       - type: considering
         date_effective: 1999-12-08
-        message: The results of the vote: 8 approved, 3 disapproved, 1 abstention as reported in N323 Rev.1 – Results of voting of ISO/TC 154 Draft Technical report (PDTR) 16668 “Basic
+        message: "The results of the vote: 8 approved, 3 disapproved, 1 abstention as reported in N323 Rev.1 – Results of voting of ISO/TC 154 Draft Technical report (PDTR) 16668 “Basic Semantics Register”"
 
       - type: considering
         date_effective: 1999-12-08
@@ -276,9 +312,9 @@ resolutions:
 
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 180
 
     approvals:
@@ -292,9 +328,9 @@ resolutions:
         message: ISO/TC 154 resolves to nominate DIN (H. Hermes, DE) and BSI (S. Probert, UK) to act as TC 154 representative in the ebXML initiative and report back to ISO/TC 154.
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 181
 
     approvals:
@@ -309,9 +345,9 @@ resolutions:
 
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 182
 
     approvals:
@@ -326,9 +362,9 @@ resolutions:
 
 
   - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
+      start: 1999-12-07
+      end: 1999-12-08
+    subject: ISO/TC 154
     identifier: 183
 
     approvals:
@@ -342,62 +378,62 @@ resolutions:
         message: ISO/TC 154 confirms that it is open to process any documents or requests presented by UN/CEFACT relating to the UN/ECE Recommendation 20, Units of measure used in international trade
 
 
-  - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
-    identifier: 1
-
-    actions:
-      - type: notes
-        date_effective: 1999-12-08
-        message: ISO/TC 154 Chair will secure an active liaison with TC 215
-
-  - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
-    identifier: 2
-
-    approvals:
-      - type: 
-        degree: 
-        message: Closed
-
-    actions:
-      - type: notes
-        date_effective: 1999-12-08
-        message: DIN will convert the 99 work programme from PDF to DOC format
-
-  - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
-    identifier: 3
-
-    actions:
-      - type: notes
-        date_effective: 1999-12-08
-        message: ISO/TC 154 agreed that all comments to N321 – Compendium of Trade Facilitation Recommendations, should be forwarded to TC 154 Chair for him to forward them to UN/CEFACT.
-
-  - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
-    identifier: 4
-
-    actions:
-      - type: notes
-        date_effective: 1999-12-08
-        message: ISO/TC 154 WG1 secretariat will forward the results of the processing of the comments to TS 16668 to TC 154 Secretary for distribution to the P members in line with resolution 179.
-
-  - dates:
-    start: 1999-12-07
-    end: 1999-12-08
-    subject: 
-    identifier: 5
-
-    actions:
-      - type: notes
-        date_effective: 1999-12-08
-        message: ISO/TC 154 secretary will recall that when P members are voting, L and O members have a right to comment.
+  # - dates:
+  #     start: 1999-12-07
+  #     end: 1999-12-08
+  #   subject: ISO/TC 154
+  #   identifier: action-1
+  #
+  #   actions:
+  #     - type: notes
+  #       date_effective: 1999-12-08
+  #       message: ISO/TC 154 Chair will secure an active liaison with TC 215
+  #
+  # - dates:
+  #     start: 1999-12-07
+  #     end: 1999-12-08
+  #   subject: ISO/TC 154
+  #   identifier: action-2
+  #
+  #   approvals:
+  #     - type: affirmative
+  #       degree: unanimous
+  #       message: Closed
+  #
+  #   actions:
+  #     - type: notes
+  #       date_effective: 1999-12-08
+  #       message: DIN will convert the 99 work programme from PDF to DOC format
+  #
+  # - dates:
+  #     start: 1999-12-07
+  #     end: 1999-12-08
+  #   subject: ISO/TC 154
+  #   identifier: action-3
+  #
+  #   actions:
+  #     - type: notes
+  #       date_effective: 1999-12-08
+  #       message: ISO/TC 154 agreed that all comments to N321 – Compendium of Trade Facilitation Recommendations, should be forwarded to TC 154 Chair for him to forward them to UN/CEFACT.
+  #
+  # - dates:
+  #     start: 1999-12-07
+  #     end: 1999-12-08
+  #   subject: ISO/TC 154
+  #   identifier: action-4
+  #
+  #   actions:
+  #     - type: notes
+  #       date_effective: 1999-12-08
+  #       message: ISO/TC 154 WG1 secretariat will forward the results of the processing of the comments to TS 16668 to TC 154 Secretary for distribution to the P members in line with resolution 179.
+  #
+  # - dates:
+  #     start: 1999-12-07
+  #     end: 1999-12-08
+  #   subject: ISO/TC 154
+  #   identifier: action-5
+  #
+  #   actions:
+  #     - type: notes
+  #       date_effective: 1999-12-08
+  #       message: ISO/TC 154 secretary will recall that when P members are voting, L and O members have a right to comment.
