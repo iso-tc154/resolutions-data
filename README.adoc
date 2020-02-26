@@ -7,6 +7,11 @@ According to ISO/CS, TC Resolutions are public information.
 ISO/TC 154 aims to provide resolutions in an interoperable
 and machine accessible format.
 
+This repository currently contains plenary resolutions from
+10-38th plenary meetings.
+
+Original documents are located in the `reference-docs/` folder.
+
 
 == Data model
 
