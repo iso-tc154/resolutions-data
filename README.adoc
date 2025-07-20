@@ -22,29 +22,40 @@ This data is entered into a YAML format that looks like this:
 
 [source,yaml]
 ----
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
 metadata:
   title: Resolutions of the 38th plenary meeting of ISO/TC 154
-  date: 2019-10-17
+  dates:
+  - kind: meeting
+    start: 2019-10-17
   source: ISO/TC 154 Secretariat
 resolutions:
   - category: Resolutions related to JWG 1
     dates:
-      - 2019-10-17
+      - kind: decision
+        start: 2019-10-17
     subject: ISO/TC 154 Processes, data elements...
     title: "Adoption of NWIP ballot for ISO/PWI 9735-11..."
     identifier: 2019-01
 
     considerations:
       - type: considering
-        date_effective: 2019-10-17
+        dates:
+        - kind: effective
+          start: 2019-10-17
         message: considering the voting result of NWIP...
 
       - type: considering
-        date_effective: 2019-10-17
+        dates:
+        - kind: effective
+          start: 2019-10-17
         message: considering the importance of interoperability...
 
       - type: considering
-        date_effective: 2019-10-17
+        dates:
+        - kind: effective
+          start: 2019-10-17
         message: considering the request from JWG1 to initiate ...
 
     approvals:
@@ -54,7 +65,9 @@ resolutions:
 
     actions:
       - type: resolves
-        date_effective: 2019-10-17
+        dates:
+        - kind: effective
+          start: 2019-10-17
         message: resolves to submit ISO 9735-11 for NWIP...
 ...
 ----

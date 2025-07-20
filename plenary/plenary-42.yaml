@@ -1,0 +1,566 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
+metadata:
+  title: Resolutions of the 42nd plenary meeting of ISO/TC 154 at HK in 2023
+  dates:
+  - start: '2023-10-27'
+    kind: meeting
+  source: ISO/TC 154 Secretariat
+resolutions:
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Six-months limit date extension for ISO/DIS 23355
+  identifier: 2023-01
+  considerations:
+  - type: considering
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+    message: the result of voting on Document N1385
+  actions:
+  - type: resolves
+    message: approves a 6-months project limit date extension for ISO/DIS 23355 as
+      per the result of voting on Document N1385 as Resolution 2023-01
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: restates
+    message: TC 154 plenary restates the resolution by referring to the voting result
+      shown in N1398
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolution related to project extensions
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Six-months limit date extension for ISO 8601-2:2019/CD Amd 1
+  identifier: 2023-02
+  considerations:
+  - type: considering
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+    message: the result of voting on Document N1402
+  actions:
+  - type: resolves
+    message: approves a 6-months project limit date extension for ISO 8601-2:2019/CD
+      Amd 1 as per the result of voting on Document N1402 as Resolution 2023-02
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: restates
+    message: TC 154 plenary restates the resolution by referring to the voting result
+      shown in N1407
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolution related to project extensions
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of JWG1 title change into "ISO/UNECE joint working group for EDIFACT
+    syntax"
+  identifier: 2023-03
+  considerations:
+  - type: considering
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+    message: the proposed title change from JWG1 to reflect the equivalence of both
+      organizations much better
+  actions:
+  - type: resolves
+    message: resolves to adopt the title change of JWG1 into "ISO/UNECE joint working
+      group for EDIFACT syntax"
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolution related to JWG 1
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Recommendation to National Bodies to vote to revise ISO 8601-1:2019 and ISO
+    8601-2:2019 in the upcoming systematic review in 2024
+  identifier: 2023-04
+  actions:
+  - type: resolves
+    message: resolves to provide a recommendation to National Bodies to vote to revise
+      ISO 8601-1:2019 and ISO 8601-2:2019 in the upcoming systematic review in 2024
+      in order to incorporate published Amendments and errata, and encourages ISO/TC
+      154 members to provide comments on these standards
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolution related to WG 5
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: 'Adoption of DTR ballot for ISO/WD TR 19626-3 "Processes, data elements and
+    documents in commerce, industry and administration —Trusted communication platforms
+    for electronic documents — Part 3: Blockchain-based implementation guideline"'
+  identifier: 2023-05
+  considerations:
+  - type: considering
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+    message: that only editorial comments were received on WDS
+  actions:
+  - type: requests
+    message: requests WG6 to further modify the draft
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: resolves
+    message: |
+      resolves to skip CD consultation ballot and initiate a DTR ballot
+      before 28 Feb 2024. approved by 6 approval votes and 1 abstain vote
+      (BSI)
+    degree: majority
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolution related to WG 6
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of a revision of ISO 14533-3, Appointment of Mr. Masashi Sato (JISC)
+    as the project leader, request ISO/CS to register it as a Working Draft (stage
+    20.00), and adoption of CD ballot for ISO 14533-1 before March 2024
+  identifier: 2023-06
+  actions:
+  - type: resolves
+    message: resolves to revise ISO 14533-3:2017 without scope expansion
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: requests
+    message: request ISO/CS to register it as WD stage 20.00 with 24 months development
+      period, with following target dates - CD ballot 2024-03-30, DIS ballot 2024-09-30,
+      FDIS submission (if required) 2025-05-30 and publication is 2025-09-30
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: appoints
+    message: its project leader is Mr. Masashi Sato (JISC), and the project will support
+      SDG9
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolution related to WG 6
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of NWIP ballot for ISO/PWI 20195 "Technical requirements for blockchain
+    implementation in industrial internet"
+  identifier: 2023-07
+  actions:
+  - type: resolves
+    message: resolves to initiate a NWIP ballot for ISO 20195 before 28 Feb 2024
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of NWIP ballot for ISO/PWI 20180 "Guidelines on risk-based product
+    quality data interchange in e-commerce"
+  identifier: 2023-08
+  actions:
+  - type: resolves
+    message: resolves to initiate a NWIP ballot for ISO 20180 before 28 Feb 2024
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: 'Adoption of the second NWIP ballot for ISO/PWI 16320-1 "Documents and processes
+    in e-commerce — Smart contract-based B2B electronic transaction execution and
+    verification — Part 1: Reference model"'
+  identifier: 2023-09
+  considerations:
+  - type: considering
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+    message: that the voting result of first NP ballot in N1410 (Form6) and N1408
+      (comments disposition)
+  actions:
+  - type: resolves
+    message: resolves to initiate the second NWIP ballot for 8-weeks for ISO 16320-1
+      before 5 Nov 2023, and encourage TC members to actively participate in the project
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appointment of Ms. Wenqu Chen from SAC as WG7 secretary
+  identifier: 2023-10
+  actions:
+  - type: appoints
+    message: Appointment of Ms. Wenqu Chen from SAC as WG7 secretary
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Establishment of JWG9 with the title of "ISO/UNECE joint working group for
+    information exchange of supply chain aligned to UN/CEFACT semantics" and encourage
+    experts to actively participate in JWG9
+  identifier: 2023-11
+  considerations:
+  - type: considering
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+    message: that the voting result in N1412 and the official confirmation of UNECE
+      on 7 Sep 2023
+  actions:
+  - type: confirms
+    message: confirm the establishment of JWG9 with the title of "ISO/UNECE joint
+      working group for information exchange of supply chain aligned to UN/CEFACT
+      semantics"
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: encourages
+    message: encourage TC members to nominate the experts to actively participate
+      in JWG9
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolutions related to JWG9
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appointment of Ms. Yan Zhang from UNECE side and Mr. Jim Wilson from TC 154
+    side as the co-conveners of JWG9, and Mr. Kevin Bishop as JWG9's secretary, their
+    term will be expired at the end of 2026
+  identifier: 2023-12
+  considerations:
+  - type: considering
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+    message: that the establishment of JWG9 and the nomination from UNECE side for
+      co-convener and secretary of JWG9
+  actions:
+  - type: resolves
+    message: resolves to nominate Ms. Yan Zhang from UNECE and Mr. Jim Wilson from
+      TC 154 as the co-conveners of JWG9 and Mr. Kevin Bishop as JWG9's secretary,
+      their terms will be expired at the end of 2026. approved by 7 approval votes
+      and 1 abstain vote (DIN)
+    degree: majority
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolutions related to JWG9
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of a revision of ISO 7372(UNTDED) and appointment of Mr. Xiang Wang
+    from TC 154 side as the co-project leader of ISO 7372(UNTDED)
+  identifier: 2023-13
+  considerations:
+  - type: considering
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+    message: Following the kick-off meeting on 25 Oct 2023
+  actions:
+  - type: requests
+    message: requests ISO/CS to register the revision at stage 20.00 without scope
+      expansion, and the project supports SDG9
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: resolves
+    message: resolves to appoint Mr. Xiang Wang as the co-project leader of ISO 7372(UNTDED)
+      from TC 154 side, and request UNECE to approve
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: resolves
+    message: resolves to the revision period to be 24 months, the target dates following
+      - CD ballot 2024-04-30, DIS ballot 2024-11-30, FDIS submission (if required)
+      2025-06-30 and the target date for publication is 2025-11-30
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolutions related to JWG9
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Nine-months limit date extension for ISO/WD 5909
+  identifier: 2023-14
+  actions:
+  - type: resolves
+    message: resolves to approve a 9-months project limit date extension for ISO/WD
+      5909, the limit date for ISO/DIS extension to 2024-11-23, the limit date for
+      publication extension to 2025-11-23
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolutions related to JWG9
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Acceptance of AHG report and disbandment of AHG
+  identifier: 2023-15
+  actions:
+  - type: resolves
+    message: resolves to accept the AHG report (N1419)
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: resolves
+    message: resolves to disband the AHG and appreciate all of its experts and Mr.
+      Cheng Chi's great contributions for the AHG report
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolutions related to ad-hoc group
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Supports the idea of establishing an ISO vocabulary standard to harmonize
+    the use of terms related to trade and transport locations
+  identifier: 2023-16
+  considerations:
+  - type: considering
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+    message: a proposal proposed by Mr.Wenfeng Sun from SAC
+  actions:
+  - type: supports
+    message: supports the idea of developing an ISO vocabulary standard to harmonize
+      the use of terms related to trade and transport locations
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: requests
+    message: further requests SAC to seek the agreement from UNECE before the standard
+      be formally proposed in ISO/TC 154. approved by 7 approval votes and 1 disapproval
+      vote (JISC)
+    degree: majority
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - Resolutions related to new proposal
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Extension of the term of conveners of JWG1, WG6, WG7 until the end of 2026
+  identifier: 2023-17
+  considerations:
+  - type: considering
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+    message: The terms of JWG1 convener (Mr. Anders Grangård), WG6 convener (Mrs.
+      Jasmine Jaegyong Chang), WG7 convener (Mr. Jim Wilson) will be expired at the
+      end of 2023
+  actions:
+  - type: resolves
+    message: resolves to extend their term periods until the end of 2026
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appointment of Ms. Hanane Becha as the liaison representative from TC 154
+    to TC315, replacing the previous liaison representative Mr. Yu Shi
+  identifier: 2023-18
+  actions:
+  - type: resolves
+    message: resolves to accept the proposal from UNECE to take over the responsibility
+      as the liaison representative from TC 154 to TC315
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: resolves
+    message: resolves to nominate Ms. Hanane Becha as the liaison representative from
+      TC 154 to TC315, replacing the previous liaison representative Mr. Yu Shi
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Establishment of an Advisory Group with the title of "liaison review", and
+    appoint Mr. Jianfang Zhang as the AG convener until the end of 2026
+  identifier: 2023-19
+  considerations:
+  - type: considering
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+    message: the relevance and importance of liaison membership
+  actions:
+  - type: resolves
+    message: resolves to establish an Advisory Group (AG) with the title of "liaison
+      review", and the task of AG is to regularly review and encourage the liaisons
+      to actively participate in TC 154 - to ensure the relevance and necessity with
+      TC 154; to ensure the liaison representatives can be connectable and communicable;
+      to encourage representative actively participate in TC 154 (such as meeting
+      or comments on projects), etc.
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: defines
+    message: AG members include TC committee manager, chair, one member appointed
+      by each external A-liaison and each internal liaison
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: WG meetings and the 43rd plenary in 2024 to be held in South Korea hosted
+    by KATS
+  identifier: 2023-20
+  actions:
+  - type: resolves
+    message: resolves that the next face-to-face plenary meeting will be hosted by
+      KATS in October 2024, and the venue will be further confirmed by KATS at the
+      beginning of 2024
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appreciation to Conveners
+  identifier: 2023-21
+  actions:
+  - type: thanks
+    message: expresses its appreciation to the Convenors of its Working Groups - Mr.
+      Anders Grangård (UNECE), Mr. Ronald Henry Tse (CalConnect), Mrs. Jasmine Jaegyong
+      Chang (Republic of Korea) and Mr. Jim Wilson (United States), Mr. Cheng Chi
+      (China) for the enthusiasm and continuous effort that they provided during the
+      last plenary period
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appreciation to TPM and EPM
+  identifier: 2023-22
+  actions:
+  - type: thanks
+    message: expresses its appreciation to the ISO Technical Programme Manager Mrs.
+      Laura Mathew and ISO Editorial Programme Manager Mrs.Yvonne Chen, for the guidance,
+      consultations and continuous effort that they provided during the last plenary
+      period
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2023-10-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appreciation to Meeting Host
+  identifier: 2023-23
+  actions:
+  - type: thanks
+    message: expresses its sincere appreciation to Ribose, CalConnect, the Hong Kong
+      Management Association and ITCHKSAR, for hosting the WG meetings and 42nd ISO/TC
+      154 Plenary at Hong Kong, China
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: thanks
+    message: expresses its sincere appreciation to Mr. Ronald Henry Tse, Mr. Koon
+      Wa KWAN, and Mr. Anton Strogonoff for organizing preparation of the meeting
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  - type: thanks
+    message: expresses its sincere appreciation to Ribose, CalConnect the Hong Kong
+      Management Association, and ITCHKSAR for their excellent support of the smooth
+      work of this Plenary
+    degree: unanimous
+    dates:
+    - start: '2023-10-27'
+      kind: effective
+  categories:
+  - General Resolutions

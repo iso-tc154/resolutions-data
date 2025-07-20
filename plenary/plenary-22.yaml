@@ -1,120 +1,147 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
 metadata:
-  title: Resolutions and action items of the ISO/TC154 22th meeting
-  date: 2004-09-10
-  source: ISO/TC154
+  title: Resolutions and action items of the ISO/TC 154 22th meeting
+  dates:
+  - start: '2004-09-10'
+    kind: meeting
+  source: ISO/TC 154
 resolutions:
-  - dates:
-      - 2004-09-10
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "ISO7372:1993 => 200x (revision) Trade Data Elements Directory TDED"
-    identifier: 250
+- dates:
+  - start: '2004-09-10'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: ISO7372:1993 => 200x (revision) Trade Data Elements Directory TDED
+  identifier: '250'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Approved
+  actions:
+  - type: resolves
+    message: ISO/TC 154 resolves to endorse the resolutions and action items adopted
+      by the ISO7372MA documented in documents 154N471
+    dates:
+    - start: '2004-09-10'
+      kind: effective
+  - type: requests
+    message: ask the ISO/CS to launch the relevant ballot for the possible adoption
+      of the current draft revision of ISO7372
+    dates:
+    - start: '2004-09-10'
+      kind: effective
+- dates:
+  - start: '2004-09-10'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '251'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Approved
+  actions:
+  - type: requests
+    message: Pending approval of the ballot on 15000-Part 5, ISO/TC 154 resolves to
+      request the establishment of a formal liaison between the ISO/TC 154 project
+      team for TS 15000-Part 5 and ISO/IEC JTC 1/SC32 (WG1 & 2). The purpose of this
+      liaison is to avoid possible duplication of efforts and the publication of conflicting
+      specifications
+    dates:
+    - start: '2004-09-10'
+      kind: effective
+- dates:
+  - start: '2004-09-10'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '252'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Approved
+  actions:
+  - type: requests
+    message: ISO/TC 154 becoming aware of the establishment of a JTC1 Web Services
+      Study Group, is eager to ensure that  its suite of ebXML specifications that
+      in themselves comprise a valuable form of web services is actively involve in
+      the discussion. Therefore ISO/TC 154 resolves to establish an active liaison
+      with the JTC1 web services study group
+    dates:
+    - start: '2004-09-10'
+      kind: effective
+- dates:
+  - start: '2004-09-10'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '253'
+  considerations:
+  - type: noting
+    dates:
+    - start: '2004-09-10'
+      kind: effective
+    message: 'ISO/TC 154, noting that the chair and secretary duty of Mr. Vuilleumier
+      ends in December 2004
 
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Approved
+      '
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Approved
+  actions:
+  - type: thanks
+    message: 'to thank Mr. Vuilleumier for agreeing to fulfill these duties at least
+      for one more year (up to his foreseen retirement from the Swiss government,
+      in December 2005)
 
-    actions:
-      - type: resolves
-        date_effective: 2004-09-10
-        message: ISO/TC154 resolves to endorse the resolutions and action items adopted by the ISO7372MA documented in documents 154N471
+      '
+    dates:
+    - start: '2004-09-10'
+      kind: effective
+  - type: resolves
+    message: 'to identify which ISO/TC 154 P-member could, in due time, take over
+      these duties
 
-      - type: requests
-        date_effective: 2004-09-10
-        message: ask the ISO/CS to launch the relevant ballot for the possible adoption of the current draft revision of ISO7372
+      '
+    dates:
+    - start: '2004-09-10'
+      kind: effective
+- dates:
+  - start: '2004-09-10'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '254'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Approved
+  actions:
+  - type: thanks
+    message: ISO/TC 154 thanks Mark Crawford and LMI, having provided very efficiently
+      the hosting for this meeting
+    dates:
+    - start: '2004-09-10'
+      kind: effective
+- dates:
+  - start: '2004-09-10'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Next ISO/TC 154 meetings
+  identifier: '255'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Approved
+  actions:
+  - type: resolves
+    message: |
+      23rd: 2005-03 (possibly back to back before the UN/CEFACT Forum)
 
-
-  - dates:
-      - 2004-09-10
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 251
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Approved
-
-    actions:
-      - type: requests
-        date_effective: 2004-09-10
-        message: Pending approval of the ballot on 15000-Part 5, ISO/TC154 resolves to request the establishment of a formal liaison between the ISO/TC154 project team for TS 15000-Part 5 and ISO/IEC JTC 1/SC32 (WG1 & 2). The purpose of this liaison is to avoid possible duplication of efforts and the publication of conflicting specifications
-
-
-
-  - dates:
-      - 2004-09-10
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 252
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Approved
-
-    actions:
-      - type: requests
-        date_effective: 2004-09-10
-        message: ISO/TC154 becoming aware of the establishment of a JTC1 Web Services Study Group, is eager to ensure that  its suite of ebXML specifications that in themselves comprise a valuable form of web services is actively involve in the discussion. Therefore ISO/TC154 resolves to establish an active liaison with the JTC1 web services study group
-
-
-  - dates:
-      - 2004-09-10
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 253
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Approved
-
-    considerations:
-      - type: noting
-        date_effective: 2004-09-10
-        message: |
-          ISO/TC154, noting that the chair and secretary duty of Mr. Vuilleumier ends in December 2004
-    actions:
-      - type: thanks
-        date_effective: 2004-09-10
-        message: |
-          to thank Mr. Vuilleumier for agreeing to fulfill these duties at least for one more year (up to his foreseen retirement from the Swiss government, in December 2005)
-
-      - type: resolves
-        date_effective: 2004-09-10
-        message: |
-          to identify which ISO/TC154 P-member could, in due time, take over these duties
-
-
-  - dates:
-      - 2004-09-10
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 254
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Approved
-
-    actions:
-      - type: thanks
-        date_effective: 2004-09-10
-        message: ISO/TC154 thanks Mark Crawford and LMI, having provided very efficiently the hosting for this meeting
-
-
-  - dates:
-      - 2004-09-10
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Next ISO/TC154 meetings"
-    identifier: 255
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Approved
-
-    actions:
-      - type: resolves
-        date_effective: 2004-09-10
-        message: |
-        23rd: 2005-03 (possibly back to back before the UN/CEFACT Forum)
-        24th: 2005-09 (possibly back to back before the UN/CEFACT Forum)
-
+      24th: 2005-09 (possibly back to back before the UN/CEFACT Forum)
+    dates:
+    - start: '2004-09-10'
+      kind: effective

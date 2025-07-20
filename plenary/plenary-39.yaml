@@ -1,436 +1,577 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
 metadata:
   title: Resolution of the 39th plenary meeting of ISO/TC 154
-  date: 2020-08-27
+  dates:
+  - start: '2020-08-27'
+    kind: meeting
   source: ISO/TC 154 Secretariat
 resolutions:
-  - category: Restate Resolution (a voting result before this plenary)
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: TC 154
+  title: Establishment of a RA for the implementation of ISO 34300
+  identifier: 2020-01
+  actions:
+  - type: restates
+    message: restates the resolution to establish a RA for the implementation of ISO
+      34300 by referring to the voting result shown in N1133.
     dates:
-      - 2020-08-27
-    subject: TC 154
-    title: "Establishment of a RA for the implementation of ISO 34300"
-    identifier: 2020-01
-    actions:
-      - type: restates
-        date_effective: 2020-08-27
-        message: restates the resolution to establish a RA for the implementation of ISO 34300 by referring to the voting result shown in N1133.
-
-  - category: Resolutions related to JWG 1
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Restate Resolution (a voting result before this plenary)
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: 'Adoption of CD ballot for ISO/AWI 9735-11 “Electronic data interchange for
+    administration, commerce and transport (EDIFACT) - Part 11: Version 3 compatible
+    profile for Version 4 of ISO 9735'
+  identifier: 2020-02
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: requests
+    message: requests JWG1 to further modify the draft, and resolves to submit ISO
+      9735-11 for CD ballot before March 2021.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of CD ballot for ISO/AWI 9735-11 “Electronic data interchange for administration, commerce and transport (EDIFACT) - Part 11: Version 3 compatible profile for Version 4 of ISO 9735"
-    identifier: 2020-02
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: requests
-        date_effective: 2020-08-27
-        message: requests JWG1 to further modify the draft, and resolves to submit ISO 9735-11 for CD ballot before March 2021.
-
-  - category: Resolutions related to WG 4
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to JWG 1
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of CD ballot for ISO/AWI 36100 “Standardization documents – Document
+    metamodel”
+  identifier: 2020-0
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: requests
+    message: requests WG4 to further modify the draft, and resolves to submit ISO/AWI
+      36100 for CD ballot before March 2021.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of CD ballot for ISO/AWI 36100 “Standardization documents – Document metamodel”"
-    identifier: 2020-0
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: requests
-        date_effective: 2020-08-27
-        message: requests WG4 to further modify the draft, and resolves to submit ISO/AWI 36100 for CD ballot before March 2021.
-
-  - category: Resolutions related to WG 5
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 4
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of DIS ballot for ISO/CD 34000“Date and time—Concepts and vocabulary”
+  identifier: 2020-04
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: requests
+    message: requests WG5 to further modify the draft, and resolves to initiate a
+      DIS ballot before April 2021.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of DIS ballot for ISO/CD 34000“Date and time—Concepts and vocabulary”"
-    identifier: 2020-04
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: requests
-        date_effective: 2020-08-27
-        message: requests WG5 to further modify the draft, and resolves to initiate a DIS ballot before April 2021.
-
-  - category: Resolutions related to WG 5
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 5
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of CD ballot for ISO/AWI 34300 “Date and time—Codes for calendar
+    systems”
+  identifier: 2020-05
+  actions:
+  - type: requests
+    message: requests WG5 to further modify the draft, draft the rule of RA(term of
+      reference) , and update relevant parts relating to the RA in ISO 34300 Annex
+      A to fulfill requirements stated in ISO Directives Annex SN, the relevant parts
+      of ISO 34300 on the RA should be reviewed by the CAG prior to March 2021.and
+      after this, WG5 can resolve to initiate a CD ballot before June 2021.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of CD ballot for ISO/AWI 34300 “Date and time—Codes for calendar systems”"
-    identifier: 2020-05
-    actions:
-      - type: requests
-        date_effective: 2020-08-27
-        message: requests WG5 to further modify the draft, draft the rule of RA(term of reference) , and update relevant parts relating to the RA in ISO 34300 Annex A to fulfill requirements stated in ISO Directives Annex SN, the relevant parts of ISO 34300 on the RA should be reviewed by the CAG prior to March 2021.and after this, WG5 can resolve to initiate a CD ballot before June 2021.
-
-  - category: Resolutions related to WG 5
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 5
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Initiate a ballot to call for RA candidates for the implementation of ISO
+    34300
+  identifier: 2020-06
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: resolves to initiate a CIB ballot to call RA candidates for the implementation
+      of ISO 34300 before July 2021, and that the selection of the RA will be further
+      discussed and confirmed at the next plenary meeting(40th plenary meeting) in
+      2021 by resolution.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Initiate a ballot to call for RA candidates for the implementation of ISO 34300"
-    identifier: 2020-06
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to initiate a CIB ballot to call RA candidates for the implementation of ISO 34300 before July 2021, and that the selection of the RA will be further discussed and confirmed at the next plenary meeting(40th plenary meeting) in 2021 by resolution.
-
-  - category: Resolutions related to WG 5
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 5
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of the submission of ISO 8601-1 as the horizontal deliverables for
+    the further decision of ISO/CS
+  identifier: 2020-07
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: resolves to request the submission of ISO 8601-1 as horizontal deliverable,
+      and that the form will be further modified by Jamie and Ronald, and submitted
+      for the decision of ISO/CS.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of the submission of ISO 8601-1 as the horizontal deliverables for the further decision of ISO/CS"
-    identifier: 2020-07
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to request the submission of ISO 8601-1 as horizontal deliverable, and that the form will be further modified by Jamie and Ronald, and submitted for the decision of ISO/CS.
-
-  - category: Resolutions related to WG 5
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 5
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of an amendment of ISO 8601-1:2019/Amd.1, Appointment of Mr. Ronald
+    Tse as the project leader, request ISO/CS to register the project in stage 20.00,
+    and adoption of CD ballot before March 2021
+  identifier: 2020-08
+  actions:
+  - type: resolves
+    message: resolves to amend ISO 8601-1:2019, and request ISO/CS to register it
+      as ISO/DAM 8601-1:2019/Amd.1 in stage 20.00.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of an amendment of ISO 8601-1:2019/Amd.1, Appointment of Mr. Ronald Tse as the project leader, request ISO/CS to register the project in stage 20.00, and adoption of CD ballot before March 2021"
-    identifier: 2020-08
-    actions:
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to amend ISO 8601-1:2019, and request ISO/CS to register it as ISO/DAM 8601-1:2019/Amd.1 in stage 20.00.
-      
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to nominate Mr. Ronald Tse (Calconnect) as the project leader, and that the amendment period is 18 months, the target date for CD ballot is 2021-02-30, and the target date for DIS ballot 2021-08-30, target date for FDIS submission (if required) - 2022-03-30 and the target date for the publication is 2022-06-30.
-
-  - category: Resolutions related to WG 5
+    - start: '2020-08-27'
+      kind: effective
+  - type: resolves
+    message: resolves to nominate Mr. Ronald Tse (Calconnect) as the project leader,
+      and that the amendment period is 18 months, the target date for CD ballot is
+      2021-02-30, and the target date for DIS ballot 2021-08-30, target date for FDIS
+      submission (if required) - 2022-03-30 and the target date for the publication
+      is 2022-06-30.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of ISO/PWI 8601-3”Date and time — Representations for information interchange — Part 3: Semantic Representation”"
-    identifier: 2020-09
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to adopt the proposal as ISO/PWI 8601-3 “Date and time — Representations for information interchange — Part 3 - Semantic representation”, and that this project can be only started after ISO 34300 is in DIS stage.
-
-  - category: Resolutions related to WG 5
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 5
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: 'Adoption of ISO/PWI 8601-3”Date and time — Representations for information
+    interchange — Part 3: Semantic Representation”'
+  identifier: 2020-09
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: resolves to adopt the proposal as ISO/PWI 8601-3 “Date and time — Representations
+      for information interchange — Part 3 - Semantic representation”, and that this
+      project can be only started after ISO 34300 is in DIS stage.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of a PWI for the project ISO/PWI 34500 “Date and time —temporal reference model”"
-    identifier: 2020-10
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to adopt a proposal as ISO/PWI 34500 “Date and time —temporal reference model”, and that this project can be only started after ISO 34300 is in DIS stage.
-
-  - category: Resolutions related to WG 6
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 5
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of a PWI for the project ISO/PWI 34500 “Date and time —temporal
+    reference model”
+  identifier: 2020-10
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      resolves to adopt a proposal as ISO/PWI 34500 “Date and time —temporal
+      reference model”, and that this project can be only started after ISO
+      34300 is in DIS stage.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of the title change of the ISO 14533 series into “Information technology — Long term signature”"
-    identifier: 2020-11
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 5
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of the title change of the ISO 14533 series into “Information technology
+    — Long term signature”
+  identifier: 2020-11
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      resolves to update the title of the ISO 14533 series as following, and
+      their meaning to be the same as previously
 
-    actions:
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to update the title of the ISO 14533 series as following, and their meaning to be the same as previously
+      * ISO 14533-1 Information technology — Long term signature — Part 1 -
+      Profiles for CMS Advanced Electronic Signatures (CAdES)
 
-      - type: long term signature
-        date_effective: 2020-08-27
-        message: ISO 14533-1 Information technology — Long term signature — Part 1 - Profiles for CMS Advanced Electronic Signatures (CAdES)
+      * ISO 14533-2 Information technology — Long term signature — Part 2 -
+      Profiles for XML Advanced Electronic Signatures (XAdES)
 
-      - type: long term signature
-        date_effective: 2020-08-27
-        message: ISO 14533-2 Information technology — Long term signature — Part 2 - Profiles for XML Advanced Electronic Signatures (XAdES)
+      * ISO 14533-3 Information technology — Long term signature — Part 3 -
+      Profiles for PDF Advanced Electronic Signatures (PAdES)
 
-      - type: long term signature
-        date_effective: 2020-08-27
-        message: ISO 14533-3 Information technology — Long term signature — Part 3 - Profiles for PDF Advanced Electronic Signatures (PAdES)
-
-      - type: long term signature
-        date_effective: 2020-08-27
-        message: ISO 14533-4 Information technology — Long term signature — Part 4 - Attributes pointing to (external) proof of existence objects (PoEAttributes)
-
-  - category: Resolutions related to WG 6
+      * ISO 14533-4 Information technology — Long term signature — Part 4 -
+      Attributes pointing to (external) proof of existence objects
+      (PoEAttributes)
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of a revision of ISO 14533-1, Appointment of Mr. Peter Rybar as the project leader, request ISO/CS to register it as a Working Draft (stage 20.00), and adoption of CD ballot for ISO 14533-1 before May 2021"
-    identifier: 2020-12
-    considerations:
-      - type: considering
-        date_effective: 2020-08-27
-        message: considering that the voting result of SR and the revision request without the change of project scope
-
-    actions:
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to revise ISO 14533-1:2014, and request ISO/CS to register it as WD stage 20.00.
-
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to nominate Mr. Peter Rybar(UMMS SR) as the project leader, and the revision period to be 2 years, the target date for CD ballot 2021-04-30, and target date for DIS ballot 2021-11-30, the target date for FDIS submission (if required) 2022-07-30 and the target date for publication is 2022-10-30.
-
-
-  - category: Resolutions related to WG 6
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 6
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of a revision of ISO 14533-1, Appointment of Mr. Peter Rybar as
+    the project leader, request ISO/CS to register it as a Working Draft (stage 20.00),
+    and adoption of CD ballot for ISO 14533-1 before May 2021
+  identifier: 2020-12
+  considerations:
+  - type: considering
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of DIS ballot for ISO/CD 14533-2“Information technology — Long term signature — Part2: Profiles for XML Advanced Electronic Signatures (XAdEs)”"
-    identifier: 2020-13
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: requests
-        date_effective: 2020-08-27
-        message: requests WG6 to further modify the draft, and resolves to initiate a DIS ballot before Sep 2020.
-
-  - category: Resolutions related to WG 6
+    - start: '2020-08-27'
+      kind: effective
+    message: considering that the voting result of SR and the revision request without
+      the change of project scope
+  actions:
+  - type: resolves
+    message: resolves to revise ISO 14533-1:2014, and request ISO/CS to register it
+      as WD stage 20.00.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of a CIB ballot for comments on ISO/WD TR 19626-3 “Trusted Communication Platforms for Electronic Documents -Part3: implementation guideline”"
-    identifier: 2020-14
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: requests
-        date_effective: 2020-08-27
-        message: requests WG6 to further modify the draft, and resolves to initiate a CIB ballot for comments on ISO/TR WD 19626-3 before April 2021.
-
-  - category: Resolutions related to WG 6
+    - start: '2020-08-27'
+      kind: effective
+  - type: resolves
+    message: |
+      resolves to nominate Mr. Peter Rybar(UMMS SR) as the project leader,
+      and the revision period to be 2 years, the target date for CD ballot
+      2021-04-30, and target date for DIS ballot 2021-11-30, the target date
+      for FDIS submission (if required) 2022-07-30 and the target date for
+      publication is 2022-10-30.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Re-establishment of ISO/TC 154/WG 4 with the title of “e-document”"
-    identifier: 2020-15
-    considerations:
-      - type: considering
-        date_effective: 2020-08-27
-        message: Considering the withdrawal request of WG6, TC 154 resolves to withdraw ISO/PWI 4554-1 “Trusted smart contract-based electronic transactions for personal data and confidential business information - Part 1 Conceptual model”.
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-  - category: Resolutions related to WG 7
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 6
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: 'Adoption of DIS ballot for ISO/CD 14533-2“ Information technology — Long
+    term signature — Part2: Profiles for XML Advanced Electronic Signatures (XAdEs)”'
+  identifier: 2020-13
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: requests
+    message: requests WG6 to further modify the draft, and resolves to initiate a
+      DIS ballot before Sep 2020.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of CD ballot for ISO/AWI 5054-1 “Specification for an Enterprise Canonical Model — Part 1: Architecture”"
-    identifier: 2020-16
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: requests
-        date_effective: 2020-08-27
-        message: requests WG7 to further modify the draft, and resolves to submit ISO/AWI 5054-1 for CD ballot before June 2021.
-
-  - category: Resolutions related to WG 7
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 6
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: 'Adoption of a CIB ballot for comments on ISO/WD TR 19626-3 “Trusted Communication
+    Platforms for Electronic Documents -Part3: implementation guideline”'
+  identifier: 2020-14
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: requests
+    message: requests WG6 to further modify the draft, and resolves to initiate a
+      CIB ballot for comments on ISO/TR WD 19626-3 before April 2021.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of the submission of ISO 15000-5:2014 as horizontal deliverable for the further decision of ISO/CS"
-    identifier: 2020-17
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to support the request from UNECE to submit ISO 15000-5:2014 as horizontal deliverable, and that the form will be further modified by Lance based on the comments and submitted for the further decision of ISO/CS.
-
-  - category: Resolutions related to JWG 8
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 6
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Re-establishment of ISO/TC 154/WG 4 with the title of “e-document”
+  identifier: 2020-15
+  considerations:
+  - type: considering
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of CD ballot for ISO/WD 23355 “Visibility data interchange between logistics information service providers”"
-    identifier: 2020-18
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: requests
-        date_effective: 2020-08-27
-        message: requests JWG8 to further modify the draft, and resolves to submit ISO 23355 for CD ballot before June 2021.
-
-  - category: Resolutions related to JWG 8
+    - start: '2020-08-27'
+      kind: effective
+    message: |
+      Considering the withdrawal request of WG6, TC 154 resolves to withdraw
+      ISO/PWI 4554-1 “Trusted smart contract-based electronic transactions for
+      personal data and confidential business information - Part 1 Conceptual
+      model”.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      resolves to withdraw ISO/PWI 4554-1 “Trusted smart contract-based
+      electronic transactions for personal data and confidential business
+      information - Part 1 Conceptual model”.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Appoint Mrs. Yang Huiting as the new project leader for ISO/WD 23355"
-    identifier: 2020-19
-    considerations:
-      - type: considering
-        date_effective: 2020-08-27
-        message: Considering the request from SAC to change the project leader of ISO/WD 23355
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to appoint Mrs. Yang Huiting as the new project leader.
-
-  - category: Resolutions related to JWG 8
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 6
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: 'Adoption of CD ballot for ISO/AWI 5054-1 “Specification for an Enterprise
+    Canonical Model — Part 1: Architecture”'
+  identifier: 2020-16
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: requests
+    message: requests WG7 to further modify the draft, and resolves to submit ISO/AWI
+      5054-1 for CD ballot before June 2021.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Adoption of a PWI for the project “Data interchange processes of blockchain based negotiable maritime bill of lading related to e-Commerce platform”"
-    identifier: 2020-20
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to adopt the proposal as a PWI on “Data interchange processes of blockchain based negotiable maritime bill of lading related to e-Commerce platform”.
-
-  - category: Resolutions related to liaison membership
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of the submission of ISO 15000-5:2014 as horizontal deliverable
+    for the further decision of ISO/CS
+  identifier: 2020-17
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: resolves to support the request from UNECE to submit ISO 15000-5:2014
+      as horizontal deliverable, and that the form will be further modified by Lance
+      based on the comments and submitted for the further decision of ISO/CS.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "nominate Mrs. Jasmine Jang as liaison representative to ETSI until 2023"
-    identifier: 2020-21
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-      - type: resolves
-        date_effective: 2020-08-27
-        message: resolves to nominate Mrs. Jasmine Jang as liaison representative to ETSI until the end of 2023.
-
-  - category: General Resolutions
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of CD ballot for ISO/WD 23355 “Visibility data interchange between
+    logistics information service providers”
+  identifier: 2020-18
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: requests
+    message: requests JWG8 to further modify the draft, and resolves to submit ISO
+      23355 for CD ballot before June 2021.
     dates:
-      - 2020-08-27
-    subject: The terms of conveners of WG6 (Mrs. Jasmine Jaegyong Chang), CAG (Mrs. Hongru Zhu) have expired
-    title: "Extension of the term period of conveners of WG6 and CAG until 2023"
-    identifier: 2020-22
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-       - type: resolves
-         date_effective: 2020-08-27
-         message: resolves to extend their term periods until the end of 2023.
-
-  - category: General Resolutions
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to JWG 8
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appoint Mrs. Yang Huiting as the new project leader for ISO/WD 23355
+  identifier: 2020-19
+  considerations:
+  - type: considering
     dates:
-      - 2020-08-27
-    subject: The term of Mr. Peter Platter as WG7 convener has expired, and he suggested Mr. Jim Wilson to take over the role
-    title: "Appointment of Mr. Jim Wilson from OAGi as the convener of ISO/TC 154/WG7, the term for 3 years (until the end of 2023)"
-    identifier: 2020-23
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-       - type: resolves
-         date_effective: 2020-08-27
-         message: resolves to nominate Mr. Jim Wilson from OAGi as the convener of ISO/TC 154/WG7 until the end of 2023.
-
-  - category: General Resolutions
+    - start: '2020-08-27'
+      kind: effective
+    message: Considering the request from SAC to change the project leader of ISO/WD
+      23355
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: resolves to appoint Mrs. Yang Huiting as the new project leader.
     dates:
-      - 2020-08-27
-    subject: Because of the updated scope of WG5, and the updated number of members and liaisons of TC154, the business plan of TC154 is updated accordingly
-    title: "Approval of the Business Plan of TC154"
-    identifier: 2020-24
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-       - type: approves
-         date_effective: 2020-08-27
-         message: approves the updated business plan
-
-  - category: General Resolutions
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to JWG 8
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of a PWI for the project “Data interchange processes of blockchain
+    based negotiable maritime bill of lading related to e-Commerce platform”
+  identifier: 2020-20
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: resolves to adopt the proposal as a PWI on “Data interchange processes
+      of blockchain based negotiable maritime bill of lading related to e-Commerce
+      platform”.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "The 40th plenary and WG meetings in 2021 to be held in CA, USA or HK, China"
-    identifier: 2020-25
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-       - type: resolves
-         date_effective: 2020-08-27
-         message: resolves that the next face to face plenary meeting of 2021 (hosted by Calconnect) will be held in California, USA, or Hong Kong, China for the week of 18-22nd, October 2021.
-
-  - category: General Resolutions
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to JWG 8
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: nominate Mrs. Jasmine Jang as liaison representative to ETSI until 2023
+  identifier: 2020-21
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: resolves to nominate Mrs. Jasmine Jang as liaison representative to ETSI
+      until the end of 2023.
     dates:
-      - 2020-08-27
-    subject: ISO/TC 154
-    title: "Appreciation of all on-line participants"
-    identifier: 2020-25
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity.
-
-    actions:
-       - type: thanks
-         degree: unanimous
-         message: warmly thanks all on-line participants for the active participation, in particular those being on-line during unearthly hours.
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - Resolutions related to liaison membership
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: The terms of conveners of WG6 (Mrs. Jasmine Jaegyong Chang), CAG (Mrs.
+    Hongru Zhu) have expired
+  title: Extension of the term period of conveners of WG6 and CAG until 2023
+  identifier: 2020-22
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: resolves to extend their term periods until the end of 2023.
+    dates:
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: The term of Mr. Peter Platter as WG7 convener has expired, and he suggested
+    Mr. Jim Wilson to take over the role
+  title: Appointment of Mr. Jim Wilson from OAGi as the convener of ISO/TC 154/WG7,
+    the term for 3 years (until the end of 2023)
+  identifier: 2020-23
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: resolves to nominate Mr. Jim Wilson from OAGi as the convener of ISO/TC
+      154/WG7 until the end of 2023.
+    dates:
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: Because of the updated scope of WG5, and the updated number of members
+    and liaisons of TC 154, the business plan of TC 154 is updated accordingly
+  title: Approval of the Business Plan of TC 154
+  identifier: 2020-24
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: approves
+    message: approves the updated business plan
+    dates:
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: The 40th plenary and WG meetings in 2021 to be held in CA, USA or HK, China
+  identifier: 2020-25
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: resolves
+    message: resolves that the next face to face plenary meeting of 2021 (hosted by
+      Calconnect) will be held in California, USA, or Hong Kong, China for the week
+      of 18-22nd, October 2021.
+    dates:
+    - start: '2020-08-27'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2020-08-27'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appreciation of all on-line participants
+  identifier: 2020-25
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity.
+  actions:
+  - type: thanks
+    message: warmly thanks all on-line participants for the active participation,
+      in particular those being on-line during unearthly hours.
+    degree: unanimous
+  categories:
+  - General Resolutions
