@@ -1,0 +1,63 @@
+name: validate
+
+on:
+  push:
+    branches: [ main ]
+    paths-ignore:
+      - '**/*.adoc'
+  pull_request:
+    paths-ignore:
+      - '**/*.adoc'
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout resolutions-data repository
+      uses: actions/checkout@v4
+
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.3'
+
+    - name: Install edoxen
+      run: |
+        gem install edoxen
+
+    - name: Validate all YAML files
+      run: |
+        echo "🔍 Validating resolution data files..."
+
+        # Run validation and capture the exit code
+        if edoxen validate "{plenary,ballots,7372ma}/*.yaml"; then
+          validation_result=0
+        else
+          validation_result=$?
+        fi
+
+        # Count files
+        total_files=$(find plenary ballots 7372ma -name "*.yaml" 2>/dev/null | wc -l)
+
+        if [ $validation_result -eq 0 ]; then
+          valid_files=$total_files
+          invalid_files=0
+        else
+          valid_files=0
+          invalid_files=$total_files
+        fi
+
+        echo "📊 Final Validation Summary:"
+        echo "  Total files: $total_files"
+        echo "  Valid files: $valid_files"
+        echo "  Invalid files: $invalid_files"
+
+        if [ $invalid_files -gt 0 ]; then
+          echo "❌ Validation failed: $invalid_files file(s) are invalid"
+          exit 1
+        else
+          echo "✅ All files are valid!"
+          exit 0
+        fi
