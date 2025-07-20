@@ -1,232 +1,251 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
 metadata:
   title: Resolutions of the 26th plenary meeting of ISO/TC 154
-  date: 2009-09-25
+  dates:
+  - start: '2009-09-25'
+    kind: meeting
   source: Secretary
 resolutions:
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Approval of specification of codelists for TDED/EDED alignment"
-    identifier: 291
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Approval of specification of codelists for TDED/EDED alignment
+  identifier: '291'
+  considerations:
+  - type: considering
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+    message: considered the results of TDED Joint MA meeting on 2009-09-24
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: approves
+    message: |
+      ISO/TC 154, having considered the results of TDED Joint MA meeting on 2009-09-24, resolves to approve that the codelists for TDED / EDED alignment should include:
+      - UN/EDIFACT Codelist - UNCL
+      - UNECE Trade Recommendation Codelists – currently maintained by ICG
+      And that ISO 9735 service elements and recommendations are not included.
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Confirmation of ISO/TS 20625:2002
+  identifier: '292'
+  considerations:
+  - type: considering
+    dates:
+    - start: '2008-11-25'
+      kind: effective
+    message: 'the result of the systematic review of ISO/TS 20625:2002 Electronic
+      data interchange for administration, commerce and transport (EDIFACT) -- Rules
+      for generation of XML scheme files (XSD) on the basis of EDI(FACT) implementation
+      guidelines (document 154n540)
 
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
+      '
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: confirms
+    message: resolves to confirm ISO/TS 20625:2002
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Confirmation of ISO/TS 15000-5
+  identifier: '293'
+  considerations:
+  - type: considering
+    dates:
+    - start: '2008-11-25'
+      kind: effective
+    message: 'the result of the systematic review of ISO/TS 15000-5:2005 Part 5: ebXML
+      Core Components Technical Specification, Version 2.01(ebCCTS) (document 154n549)
 
-    considerations:
-      - type: considering
-        date_effective: 2009-09-25
-        message: considered the results of TDED Joint MA meeting on 2009-09-24
-
-    actions:
-      - type: approves
-        date_effective: 2009-09-25
-        message: |
-          ISO/TC 154, having considered the results of TDED Joint MA meeting on 2009-09-24, resolves to approve that the codelists for TDED / EDED alignment should include:
-          - UN/EDIFACT Codelist - UNCL
-          - UNECE Trade Recommendation Codelists – currently maintained by ICG
-          And that ISO 9735 service elements and recommendations are not included.
-
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Confirmation of ISO/TS 20625:2002"
-    identifier: 292
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    considerations:
-      - type: considering
-        date_effective: 2008-11-25
-        message: |
-          the result of the systematic review of ISO/TS 20625:2002 Electronic data interchange for administration, commerce and transport (EDIFACT) -- Rules for generation of XML scheme files (XSD) on the basis of EDI(FACT) implementation guidelines (document 154n540)
-
-    actions:
-      - type: confirms
-        date_effective: 2009-09-25
-        message: resolves to confirm ISO/TS 20625:2002
-
-
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Confirmation of ISO/TS 15000-5"
-    identifier: 293
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    considerations:
-      - type: considering
-        date_effective: 2008-11-25
-        message: |
-          the result of the systematic review of ISO/TS 15000-5:2005 Part 5: ebXML Core Components Technical Specification, Version 2.01(ebCCTS) (document 154n549)
-
-    actions:
-      - type: resolves
-        date_effective: 2009-09-25
-        message: resolves to confirm ISO/TS 15000-5 including corrigenda
-
-
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Category A liaison with GS1"
-    identifier: 294
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    considerations:
-      - type: noting
-        date_effective: 2008-11-25
-        message: noting document 154n513
-
-    actions:
-      - type: resolves
-        date_effective: 2009-09-25
-        message: resolves to establish a Category A liaison with GS1
-
-
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Disbandment of liaison with AELE"
-    identifier: 295
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: disbands
-        date_effective: 2009-09-25
-        message: ISO/TC 154 resolves to disband the liaison with AELE
-
-
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Disbandment of liaison with ICOGRADA"
-    identifier: 296
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: disbands
-        date_effective: 2009-09-25
-        message: ISO/TC 154 resolves to disband the liaison with ICOGRADA
-
-
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Disbandment of liaison with LAS"
-    identifier: 297
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: disbands
-        date_effective: 2009-09-25
-        message: ISO/TC 154 resolves to disband the liaison with LAS
-
-
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Category A liaison with UN/CEFACT"
-    identifier: 298
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: establishes
-        date_effective: 2009-09-25
-        message: ISO/TC 154 resolves to establish a Category A liaison with UN/CEFACT
-
-
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Disbandment of liaison with UN"
-    identifier: 299
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: disbands
-        date_effective: 2009-09-25
-        message: ISO/TC 154, considering the existing liaisons with UNECE, UNCTAD and UN/CEFACT, resolves to disband the liaison with UN
-
-
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Category A liaison with IATA"
-    identifier: 300
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: establishes
-        date_effective: 2009-09-25
-        message: ISO/TC 154 resolves to establish a Category A liaison with IATA
-
-
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Liaison officer from ISO/TC 154 to ISO/TC 204"
-    identifier: 301
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: appoints
-        date_effective: 2009-09-25
-        message: ISO/TC 154 resolves to appoint Mr. Vankemmel as liaison officer from ISO/TC 154 to ISO/TC 204
-
-
-  - dates:
-      - 2009-09-25
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Appreciation"
-    identifier: 302
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: ACCLAMATION
-
-    actions:
-      - type: thanks
-        degree: unanimous
-        message: ISO/TC 154 expresses its sincere appreciation to Mr. Wakaizumi, the ISO/TC154 Japan Committee and JIPDEC for arranging the twenty-sixth meeting of ISO/TC 154 in Tokyo and hospitality
+      '
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: resolves
+    message: resolves to confirm ISO/TS 15000-5 including corrigenda
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Category A liaison with GS1
+  identifier: '294'
+  considerations:
+  - type: noting
+    dates:
+    - start: '2008-11-25'
+      kind: effective
+    message: noting document 154n513
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: resolves
+    message: resolves to establish a Category A liaison with GS1
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Disbandment of liaison with AELE
+  identifier: '295'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: disbands
+    message: ISO/TC 154 resolves to disband the liaison with AELE
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Disbandment of liaison with ICOGRADA
+  identifier: '296'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: disbands
+    message: ISO/TC 154 resolves to disband the liaison with ICOGRADA
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Disbandment of liaison with LAS
+  identifier: '297'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: disbands
+    message: ISO/TC 154 resolves to disband the liaison with LAS
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Category A liaison with UN/CEFACT
+  identifier: '298'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: establishes
+    message: ISO/TC 154 resolves to establish a Category A liaison with UN/CEFACT
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Disbandment of liaison with UN
+  identifier: '299'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: disbands
+    message: ISO/TC 154, considering the existing liaisons with UNECE, UNCTAD and
+      UN/CEFACT, resolves to disband the liaison with UN
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Category A liaison with IATA
+  identifier: '300'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: establishes
+    message: ISO/TC 154 resolves to establish a Category A liaison with IATA
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Liaison officer from ISO/TC 154 to ISO/TC 204
+  identifier: '301'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: appoints
+    message: ISO/TC 154 resolves to appoint Mr. Vankemmel as liaison officer from
+      ISO/TC 154 to ISO/TC 204
+    dates:
+    - start: '2009-09-25'
+      kind: effective
+- dates:
+  - start: '2009-09-25'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Appreciation
+  identifier: '302'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: ACCLAMATION
+  actions:
+  - type: thanks
+    message: ISO/TC 154 expresses its sincere appreciation to Mr. Wakaizumi, the ISO/TC
+      154 Japan Committee and JIPDEC for arranging the twenty-sixth meeting of ISO/TC
+      154 in Tokyo and hospitality
+    degree: unanimous

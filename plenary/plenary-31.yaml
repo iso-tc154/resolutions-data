@@ -1,299 +1,368 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
 metadata:
   title: Resolutions of the 31th plenary meeting of ISO/TC 154
-  date: 2012-10-12
+  dates:
+  - start: '2012-10-12'
+    kind: meeting
   source: Secretariat
 resolutions:
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Publication of ISO 17369"
-    identifier: 006-2012
-    considerations:
-      - type: considering
-        date_effective: 2012-10-12
-        message: considering that no negative votes were received on ISO DIS 17369 (N0690)
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Publication of ISO 17369
+  identifier: 006-2012
+  considerations:
+  - type: considering
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: considering that no negative votes were received on ISO DIS 17369 (N0690)
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: resolves
+    message: resolves to bypass the FDIS ballot and to proceed directly to the publication
+      of ISO 17369.
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Resignation of Mr. Michael Dill as convenor of ISO/TC 154/WG 4
+  identifier: 007-2012
+  message: 'with regret accepts the resignation of its WG 4 convenor Mr. Michael Dill,
+    effective immediately. The TC expresses its appreciation to Mr. Michael Dill for
+    his outstanding contribution to the work of ISO/TC 154. The Technical Committee
+    wishes Mr. Michael Dill every success for the future.
 
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: resolves
-        date_effective: 2012-10-12
-        message: resolves to bypass the FDIS ballot and to proceed directly to the publication of ISO 17369.
-
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Resignation of Mr. Michael Dill as convenor of ISO/TC 154/WG 4"
-    identifier: 007-2012
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-
-      - type: accepts
-        date_effective: 2012-10-12
-        message: with regret accepts the resignation of its WG 4 convenor Mr. Michael Dill, effective immediately.
-
-      - type: appreciates
-        date_effective: 2012-10-12
-        The TC expresses its appreciation to Mr. Michael Dill for his outstanding contribution to the work of ISO/TC 154. The Technical Committee wishes Mr. Michael Dill every success for the future.
-
+    '
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: accepts
+    message: with regret accepts the resignation of its WG 4 convenor Mr. Michael
+      Dill, effective immediately.
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+  - type: appreciates
+    message: The TC expresses its appreciation to Mr. Michael Dill for his outstanding
+      contribution to the work of ISO/TC 154. The Technical Committee wishes Mr. Michael
+      Dill every success for the future.
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Appointment of Ms. Sue Probert as Convenor of ISO/TC 154/WG 4
+  identifier: '008-2012'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: resolves
+    message: resolves to appoint Ms. Sue Probert as Convenor of Working Group 4 eLK,
+      effective immediately
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+  - type: requests
+    message: requests DIN to continue to offer the secretariat of ISO/TC 154/WG 4
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: ISO/PWI TR 18262 to DTR ballot
+  identifier: '009-2012'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: resolves
+    message: resolves to submit ISO/PWI TR 18262 Open Data Interchange Framework (ODIF)
+      to DTR ballot, and submit the Draft to the liaison organization for comments
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Reinstatement all withdrawn versions of ISO 9735
+  identifier: 010-2012
+  considerations:
+  - type: noting
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: noting that older versions of the EDIFACT syntax (ISO 9735) were recently
+      withdrawn in the ISO database
+  - type: recalling
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: reminding that there was an older TC 154 resolution on retaining older
+      EDIFACT syntax versions which is still valid
+  - type: recognising
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: recognizing that there is still a user/business need to keep the older
+      EDIFACT syntax versions available
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: requests
+    message: requests ISO/TMB to reinstate all withdrawn versions of ISO 9735
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Participation in ISO/TC 154
+  identifier: 011-2012
+  considerations:
+  - type: considering
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: considering the ISO Internal Regulations ‐ Part 1, clause 1.7, Participation
+      in the work of technical committees and subcommittees
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: encourages
+    message: encourages all P‐members to participate actively in the work, to appoint
+      experts to the technical work, and to participate in the meetings
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Dissemination of TC documents to national and liaison members
+  identifier: 012‐2012
+  considerations:
+  - type: considering
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: noting that not all TC members and Liaison members receive the TC documents
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: reminds
+    message: reminds the NSB and Liaison organizations to disseminate all TC documents
+      and ballots to its members
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: ePUB standard for the conversion of ISO deliverables into XML
+  identifier: 013-2012
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: encourages
+    message: encourages ISO/CS to use the open industry standard ePUB rather than
+      the adopted proprietary solution in its effort to support an XML format for
+      ISO deliverables
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Encourage active participation in MoU‐eB/MG
+  identifier: 014-2012
+  considerations:
+  - type: considering
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: considering the purpose of the MoU‐eB/MG is to minimize the risk of divergent
+      and competitive approaches to standardization, to avoid duplication of efforts,
+      and to avoid confusion amongst users
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: encourages
+    message: encourages the members of the MoU‐eB/MG to put in their best effort,
+      including participation in meetings from start to end, thereby allowing open
+      dialogues with other members of the MoUeB/MG, to further improve the collaboration
+      between the involved parties
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: 'NWIP 8601‐2 Information interchange ‐ Representation of dates, times andperiods
+    – Part 2: Extensions'
+  identifier: 015-2012
+  considerations:
+  - type: considering
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: considering the initial results of ISO/PWI TR 18366 Impact analysis of
+      change requests for ISO 8601
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: requests
     message: |
-      with regret accepts the resignation of its WG 4 convenor Mr. Michael Dill, effective immediately. The TC expresses its appreciation to Mr. Michael Dill for his outstanding contribution to the work of ISO/TC 154. The Technical Committee wishes Mr. Michael Dill every success for the future.
-
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Appointment of Ms. Sue Probert as Convenor of ISO/TC 154/WG 4"
-    identifier: 008-2012
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: resolves
-        date_effective: 2012-10-12
-        message: resolves to appoint Ms. Sue Probert as Convenor of Working Group 4 eLK, effective immediately
-      - type: requests
-        date_effective: 2012-10-12
-        message: requests DIN to continue to offer the secretariat of ISO/TC 154/WG 4
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "ISO/PWI TR 18262 to DTR ballot"
-    identifier: 009-2012
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: resolves
-        date_effective: 2012-10-12
-        message: resolves to submit ISO/PWI TR 18262 Open Data Interchange Framework (ODIF) to DTR ballot, and submit the Draft to the liaison organization for comments
-
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Reinstatement all withdrawn versions of ISO 9735"
-    identifier: 010-2012
-    considerations:
-
-      - type: noting
-        date_effective: 2012-10-12
-        message: noting that older versions of the EDIFACT syntax (ISO 9735) were recently withdrawn in the ISO database
-
-      - type: reminding
-        date_effective: 2012-10-12
-        message: reminding that there was an older TC 154 resolution on retaining older EDIFACT syntax versions which is still valid
-
-      - type: recognising
-        date_effective: 2012-10-12
-        message: recognizing that there is still a user/business need to keep the older EDIFACT syntax versions available
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: requests
-        date_effective: 2012-10-12
-        message: requests ISO/TMB to reinstate all withdrawn versions of ISO 9735
-
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Participation in ISO/TC 154"
-    identifier: 011-2012
-
-    considerations:
-
-      - type: considering
-        date_effective: 2012-10-12
-        message: considering the ISO Internal Regulations ‐ Part 1, clause 1.7, Participation in the work of technical committees and subcommittees
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: encourages
-        date_effective: 2012-10-12
-        message: encourages all P‐members to participate actively in the work, to appoint experts to the technical work, and to participate in the meetings
-
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Dissemination of TC documents to national and liaison members"
-    identifier: 012‐2012
-    considerations:
-      - type: considering
-        date_effective: 2012-10-12
-        message: noting that not all TC members and Liaison members receive the TC documents
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: reminds
-        date_effective: 2012-10-12
-        message: reminds the NSB and Liaison organizations to disseminate all TC documents and ballots to its members
-
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "ePUB standard for the conversion of ISO deliverables into XML"
-    identifier: 013-2012
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: encourages
-        date_effective: 2012-10-12
-        message: encourages ISO/CS to use the open industry standard ePUB rather than the adopted proprietary solution in its effort to support an XML format for ISO deliverables
-
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Encourage active participation in MoU‐eB/MG"
-    identifier: 014-2012
-    considerations:
-      - type: considering
-        date_effective: 2012-10-12
-        message: considering the purpose of the MoU‐eB/MG is to minimize the risk of divergent and competitive approaches to standardization, to avoid duplication of efforts, and to avoid confusion amongst users
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: encourages
-        date_effective: 2012-10-12
-        message: encourages the members of the MoU‐eB/MG to put in their best effort, including participation in meetings from start to end, thereby allowing open dialogues with other members of the MoUeB/MG, to further improve the collaboration between the involved parties
-
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "NWIP 8601‐2 Information interchange ‐ Representation of dates, times andperiods – Part 2: Extensions"
-    identifier: 015-2012
-    considerations:
-      - type: considering
-        date_effective: 2012-10-12
-        message: considering the initial results of ISO/PWI TR 18366 Impact analysis of change requests for ISO 8601
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: requests
-        date_effective: 2012-10-12
-        message: requests Mr. Klaus‐Dieter Naujok to prepare a proposal (form‐4) for the adoption of a preliminary work item on ISO 8601‐2 Information interchange ‐ representation of dates, times and periods – Part 2: Extensions and subsequently send the proposal to PWI ballot
-
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Withdrawal of ISO TS 15000 parts 1, 2, 3 and 4"
-    identifier: 016-2012
-    considerations:
-      - type: considering
-        date_effective: 2012-10-12
-        message: checking the output of the systematic reviews on ISO/TS 15000‐1, ‐2, ‐3 and ‐4
-      - type: considering
-        date_effective: 2012-10-12
-        message: noting that the majority votes for confirmation of all 4 parts
-      - type: considering
-        date_effective: 2012-10-12
-        message: recognizing that at least two member countries (USA and Germany) voted for withdrawal due to the fact that the content of all four TS documents are outdated and repeated requests for OASIS to submit their published newer versions were not successful
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: resolves
-        date_effective: 2012-10-12
-        message: resolves to initiate a Committee Internal Ballot (CIB) to withdraw all 4 parts. The CIB shall provide the information on the outdated content to support the member countries in their resolution.
-
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Request to UNECE to engage ISO/CS"
-    identifier: 017-2012
-    considerations:
-      - type: considering
-        date_effective: 2012-10-12
-        message: considering that the issue with ISO/TC 8, regarding ISO 28005 Parts 1 & 2, is mainly about their encroachment on the division of responsibilities in the area of standardization assigned under the MoU on eBusiness, to UN/CEFACT
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: requests
-        date_effective: 2012-10-12
-        message: requests, since ISO/TC 154's efforts failed to resolve this conflict, that the UNECE engage with the ISO/CS to address and resolve this encroachment.
-
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Appreciation of the meeting host"
-    identifier: 018-2012
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: thanks
-        date_effective: 2012-10-12
-        message: resolves to thank Mrs. Melitta Rafelt and Mr. Bernd Boesler for the excellent technical service to support the updating the JSWG (ISO9735) web pages for the 11B and 12A service directories under difficult circumstances.
-
-  - dates:
-      - 2012-10-12
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Appreciation of the meeting host"
-    identifier: 019-2012
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: The resolution was taken by unanimity
-
-    actions:
-      - type: thanks
-        date_effective: 2012-10-12
-        message: warmly thanks GXS and Mr. Bill Chessman for their kind hospitality and hosting of a successful week of ISO/TC 154 meetings
+      requests Mr. Klaus-Dieter Naujok to prepare a proposal (form-4) for
+      the adoption of a preliminary work item on ISO 8601-2 Information
+      interchange - representation of dates, times and periods - Part 2:
+      Extensions and subsequently send the proposal to PWI ballot
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Withdrawal of ISO TS 15000 parts 1, 2, 3 and 4
+  identifier: 016-2012
+  considerations:
+  - type: considering
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: checking the output of the systematic reviews on ISO/TS 15000‐1, ‐2,
+      ‐3 and ‐4
+  - type: considering
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: noting that the majority votes for confirmation of all 4 parts
+  - type: considering
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: recognizing that at least two member countries (USA and Germany) voted
+      for withdrawal due to the fact that the content of all four TS documents are
+      outdated and repeated requests for OASIS to submit their published newer versions
+      were not successful
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: resolves
+    message: resolves to initiate a Committee Internal Ballot (CIB) to withdraw all
+      4 parts. The CIB shall provide the information on the outdated content to support
+      the member countries in their resolution.
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Request to UNECE to engage ISO/CS
+  identifier: 017-2012
+  considerations:
+  - type: considering
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+    message: considering that the issue with ISO/TC 8, regarding ISO 28005 Parts 1
+      & 2, is mainly about their encroachment on the division of responsibilities
+      in the area of standardization assigned under the MoU on eBusiness, to UN/CEFACT
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: requests
+    message: requests, since ISO/TC 154's efforts failed to resolve this conflict,
+      that the UNECE engage with the ISO/CS to address and resolve this encroachment.
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Appreciation of the meeting host
+  identifier: '018-2012'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: thanks
+    message: resolves to thank Mrs. Melitta Rafelt and Mr. Bernd Boesler for the excellent
+      technical service to support the updating the JSWG (ISO9735) web pages for the
+      11B and 12A service directories under difficult circumstances.
+    dates:
+    - start: '2012-10-12'
+      kind: effective
+- dates:
+  - start: '2012-10-12'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Appreciation of the meeting host
+  identifier: '019-2012'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was taken by unanimity
+  actions:
+  - type: thanks
+    message: warmly thanks GXS and Mr. Bill Chessman for their kind hospitality and
+      hosting of a successful week of ISO/TC 154 meetings
+    dates:
+    - start: '2012-10-12'
+      kind: effective

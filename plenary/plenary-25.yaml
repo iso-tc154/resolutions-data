@@ -1,379 +1,408 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
 metadata:
   title: Resolutions from 25th plenary meeting of ISO/TC 154
-  date:
-    start: 2008-11-25
-    end: 2008-11-26
+  dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: meeting
   source: Secretary
 resolutions:
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Title of ISO/TC 154"
-    identifier: 275
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: resolves
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 resolves that the current title of ISO/TC 154, Processes, data elements and documents in commerce, industry and administration, remains unchanged
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Approval of draft business plan"
-    identifier: 276
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: approves
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 resolves to approve the draft business plan (document 154n514) including the changes that have been agreed at the meeting on 25 and 26 November 2008
-
-      - type: sends
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: to send this document for a ballot by correspondence to the P-members of ISO/TC 154
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Disbandment of ISO/TC 154/WG 1 Semantic engine"
-    identifier: 277
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: disbands
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 resolves to disband ISO/TC 154/WG 1 Semantic engine noting that there are no active work items allocated to this Working Group
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Confirmation of ISO 9735:2002 parts 1 through 10"
-    identifier: 278
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    considerations:
-      - type: considering
-        date_effective: 2008-11-25
-        message: |
-          the result of the systematic review of ISO 9735:2002 parts 1 through 10 Electronic data interchange for administration, commerce and transport (EDIFACT) – Application level syntax rules (Syntax version number: 4, Syntax release number: 1) (document 154n495)
-
-    actions:
-      - type: confirms
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: resolves to confirm ISO 9735:2002 parts 1 through 10
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Information on ISO ballots and reviews"
-    identifier: 279
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: requests
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 resolves to request ISO/CS and the secretary of ISO/TC 154 to be informed on ballots and reviews that will and have been launched via the ISO balloting system
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Confirmation of ISO 7372:2005"
-    identifier: 279
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    considerations:
-      - type: considering
-        date_effective: 2008-11-25
-        message: the result of the systematic review of ISO 7372:2005 Trade data interchange – Trade data elements directory (document 154n506)
-
-    actions:
-      - type: confirms
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: resolves to confirm ISO 7372:2005
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Way forward on TDED"
-    identifier: 280
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: resolves
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 resolves to launch a joint study with UN/CEFACT to determine an integrated strategy for the development of a single library including at least TDED, EDED and CCL
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Invitation to ISO 20022 RA to participate in discussions of TDED Joint Maintenance Agency"
-    identifier: 281
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: encourages
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 encourages ISO 20022 RA to participate actively in the work of the TDED joint MA
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Election of Ms. Mary Kay Blantz as co-chair of the TDED Joint Maintenance Agency"
-    identifier: 282
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: elects
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 elects Ms. Mary Kay Blantz as co-chair of the TDED Joint Maintenance Agency
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Acceptance of European Commission as a member of the TDED Joint Maintenance Agency"
-    identifier: 283
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: accepts
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 accepts the European Commission as a member of the TDED Joint Maintenance Agency, pending written confirmation.
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Consistency of TDED and EDED"
-    identifier: 284
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: resolves
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 resolves that, going forward, the TDED and EDED should be kept consistent with each other for common data elements
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Joint processing of any DMRs related to both TDED and EDED"
-    identifier: 285
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: resolves
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 resolves that the joint processing of any DMRs which relate to both the TDED and EDED should be jointly processed by UN/CEFACT ATG1 and the UNECE-ISO 7372 Joint MA.
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Processing of DMRs by current entry points"
-    identifier: 286
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    actions:
-      - type: resolves
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 resolves that current entry points will continue to receive submitted DMRs and that processes will be drawn up for determining actions required in each case. DMRs may be applicable to TDED and EDED or to TDED only. Common DMRs shall be processed by UN/CEFACT ATG1 and the MA through a joint team and any TDED-only DMRs received through the UN will be passed by the joint team to be processed only by the MA
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Confirmation of ISO 8601:2004"
-    identifier: 287
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    considerations:
-      - type: considering
-        date_effective: 2008-11-25
-        message: the result of the systematic review of ISO 8601:2004 Data elements and interchange formats – Information interchange Representation of dates and times (document 154n507)
-
-    actions:
-      - type: confirms
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: resolves to confirm ISO 8601:2004
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Confirmation of ISO/TS 15000: 2004 parts 1 through 4"
-    identifier: 288
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: UNANIMOUS
-
-    considerations:
-      - type: considering
-        date_effective: 2008-11-25
-        message: |
-          the result of the systematic review
-          of ISO/TS 15000:2004 Electronic business eXtensible Markup Language
-          (ebXML) parts 1 through 4 (document 154n508 – 154n511)
-
-    actions:
-      - type: resolves
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: "resolves to confirm ISO/TS 15000: 2004 parts 1 through 4"
-
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Resignation of Mr. Vuilleumier as chair and secretary of ISO/TC 154"
-    identifier: 289
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: ACCLAMATION
-
-    actions:
-      - type: regrets
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 notes with regret the resignation of Mr. Vuilleumier as chair and secretary of ISO/TC 154
-
-      - type: thanks
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: thanks him for the excellent and important work he has done in the area of standards for trade facilitation. His enthusiasm and leadership of ISO/TC 154 have played an important role in the achievements of ISO/TC 154
-
-  - dates:
-      - 2008-11-25
-      - 2008-11-26
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    title: "Appreciation"
-    identifier: 290
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: ACCLAMATION
-
-    actions:
-      - type: thanks
-        date_effective:
-          start: 2008-11-25
-          end: 2008-11-26
-        message: ISO/TC 154 expresses its sincere appreciation to the World Customs Organisation for arranging the twenty-fifth meeting of ISO/TC 154 in Brussels and hospitality
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Title of ISO/TC 154
+  identifier: '275'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: resolves
+    message: ISO/TC 154 resolves that the current title of ISO/TC 154, Processes,
+      data elements and documents in commerce, industry and administration, remains
+      unchanged
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Approval of draft business plan
+  identifier: '276'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: approves
+    message: ISO/TC 154 resolves to approve the draft business plan (document 154n514)
+      including the changes that have been agreed at the meeting on 25 and 26 November
+      2008
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+  - type: sends
+    message: to send this document for a ballot by correspondence to the P-members
+      of ISO/TC 154
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Disbandment of ISO/TC 154/WG 1 Semantic engine
+  identifier: '277'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: disbands
+    message: ISO/TC 154 resolves to disband ISO/TC 154/WG 1 Semantic engine noting
+      that there are no active work items allocated to this Working Group
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Confirmation of ISO 9735:2002 parts 1 through 10
+  identifier: '278'
+  considerations:
+  - type: considering
+    dates:
+    - start: '2008-11-25'
+      kind: effective
+    message: 'the result of the systematic review of ISO 9735:2002 parts 1 through
+      10 Electronic data interchange for administration, commerce and transport (EDIFACT)
+      – Application level syntax rules (Syntax version number: 4, Syntax release number:
+      1) (document 154n495)
+
+      '
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: confirms
+    message: resolves to confirm ISO 9735:2002 parts 1 through 10
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Information on ISO ballots and reviews
+  identifier: '279'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: requests
+    message: ISO/TC 154 resolves to request ISO/CS and the secretary of ISO/TC 154
+      to be informed on ballots and reviews that will and have been launched via the
+      ISO balloting system
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Confirmation of ISO 7372:2005
+  identifier: '279'
+  considerations:
+  - type: considering
+    dates:
+    - start: '2008-11-25'
+      kind: effective
+    message: the result of the systematic review of ISO 7372:2005 Trade data interchange
+      – Trade data elements directory (document 154n506)
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: confirms
+    message: resolves to confirm ISO 7372:2005
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Way forward on TDED
+  identifier: '280'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: resolves
+    message: ISO/TC 154 resolves to launch a joint study with UN/CEFACT to determine
+      an integrated strategy for the development of a single library including at
+      least TDED, EDED and CCL
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Invitation to ISO 20022 RA to participate in discussions of TDED Joint Maintenance
+    Agency
+  identifier: '281'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: encourages
+    message: ISO/TC 154 encourages ISO 20022 RA to participate actively in the work
+      of the TDED joint MA
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Election of Ms. Mary Kay Blantz as co-chair of the TDED Joint Maintenance
+    Agency
+  identifier: '282'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: elects
+    message: ISO/TC 154 elects Ms. Mary Kay Blantz as co-chair of the TDED Joint Maintenance
+      Agency
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Acceptance of European Commission as a member of the TDED Joint Maintenance
+    Agency
+  identifier: '283'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: accepts
+    message: ISO/TC 154 accepts the European Commission as a member of the TDED Joint
+      Maintenance Agency, pending written confirmation.
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Consistency of TDED and EDED
+  identifier: '284'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: resolves
+    message: ISO/TC 154 resolves that, going forward, the TDED and EDED should be
+      kept consistent with each other for common data elements
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Joint processing of any DMRs related to both TDED and EDED
+  identifier: '285'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: resolves
+    message: ISO/TC 154 resolves that the joint processing of any DMRs which relate
+      to both the TDED and EDED should be jointly processed by UN/CEFACT ATG1 and
+      the UNECE-ISO 7372 Joint MA.
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Processing of DMRs by current entry points
+  identifier: '286'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: resolves
+    message: ISO/TC 154 resolves that current entry points will continue to receive
+      submitted DMRs and that processes will be drawn up for determining actions required
+      in each case. DMRs may be applicable to TDED and EDED or to TDED only. Common
+      DMRs shall be processed by UN/CEFACT ATG1 and the MA through a joint team and
+      any TDED-only DMRs received through the UN will be passed by the joint team
+      to be processed only by the MA
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Confirmation of ISO 8601:2004
+  identifier: '287'
+  considerations:
+  - type: considering
+    dates:
+    - start: '2008-11-25'
+      kind: effective
+    message: the result of the systematic review of ISO 8601:2004 Data elements and
+      interchange formats – Information interchange Representation of dates and times
+      (document 154n507)
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: confirms
+    message: resolves to confirm ISO 8601:2004
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: 'Confirmation of ISO/TS 15000: 2004 parts 1 through 4'
+  identifier: '288'
+  considerations:
+  - type: considering
+    dates:
+    - start: '2008-11-25'
+      kind: effective
+    message: |
+      the result of the systematic review
+      of ISO/TS 15000:2004 Electronic business eXtensible Markup Language
+      (ebXML) parts 1 through 4 (document 154n508 – 154n511)
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: UNANIMOUS
+  actions:
+  - type: resolves
+    message: 'resolves to confirm ISO/TS 15000: 2004 parts 1 through 4'
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Resignation of Mr. Vuilleumier as chair and secretary of ISO/TC 154
+  identifier: '289'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: ACCLAMATION
+  actions:
+  - type: regrets
+    message: ISO/TC 154 notes with regret the resignation of Mr. Vuilleumier as chair
+      and secretary of ISO/TC 154
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+  - type: thanks
+    message: thanks him for the excellent and important work he has done in the area
+      of standards for trade facilitation. His enthusiasm and leadership of ISO/TC
+      154 have played an important role in the achievements of ISO/TC 154
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective
+- dates:
+  - start: '2008-11-25'
+    end: '2008-11-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Appreciation
+  identifier: '290'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: ACCLAMATION
+  actions:
+  - type: thanks
+    message: ISO/TC 154 expresses its sincere appreciation to the World Customs Organisation
+      for arranging the twenty-fifth meeting of ISO/TC 154 in Brussels and hospitality
+    dates:
+    - start: '2008-11-25'
+      end: '2008-11-26'
+      kind: effective

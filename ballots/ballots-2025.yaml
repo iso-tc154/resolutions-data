@@ -1,0 +1,273 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
+metadata:
+  title: Committee Internal Ballots for ISO/TC 154 in 2025
+  dates:
+  - start: '2025-02-07'
+    kind: meeting
+  source: ISO/TC 154 Secretariat
+resolutions:
+- dates:
+  - start: '2025-02-07'
+    end: '2025-03-07'
+    kind: ballot
+  subject: TC176 liaison establishment
+  title: Establishment of liaison with TC176
+  type: resolution
+  identifier: V-2025-01
+  considerations:
+  - type: noting
+    message: |
+      ISO/TC 154/JWG 9 made a recommenation (JWG9 recommendtaion 24-17) in
+      JWG9 document N71 and requests TC 154 to establish a liaison with
+      ISO/TC 176 and appoint Mr. Hao Wu as the liaison representative.
+  - type: noting
+    message: 'This CIB is initiated based on the JWG9 recommendation.
+
+      '
+  actions:
+  - type: establishes
+    message: |
+      Establishment of internal liaison with ISO/TC176 and appointment of
+      Mr. Hao Wu (dearwuhao@hotmail.com) as the liaison representative form
+      ISO/TC 154 to ISO/TC176.
+    subject: TC176 liaison
+    dates:
+    - start: '2025-03-08'
+      kind: effective
+  categories:
+  - liaison
+- dates:
+  - start: '2025-03-17'
+    end: '2025-04-16'
+    kind: ballot
+  subject: CEN/CENELEC JTC24 observers
+  title: Nomination of 4 ISO/TC 154 experts as ISO observers to CEN/CENELEC JTC24
+  type: resolution
+  identifier: V-2025-02
+  considerations:
+  - type: noting
+    message: |
+      As per Guidelines for the implementation of the Agreement on Technical
+      Cooperation between ISO and CEN (the Vienna Agreement),
+      representatives of an ISO or CEN committee attending a meeting of a
+      working group of the other organization shall have the status of
+      observers. Up to four representatives may be appointed to attend
+      meetings of technical bodies of the other organization.
+  - type: noting
+    message: |
+      28 Feb CAG made a recommendation to request ISO to register 4 ISO/TC
+      154 experts (Mr. Yu Shi (shiyu@bnu.edu.cn), Ms. Zhaoyang Sun
+      (sunzhy@cnis.ac.cn), Mr. Hisanao Sugamata (hsedi0111@gmail.com) and
+      Ms. Sue Probert (suesiprobert@live.com) as the ISO observers to
+      CEN/CENELEC JTC24.
+  - type: noting
+    message: |
+      The ballot is initiated based on the Vienna Agreement and the CAG
+      recommendaiton.
+  actions:
+  - type: nominates
+    message: |
+      Nomination of 4 ISO/TC 154 experts (Mr. Yu Shi, Ms. Zhaoyang Sun,
+      Mr. Hisanao Sugamata, Ms. Sue Probert) as the ISO observers to
+      CEN/CENELEC JTC24.
+
+      4 ISO/TC 154 experts informaiton: Mr. Yu Shi (shiyu@bnu.edu.cn), Ms.
+      Zhaoyang Sun (sunzhy@cnis.ac.cn), Mr. Hisanao Sugamata
+      (hsedi0111@gmail.com) and Ms. Sue Probert (suesiprobert@live.com)
+    subject: CEN/CENELEC JTC24 observers
+    dates:
+    - start: '2025-04-17'
+      kind: effective
+  categories:
+  - liaison
+- dates:
+  - start: '2025-03-21'
+    end: '2025-04-20'
+    kind: ballot
+  subject: ODCCN A-liaison membership
+  title: Establishement of ODCCN for A-liaison membership with TC 154
+  type: resolution
+  identifier: V-2025-03
+  considerations:
+  - type: noting
+    message: |
+      N1567 is the application form from ODCCN (Organisation pour le
+      Développement du Commerce et la Coopération en matière de Normes) for
+      A-liaison membership with TC 154. This ballot is initiated based on
+      the clause 1.17 of ISO/IEC directives.
+  - type: noting
+    message: |
+      As per the application form, the Organization's Point of Contact is
+      Ms. Shanshan LI (secretariat@odccn.org)
+  actions:
+  - type: establishes
+    message: |
+      Establishement of ODCCN for A-liaison membership with TC 154, and
+      appointment of Ms.Orenda WANG (orendawang@odccn.org) as liaison
+      representative
+    subject: ODCCN A-liaison
+    dates:
+    - start: '2025-04-21'
+      kind: effective
+  categories:
+  - liaison
+- dates:
+  - start: '2025-04-14'
+    end: '2025-05-13'
+    kind: ballot
+  subject: BIMCO A-liaison membership
+  title: Establishement of BIMCO for A-liaison membership with TC 154
+  type: resolution
+  identifier: V-2025-04
+  considerations:
+  - type: noting
+    message: |
+      N1572 is the application form from BIMCO (Baltic and International
+      Maritime Council) for A-liaison membership with TC 154. This ballot is
+      initiated based on the clause 1.17 of ISO/IEC directives.
+  - type: noting
+    message: |
+      As per the application form, the Organization's Point of Contact is
+      BIMCO Secretariat.
+  actions:
+  - type: establishes
+    message: |
+      Establishement of BIMCO for A-liaison membership with TC 154, and
+      appointment of Mr. Grant Hunter (gh@bimco.org) as liaison
+      representative
+    subject: BIMCO A-liaison
+    dates:
+    - start: '2025-05-14'
+      kind: effective
+  categories:
+  - liaison
+- dates:
+  - start: '2025-04-25'
+    end: '2025-05-24'
+    kind: ballot
+  subject: ISO/PWI 16356 co-leader appointment
+  title: Appointment of Mr. Yu Shi as the co-leaders of ISO/PWI 16356 from ISO/TC
+    154 side
+  type: resolution
+  identifier: V-2025-05
+  considerations:
+  - type: noting
+    message: |
+      A CIB was approved as Resolution V-2024-09 (TC 154 document N1483)
+      "Appointment of Ms. Wenting Chang from ISO/TC 154 side and Mr. Hao Wu
+      from UNECE side as the co-leaders of ISO/PWI 16356".
+  - type: noting
+    message: |
+      A NP ballot was launched for ISO/NP 16356, and the ballot closed on
+      2025-04-04, the result of voting on ISO/NP 16356 can be found in TC
+      154 document N1571. A CIB to gather additional commitments to ISO
+      16356 will close on 2025-05-08.
+  - type: noting
+    message: |
+      JWG9 made a recommendation to initiated a CIB to appoint Mr. Yu Shi as
+      the co-leader of ISO/PWI 16356 on the ISO side. This CIB ballot was
+      launched based on the JWG9 recommendation for the replacement of the
+      co-leader of ISO 16356 from ISO/TC 154 side.
+  actions:
+  - type: appoints
+    message: 'Appointment of Mr. Yu Shi as the co-leaders of ISO/PWI 16356 from ISO/TC
+      154 side.
+
+      '
+    subject: ISO/PWI 16356 co-leadership
+    dates:
+    - start: '2025-05-25'
+      kind: effective
+  categories:
+  - project management
+- dates:
+  - start: '2025-06-09'
+    end: '2025-07-07'
+    kind: ballot
+  subject: ISO/WD 22132 assignment
+  title: Assignment of ISO/WD 22132 to WG7
+  type: resolution
+  identifier: V-2025-06
+  considerations:
+  - type: noting
+    message: |
+      With the request of project leader of ISO 22132 "Guidelines for
+      barcode usage in trade documents" and the confirmation of CAG, a
+      recommendation was made at the CAG meeting of April to assign the
+      project to WG7.
+  actions:
+  - type: decides
+    message: 'Assignment of ISO/WD 22132 to WG7
+
+      '
+    subject: ISO/WD 22132 assignment to WG7
+    dates:
+    - start: '2025-07-08'
+      kind: effective
+  categories:
+  - project management
+- dates:
+  - start: '2025-06-20'
+    end: '2025-07-19'
+    kind: ballot
+  subject: carbon market MRV PWI
+  title: Adoption of a PWI registration for carbon market MRV data quality assessment
+  type: resolution
+  identifier: V-2025-07
+  considerations:
+  - type: noting
+    message: |
+      This proposal "Processes and data in carbon market monitoring
+      reporting verification (MRV) - Data quality assessment" was presented
+      and circulated as TC 154 doucument N1539 at the last plenary meeting
+      in Korean.
+  - type: noting
+    message: |
+      With the suggestion of chair and CAG meeting of April, the proposal
+      discussion was scheduled in WG7. WG7 meeting of 27 May has discussed
+      the proposal and agreed to initiate a CIB for the adoption of the
+      projecto as PWI. (WG7 N167)
+  - type: noting
+    message: |
+      A study group with a possible title "carbon emission data" will be
+      further discussed in CAG, if the SG can be established, and the
+      project will be further developed in the SG. (WG7 N167).
+  actions:
+  - type: adopts
+    message: |
+      Adoption of a PWI registration for the project "Processes and data in
+      carbon market monitoring reporting verification (MRV) - Data quality
+      assessment"
+    subject: carbon market MRV PWI
+  categories:
+  - PWI registration
+- dates:
+  - start: '2025-07-30'
+    end: '2025-08-29'
+    kind: ballot
+  subject: WG7 and JWG9 convener appointment
+  title: Appointment of Mr. Jim Wilson from OAGi as WG7 convener and JWG9 co-convener
+  type: resolution
+  identifier: V-2025-08
+  considerations:
+  - type: noting
+    message: |
+      ANSI has ended its P-Membership in ISO/TC 154 in June 2025, then Mr.
+      Jim Wilson was removed the role of ANSI from TC 154 following ANSI's
+      request. His WG7 convener and JWG7 co-convener were also removed
+      automatically by ISO system.
+  - type: noting
+    message: |
+      CAG meeting of June has made a recommendation to launch a CIB for the
+      appointment of Mr. Jim Wilson with the role of OAGi liaison
+      representation as WG7 convener and JWG9 co-convener for the 3 years
+      term.
+  actions:
+  - type: appoints
+    message: |
+      Appointment of Mr. Jim Wilson from OAGi as WG7 convener and JWG9
+      co-convener with the term for 3 years until 2027
+    subject: WG7 and JWG9 convener
+  categories:
+  - working group

@@ -1,297 +1,343 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
 metadata:
   title: Resolutions and action items of the ISO/TC 154 19th meeting
-  date: 2002-09-06
+  dates:
+  - start: '2002-09-06'
+    kind: meeting
   source: ISO/TC 154
 resolutions:
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 212
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: resolves
-        date_effective: 2002-09-06
-        message: ISO/TC 154 resolves to migrate the existing liaisons with the EWG and CDWG to the UN/CEFACT Forum, and requests the ISO/TC154 Chair to contact the Forum Coordination Team to secure this migration.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 213
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: thanks
-        date_effective: 2002-09-06
-        message: ISO/TC 154 resolves to thank JSWG for the successful revision of ISO 9735 and for the publication facilities that provide access to these documents. In particular TC 154 resolves to thank Bernd Boesler and Henry Schlieper for providing excellent and efficient hosting facilities for the JSWG web-site.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 214
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: establishes
-        date_effective: 2002-09-06
-        message: ISO/TC 154 resolves to establish a liaison with CEN/ISSS WS EC and WS eBES.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 215
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: establishes
-        date_effective: 2002-09-06
-        message: ISO/TC 154 resolves to establish a liaison with ISO/TC 204 and to express interest in being a party to their MoU on "Standards development for freight movement within the supply chain".
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 216
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: estabilishes
-        date_effective: 2002-09-06
-        message: ISO/TC 154 resolves to establish a liaison with ISO/TC 46/SC 11.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 217
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: resolves
-        date_effective: 2002-09-06
-        message: ISO/TC 154 resolves to discontinue its liaison with ISO/TC 10, relying on good advice coming from ISO/TC 184.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 218
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: resolves
-        date_effective: 2002-09-06
-        message: |
-          ISO/TC 154 resolves to set up a Task Force to process the substantive comments in a subsequent revision of ISO 8601, "Representation of dates and times".
-
-          The task force members are: Mr Vuilleumier (SNV, CH, Convener), Mr Visser (NEN, NL), Mr Crowley (US), Mr Itoh (JISC, JP), Mr Boesler (DIN, DE) and Mr Bezos (ISO/TC 184 liaison).
-
-          The TF Convener shall report back to the ISO/TC 154 before end of 2002.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 219
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: identifies
-        date_effective: 2002-09-06
-        message: ISO/TC 154 identifies ISO/FDIS 18513, "Tourism services – Hotels and other types of tourism accommodation - Terminolgy", as an interesting document.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 12
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: resolves
-        date_effective: 2002-09-06
-        message: ISO/TC 154 Chair to take note that the next ISO 11180, "Postal addressing", systematic review will take place in 2003.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 13
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: resolves
-        date_effective: 2002-09-06
-        message: ISO/TC 154 Chair to take note that the next ISO TS 16668, "BSR", systematic review will take place in 2003.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 220
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: requests
-        date_effective: 2002-09-06
-        message: |
-          ISO/TC 154 resolves, in line with ISO7372MA resolution 2 (see document 154 N 420), to request its WG 1 contact other "standardisation bodies or consortia" in order to know if they want to bring their data and participate to the analysis and comparison with other directories contained in the multilingual semantic tool developed during the BSR project. Examples of such bodies are: CEFACT Forum, OASIS, SWIFT, ISO/TC 68, ISO/TC 184. The WG 1 shall report to TC 154 at its next meeting.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 221
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: agrees
-        date_effective: 2002-09-06
-        message: |
-          ISO/TC 154, taking account of changes in semantic registers development, agrees to the WG 1 request to change its name to: "Semantic engine", in order to provide a better visibility on this part of its work. The objective of the WG 1 remains: "to act as a central reference to assist in the universal, multilingual understanding of data across commerce, industry and administration" (TC 154 resolution 159: see doc. 154n303).
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 14
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: resolves
-        date_effective: 2002-09-06
-        message: ISO NP 22208 Project Leader to provide the CD, for processing ballot.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 222
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: endorses
-        date_effective: 2002-09-06
-        message: ISO/TC 154 resolves to endorse the resolutions and action items adopted by the ISO7372MA and ISO/TC 154/WG 1 documented in document 154 N 420.
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 223
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: resolves
-        date_effective: 2002-09-06
-        message: ISO/TC 154 resolves to hold its next meeting together with the ISO7372MA and ISO/TC 154/WG 1 back to back before the next UN/CEFACT Forum, subject to a decision on the date and place of the forum being made by end of 2002-09. Should a decision on the Forum date not being available in time, TC 154 Chair will secure an alternative.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 224
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: thanks
-        date_effective: 2002-09-06
-        message: ISO/TC154 resolves to thank Margaret Pemberton, SAI/AU and EWG, and Henry Schlieper, DIN/DE, for their excellent contribution to the work of the ISO7372MA and also to thank Jean-Loup Commo, AFNOR/FR for the excellent and effective editing of the ISO7372MA and ISO/TC154/WG1, as well as the ISO/TC154 resolutions.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 225
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: thanks
-        date_effective: 2002-09-06
-        message: ISO/TC 154 resolves to thank the chair and members of WG 1 for their excellent contribution to the work of the ISO7372MA and in particular for the availability of the BSR semantic engine.
-
-
-  - dates:
-      - 2002-09-06
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry and administration
-    identifier: 226
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: thanks
-        date_effective: 2002-09-06
-        message: ISO/TC 154 resolves to thank the Direction du III e arrondissement, Geneva, of the Swiss Customs Administration for providing excellent and efficient hosting facilities for this meeting and in particular to thank François Vuilleumier, SNV/CH and ISO/TC 154 Chair for planning and facilitation.
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '212'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: resolves
+    message: ISO/TC 154 resolves to migrate the existing liaisons with the EWG and
+      CDWG to the UN/CEFACT Forum, and requests the ISO/TC 154 Chair to contact the
+      Forum Coordination Team to secure this migration.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '213'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: thanks
+    message: ISO/TC 154 resolves to thank JSWG for the successful revision of ISO
+      9735 and for the publication facilities that provide access to these documents.
+      In particular TC 154 resolves to thank Bernd Boesler and Henry Schlieper for
+      providing excellent and efficient hosting facilities for the JSWG web-site.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '214'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: establishes
+    message: ISO/TC 154 resolves to establish a liaison with CEN/ISSS WS EC and WS
+      eBES.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '215'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: establishes
+    message: ISO/TC 154 resolves to establish a liaison with ISO/TC 204 and to express
+      interest in being a party to their MoU on "Standards development for freight
+      movement within the supply chain".
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '216'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: estabilishes
+    message: ISO/TC 154 resolves to establish a liaison with ISO/TC 46/SC 11.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '217'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: resolves
+    message: ISO/TC 154 resolves to discontinue its liaison with ISO/TC 10, relying
+      on good advice coming from ISO/TC 184.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '218'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: resolves
+    message: |
+      ISO/TC 154 resolves to set up a Task Force to process the substantive comments in a subsequent revision of ISO 8601, "Representation of dates and times".
+
+      The task force members are: Mr Vuilleumier (SNV, CH, Convener), Mr Visser (NEN, NL), Mr Crowley (US), Mr Itoh (JISC, JP), Mr Boesler (DIN, DE) and Mr Bezos (ISO/TC 184 liaison).
+
+      The TF Convener shall report back to the ISO/TC 154 before end of 2002.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '219'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: identifies
+    message: ISO/TC 154 identifies ISO/FDIS 18513, "Tourism services – Hotels and
+      other types of tourism accommodation - Terminolgy", as an interesting document.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '12'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: resolves
+    message: ISO/TC 154 Chair to take note that the next ISO 11180, "Postal addressing",
+      systematic review will take place in 2003.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '13'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: resolves
+    message: ISO/TC 154 Chair to take note that the next ISO TS 16668, "BSR", systematic
+      review will take place in 2003.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '220'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: requests
+    message: 'ISO/TC 154 resolves, in line with ISO7372MA resolution 2 (see document
+      154 N 420), to request its WG 1 contact other "standardisation bodies or consortia"
+      in order to know if they want to bring their data and participate to the analysis
+      and comparison with other directories contained in the multilingual semantic
+      tool developed during the BSR project. Examples of such bodies are: CEFACT Forum,
+      OASIS, SWIFT, ISO/TC 68, ISO/TC 184. The WG 1 shall report to TC 154 at its
+      next meeting.
+
+      '
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '221'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: agrees
+    message: 'ISO/TC 154, taking account of changes in semantic registers development,
+      agrees to the WG 1 request to change its name to: "Semantic engine", in order
+      to provide a better visibility on this part of its work. The objective of the
+      WG 1 remains: "to act as a central reference to assist in the universal, multilingual
+      understanding of data across commerce, industry and administration" (TC 154
+      resolution 159: see doc. 154n303).
+
+      '
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '14'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: resolves
+    message: ISO NP 22208 Project Leader to provide the CD, for processing ballot.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '222'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: endorses
+    message: ISO/TC 154 resolves to endorse the resolutions and action items adopted
+      by the ISO7372MA and ISO/TC 154/WG 1 documented in document 154 N 420.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '223'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: resolves
+    message: ISO/TC 154 resolves to hold its next meeting together with the ISO7372MA
+      and ISO/TC 154/WG 1 back to back before the next UN/CEFACT Forum, subject to
+      a decision on the date and place of the forum being made by end of 2002-09.
+      Should a decision on the Forum date not being available in time, TC 154 Chair
+      will secure an alternative.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '224'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: thanks
+    message: ISO/TC 154 resolves to thank Margaret Pemberton, SAI/AU and EWG, and
+      Henry Schlieper, DIN/DE, for their excellent contribution to the work of the
+      ISO7372MA and also to thank Jean-Loup Commo, AFNOR/FR for the excellent and
+      effective editing of the ISO7372MA and ISO/TC 154/WG1, as well as the ISO/TC
+      154 resolutions.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '225'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: thanks
+    message: ISO/TC 154 resolves to thank the chair and members of WG 1 for their
+      excellent contribution to the work of the ISO7372MA and in particular for the
+      availability of the BSR semantic engine.
+    dates:
+    - start: '2002-09-06'
+      kind: effective
+- dates:
+  - start: '2002-09-06'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  identifier: '226'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: thanks
+    message: ISO/TC 154 resolves to thank the Direction du III e arrondissement, Geneva,
+      of the Swiss Customs Administration for providing excellent and efficient hosting
+      facilities for this meeting and in particular to thank François Vuilleumier,
+      SNV/CH and ISO/TC 154 Chair for planning and facilitation.
+    dates:
+    - start: '2002-09-06'
+      kind: effective

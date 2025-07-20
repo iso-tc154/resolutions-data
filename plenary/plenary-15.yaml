@@ -1,112 +1,152 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
 metadata:
-  title: Resolutions taken at the 15th meeting of ISO/TC 154 held on 1998-10-22/23 in Paris
+  title: Resolutions taken at the 15th meeting of ISO/TC 154 held on 1998-10-22/23
+    in Paris
+  dates:
+  - start: '1998-10-22'
+    end: '1998-10-23'
+    kind: meeting
   source: ISO/TC 154 secretariat
-  date:
-    start: 1998-10-22
-    end: 1998-10-23
-  source: Secretariat of ISO/TC 154
 resolutions:
-  - identifier: 154
-    subject: ISO/TC 154
+- subject: ISO/TC 154
+  identifier: '154'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: withdraws
+    message: ISO/TC 154 resolves to withdraw resolution 140.
+- subject: ISO/TC 154
+  identifier: '155'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: withdraws
+    message: ISO/TC 154 resolves to grant an International Liaison A status for INFOTERM.
+- subject: ISO/TC 154
+  identifier: '156'
+  message: |
+    ISO/TC 154 supports the recommendation of the Reconciliation group and resolves that parts 5, 6, 7 and 9 of ISO 9735 are unblocked and published as International Standards without further delay.
 
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
+    Therefore ISO/TC 154 strongly encourages JTC 1/SC 27 to participate at the next Joint Syntax Working Group (JSWG) meeting in Concord, CA., 9th to 13th November 1998, to clarify the necessary steps to close the issue following the recommendation of the Reconciliation group. In accordance with the ISO Directives, the technical comments made by Canada should be dealt with when the IS is reviewed.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: supports
+    message: 'ISO/TC 154 supports the recommendation of the Reconciliation group and
+      resolves that parts 5, 6, 7 and 9 of ISO 9735 are unblocked and published as
+      International Standards without further delay.
 
-    actions:
-      - type: withdraws
-        message: ISO/TC 154 resolves to withdraw resolution 140.
+      '
+  - type: encourages
+    message: 'Therefore ISO/TC 154 strongly encourages JTC 1/SC 27 to participate
+      at the next Joint Syntax Working Group (JSWG) meeting in Concord, CA., 9th to
+      13th November 1998, to clarify the necessary steps to close the issue following
+      the recommendation of the Reconciliation group.
 
-  - identifier: 155
-    subject: ISO/TC 154
+      '
+  - type: notes
+    message: 'In accordance with the ISO Directives, the technical comments made by
+      Canada should be dealt with when the IS is reviewed.
 
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
+      '
+- subject: ISO/TC 154
+  identifier: '157'
+  message: 'ISO/TC 154 noted the report of the ad hoc group under resolution 139 (service
+    elements) and recommends that the Joint Syntax Working Group discuss this point
+    at its next meeting and decide on further steps.
 
-    actions:
-      - type: withdraws
-        message: ISO/TC 154 resolves to grant an International Liaison A status for INFOTERM.
+    '
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: notes
+    message: ISO/TC 154 noted the report of the ad hoc group under resolution 139
+      (service elements)
+  - type: recommends
+    message: recommends that the Joint Syntax Working Group discuss this point at
+      its next meeting and decide on further steps.
+- subject: ISO/TC 154
+  identifier: '158'
+  message: ISO/TC 154 resolves to revise ISO 8440 in regard to the Year 2000 problem
+    and asked the secretariat to undertake the necessary steps for this editorial
+    change.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: resolves
+    message: ISO/TC 154 resolves to revise ISO 8440 in regard to the Year 2000 problem
+  - type: asks
+    message: asked the secretariat to undertake the necessary steps for this editorial
+      change.
+- subject: ISO/TC 154
+  identifier: '159'
+  message: |
+    Recognising that the ISO/TC 154 member bodies have approved two new work items on the BSR, it is resolved that TC 154 set up a specific Working Group, WG for BSR to realise the objective of the BSR which is:
 
-  - identifier: 156
-    subject: ISO/TC 154
+    „To act as a central reference to assist in the universal, multilingual understanding of data across commerce, industry and administration.“
 
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
+    Scope:
 
+    - Developing, obtaining agreement and maintaining the Rules and Guidelines for defining entries in the BSR. (NP16668)
+    - Developing and maintaining the Process/Methodology for the population of the BSR. (NP16668)
+    - Stimulated the development of the sector specific and general data population, including the development of
+    cross-sectorial relationships. (NP16669)
+    - The development work for population per sector/industry shall be carried out by the sector/industry concerned, with the BSR Registration Authority acting as the central co-ordinating body to ensure common application of the rules and to liaise with organisations for resolution of problems on cross sector data.
+    - Overseeing the development and implementation of the software for the register.
+    - Overseeing the BSR operation and the Registration Authority function of the BSR content.
+
+    Membership:
+
+    - Nominated experts by those P members who indicated their support of the NWI’s and all other members who would now like to participate.
+    - Representatives of those organisations responsible for sector/industry data specification such as:
+    − ISO/TC 46 „Information and documentation“,
+    − ISO/TC 68 „Banking, securities and other financial services“,
+    − ISO/TC 184 „Industrial automation systems and integration“,
+    − ISO/TC 184/SC 4 „Industrial data“,
+    − ISO/TC 215 „Health informatics“ and
+    − CEN/TC 251 „Medical informatics“,
+    − UN/CEFACT especially „UN/EDIFACT“, and
+    − Others, such as the signatures to the ISO/IEC/UN-ECE MoU.
+
+    In particular organisations representing new technologies such as XML/EDI should be welcomed.
+    - ISO/TC 154 would welcome a proposal from France to assume the convenorship of this working group.
+
+    Initial Tasks:
+
+    1. Develop a high level business plan and project deliverables.
+    2. Develop a programme and timetable for the development, implementation and population of the BSR. The goal should be for implementation and initial population if possible by mid 1999.
+    3. Process
+      (a) Rules, Guidelines
+      (b) Methodology
+    according to the ISO procedures starting from the CD level.
+    4. Communicate the BSR directions and plans in order to attract cross sector/industry support.
+  considerations:
+  - type: recognizing
+    dates:
+    - start: '1998-10-22'
+      end: '1998-10-23'
+      kind: effective
+    message: Recognising that the ISO/TC 154 member bodies have approved two new work
+      items on the BSR
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: resolves
     message: |
-      ISO/TC 154 supports the recommendation of the Reconciliation group and resolves that parts 5, 6, 7 and 9 of ISO 9735 are unblocked and published as International Standards without further delay.
-
-      Therefore ISO/TC 154 strongly encourages JTC 1/SC 27 to participate at the next Joint Syntax Working Group (JSWG) meeting in Concord, CA., 9th to 13th November 1998, to clarify the necessary steps to close the issue following the recommendation of the Reconciliation group. In accordance with the ISO Directives, the technical comments made by Canada should be dealt with when the IS is reviewed.
-
-    actions:
-      - type: supports
-        message: |
-          ISO/TC 154 supports the recommendation of the Reconciliation group and resolves that parts 5, 6, 7 and 9 of ISO 9735 are unblocked and published as International Standards without further delay.
-
-      - type: encourages
-        message: |
-          Therefore ISO/TC 154 strongly encourages JTC 1/SC 27 to participate at the next Joint Syntax Working Group (JSWG) meeting in Concord, CA., 9th to 13th November 1998, to clarify the necessary steps to close the issue following the recommendation of the Reconciliation group.
-
-      - type: notes
-        message: |
-          In accordance with the ISO Directives, the technical comments made by Canada should be dealt with when the IS is reviewed.
-
-  - identifier: 157
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    message: |
-      ISO/TC 154 noted the report of the ad hoc group under resolution 139 (service elements) and recommends that the Joint Syntax Working Group discuss this point at its next meeting and decide on further steps.
-
-    actions:
-      - type: notes
-        message: ISO/TC 154 noted the report of the ad hoc group under resolution 139 (service elements)
-      - type: recommends
-        message: recommends that the Joint Syntax Working Group discuss this point at its next meeting and decide on further steps.
-
-  - identifier: 158
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    message: ISO/TC 154 resolves to revise ISO 8440 in regard to the Year 2000 problem and asked the secretariat to undertake the necessary steps for this editorial change.
-
-    actions:
-      - type: resolves
-        message: ISO/TC 154 resolves to revise ISO 8440 in regard to the Year 2000 problem
-
-      - type: asks
-        message: asked the secretariat to undertake the necessary steps for this editorial change.
-
-  - identifier: 159
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    considerations:
-      - type: recognizing
-        date_effective:
-          start: 1998-10-22
-          end: 1998-10-23
-        message: Recognising that the ISO/TC 154 member bodies have approved two new work items on the BSR
-
-    message: |
-      Recognising that the ISO/TC 154 member bodies have approved two new work items on the BSR, it is resolved that TC 154 set up a specific Working Group, WG for BSR to realise the objective of the BSR which is:
+      it is resolved that TC 154 set up a specific Working Group, WG for BSR to realise the objective of the BSR which is:
 
       „To act as a central reference to assist in the universal, multilingual understanding of data across commerce, industry and administration.“
 
@@ -145,231 +185,175 @@ resolutions:
         (b) Methodology
       according to the ISO procedures starting from the CD level.
       4. Communicate the BSR directions and plans in order to attract cross sector/industry support.
+- subject: ISO/TC 154
+  identifier: '160'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: accepts
+    message: ISO/TC 154 accepted the report of the review committee for the BSR system
+      proposals with some amendments as noted in the minutes.
+  - type: accepts
+    message: ISO/TC 154 accepts the offer by France to provide the operating platform
+      and Registration Authority function for the BSR.
+  - type: resolves
+    message: ISO/TC 154 further resolves that development should be undertaken in
+      liaison with the Czech standards body.
+- subject: ISO/TC 154
+  identifier: '161'
+  message: 'ISO/TC 154 thanks ISO/TC 68 for their positive resolutions on the BSR
+    and welcomes their active participation.
 
-    actions:
-      - type: resolves
-        message: |
-          it is resolved that TC 154 set up a specific Working Group, WG for BSR to realise the objective of the BSR which is:
+    '
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: thanks
+    message: ISO/TC 154 thanks ISO/TC 68 for their positive resolutions on the BSR
+  - type: welcomes
+    message: and welcomes their active participation.
+- subject: ISO/TC 154
+  identifier: '162'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: resolves
+    message: ISO/TC 154 resolves to recommend to the MoU/MG that ISO 7372 (UNTDED)
+      be thoroughly reviewed as a joint activity between UN/CEFACT and ISO/TC 154.
+      Within the review the possibilities of alignment of UNTDED with ongoing work
+      both under UN/CEFACT (especially UNTDID) and ISO/TC 154 (BSR) should be strongly
+      taken into account.
+- subject: ISO/TC 154
+  identifier: '163'
+  considerations:
+  - type: recognizing
+    dates:
+    - start: '1998-10-22'
+      end: '1998-10-23'
+      kind: effective
+    message: ISO/TC 154 recognises the differences between the address line field
+      length in ISO 7372 and ISO 11180
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: resolves
+    message: 'resolves that these differences be reconciled prior to reconfirmation
+      of ISO 11180.
 
-          „To act as a central reference to assist in the universal, multilingual understanding of data across commerce, industry and administration.“
+      '
+  - type: recommends
+    message: 'ISO/TC 154 further recommends that this be carried out through the Vienna
+      agreement and the current work of CEN/TC 331.
 
-          Scope:
-
-          - Developing, obtaining agreement and maintaining the Rules and Guidelines for defining entries in the BSR. (NP16668)
-          - Developing and maintaining the Process/Methodology for the population of the BSR. (NP16668)
-          - Stimulated the development of the sector specific and general data population, including the development of
-          cross-sectorial relationships. (NP16669)
-          - The development work for population per sector/industry shall be carried out by the sector/industry concerned, with the BSR Registration Authority acting as the central co-ordinating body to ensure common application of the rules and to liaise with organisations for resolution of problems on cross sector data.
-          - Overseeing the development and implementation of the software for the register.
-          - Overseeing the BSR operation and the Registration Authority function of the BSR content.
-
-          Membership:
-
-          - Nominated experts by those P members who indicated their support of the NWI’s and all other members who would now like to participate.
-          - Representatives of those organisations responsible for sector/industry data specification such as:
-          − ISO/TC 46 „Information and documentation“,
-          − ISO/TC 68 „Banking, securities and other financial services“,
-          − ISO/TC 184 „Industrial automation systems and integration“,
-          − ISO/TC 184/SC 4 „Industrial data“,
-          − ISO/TC 215 „Health informatics“ and
-          − CEN/TC 251 „Medical informatics“,
-          − UN/CEFACT especially „UN/EDIFACT“, and
-          − Others, such as the signatures to the ISO/IEC/UN-ECE MoU.
-
-          In particular organisations representing new technologies such as XML/EDI should be welcomed.
-          - ISO/TC 154 would welcome a proposal from France to assume the convenorship of this working group.
-
-          Initial Tasks:
-
-          1. Develop a high level business plan and project deliverables.
-          2. Develop a programme and timetable for the development, implementation and population of the BSR. The goal should be for implementation and initial population if possible by mid 1999.
-          3. Process
-            (a) Rules, Guidelines
-            (b) Methodology
-          according to the ISO procedures starting from the CD level.
-          4. Communicate the BSR directions and plans in order to attract cross sector/industry support.
-
-  - identifier: 160
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: accepts
-        message: ISO/TC 154 accepted the report of the review committee for the BSR system proposals with some amendments as noted in the minutes.
-
-      - type: accepts
-        message: ISO/TC 154 accepts the offer by France to provide the operating platform and Registration Authority function for the BSR.
-
-      - type: resolves
-        message: ISO/TC 154 further resolves that development should be undertaken in liaison with the Czech standards body.
-
-  - identifier: 161
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    message: |
-      ISO/TC 154 thanks ISO/TC 68 for their positive resolutions on the BSR and welcomes their active participation.
-
-    actions:
-      - type: thanks
-        message: ISO/TC 154 thanks ISO/TC 68 for their positive resolutions on the BSR
-      - type: welcomes
-        message: and welcomes their active participation.
-
-  - identifier: 162
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: resolves
-        message: ISO/TC 154 resolves to recommend to the MoU/MG that ISO 7372 (UNTDED) be thoroughly reviewed as a joint activity between UN/CEFACT and ISO/TC 154. Within the review the possibilities of alignment of UNTDED with ongoing work both under UN/CEFACT (especially UNTDID) and ISO/TC 154 (BSR) should be strongly taken into account.
-
-  - identifier: 163
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    considerations:
-      - type: recognizing
-        date_effective:
-          start: 1998-10-22
-          end: 1998-10-23
-        message: ISO/TC 154 recognises the differences between the address line field length in ISO 7372 and ISO 11180
-
-    actions:
-      - type: resolves
-        message: |
-          resolves that these differences be reconciled prior to reconfirmation of ISO 11180.
-
-      - type: recommends
-        message: |
-          ISO/TC 154 further recommends that this be carried out through the Vienna agreement and the current work of CEN/TC 331.
-
-  - identifier: 164
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    considerations:
-      - type: recognizing
-        date_effective:
-          start: 1998-10-22
-          end: 1998-10-23
-        message: ISO/TC 154 recognises the proposal of UN/CEFACT to enhance the UN/ECE recommendation No. 20 by progressing it into an International Standard under the ISO Fast Track procedure.
-
-    actions:
-      - type: asks
-        message: ISO/TC 154 asks UN/CEFACT to make a formal request for a corresponding New Work Item proposal.
-
-  - identifier: 165
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    considerations:
-      - type: recognizing
-        date_effective:
-          start: 1998-10-22
-          end: 1998-10-23
-        message: ISO/TC 154 recognises the possibility of an ISO member body undertaking its secretariatship using the procedure of an external secretariat.
-
-    actions:
-      - type: notes
-        message: In that context ISO/TC 154 noted with pleasure the formal offer of UN/CEFACT to act, for a period of three years, as such a secretariat.
-      - type: resolves
-        message: ISO/TC 154 resolves to ensure that this offer is evaluated and progressed as soon as possible.
-
-  - identifier: 166
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: welcomes
-        message: ISO/TC 154 welcomes the agreement on the ISO/IEC/UN-ECE MoU.
-      - type: encourages
-        message: Further in view of the close inter- relationships with ITU, ISO/TC 154 strongly encourages any move to secure the participation of ITU in the MoU as a signatory.
-
-  - identifier: 167
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    considerations:
-      - type: basing
-        date_effective:
-          start: 1998-10-22
-          end: 1998-10-23
-        message: Based on the MoU
-
-    actions:
-      - type: recommends
-        message: ISO/TC 154 recommends the establishment of a close co-operation between JTC 1 and ISO/TC 154 in the field of Electronic Business including EDI.
-
-      - type: requests
-        message: Thus ISO/TC 154 requests the MoU/MG to support this recommendation and provide directions for ongoing co-operation.
-
-  - identifier: 168
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: thanks
-        message: ISO/TC 154 thanks AFNOR for hosting the plenary meeting and providing the support.
-
-  - identifier: 169
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: thanks
-        message: ISO/TC 154 expresses its appreciation to Mrs. Ingeborg Burger-Balogh for her excellent chairing of the meeting.
-
-  - identifier: 168
-    subject: ISO/TC 154
-
-    approvals:
-      - type: affirmative
-        degree: unanimous
-        message: Unanimous
-
-    actions:
-      - type: thanks
-        message: ISO/TC 154 thanks its secretariat and the editing committee for their efficient support.
-
-
+      '
+- subject: ISO/TC 154
+  identifier: '164'
+  considerations:
+  - type: recognizing
+    dates:
+    - start: '1998-10-22'
+      end: '1998-10-23'
+      kind: effective
+    message: ISO/TC 154 recognises the proposal of UN/CEFACT to enhance the UN/ECE
+      recommendation No. 20 by progressing it into an International Standard under
+      the ISO Fast Track procedure.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: asks
+    message: ISO/TC 154 asks UN/CEFACT to make a formal request for a corresponding
+      New Work Item proposal.
+- subject: ISO/TC 154
+  identifier: '165'
+  considerations:
+  - type: recognizing
+    dates:
+    - start: '1998-10-22'
+      end: '1998-10-23'
+      kind: effective
+    message: ISO/TC 154 recognises the possibility of an ISO member body undertaking
+      its secretariatship using the procedure of an external secretariat.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: notes
+    message: In that context ISO/TC 154 noted with pleasure the formal offer of UN/CEFACT
+      to act, for a period of three years, as such a secretariat.
+  - type: resolves
+    message: ISO/TC 154 resolves to ensure that this offer is evaluated and progressed
+      as soon as possible.
+- subject: ISO/TC 154
+  identifier: '166'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: welcomes
+    message: ISO/TC 154 welcomes the agreement on the ISO/IEC/UN-ECE MoU.
+  - type: encourages
+    message: Further in view of the close inter- relationships with ITU, ISO/TC 154
+      strongly encourages any move to secure the participation of ITU in the MoU as
+      a signatory.
+- subject: ISO/TC 154
+  identifier: '167'
+  considerations:
+  - type: basing
+    dates:
+    - start: '1998-10-22'
+      end: '1998-10-23'
+      kind: effective
+    message: Based on the MoU
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: recommends
+    message: ISO/TC 154 recommends the establishment of a close co-operation between
+      JTC 1 and ISO/TC 154 in the field of Electronic Business including EDI.
+  - type: requests
+    message: Thus ISO/TC 154 requests the MoU/MG to support this recommendation and
+      provide directions for ongoing co-operation.
+- subject: ISO/TC 154
+  identifier: '168'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: thanks
+    message: ISO/TC 154 thanks AFNOR for hosting the plenary meeting and providing
+      the support.
+- subject: ISO/TC 154
+  identifier: '169'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: thanks
+    message: ISO/TC 154 expresses its appreciation to Mrs. Ingeborg Burger-Balogh
+      for her excellent chairing of the meeting.
+- subject: ISO/TC 154
+  identifier: '168'
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: Unanimous
+  actions:
+  - type: thanks
+    message: ISO/TC 154 thanks its secretariat and the editing committee for their
+      efficient support.

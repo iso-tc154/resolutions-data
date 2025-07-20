@@ -1,361 +1,500 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
 metadata:
-  title: Approved final Resolution of the 41st hybrid plenary meeting of ISO/TC 154 in 2022
-  date: 2022-11-22
+  title: Approved final Resolution of the 41st hybrid plenary meeting of ISO/TC 154
+    in 2022
+  dates:
+  - start: '2022-11-22'
+    kind: meeting
   source: ISO/TC 154 Secretariat
 resolutions:
-  - category: Resolution related to WG 4
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Disbandment of WG4
+  identifier: 2022-01
+  considerations:
+  - type: considering
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Disbandment of WG4"
-    identifier: 2022-01
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering that there is no project in WG4
-
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to disband WG4 as per the Clause 1.12.4 of ISO/IEC directives, effective immediately.
-
-  - category: Resolutions related to WG 5
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering that there is no project in WG4
+  actions:
+  - type: resolves
+    message: resolves to disband WG4 as per the Clause 1.12.4 of ISO/IEC directives,
+      effective immediately.
     dates:
-      - 2022-10-14
-    subject: ISO/TC154
-    title: "Adoption of an amendment of ISO 8601-2:2019/Amd.1, Appointment of Mr. Ronald Tse as the project leader, request ISO/CS to register the project in stage 20.00, and adoption of CD ballot before April 2023"
-    identifier: 2022-02
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering the amendment request
-
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to amend ISO 8601-2:2019
-
-      - type: requests
-        date_effective: 2022-10-14
-        message: request ISO/CS to register it as ISO 8601-2:2019 Amd.1 in stage 20.00.
-
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to nominate Mr. Ronald Tse (Calconnect) as the project leader, and that the amendment period is 18 months, the target date for CD ballot is 2023-03-30, and the target date for DIS ballot 2023-08-30, the target date for FDIS submission (if required) - 2024-03-30 and the target date for the publication is 2024-06-30.
-
-  - category: Resolutions related to WG 6
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolution related to WG 4
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of an amendment of ISO 8601-2:2019/Amd.1, Appointment of Mr. Ronald
+    Tse as the project leader, request ISO/CS to register the project in stage 20.00,
+    and adoption of CD ballot before April 2023
+  identifier: 2022-02
+  considerations:
+  - type: considering
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Initiating WD study of ISO/TR 19626-3 before 2023-03-31"
-    identifier: 2022-03
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves that OSD drafting (0.20) is finished until end of 2022 and OSD WD study (20.20) is opened before 2023-03-31.
-
-  - category: Resolutions related to WG 6
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering the amendment request
+  actions:
+  - type: resolves
+    message: resolves to amend ISO 8601-2:2019
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Appointment of Mrs. Jasmine Jaegyong Chang as the project leader of ISO/TR 19626-3"
-    identifier: 2022-04
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering that change request of project leader of ISO/TR 19626-3
-  
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to re-nominate Mrs. Jasmine Jaegyong Chang from KATS as the project leader of ISO/TR 19626-3 to replace of Ms. Lee Jung Nam.
-
-  - category: Resolutions related to WG 7
+    - start: '2022-10-14'
+      kind: effective
+  - type: requests
+    message: request ISO/CS to register it as ISO 8601-2:2019 Amd.1 in stage 20.00.
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Adoption of ISO 15000-3 skip FDIS ballot and directly into publication stage"
-    identifier: 2022-05
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering that WG7 changed the “technical” comments on ISO/DIS 15000-3 from SCC into “editorial” comments, all comments on ISO/DIS 15000-3 are editorial
-  
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to move ISO 15000-3 into the publication stage after the comments disposition and update the draft accordingly.
-
-  - category: Resolutions related to WG 7
+    - start: '2022-10-14'
+      kind: effective
+  - type: resolves
+    message: resolves to nominate Mr. Ronald Tse (Calconnect) as the project leader,
+      and that the amendment period is 18 months, the target date for CD ballot is
+      2023-03-30, and the target date for DIS ballot 2023-08-30, the target date for
+      FDIS submission (if required) - 2024-03-30 and the target date for the publication
+      is 2024-06-30.
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Adoption of a PWI for the project “Guidelines on risk-based product quality data interchange in E-commerce”"
-    identifier: 2022-06
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering a new proposal proposed by Mrs. Yang Wu from SAC
-  
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to adopt the proposal as a PWI on “Guidelines on risk-based product quality data interchange in E-commerce”.
-
-  - category: Resolutions related to WG 7
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to WG 5
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Initiating WD study of ISO/TR 19626-3 before 2023-03-31
+  identifier: 2022-03
+  actions:
+  - type: resolves
+    message: resolves that OSD drafting (0.20) is finished until end of 2022 and OSD
+      WD study (20.20) is opened before 2023-03-31.
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Adoption of a PWI for the project “Processes, data elements and documents in commerce, industry and administration - Carbon data interoperability - Part 1: Framework”"
-    identifier: 2022-07
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering a new proposal proposed by Mr. Yu Shi from SAC
-  
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to adopt the proposal as a PWI on “Processes, data elements and documents in commerce, industry and administration - Carbon data interoperability - Part 1 - Framework”.
-
-  - category: Resolutions related to WG 7
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to WG 6
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appointment of Mrs. Jasmine Jaegyong Chang as the project leader of ISO/TR
+    19626-3
+  identifier: 2022-04
+  considerations:
+  - type: considering
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Adoption of a PWI for the project “Digital trade -Basic concepts and key initiatives” as TR"
-    identifier: 2022-08
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering a new proposal proposed by Mr. Jack Yao from SAC
-  
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to adopt the proposal as a PWI for the project “Digital trade -Basic concepts and key initiatives” as TR.
-      
-  - category: Resolutions related to WG 7
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering that change request of project leader of ISO/TR 19626-3
+  actions:
+  - type: resolves
+    message: resolves to re-nominate Mrs. Jasmine Jaegyong Chang from KATS as the
+      project leader of ISO/TR 19626-3 to replace of Ms. Lee Jung Nam.
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Adoption of a PWI for the project “Technical requirements for blockchain implementation in industrial internet”"
-    identifier: 2022-09
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering a new proposal proposed by Mr. Cheng Chi from SAC
-
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to adopt the proposal as a PWI on “Technical requirements for blockchain implementation in industrial internet”.
-
-  - category: Resolutions related to WG 7
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to WG 6
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of ISO 15000-3 skip FDIS ballot and directly into publication stage
+  identifier: 2022-05
+  considerations:
+  - type: considering
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Appointment of Mrs. Jianhui Li from SAC as the project leader of ISO/TR 16340"
-    identifier: 2022-10
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to appoint Mrs. Jianhui Li from SAC as the project leader of ISO/TR 16340.
-
-      - type: appreciates
-        degree: unanimous
-        message: appreciate her excellent leadership to the project.
-
-  - category: Resolutions related to WG 7
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering that WG7 changed the “technical” comments on ISO/DIS 15000-3
+      from SCC into “editorial” comments, all comments on ISO/DIS 15000-3 are editorial
+  actions:
+  - type: resolves
+    message: resolves to move ISO 15000-3 into the publication stage after the comments
+      disposition and update the draft accordingly.
     dates:
-      - 2022-10-14
-    subject: ISO/TC154
-    title: "Adoption of an NWIP ballot for ISO/PWI 16320-1"
-    identifier: 2022-11
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering the project was proposed by Dr. Youngkon Lee from KATS
-
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to launch a NWIP ballot for ISO/PWI 16320-1 after the communication with TC307.
-
-  - category: Resolutions related to JWG
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of a PWI for the project “Guidelines on risk-based product quality
+    data interchange in E-commerce”
+  identifier: 2022-06
+  considerations:
+  - type: considering
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Disbandment of JWG8"
-    identifier: 2022-12
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering UNECE’s withdrawal from JWG8
-
-    actions:
-      - type: notifies
-        date_effective: 2022-10-14
-        message: UNECE notified TC154 on 12 Aug 2022 that it has withdrawn from JWG8.
-
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to disband JWG8, effective immediately.
-
-  - category: Resolutions related to JWG
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering a new proposal proposed by Mrs. Yang Wu from SAC
+  actions:
+  - type: resolves
+    message: resolves to adopt the proposal as a PWI on “Guidelines on risk-based
+      product quality data interchange in E-commerce”.
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Initiating a CIB ballot for comments on ToR of JWG (between TC154 and UNECE)"
-    identifier: 2022-13
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering the ToR proposed by UNECE and discussion of ISO/TC154/CAG
-
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to launch a 4-week CIB for comments on ToR (Term of Reference) after the draft is finished.
-
-  - category: Resolutions related to JWG
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: 'Adoption of a PWI for the project “Processes, data elements and documents
+    in commerce, industry and administration - Carbon data interoperability - Part
+    1: Framework”'
+  identifier: 2022-07
+  considerations:
+  - type: considering
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Establishment of an ad-hoc group with the title of “application of blockchain technologies for commerce, industry and administration”"
-    identifier: 2022-14
-    considerations:
-      - type: considering
-        date_effective: 2022-10-14
-        message: Considering the possible project relevance between TC154 and TC307 and the request of ISO/TC154/CAG
-
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to establish an ad-hoc group with the title of “application of blockchain technologies for commerce, industry and administration”, and the task of the ad-hoc group is that as following
-
-      - type: communicating
-        date_effective: 2022-10-14
-        message: communicating with TC307 on behalf of TC154
-
-      - type: gathering
-        date_effective: 2022-10-14
-        message: gathering questions and answers on this topic from TC154
-
-      - type: drafting
-        date_effective: 2022-10-14
-        message: drafting a clear report on the necessity and potential proposal (title and scope) on the potential JWG (with TC307).
-
-      - type: delivering
-        date_effective: 2022-10-14
-        message: The ad-hoc group needs to deliver the first draft result report in 3 months after its establishment and its final report in 6 months, after which it will be disbanded.
-
-  - category: Resolutions related to JWG
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering a new proposal proposed by Mr. Yu Shi from SAC
+  actions:
+  - type: resolves
+    message: resolves to adopt the proposal as a PWI on “Processes, data elements
+      and documents in commerce, industry and administration - Carbon data interoperability
+      - Part 1 - Framework”.
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Initiating a CIB ballot for calling for experts and convenor candidates for the ad-hoc group with the title of “application of blockchain technologies for commerce, industry and administration”"
-    identifier: 2022-15
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to launch a CIB ballot for calling for experts and convenor candidates for the ad-hoc group with the title of “application of blockchain technologies for commerce, industry and administration”.
-
-  - category: Resolutions related to JWG
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of a PWI for the project “Digital trade -Basic concepts and key
+    initiatives” as TR
+  identifier: 2022-08
+  considerations:
+  - type: considering
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Regarding WG 6’s Recommendation to Establish a JWG with TC307"
-    identifier: 2022-16
-    actions:
-      - type: acknowledges
-        date_effective: 2022-10-14
-        message: The Plenary acknowledges the recommendation from WG 6 regarding the establishment of a JWG with TC 307.
-      
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to postpone the decision on the establishment of a JWG until the final report of the ad-hoc group “Application of blockchain technologies for commerce, industry and administration” has been reviewed by TC 154.
-
-  - category: Resolutions related to new project
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering a new proposal proposed by Mr. Jack Yao from SAC
+  actions:
+  - type: resolves
+    message: resolves to adopt the proposal as a PWI for the project “Digital trade
+      -Basic concepts and key initiatives” as TR.
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Initiating a fast-track procedure for the project “Buy-Ship-Pay Reference Data Model” for fast-track into DIS ballot as per clause F.2 of ISO/IEC Directives, Part 1"
-    identifier: 2022-17
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves to accept UNECE’s project “Buy-Ship-Pay Reference Data Model” to DIS ballot via the fast-track procedure outlined in ISO/IEC Directives, Part 1, F.2.1.1.
-
-  - category: General Resolutions
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of a PWI for the project “Technical requirements for blockchain
+    implementation in industrial internet”
+  identifier: 2022-09
+  considerations:
+  - type: considering
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "WG meetings and the 42nd plenary in 2023 to be held in CA, USA or HK, China"
-    identifier: 2022-18
-    actions:
-      - type: resolves
-        date_effective: 2022-10-14
-        message: resolves that the next face to face plenary meeting of 2023 (hosted by CalConnect) will be held in California, USA, or Hong Kong, China in the week of 23-27, October 2023.
-
-  - category: General Resolutions
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering a new proposal proposed by Mr. Cheng Chi from SAC
+  actions:
+  - type: resolves
+    message: resolves to adopt the proposal as a PWI on “Technical requirements for
+      blockchain implementation in industrial internet”.
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Commitment to the ISO Code of Conduct"
-    identifier: 2022-19
-    actions:
-      - type: thanks
-        degree: unanimous
-        message: appreciates the ISO/TC 154 Chair’s commitment to ensure that experts comply with the ISO Code of Conduct.
-
-  - category: General Resolutions
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appointment of Mrs. Jianhui Li from SAC as the project leader of ISO/TR 16340
+  identifier: 2022-10
+  actions:
+  - type: resolves
+    message: resolves to appoint Mrs. Jianhui Li from SAC as the project leader of
+      ISO/TR 16340.
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Appreciation to Convenors"
-    identifier: 2022-20
-    actions:
-      - type: thanks
-        degree: unanimous
-        message: expresses its appreciation to the Convenors of its Working Groups - Mr. Anders Grangård (UNECE), Mr. Ronald Henry Tse (CalConnect), Mr. Jamie Bryce Clark (OASIS), Mrs. Jasmine Jaegyong Chang (Republic of Korea) and Mr. Jim Wilson (United States), for the enthusiasm and continuous effort they provided during the last plenary period.
-
-  - category: General Resolutions
+    - start: '2022-10-14'
+      kind: effective
+  - type: appreciates
+    message: appreciate her excellent leadership to the project.
+    degree: unanimous
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Adoption of an NWIP ballot for ISO/PWI 16320-1
+  identifier: 2022-11
+  considerations:
+  - type: considering
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Appreciation to TPM and EPM"
-    identifier: 2022-21
-    actions:
-      - type: thanks
-        degree: unanimous
-        message: expresses its appreciation to the ISO Technical Programme Manager Mrs. Laura Mathew and ISO Editorial Programme Manager Mrs.Yvonne Chen, for the guidance, consultations and continuous effort they provided during the last plenary period.
-
-  - category: General Resolutions
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering the project was proposed by Dr. Youngkon Lee from KATS
+  actions:
+  - type: resolves
+    message: resolves to launch a NWIP ballot for ISO/PWI 16320-1 after the communication
+      with TC307.
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Appreciation to TC154 Secretariat and Committee Manager"
-    identifier: 2022-22
-    actions:
-      - type: thanks
-        degree: unanimous
-        message: expresses its sincere appreciation to its Secretariat – SAC and Committee Manager, Mr. Jianfang Zhang, for his management and continuous effort he provided during the last plenary period.
-
-  - category: General Resolutions
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Disbandment of JWG8
+  identifier: 2022-12
+  considerations:
+  - type: considering
     dates:
-      - 2022-10-14
-    subject: ISO/TC 154
-    title: "Appreciation to Meeting Host"
-    identifier: 2022-23
-    actions:
-      - type: thanks
-        degree: unanimous
-        message: expresses its sincere appreciation to UNECE, for hosting 41st TC154 Plenary at Palais des Nations, Geneva.
-
-      - type: thanks
-        degree: unanimous
-        message: expresses its sincere appreciation to Ms. Maria Ceccarelli and Ms. Yan Zhang for organizing preparation of the meeting.
-
-      - type: thanks
-        degree: unanimous
-        message: expresses its sincere appreciation to Mr. Kevin Bishop for his excellent support of the smooth work of this Plenary.
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering UNECE’s withdrawal from JWG8
+  actions:
+  - type: notifies
+    message: UNECE notified TC 154 on 12 Aug 2022 that it has withdrawn from JWG8.
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  - type: resolves
+    message: resolves to disband JWG8, effective immediately.
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to JWG
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Initiating a CIB ballot for comments on ToR of JWG (between TC 154 and UNECE)
+  identifier: 2022-13
+  considerations:
+  - type: considering
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering the ToR proposed by UNECE and discussion of ISO/TC 154/CAG
+  actions:
+  - type: resolves
+    message: resolves to launch a 4-week CIB for comments on ToR (Term of Reference)
+      after the draft is finished.
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to JWG
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Establishment of an ad-hoc group with the title of “application of blockchain
+    technologies for commerce, industry and administration”
+  identifier: 2022-14
+  considerations:
+  - type: considering
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+    message: Considering the possible project relevance between TC 154 and TC307 and
+      the request of ISO/TC 154/CAG
+  actions:
+  - type: resolves
+    message: resolves to establish an ad-hoc group with the title of “application
+      of blockchain technologies for commerce, industry and administration”, and the
+      task of the ad-hoc group is that as following
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  - type: communicating
+    message: communicating with TC307 on behalf of TC 154
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  - type: gathering
+    message: gathering questions and answers on this topic from TC 154
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  - type: drafting
+    message: drafting a clear report on the necessity and potential proposal (title
+      and scope) on the potential JWG (with TC307).
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  - type: delivering
+    message: The ad-hoc group needs to deliver the first draft result report in 3
+      months after its establishment and its final report in 6 months, after which
+      it will be disbanded.
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to JWG
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Initiating a CIB ballot for calling for experts and convenor candidates for
+    the ad-hoc group with the title of “application of blockchain technologies for
+    commerce, industry and administration”
+  identifier: 2022-15
+  actions:
+  - type: resolves
+    message: resolves to launch a CIB ballot for calling for experts and convenor
+      candidates for the ad-hoc group with the title of “application of blockchain
+      technologies for commerce, industry and administration”.
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to JWG
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Regarding WG 6’s Recommendation to Establish a JWG with TC307
+  identifier: 2022-16
+  actions:
+  - type: acknowledges
+    message: The Plenary acknowledges the recommendation from WG 6 regarding the establishment
+      of a JWG with TC 307.
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  - type: resolves
+    message: resolves to postpone the decision on the establishment of a JWG until
+      the final report of the ad-hoc group “Application of blockchain technologies
+      for commerce, industry and administration” has been reviewed by TC 154.
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to JWG
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Initiating a fast-track procedure for the project “Buy-Ship-Pay Reference
+    Data Model” for fast-track into DIS ballot as per clause F.2 of ISO/IEC Directives,
+    Part 1
+  identifier: 2022-17
+  actions:
+  - type: resolves
+    message: resolves to accept UNECE’s project “Buy-Ship-Pay Reference Data Model”
+      to DIS ballot via the fast-track procedure outlined in ISO/IEC Directives, Part
+      1, F.2.1.1.
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - Resolutions related to new project
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: WG meetings and the 42nd plenary in 2023 to be held in CA, USA or HK, China
+  identifier: 2022-18
+  actions:
+  - type: resolves
+    message: resolves that the next face to face plenary meeting of 2023 (hosted by
+      CalConnect) will be held in California, USA, or Hong Kong, China in the week
+      of 23-27, October 2023.
+    dates:
+    - start: '2022-10-14'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Commitment to the ISO Code of Conduct
+  identifier: 2022-19
+  actions:
+  - type: thanks
+    message: appreciates the ISO/TC 154 Chair’s commitment to ensure that experts
+      comply with the ISO Code of Conduct.
+    degree: unanimous
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appreciation to Convenors
+  identifier: 2022-20
+  actions:
+  - type: thanks
+    message: expresses its appreciation to the Convenors of its Working Groups - Mr.
+      Anders Grangård (UNECE), Mr. Ronald Henry Tse (CalConnect), Mr. Jamie Bryce
+      Clark (OASIS), Mrs. Jasmine Jaegyong Chang (Republic of Korea) and Mr. Jim Wilson
+      (United States), for the enthusiasm and continuous effort they provided during
+      the last plenary period.
+    degree: unanimous
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appreciation to TPM and EPM
+  identifier: 2022-21
+  actions:
+  - type: thanks
+    message: expresses its appreciation to the ISO Technical Programme Manager Mrs.
+      Laura Mathew and ISO Editorial Programme Manager Mrs.Yvonne Chen, for the guidance,
+      consultations and continuous effort they provided during the last plenary period.
+    degree: unanimous
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appreciation to TC 154 Secretariat and Committee Manager
+  identifier: 2022-22
+  actions:
+  - type: thanks
+    message: expresses its sincere appreciation to its Secretariat – SAC and Committee
+      Manager, Mr. Jianfang Zhang, for his management and continuous effort he provided
+      during the last plenary period.
+    degree: unanimous
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2022-10-14'
+    kind: decision
+  subject: ISO/TC 154
+  title: Appreciation to Meeting Host
+  identifier: 2022-23
+  actions:
+  - type: thanks
+    message: expresses its sincere appreciation to UNECE, for hosting 41st TC 154
+      Plenary at Palais des Nations, Geneva.
+    degree: unanimous
+  - type: thanks
+    message: expresses its sincere appreciation to Ms. Maria Ceccarelli and Ms. Yan
+      Zhang for organizing preparation of the meeting.
+    degree: unanimous
+  - type: thanks
+    message: expresses its sincere appreciation to Mr. Kevin Bishop for his excellent
+      support of the smooth work of this Plenary.
+    degree: unanimous
+  categories:
+  - General Resolutions
