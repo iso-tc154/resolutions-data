@@ -21,18 +21,15 @@ jobs:
     - name: Set up Ruby
       uses: ruby/setup-ruby@v1
       with:
-        ruby-version: '3.3'
-
-    - name: Install edoxen
-      run: |
-        gem install edoxen
+        ruby-version: '3.4'
+        bundler-cache: true
 
     - name: Validate all YAML files
       run: |
         echo "🔍 Validating resolution data files..."
 
         # Run validation and capture the exit code
-        if edoxen validate "{plenary,ballots,7372ma}/*.yaml"; then
+        if bundle exec edoxen validate "{plenary,ballots,7372ma}/*.yaml"; then
           validation_result=0
         else
           validation_result=$?
