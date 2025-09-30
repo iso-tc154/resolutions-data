@@ -4,21 +4,37 @@
 
 According to ISO/CS, TC Resolutions are public information.
 
-ISO/TC 154 aims to provide resolutions in an interoperable
-and machine accessible format.
+ISO/TC 154 aims to provide resolutions in an interoperable and machine
+accessible format.
 
-This repository currently contains plenary resolutions from
-10-38th plenary meetings.
+== Structure
+
+This repository currently contains these resolutions:
+
+`ballots/`:: Ballot resolutions: resolutions related to ballots, including NWIP,
+CD, DIS, FDIS ballots.
+
+`7372ma/`:: Resolutions related to ISO 7372 maintenance agency activities
+
+`plenary/`:: Plenary meetings: 10-44th plenary meetings.
 
 Original documents are located in the `reference-docs/` folder.
 
 
 == Data model
 
-The Resolution data model at https://github.com/metanorma/resolution-model
-is used to model all current and past resolutions.
+The resolution data in this repository follows the
+https://github.com/metanorma/edoxen[Edoxen format], which provides a structured
+way to model formal resolutions, including their metadata, actions,
+considerations, and approvals.
 
-This data is entered into a YAML format that looks like this:
+Edoxen is built on top of the `lutaml-model` serialization framework and
+provides both Ruby libraries and command-line tools for working with resolution
+data.
+
+=== Data format
+
+Resolution data is entered into a YAML format that looks like this:
 
 [source,yaml]
 ----
@@ -72,3 +88,74 @@ resolutions:
 ...
 ----
 
+
+== Validation
+
+=== General
+
+All resolution data files are automatically validated using the
+https://github.com/metanorma/edoxen[Edoxen] library, which ensures compliance
+with the structured resolution format.
+
+=== Automatic validation
+
+The GitHub Actions workflow automatically validates all YAML files on every push
+and pull request using the `edoxen validate` command.
+
+=== Local validation
+
+To validate files locally, first install dependencies using Bundler:
+
+[source,sh]
+----
+$ bundle install
+----
+
+Then validate files using:
+
+[source,sh]
+----
+# Validate all resolution files
+$ bundle exec edoxen validate "plenary/*.yaml" "ballots/*.yaml" "7372ma/*.yaml"
+
+# Validate specific files
+$ bundle exec edoxen validate plenary/plenary-43.yaml
+
+# Validate files using patterns
+$ bundle exec edoxen validate "*.yaml"
+----
+
+=== Normalization
+
+Edoxen also provides normalization functionality to ensure consistent formatting:
+
+[source,sh]
+----
+# Normalize files to a specific output directory
+$ bundle exec edoxen normalize "plenary/*.yaml" --output normalized/
+
+# Normalize files in place (overwrites original files)
+$ bundle exec edoxen normalize "plenary/*.yaml" --inplace
+----
+
+=== Schema reference
+
+All YAML files reference the Edoxen schema in their header:
+
+[source,yaml]
+----
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+----
+
+This enables IDE validation and autocompletion when editing resolution files.
+
+== Contributing
+
+When contributing resolution data:
+
+. Install dependencies: `bundle install`
+. Validate your changes: `bundle exec edoxen validate your-file.yaml`
+. Ensure files include the schema reference in the header
+. Submit a pull request
+
+The automated validation will run on your pull request to ensure data integrity.
