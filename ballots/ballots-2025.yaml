@@ -22,9 +22,7 @@ resolutions:
       JWG9 document N71 and requests TC 154 to establish a liaison with
       ISO/TC 176 and appoint Mr. Hao Wu as the liaison representative.
   - type: noting
-    message: 'This CIB is initiated based on the JWG9 recommendation.
-
-      '
+    message: 'This CIB is initiated based on the JWG9 recommendation.'
   actions:
   - type: establishes
     message: |
@@ -172,9 +170,7 @@ resolutions:
   actions:
   - type: appoints
     message: 'Appointment of Mr. Yu Shi as the co-leaders of ISO/PWI 16356 from ISO/TC
-      154 side.
-
-      '
+      154 side.'
     subject: ISO/PWI 16356 co-leadership
     dates:
     - start: '2025-05-25'
@@ -198,9 +194,7 @@ resolutions:
       project to WG7.
   actions:
   - type: decides
-    message: 'Assignment of ISO/WD 22132 to WG7
-
-      '
+    message: 'Assignment of ISO/WD 22132 to WG7'
     subject: ISO/WD 22132 assignment to WG7
     dates:
     - start: '2025-07-08'
