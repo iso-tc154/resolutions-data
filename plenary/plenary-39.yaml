@@ -563,7 +563,7 @@ resolutions:
     kind: decision
   subject: ISO/TC 154
   title: Appreciation of all on-line participants
-  identifier: 2020-25
+  identifier: 2020-26
   approvals:
   - type: affirmative
     degree: unanimous
@@ -580,7 +580,7 @@ resolutions:
     kind: decision
   subject: Processes, data elements and documents in commerce, industry and administration
   title: Adoption of a revision of ISO 9735-10:2014(ed2)
-  identifier: 2020-26
+  identifier: 2020-27
   actions:
   - type: adoption
     message: |
