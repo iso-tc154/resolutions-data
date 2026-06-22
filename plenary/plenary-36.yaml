@@ -686,3 +686,33 @@ resolutions:
     message: warmly thanks all the on-line participants for the active participation,
       in particular those being on line during unearthly hours
     degree: unanimous
+- dates:
+  - start: '2018-01-01'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Appointment of Mr. Ray Denneberg as WG5 Convener and project leader of ISO
+    8601
+  identifier: 2017-26
+  message: Appoint Mr. Ray Denneberg as WG5 Convener and project leader of ISO 8601,
+    and request ISO/CS to formally register in ISO global data directory according
+    to the result of voting via CIB in N901, and the email from ISO/CS, and the annotation
+    under item 8.2 in N929
+  actions:
+  - type: appoints
+    message: Appoint Mr. Ray Denneberg as WG5 Convener
+    dates:
+    - start: '2018-01-01'
+      kind: effective
+  - type: appoints
+    message: Appoint Mr. Ray Denneberg as project leader of ISO 8601
+    dates:
+    - start: '2018-01-01'
+      kind: effective
+  - type: requests
+    message: request ISO/CS to formally register in ISO global data directory according
+      to the result of voting via CIB in N901, and the email from ISO/CS, and the annotation
+      under item 8.2 in N929
+    dates:
+    - start: '2018-01-01'
+      kind: effective
