@@ -1,0 +1,396 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
+metadata:
+  title: Resolution of the 44th hybrid plenary meeting of ISO/TC 154 at Raleigh USA in 2025
+  dates:
+  - start: '2025-09-26'
+    kind: meeting
+  source: ISO/TC 154 Secretariat ISO/TC154/N1624
+resolutions:
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Establishment of a SG1 with title "Standardization content and document"
+    and appointment of Mr. Ronald Henry Tse as the convener
+  identifier: P-2025-01
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      resolves to establish a new Study Group with the title “Standardization content and
+      document” for ISO/PWI 36100 and ISO/PWI 36200 for further investigation into the topic, and appoint
+      Mr. Ronald Henry Tse as the convener for a period of 1 year.
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  - type: requests
+    message: |
+      P-members and liaison organizations are invited to nominate experts to participate in the study group.
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - Resolution related to the establishment of SG1
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Adoption of a revision of ISO 34000 with no scope expansion
+  identifier: P-2025-02
+  considerations:
+  - type: considering
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+    message: considering that the revision of two parts of ISO 8601 will include new and significant concepts as well as updated definitions of terms and the role of ISO 34000 as a consolidating vocabulary document of the field of date and time
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      resolves to revise ISO 34000 (with starting stage 20.00) without scope expansion, and the
+      project supports SDG9
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  - type: appoints
+    message: |
+      Project leader: Mr. Ronald Henry Tse (tse@ribose.com)
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  - type: defines
+    message: |
+      Development track (36 months): the target date for CD ballot: 2027-04-30, limit date for DIS ballot
+      2027-10-01, FDIS submission (if required) 2028-06-30 and the target date for publication is 2028-10-01
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - Resolution related to WG 5
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Adoption of the second NWIP ballot for ISO 14533-5
+  identifier: P-2025-03
+  considerations:
+  - type: considering
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+    message: considering that voting result of the first NP ballot in N1570 (Form6) and comments disposition
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      agreed that WG6 will prepare a NP to propose the work on the ISO 14533-5, and the second
+      NWIP ballot for ISO 14533-5 will be launched before the end of November 2025
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - Resolution related to WG 6
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Adoption of DIS ballot for ISO/CD 19626-3
+  identifier: P-2025-04
+  considerations:
+  - type: considering
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+    message: considering that the disposition of comments on ISO/CD 19626-3
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      resolves to initiate the DIS ballot for ISO 19626-3
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - Resolution related to WG 6
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Adoption of a DTR ballot for ISO/TR 16320-1
+  identifier: P-2025-05
+  considerations:
+  - type: considering
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+    message: considering the comments disposition on ISO/CD TR 16320-1
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      resolves to initiate a DTR ballot for ISO/TR 16320-1 based on the updated documents submission
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Adoption of a DTR ballot for ISO/TR 20180
+  identifier: P-2025-06
+  considerations:
+  - type: considering
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+    message: considering the comments disposition on ISO/CD TR 20180
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      resolves to initiate a DTR ballot for ISO/TR 20180 based on the updated documents submission
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - Resolutions related to WG 7
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Cancellation and restart a revision of ISO 7372 with no scope expansion
+  identifier: P-2025-07
+  considerations:
+  - type: considering
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+    message: considering that the project is already on the maximum 36-month timeframe and still at AWI stage, the option of extending for 9 months is not enough for the project development
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      resolves to cancel and restart the revision of ISO 7372 (with starting stage 20.00) without
+      scope expansion, and the project supports SDG9
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  - type: appoints
+    message: |
+      Project leader: Ms. Hanane Becha (hbdigitaltrade@gmail.com)
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  - type: defines
+    message: |
+      Development track (36 months): the target date for CD ballot: 2027-04-30, limit date for DIS ballot
+      2027-10-01, FDIS submission (if required) 2028-06-30 and the target date for publication is 2028-10-01
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - Resolutions related to JWG9
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Adoption of a NP ballot for ISO/PWI 26087
+  identifier: P-2025-08
+  approvals:
+  - type: affirmative
+    message: The resolution was approved with 4 Yes and 2 abstain.
+  actions:
+  - type: resolves
+    message: |
+      resolves to initiate a NP ballot for ISO/PWI 26087 "Processes and data in carbon market
+      monitoring reporting verification (MRV) - Data quality assessment"
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - Resolutions related to TC level project
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Establishment of internal liaisons from ISO/TC154 to ISO/IEC/JTC1/SC40, SC42 and ISO/PC 245
+  identifier: P-2025-09
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      resolves to establish the liaisons from TC154 to JTC1/SC40, SC42 and ISO/PC 245, and
+      initiate a CIB ballot to call for the liaison representatives
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - Resolutions related to liaison membership
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Extension of the term period of AG1 convener
+  identifier: P-2025-10
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      resolves to extend the mandate of Mr. Jianfang Zhang as the convener of AG1 (liaison review)
+      for the next 3 years 2026-2028 to continue the liaison review
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: WG meetings and the 45th plenary of TC154 in 2026
+  identifier: P-2025-11
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: resolves
+    message: |
+      approved the dates of 31 Aug- 4 Sep 2026 for the (J)WGs meetings and 45th plenary meeting
+      of TC154. TC154 accepts with appreciation to have the meeting hosted by DIN in Berlin, Germany
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Appreciation to Conveners and secretaries
+  identifier: P-2025-12
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: thanks
+    message: |
+      expresses its appreciations to the Convenors and secretaries of its Working Groups: Mr.
+      Anders Grangård (UNECE), Mr. Glenn Tice (United Kingdom), Mr. Ronald Henry Tse (CalConnect), Mrs.
+      Jasmine Jaegyong Chang (Republic of Korea), Mr. Jim Wilson (OAGi), Ms. Yan Zhang (UNECE), Mr. Gregor
+      Roschkowski (Germany), and Mr. Kevin Bishop (UNECE) for their enthusiasm and continuous efforts that
+      they provided during the last plenary period
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Appreciation of all participants
+  identifier: P-2025-13
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: thanks
+    message: |
+      warmly thanks all participants for the active participation, in particular those during unearthly
+      hours
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Recognition of long-time contributors to ISO/TC 154
+  identifier: P-2025-14
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: thanks
+    message: |
+      offers heartfelt thanks to long-time ISO/TC 154 contributors, including Dr. Jasmine Jaegyong
+      Chang (25 years), Hisanao Sugamata (30 years), Sue Probert (25 years), Anders Grangard (30 Years) and
+      Michael Dill (30 years)
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - General Resolutions
+- dates:
+  - start: '2025-09-26'
+    kind: decision
+  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+    and administration
+  title: Appreciation to Meeting Host OAGi and ANSI
+  identifier: P-2025-15
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    message: The resolution was adopted by unanimity.
+  actions:
+  - type: thanks
+    message: |
+      expresses its sincere appreciations to OAGI and ANSI for hosting the WG/JWG meetings and
+      the 44th ISO/TC154 Plenary at Raleigh, North Carolina, USA, and expresses its sincere appreciation to Mr.
+      Jim Wilson for organizing preparation of the meetings. TC154 also expresses its sincere appreciation to
+      them for their excellent supports of the smooth work of this Plenary
+    dates:
+    - start: '2025-09-26'
+      kind: effective
+  categories:
+  - General Resolutions
