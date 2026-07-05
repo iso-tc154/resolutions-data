@@ -1,0 +1,49 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
+metadata:
+  title: Committee Internal Ballots for ISO/TC 154 in 2023
+  dates:
+  - start: '2023-03-27'
+    kind: meeting
+  source: ISO/TC 154 Secretariat
+resolutions:
+- dates:
+  - start: '2023-03-27'
+    end: '2023-04-26'
+    kind: ballot
+  subject: Rules for 2D Coded Trade Document
+  title: PWI registration for Rules for 2D Coded Trade Document
+  type: resolution
+  identifier: 2023-PWI
+  considerations:
+  - type: noting
+    message: |
+      The proposal was propose by Mr. Xiang Wang (SAC), and this proposal
+      have been discussed two times in TC 154 on 1 Dec 2022 and 20 Feb 2023,
+      and also discussed in JTC1/SC31.
+  - type: noting
+    message: |
+      The meeting discussion document of 1 Dec 2022 can be found in TC 154
+      document N1365; The meeting discussion document of 20 Feb 2023 can be
+      found in TC 154 document N1375.
+  - type: noting
+    message: |
+      The proposal meeting of 20 Feb 2023 and CAG meeting of 9 March 2023
+      recommended to launch a CIB ballot to register "Rules for 2D Coded
+      Trade Document" as a PWI project led by Mr. Xiang Wang (SAC) with the
+      scope "Rules for the hierarchy of 2D coded trade document repository,
+      interactive operations, and maintenance operations".
+  - type: noting
+    message: |
+      After CAG meeting of 9 March 2023, CAG circulated the recommendation
+      to all CAG members for comments by 24 March.
+  actions:
+  - type: adopts
+    message: PWI registration for "Rules for 2D Coded Trade Document"
+    subject: Rules for the hierarchy of 2D coded trade document repository, interactive
+      operations, and maintenance operations
+    dates:
+    - start: '2023-04-27'
+      kind: effective
+  categories:
+  - PWI registration

@@ -1,47 +1,70 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
 ---
 metadata:
   title: Resolutions from the 27th plenary meeting of ISO/TC 154
-  dates:
-  - start: '2010-05-04'
-    kind: meeting
+  date: '2010-05-04'
   source: Secretariat
-resolutions:
-- dates:
-  - start: '2010-05-04'
-    kind: decision
-  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
-    and administration
-  title: ISO 15000-5
-  identifier: '302'
-  actions:
-  - type: requests
-    message: ISO/TC 154 resolves to ask ISO to publish ISO 15000-5 including corrigenda
-      as approved at the TC 154 meeting in 2008-11 (Brussels).
-    dates:
-    - start: '2009-09-25'
-      kind: effective
-- dates:
-  - start: '2010-05-04'
-    kind: decision
-  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
-    and administration
-  title: Appreciation
-  identifier: '303'
-  actions:
-  - type: thanks
-    message: ISO/TC 154 expresses its sincere appreciation to Mr. Wakaizumi for his
-      contribution to the TDED/EDED Alignment project.
-    degree: unanimous
-- dates:
-  - start: '2010-05-04'
-    kind: decision
-  subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
-    and administration
-  title: Appreciation
-  identifier: '304'
-  actions:
-  - type: thanks
-    message: ISO/TC 154 expresses its sincere appreciation to Mr. Van den Akker for
-      his excellent support and dedication.
-    degree: unanimous
+decisions:
+- identifier:
+  - prefix: ISO/TC 154
+    number: '302'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2010-05-04'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: ISO 15000-5
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+    actions:
+    - type: requests
+      date_effective:
+        date: '2009-09-25'
+        type: effective
+      message: ISO/TC 154 resolves to ask ISO to publish ISO 15000-5 including corrigenda
+        as approved at the TC 154 meeting in 2008-11 (Brussels).
+- identifier:
+  - prefix: ISO/TC 154
+    number: '303'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2010-05-04'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appreciation
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2010-05-04'
+        type: adoption
+      message: ISO/TC 154 expresses its sincere appreciation to Mr. Wakaizumi for
+        his contribution to the TDED/EDED Alignment project.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '304'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2010-05-04'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appreciation
+    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2010-05-04'
+        type: adoption
+      message: ISO/TC 154 expresses its sincere appreciation to Mr. Van den Akker
+        for his excellent support and dedication.
