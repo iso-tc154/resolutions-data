@@ -1,43 +1,61 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
 ---
 metadata:
   title: Resolutions from the 29th plenary meeting of ISO/TC 154
-  dates:
-  - start: '2011-02-18'
-    kind: meeting
+  date: '2011-02-18'
   source: Secretariat
-resolutions:
-- dates:
-  - start: '2011-02-18'
-    kind: decision
-  subject: ISO/TC 154
-  title: Thanks to LMI
-  identifier: '308'
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Accepted with unanimity
-  actions:
-  - type: thanks
-    message: ISO/TC 154 resolves to thank LMI and Mrs. Delta Pelgrim for hosting this
-      meeting and their excellent hospitality.
-    dates:
-    - start: '2011-02-18'
-      kind: effective
-- dates:
-  - start: '2011-02-18'
-    kind: decision
-  subject: ISO/TC 154
-  title: Thanks to Ms. Blantz
-  identifier: '309'
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    message: Accepted with unanimity
-  actions:
-  - type: thanks
-    message: ISO/TC 154 resolves to thank Ms Blantz for performing the role of acting
-      chair for this plenary meeting
-    dates:
-    - start: '2011-02-18'
-      kind: effective
+decisions:
+- identifier:
+  - prefix: ISO/TC 154
+    number: '308'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2011-02-18'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thanks to LMI
+    subject: ISO/TC 154
+    approvals:
+    - type: affirmative
+      degree: unanimous
+      date:
+        date: '2011-02-18'
+        type: adoption
+      message: Accepted with unanimity
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2011-02-18'
+        type: effective
+      message: ISO/TC 154 resolves to thank LMI and Mrs. Delta Pelgrim for hosting
+        this meeting and their excellent hospitality.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '309'
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2011-02-18'
+    type: adoption
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Thanks to Ms. Blantz
+    subject: ISO/TC 154
+    approvals:
+    - type: affirmative
+      degree: unanimous
+      date:
+        date: '2011-02-18'
+        type: adoption
+      message: Accepted with unanimity
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2011-02-18'
+        type: effective
+      message: ISO/TC 154 resolves to thank Ms Blantz for performing the role of acting
+        chair for this plenary meeting

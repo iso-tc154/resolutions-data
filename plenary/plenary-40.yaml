@@ -1,241 +1,340 @@
-# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
 ---
 metadata:
   title: Approved final Resolution of the 40th plenary meeting of ISO/TC 154
-  dates:
-  - start: '2021-11-30'
-    kind: meeting
+  date: '2021-11-30'
   source: ISO/TC 154 Secretariat
-resolutions:
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: Adoption of a revision of ISO 9735-10:2014(ed2)
-  title: Adoption of a revision of ISO 9735-10:2014(ed2), Appointment of Mr. Anders
-    Grangard (UNECE) as the project leader
-  identifier: 2021-01
-  actions:
-  - type: requests
-    message: request ISO/CS to register it as a Working Draft (stage 20.00), and adoption
-      of CD ballot for ISO/WD 9735-10 before May 2021.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+decisions:
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-01
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - Resolution related to JWG1
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: The terms of WG5 convener (Mr. Ronald Tse) will end at the end of 2021
-  title: Extension of the term period of WG5 convener until 2024
-  identifier: 2021-02
-  actions:
-  - type: resolves
-    message: resolves to extend his term period until the end of 2024.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Adoption of a revision of ISO 9735-10:2014(ed2), Appointment of Mr. Anders
+      Grangard (UNECE) as the project leader
+    subject: Adoption of a revision of ISO 9735-10:2014(ed2)
+    actions:
+    - type: requests
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: request ISO/CS to register it as a Working Draft (stage 20.00), and
+        adoption of CD ballot for ISO/WD 9735-10 before May 2021.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-02
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - Resolutions related to WG 5
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: ISO/TC 154
-  title: 'Initiating ISO TR 19626-3 with the title of “Processes, data elements and
-    documents in commerce, industry and administration — Trusted communication platforms
-    for electronic documents — Part 3: Blockchain-based implementation guideline”'
-  identifier: 2021-03
-  actions:
-  - type: resolves
-    message: resolves to initiate ISO TR 19626-3 with the title from “Processes, data
-      elements and documents in commerce, industry and administration — Trusted communication
-      platforms for electronic documents — Part 3 - Implementation guideline” to “Processes,
-      data elements and documents in commerce, industry and administration — Trusted
-      communication platforms for electronic documents — Part 3 - Blockchain- based
-      implementation guideline”.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Extension of the term period of WG5 convener until 2024
+    subject: The terms of WG5 convener (Mr. Ronald Tse) will end at the end of 2021
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: resolves to extend his term period until the end of 2024.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-03
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - Resolutions related to WG 6
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: ISO/TC 154
-  title: Initiating a fast-track procedure for ISO 15000-3 into DIS ballot as per
-    clause F.2 of ISO/IEC Directives, Part 1
-  identifier: 2021-04
-  actions:
-  - type: agrees
-    message: agrees that OASIS submit ISO 15000-3 draft for DIS ballot via the fast-track
-      procedure outlined in ISO/IEC Directives, Part 1, F.2.1.1.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: 'Initiating ISO TR 19626-3 with the title of “Processes, data elements
+      and documents in commerce, industry and administration — Trusted communication
+      platforms for electronic documents — Part 3: Blockchain-based implementation
+      guideline”'
+    subject: ISO/TC 154
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: resolves to initiate ISO TR 19626-3 with the title from “Processes,
+        data elements and documents in commerce, industry and administration — Trusted
+        communication platforms for electronic documents — Part 3 - Implementation
+        guideline” to “Processes, data elements and documents in commerce, industry
+        and administration — Trusted communication platforms for electronic documents
+        — Part 3 - Blockchain- based implementation guideline”.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-04
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - Resolutions related to WG 7
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: ISO/TC 154
-  title: 'Initiating PWI and NP ballot of “Documents and processes in e-commerce -
-    Smart contract-based B2B electronic transaction execution and verification- Part
-    1: reference model”'
-  identifier: 2021-05
-  actions:
-  - type: resolves
-    message: resolves to initiate ISO/PWI “Documents and processes in e-commerce -
-      Smart contract-based B2B electronic transaction execution and verification-
-      Part 1 - reference model”, and initiate an NP ballot as soon as Form 4 and the
-      accompanying draft are ready and approved by WG7.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Initiating a fast-track procedure for ISO 15000-3 into DIS ballot as per
+      clause F.2 of ISO/IEC Directives, Part 1
+    subject: ISO/TC 154
+    actions:
+    - type: agrees
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: agrees that OASIS submit ISO 15000-3 draft for DIS ballot via the fast-track
+        procedure outlined in ISO/IEC Directives, Part 1, F.2.1.1.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-05
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - Resolutions related to WG 7
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: ISO/TC 154
-  title: Initiating TR and DTR ballot of “Application of blockchain based traceability
-    platform for cold chain food”
-  identifier: 2021-06
-  actions:
-  - type: resolves
-    message: resolves to initiate ISO/TR “Application of blockchain based traceability
-      platform for cold chain food”, a CIB comment ballot for TR draft before March
-      2022, and a DTR ballot for TR publication before July 2022.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: 'Initiating PWI and NP ballot of “Documents and processes in e-commerce
+      - Smart contract-based B2B electronic transaction execution and verification-
+      Part 1: reference model”'
+    subject: ISO/TC 154
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: resolves to initiate ISO/PWI “Documents and processes in e-commerce
+        - Smart contract-based B2B electronic transaction execution and verification-
+        Part 1 - reference model”, and initiate an NP ballot as soon as Form 4 and
+        the accompanying draft are ready and approved by WG7.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-06
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - Resolutions related to WG 7
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: ISO/TC 154
-  title: Initiating a DIS ballot for ISO/CD 23355 “Visibility data interchange between
-    logistics information service providers”
-  identifier: 2021-07
-  actions:
-  - type: resolves
-    message: resolves to initiate the DIS ballot before March 2022 for ISO/CD 23355
-      “Visibility data interchange between logistics information service providers”
-      after the draft has been updated and approved by JWG8.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Initiating TR and DTR ballot of “Application of blockchain based traceability
+      platform for cold chain food”
+    subject: ISO/TC 154
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: resolves to initiate ISO/TR “Application of blockchain based traceability
+        platform for cold chain food”, a CIB comment ballot for TR draft before March
+        2022, and a DTR ballot for TR publication before July 2022.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-07
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - Resolutions related to JWG 8
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: ISO/TC 154
-  title: Re-initiating a NP ballot for ISO/NP 5909 “Data interchange processes of
-    blockchain based negotiable maritime bill of lading related to e- Commerce platform”
-    immediately
-  identifier: 2021-08
-  actions:
-  - type: resolves
-    message: resolves to re-initiate a NP ballot (8 weeks) immediately for ISO/NP
-      5909 “Data interchange processes of blockchain based negotiable maritime bill
-      of lading related to e- Commerce platform”.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Initiating a DIS ballot for ISO/CD 23355 “Visibility data interchange between
+      logistics information service providers”
+    subject: ISO/TC 154
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: resolves to initiate the DIS ballot before March 2022 for ISO/CD 23355
+        “Visibility data interchange between logistics information service providers”
+        after the draft has been updated and approved by JWG8.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-08
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - Resolutions related to JWG 8
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: ISO/TC 154
-  title: Initiating PWI and NP ballot for the project “Data and process of edible
-    agricultural products based on Blockchain and DLT application”
-  identifier: 2021-09
-  actions:
-  - type: resolves
-    message: resolves to initiate ISO/PWI “Data and process of edible agricultural
-      products based on Blockchain and DLT application”, and NP ballot can be initiated
-      after Form 4 and draft are approved in JWG8.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Re-initiating a NP ballot for ISO/NP 5909 “Data interchange processes of
+      blockchain based negotiable maritime bill of lading related to e- Commerce platform”
+      immediately
+    subject: ISO/TC 154
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: resolves to re-initiate a NP ballot (8 weeks) immediately for ISO/NP
+        5909 “Data interchange processes of blockchain based negotiable maritime bill
+        of lading related to e- Commerce platform”.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-09
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - Resolutions related to JWG 8
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: The term of JWG8 convener (Mr. Dapeng Liu) will end at the end of 2021
-  title: Extension of the term period of JWG8 convener until 2024
-  identifier: 2021-10
-  actions:
-  - type: resolves
-    message: resolves to extend his term period until the end of 2024.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Initiating PWI and NP ballot for the project “Data and process of edible
+      agricultural products based on Blockchain and DLT application”
+    subject: ISO/TC 154
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: resolves to initiate ISO/PWI “Data and process of edible agricultural
+        products based on Blockchain and DLT application”, and NP ballot can be initiated
+        after Form 4 and draft are approved in JWG8.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-10
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - Resolutions related to JWG 8
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: TC 154
-  title: Establishment of internal liaison to ISO/TC295
-  identifier: 2021-11
-  actions:
-  - type: resolves
-    message: resolves to establish the liaison membership with TC295.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Extension of the term period of JWG8 convener until 2024
+    subject: The term of JWG8 convener (Mr. Dapeng Liu) will end at the end of 2021
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: resolves to extend his term period until the end of 2024.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-11
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - Resolution related to liaison membership
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: ISO/TC 154
-  title: The 41th plenary and WG meetings in 2022 to be held in CA, USA or HK, China
-  identifier: 2021-12
-  actions:
-  - type: resolves
-    message: resolves that the next face to face plenary meeting of 2022 (hosted by
-      CalConnect) will be held in California, USA, or Hong Kong, China in the week
-      of 17-21st, October 2022 if international travel becomes possible.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Establishment of internal liaison to ISO/TC295
+    subject: TC 154
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: resolves to establish the liaison membership with TC295.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-12
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - General Resolutions
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: ISO/TC 154
-  title: Appreciation to Hongru (Judy) Zhu as TC 154 chairperson for her work and
-    contribution
-  identifier: 2021-13
-  actions:
-  - type: appreciation
-    message: expresses their appreciations to Hongru (Judy) Zhu, the outgoing chair,
-      for her outstanding service to the technical committee, her vision and efforts
-      in advancing technical standardization, and her dedication in fostering international
-      cooperation for the years she has held Chairmanship. Members of ISO/TC 154 wish
-      her the best in departing leadership of the technical committee and look forward
-      to working with her in the future.
-    dates:
-    - start: '2021-10-28'
-      kind: effective
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: The 41th plenary and WG meetings in 2022 to be held in CA, USA or HK, China
+    subject: ISO/TC 154
+    actions:
+    - type: resolves
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: resolves that the next face to face plenary meeting of 2022 (hosted
+        by CalConnect) will be held in California, USA, or Hong Kong, China in the
+        week of 17-21st, October 2022 if international travel becomes possible.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-13
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - General Resolutions
-- dates:
-  - start: '2021-10-28'
-    kind: decision
-  subject: ISO/TC 154
-  title: Appreciation of all on-line participants
-  identifier: 2021-14
-  actions:
-  - type: thanks
-    message: warmly thanks all on-line participants for the active participation,
-      in particular those being on-line during unearthly hours.
-    degree: unanimous
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appreciation to Hongru (Judy) Zhu as TC 154 chairperson for her work and
+      contribution
+    subject: ISO/TC 154
+    actions:
+    - type: appreciation
+      date_effective:
+        date: '2021-10-28'
+        type: effective
+      message: expresses their appreciations to Hongru (Judy) Zhu, the outgoing chair,
+        for her outstanding service to the technical committee, her vision and efforts
+        in advancing technical standardization, and her dedication in fostering international
+        cooperation for the years she has held Chairmanship. Members of ISO/TC 154
+        wish her the best in departing leadership of the technical committee and look
+        forward to working with her in the future.
+- identifier:
+  - prefix: ISO/TC 154
+    number: 2021-14
+  kind: resolution
+  status: decided
+  dates:
+  - date: '2021-10-28'
+    type: adoption
   categories:
   - General Resolutions
+  localizations:
+  - language_code: eng
+    script: Latn
+    title: Appreciation of all on-line participants
+    subject: ISO/TC 154
+    actions:
+    - type: thanks
+      date_effective:
+        date: '2021-10-28'
+        type: adoption
+      message: warmly thanks all on-line participants for the active participation,
+        in particular those being on-line during unearthly hours.

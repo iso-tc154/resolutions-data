@@ -1,0 +1,462 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/metanorma/edoxen/refs/heads/main/schema/edoxen.yaml
+---
+metadata:
+  title: Committee Internal Ballots for ISO/TC 154 in 2024
+  dates:
+  - start: '2024-02-05'
+    kind: meeting
+  source: ISO/TC 154 Secretariat
+resolutions:
+- dates:
+  - start: '2024-02-05'
+    end: '2024-03-05'
+    kind: ballot
+  subject: ISO 23355 project leader appointment
+  title: change of project leader of ISO 23355
+  type: resolution
+  identifier: 2024-02
+  considerations:
+  - type: noting
+    message: |
+      ISO/DIS 23355 ballot closed in Aug 2022, and the project was
+      re-assigned to JWG9 as per N1412.
+  - type: noting
+    message: |
+      Ms. Huiting Yang (SAC) was the project leader of ISO 23355, but she
+      resigned and will not be responsible for ISO 23355.
+  - type: noting
+    message: |
+      Ms. Xiaoyun Gao, from the same project team with Ms Huiting Yang, was
+      nominated by SAC to replace the project leader and proceed the
+      development of ISO 23355.
+  - type: noting
+    message: |
+      JWG9 and CAG meeting on 24 Jan also agreed to initiate a CIB ballot
+      for the change of project leader.
+  actions:
+  - type: appoints
+    message: |
+      change of project leader of ISO 23355 and
+      appoint Ms. Xiaoyun Gao (SAC) as the project leader of ISO 23355 to
+      replace Ms.Huiting Yang.
+    subject: ISO 23355 project leadership
+    dates:
+    - start: '2024-03-06'
+      kind: effective
+  categories:
+  - project management
+- dates:
+  - start: '2024-03-04'
+    end: '2024-04-03'
+    kind: ballot
+  subject: ISO 7372 development timeline
+  title: change of development period for ISO 7372(UNTDED)
+  type: resolution
+  identifier: 2024-03
+  considerations:
+  - type: noting
+    message: |
+      Based on Resolution 2023-13, ISO 7372(UNTDED) has been approved to
+      revise and registered as ISO/AWI 7372 on 2023-11-06, and the
+      development period was 24 months.
+  - type: noting
+    message: |
+      During JWG9 meeting of 20 Feb, project leader thought that 24 months
+      is insufficient to develop the project, and proposed change the
+      timeframe from 24 months to 36 months. And JWG9 made this
+      recommention. CAG meeting of 21 Feb also proposed the project period
+      change.
+  actions:
+  - type: decides
+    message: |
+      change of development period for ISO
+      7372(UNTDED) from 24 months to 36 months with the following target
+      date:
+
+      CD ballot 2025-02-28
+
+      DIS ballot 2025-09-30
+
+      FDIS submission (if required) 2026-06-30
+
+      publication 2026-11-06.
+    subject: ISO 7372 development period extension
+    dates:
+    - start: '2024-04-04'
+      kind: effective
+  categories:
+  - project management
+- dates:
+  - start: '2024-03-04'
+    end: '2024-04-03'
+    kind: ballot
+  subject: ISO 5909 co-leaders appointment
+  title: change of co-leaders of ISO 5909
+  type: resolution
+  identifier: 2024-04
+  considerations:
+  - type: noting
+    message: |
+      Durding JWG9 meeting of 20 Feb, UNECE and SAC experts have proposed to
+      change the co-leaders of ISO 5909, and this ballot is based on the
+      JWG9 meeting recommendation of 20 Feb and CAG meeting of 21 Feb.
+  actions:
+  - type: appoints
+    message: |
+      change of co-leaders of ISO 5909 and appointment Mr. Yu Shi
+      (shiyu@bnu.edu.cn) from ISO side and Mr. Stefano Sabatini
+      (stefano.sabatini@coscoshipping.it) from UNECE side as the co-leaders
+      of ISO 5909.
+    subject: ISO 5909 co-leadership
+    dates:
+    - start: '2024-04-04'
+      kind: effective
+  categories:
+  - project management
+- dates:
+  - start: '2024-03-04'
+    end: '2024-04-03'
+    kind: ballot
+  subject: ISO 5909 title change
+  title: change of project title of ISO 5909
+  type: resolution
+  identifier: 2024-05
+  considerations:
+  - type: noting
+    message: |
+      Durding JWG9 meeting of 20 Feb, UNECE proposed to change the project
+      title of ISO 5909 from "Data interchange processes of blockchain based
+      negotiable maritime bill of lading related to e-Commerce platform" to
+      "Business processes and data interchange of DLT based electronic Bill
+      of Lading", and this ballot is based on the JWG9 meeting
+      recommendation of 20 Feb and CAG meeting of 21 Feb.
+  - type: noting
+    message: |
+      There are Mistakes in CIB ballot quesitons. The ballot question
+      Resolution 2024-03 shall be "draft resolution 2024-04", draft
+      Resolution 2024-04 shall be "draft resolution 2024-05". once a ballot
+      is open, we cannot edit it anymore. so this additional note3 under
+      "Note" section is to clarify the mistakes.
+  actions:
+  - type: decides
+    message: |
+      change of project title of ISO 5909 into "Business processes and data
+      interchange of DLT based electronic Bill of Lading"
+    subject: ISO 5909 title modification
+    dates:
+    - start: '2024-04-04'
+      kind: effective
+  categories:
+  - project management
+- dates:
+  - start: '2024-03-11'
+    end: '2024-04-10'
+    kind: ballot
+  subject: TC184/SC5 liaison establishment
+  title: Establishment of internal liaison with TC184/SC5
+  type: resolution
+  identifier: 2024-06
+  considerations:
+  - type: considering
+    message: |
+      considering the relevane between TC 154 and TC184/SC5, TPM proposed to
+      establish the internal liaison with TC185/SC5. CAG meeting of 21 Feb
+      has made a recommendation to establish the liaison with TC184/SC5. And
+      the two liaison representatives from TC 154 to TC184/SC5 have been
+      nominated.
+  actions:
+  - type: establishes
+    message: |
+      Establishment of internal liaison with TC184/SC5 and appointment of
+      Mr. Xiang Wang (wangxiang@mail.customs.gov.cn) and Mr. Kevin Bishop
+      (kevin.bishop@un.org) as the liaison representative form TC 154 to
+      TC184/SC5.
+    subject: TC184/SC5 liaison
+    dates:
+    - start: '2024-04-11'
+      kind: effective
+  categories:
+  - liaison
+- dates:
+  - start: '2024-03-11'
+    end: '2024-04-10'
+    kind: ballot
+  subject: JTC1/SC31 liaison representative
+  title: Appointment of liaison representative to ISO/IEC/JTC1/SC31
+  type: resolution
+  identifier: 2024-07
+  considerations:
+  - type: considering
+    message: |
+      considering only one liaison representative from TC 154 to JTC1/SC31,
+      Mr.Yu shi volunteer as the second liaison representative from TC 154
+      to JTC1/SC31, and CAG meeting of 21 Feb has made a recommendation for
+      the nomination of the liaison representative.
+  actions:
+  - type: appoints
+    message: |
+      Appointment of Mr.Yu Shi (shiyu@bnu.edu.cn) as the liaison
+      representative from TC 154 to ISO/IEC/JTC1/SC31.
+    subject: JTC1/SC31 liaison representative
+    dates:
+    - start: '2024-04-11'
+      kind: effective
+  categories:
+  - liaison
+- dates:
+  - start: '2024-03-12'
+    end: '2024-04-11'
+    kind: ballot
+  subject: WG2 establishment
+  title: establishment of ISO/TC 154/WG2 statistics data exchange
+  type: resolution
+  identifier: 2024-08
+  considerations:
+  - type: noting
+    message: |
+      As per the Resolution 2024-01 in TC 154 N1464, TC 154 has approved to
+      revise ISO 17369:2013 without an expanded scope and appoint Mr. Glenn
+      Tice (BSI) as the project leader.
+  - type: noting
+    message: |
+      After the consultation with CAG members and Mr. Glenn Tice (BSI) and
+      the suggestion of Sue, CAG meeting of 21 Feb made a CAG recommendation
+      2024-04 to initiate a CIB to establish WG2 with the title"statistics
+      data exchange".
+  - type: noting
+    message: |
+      CAG meeting on 21 Feb made a CAG Recommendation 2024-04 to initiate a
+      CIB to call for the WG2 convener candidates, and the WG2 convener will
+      be further confirmed via another CIB after the candidates are
+      received.
+  actions:
+  - type: establishes
+    message: 'establishment of ISO/TC 154/WG2 "statistics data exchange"
+
+      '
+    subject: WG2 establishment
+    dates:
+    - start: '2024-04-12'
+      kind: effective
+  categories:
+  - working group
+- dates:
+  - start: '2024-04-08'
+    end: '2024-05-07'
+    kind: ballot
+  subject: ISO/PWI 16356 co-leaders
+  title: Appointment of project co-leaders of ISO/PWI 16356
+  type: resolution
+  identifier: 2024-09
+  considerations:
+  - type: noting
+    message: |
+      ISO/PWI 16356 had been proposed by Ms. Wenting Chang (SAC), and JWG9
+      meeting in Feb recommended to nominate Ms. Wenting Chang from the ISO
+      side as the co-project leader of ISO/PWI 16356 and UNECE nominates Mr.
+      Hao Wu (dearwuhao@hotmail.com) as the co-project leader of ISO/PWI
+      16356 "Data and process of edible agricultural products based on
+      blockchain and DLT application".
+  - type: noting
+    message: |
+      Jianfang pointed out that ISO/PWI 16356 need to be initiated the NP
+      ballot, the project co-leaders will be submitted via Form4. When the
+      NP ballot is approved, the project co-leaders will be confirmed and
+      registered accordingly as per the voting result Form6. This CIB ballot
+      can be covered by NP ballot and is not necessary at this PWI stage.
+  - type: noting
+    message: |
+      CAG meeting of 27 March, JWG9 conveners thought the CIB is not against
+      the ISO/IEC Directives, and the CIB ballot shall be initiated.CAG
+      meeting agreed to initiated the CIB ballot to appoint the project
+      co-leaders of ISO/PWI 16356.
+  actions:
+  - type: appoints
+    message: |
+      Appointment of Ms. Wenting Chang (bainuan.cwt@antgroup.com) from
+      ISO/TC 154 side and Mr. Hao Wu (dearwuhao@hotmail.com) from UNECE side
+      as the project co-leaders of ISO/PWI 16356.
+    subject: ISO/PWI 16356 co-leadership
+    dates:
+    - start: '2024-05-08'
+      kind: effective
+  categories:
+  - project management
+- dates:
+  - start: '2024-04-16'
+    end: '2024-05-15'
+    kind: ballot
+  subject: WG2 convener appointment
+  title: Appointment of Mr. Glenn Tice from BSI as ISO/TC 154/WG2 convener
+  type: resolution
+  identifier: 2024-10
+  considerations:
+  - type: noting
+    message: |
+      As per the result of voting in N1478, ISO/TC 154/WG2 "statistics data
+      exchange is established (Resolution 2024-08), and only BSI nominated
+      Mr. Glenn Tice (glenn.tice@ArunVentura.onmicrosoft.com) as the
+      candidate of WG2 convener.
+  - type: noting
+    message: 'This CIB is the appointment of WG2 convener.
+
+      '
+  actions:
+  - type: appoints
+    message: 'Appointment of Mr. Glenn Tice from BSI as ISO/TC 154/WG2 convener
+
+      '
+    subject: WG2 convener
+    dates:
+    - start: '2024-05-16'
+      kind: effective
+  categories:
+  - working group
+- dates:
+  - start: '2024-05-13'
+    end: '2024-06-12'
+    kind: ballot
+  subject: data registration guidance PWI
+  title: Adoption of a PWI for the project Guidance of data registration for data
+    utilization
+  type: resolution
+  identifier: 2024-11
+  considerations:
+  - type: noting
+    message: |
+      This proposal was presented and discussed at TC level meeting on 31
+      Jan, 11 April, and also discussed at CAG meeting of 25 April.
+  - type: noting
+    message: |
+      CAG meeting of 25 April made a recommendation to launch a CIB for the
+      PWI project registration.
+  - type: noting
+    message: |
+      This PWI project title is "Guidance of data registration for data
+      utilization" with the following scope "This document introduces the
+      guidance of data registration for utilization with the governance
+      bodies and market. It clarifies the purpose, object and considerations
+      for registration, gives the basic principles, stakeholders,
+      registration process, registration content and requirements of data
+      registration. This document applies to the data registration
+      organization to guide the registration subject to conduct data
+      registration."
+  actions:
+  - type: adopts
+    message: |
+      Adoption of a PWI for the project "Guidance of data registration for
+      data utilization"
+    subject: data registration guidance PWI
+    dates:
+    - start: '2024-06-13'
+      kind: effective
+  categories:
+  - PWI registration
+- dates:
+  - start: '2024-07-19'
+    end: '2024-08-19'
+    kind: ballot
+  subject: ISO/TR 19626-3 cancellation
+  title: Cancellation of ISO/TR 19626-3
+  type: resolution
+  identifier: 2024-12
+  considerations:
+  - type: noting
+    message: |
+      Many editorial issues in the draft of ISO/TR 19626-3 have been
+      identified that the content does not meet the ISO editorial
+      requirements and policies. In particular, the subject matter
+      (guidelines, i.e. recommendations) is inappropriate for the
+      deliverable type as a Technical Report. The text contains
+      requirements, recommendations and permissions, which are not allowed
+      in an informative Technical Report. As a consequence, the submission
+      has been rejected.
+  - type: noting
+    message: 'In April, WG6 recommend to cancel the TR project and restart an IS project.
+
+      '
+  - type: noting
+    message: |
+      CAG meeting of 25 April recorded that Shi suggested the cancellation
+      ballot of ISO/TR 19626-3 based on this WG6 recommendation can be
+      handled after the NP Form 4 and new draft are ready.
+  - type: noting
+    message: |
+      CAG meeting of 27 June recorded that SHI will follow up for this with
+      Jianfang to initiate the CIB ballot to approve the cancellation.
+  - type: noting
+    message: |
+      This CIB ballot is to cancel ISO/TR 19626-3. When the form4 and new
+      draft are ready, the project will be initiated a NP ballot as a new
+      project ISO 19626-3 (an IS deliverable).
+  actions:
+  - type: withdraws
+    message: 'Cancellation of ISO/TR 19626-3
+
+      '
+    subject: ISO/TR 19626-3
+    dates:
+    - start: '2024-08-20'
+      kind: effective
+  categories:
+  - project management
+- dates:
+  - start: '2024-08-16'
+    end: '2024-09-15'
+    kind: ballot
+  subject: TC347 liaison establishment
+  title: Establishment of internal liaison with TC347
+  type: resolution
+  identifier: 2024-13
+  considerations:
+  - type: noting
+    message: |
+      ISO/TC 154/JWG 9 made a recommenation in July meeting and recommended
+      starting CIB (ballot) to establish a liaison-ship from TC 154 to TC
+      347, and nominate Mr. Hao Wu <dearwuhao@hotmail.com> as the liaison
+      representative. This CIB is initiated based on the JWG9
+      recommendation.
+  actions:
+  - type: establishes
+    message: |
+      Establishment of internal liaison with TC347 and appointment of Mr.
+      Hao Wu <dearwuhao@hotmail.com as the liaison representative form TC
+      154 to TC347.
+    subject: TC347 liaison
+    dates:
+    - start: '2024-09-16'
+      kind: effective
+  categories:
+  - liaison
+- dates:
+  - start: '2024-08-30'
+    end: '2024-09-29'
+    kind: ballot
+  subject: ISO/TR 20180 initiation
+  title: Initiating ISO/TR 20180
+  type: resolution
+  identifier: 2024-14
+  considerations:
+  - type: noting
+    message: |
+      The previous ISO/NP 20180 "Guidelines on risk-based product quality
+      data interchange in e-commerce" ballot failed and this project is
+      changed from IS to TR, and the title has updated accordingly.
+  - type: noting
+    message: 'This CIB is initiated based on the WG7 recommendation of 21 Aug.
+
+      '
+  actions:
+  - type: resolves
+    message: |
+      Initiating a project "Risk-based product quality data interchange in
+      E-commerce" as ISO/TR 20180 which is assigned to WG7, and appointment
+      of Mrs. Wu Yang, Mrs. Wang Li from SAC as the project co-leaders,
+      target date for CD ballot 2025-05-30; target date for DTR ballot
+      2025-10-30; target date for publication 2026-10-30.
+    subject: ISO/TR 20180
+    dates:
+    - start: '2024-09-30'
+      kind: effective
+  categories:
+  - project initiation
