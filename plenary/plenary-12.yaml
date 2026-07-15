@@ -1,7 +1,10 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+
 ---
 metadata:
-  title: Resolutions taken at the 12th meeting of ISO/TC 154
+  title:
+  - spelling: eng
+    value: Resolutions taken at the 12th meeting of ISO/TC 154
   date: '1996-10-21'
   source: Secretariat of ISO/TC 154
 decisions:
@@ -13,29 +16,34 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    considerations:
-    - type: considering
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: at the request of ISO/IEC JTC1 SC 31
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: agrees
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 resolves to set up a liaison with ISO/IEC JTC1/SC 31
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: agrees
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to set up a liaison with ISO/IEC JTC1/SC 31
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
+  considerations:
+  - type: considering
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: at the request of ISO/IEC JTC1 SC 31
 - identifier:
   - prefix: ISO/TC 154
     number: '114'
@@ -44,47 +52,56 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    considerations:
-    - type: considering
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 regards the harmonisation and registration of data as one
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: requests
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 would like to be given the responsibility for processing the
+        BSR Project during the project phase and will require the setting up of a
+        subcommittee and establishing a maintenance agency for ongoing BSR operation
+        and maintenance once the project phase has been completed
+  - type: requests
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 also request its members to participate actively in the BSR
+        work
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
+  considerations:
+  - type: considering
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 regards the harmonisation and registration of data as one
         of its major roles and recognises that the BSR is a key tool to achieve that
         objective.
-    - type: according
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: Further, in accordance with the ISO BSR/CC resolution 96/8 stating
-        that the BSR Rules and Guidelines and Content shall become ISO standards with
-        its own registration authority
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: requests
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 would like to be given the responsibility for processing
-        the BSR Project during the project phase and will require the setting up of
-        a subcommittee and establishing a maintenance agency for ongoing BSR operation
-        and maintenance once the project phase has been completed
-    - type: requests
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 also request its members to participate actively in the
-        BSR work
+  - type: according
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: Further, in accordance with the ISO BSR/CC resolution 96/8 stating that
+        the BSR Rules and Guidelines and Content shall become ISO standards with its
+        own registration authority
 - identifier:
   - prefix: ISO/TC 154
     number: '115'
@@ -93,25 +110,28 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 resolves that the ISO-UN/ECE Joint Working Group on ISO
-        9735, established by ISO/TC 154 according to the MoU between UN/ECE, ISO and
-        IEC, shall work according to ISO Directives
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves that the ISO-UN/ECE Joint Working Group on ISO 9735,
+        established by ISO/TC 154 according to the MoU between UN/ECE, ISO and IEC,
+        shall work according to ISO Directives
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '116'
@@ -120,25 +140,28 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: requests
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 requests the secretariat to write a letter to the MoU Coordinating
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: requests
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 requests the secretariat to write a letter to the MoU Coordinating
         Committee requesting for an end of September 1997 cut off date for the submission
         of further parts of ISO 9735 Version 4 for the Fast-track procedure
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '117'
@@ -147,26 +170,29 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: requests
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 requests its secretariat to write a letter requesting ISO/TC
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: requests
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 requests its secretariat to write a letter requesting ISO/TC
         154 members and the UN/ECE to nominate experts to the Joint Working Group
         to resolve the commets received on ISO 9735 Version 4. According to the MoU
         the UN/ECE is also to be requested to nominate the convenor of the group
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '118'
@@ -175,32 +201,37 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    considerations:
-    - type: following
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: following on the resolution 101
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO/TC 154 resolves, following on the resolution 101, that the ad hoc group shall continue the work to revise the existing scope in accordance with the agreements reached at this meeting. The proposals shall be submitted to ISO/TC 154 Secretariat by the end of March 1997
 
         Convenor of this group will be Tuisko Buchmann
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
+  considerations:
+  - type: following
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: following on the resolution 101
 - identifier:
   - prefix: ISO/TC 154
     number: '119'
@@ -209,32 +240,17 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    considerations:
-    - type: recognising
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: Recognising that the ISO 7372 (TDED) covers data elements in support
-        of trade and that these data elements are composed of data elements concepts
-        plus representation and that the BSR is predicated on the specification of
-        data elements concepts alone
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: establishes
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: establishes
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO/TC 154 resolves to establish a special task force for the revision of ISO 7372. Subject to confirmation the group will consist of:
         Marcel Deturche (Convenor)
         Pierre Chaussard
@@ -244,16 +260,38 @@ decisions:
         Alain Thiénot
         Jean Kubler / Francois Vuillemier
         Hartmut Hermes / Sabine Hofmann
-    - type: resolves
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: |
+  - type: resolves
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO/TC 154 resolved that
         - there is a need for a consolidated data element directory to cover BSU representation in standards published by ISO/TC 154, mainly ISO 6422 (Layout key for trade documents) and UN/TDID
         - in order to achieve consistency of data specification across all subject areas, the work of ISO/TC 154 shall be progressed in close collaboration with ISO/IEC JTC 1/SC 14 (and the use of ISO/IEC 11179) and the BSR project
         - the data element directory shall have its own maintenance procedures and rules
         - at a further stage other subject areas can be added
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
+  considerations:
+  - type: recognising
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: Recognising that the ISO 7372 (TDED) covers data elements in support
+        of trade and that these data elements are composed of data elements concepts
+        plus representation and that the BSR is predicated on the specification of
+        data elements concepts alone
 - identifier:
   - prefix: ISO/TC 154
     number: '120'
@@ -262,26 +300,29 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: requests
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: Subject to confirmation by the US member body to take over the responsibility
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: requests
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: Subject to confirmation by the US member body to take over the responsibility
         of the secretariat of ISO/TC 154/SC 2 "Documents", ISO/TC 154 requests that
         the US member body prepare a proposal for a new scope for ISO/TC 154/SC 2
         and a possible new title for approval by ISO/TC 154 at the next plenary meeting
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '121'
@@ -290,26 +331,29 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: resolves
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 resolves to retain the WI on ISO 8601 "Data elements and
-        interchange formats - information interchange - Representation of Dates and
-        Times". The secretariat is requested to write a letter to the ISO/CS, confirming
-        this with justification
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to retain the WI on ISO 8601 "Data elements and interchange
+        formats - information interchange - Representation of Dates and Times". The
+        secretariat is requested to write a letter to the ISO/CS, confirming this
+        with justification
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '122'
@@ -318,24 +362,27 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: disbands
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 resolves to disband ISO/TC 154/SC 5 "Tourism and leisure"
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: disbands
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to disband ISO/TC 154/SC 5 "Tourism and leisure"
         according to resolution 107
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '123'
@@ -344,24 +391,27 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 thanks AFNOR for hosting the plenary meeting and the efficient
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 thanks AFNOR for hosting the plenary meeting and the efficient
         support
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '124'
@@ -370,24 +420,27 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 expresses its appreciation to Ms Ingeborg Burger-Balogh
-        to her excellent chairing of the meeting
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 expresses its appreciation to Ms Ingeborg Burger-Balogh to
+        her excellent chairing of the meeting
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '125'
@@ -396,21 +449,24 @@ decisions:
   dates:
   - date: '1996-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '1996-10-21'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: thanks
-      date_effective:
-        date: '1996-10-21'
-        type: effective
-      message: ISO/TC 154 thanks its secretariat and the editing committee for its
-        efficient support
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: thanks
+    date_effective:
+      date: '1996-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 thanks its secretariat and the editing committee for its efficient
+        support
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1996-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous

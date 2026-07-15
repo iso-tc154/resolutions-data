@@ -1,7 +1,10 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+
 ---
 metadata:
-  title: Resolutions of the 35th plenary meeting of ISO/TC 154 at Berlin
+  title:
+  - spelling: eng
+    value: Resolutions of the 35th plenary meeting of ISO/TC 154 at Berlin
   date: '2016-10-21'
   source: ISO/TC 154 Secretariat
 decisions:
@@ -13,39 +16,48 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adoption of a PWI for the new part ISO 14533-4
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Adoption of a PWI for the new part ISO 14533-4
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: considering the SK/SOSMT proposal report status for the new part ISO
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to adopt a PWI as the new part ISO 14533-4 on “Attributes pointing
+        to external Proof of Existence objects used in Long term signature formats
+        (PoEAttributes)”
+  - type: requests
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: requests SK/SOSMT to prepare the final working draft for NWIP ballot
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering the SK/SOSMT proposal report status for the new part ISO
         14533-4
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves to adopt a PWI as the new part ISO 14533-4 on “Attributes
-        pointing to external Proof of Existence objects used in Long term signature
-        formats (PoEAttributes)”
-    - type: requests
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: requests SK/SOSMT to prepare the final working draft for NWIP ballot
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-02
@@ -54,37 +66,46 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Assignment of ISO 14533-4 to WG6, and adoption of a NWIP ballot for ISO
+  title:
+  - spelling: eng
+    value: Assignment of ISO 14533-4 to WG6, and adoption of a NWIP ballot for ISO
       14533-4
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: considering the SK/SOSMT proposal for an ISO standard
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: assigns
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves to assign the new part ISO 14533-4 to WG6
-    - type: resolves
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves to create a NWIP ballot as International Standard
+  actions:
+  - type: assigns
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to assign the new part ISO 14533-4 to WG6
+  - type: resolves
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to create a NWIP ballot as International Standard
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering the SK/SOSMT proposal for an ISO standard
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-03
@@ -93,31 +114,38 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adoption DIS ballot for ISO/CD 8601-1
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Adoption DIS ballot for ISO/CD 8601-1
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: considering ISO/CD 8601-1 CD ballot status
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves to ISO 8601-1 to be submitted for DIS ballot
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to ISO 8601-1 to be submitted for DIS ballot
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering ISO/CD 8601-1 CD ballot status
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-04
@@ -126,31 +154,38 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adoption DIS ballot for ISO/CD 8601-2
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Adoption DIS ballot for ISO/CD 8601-2
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: considering ISO/CD 8601-2 CD ballot status
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves to ISO 8601-2 to be submitted for DIS ballot
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to ISO 8601-2 to be submitted for DIS ballot
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering ISO/CD 8601-2 CD ballot status
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-05
@@ -159,34 +194,41 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Encouragement the use of ISO 8601 series
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Encouragement the use of ISO 8601 series
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: considering ISO 8601 series are updating
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: requests
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves that ISO/TC 154 members, who have a link to Standards Development
+  actions:
+  - type: requests
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves that ISO/TC 154 members, who have a link to Standards Development
         Organizations and others which use ISO 8601, to review the impact of the proposed
         changes in order to determine what alignment may be needed to their standards,
         specifications and recommendations
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering ISO 8601 series are updating
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-06
@@ -195,44 +237,54 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adoption of a PWI for the project VSM
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Adoption of a PWI for the project VSM
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: considering the report status of VSM from LU/ILNAS
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: adopts
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves to adopt a PWI on “Standardized cross-enterprise Value Stream
+  actions:
+  - type: adopts
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to adopt a PWI on “Standardized cross-enterprise Value Stream
         Management Method”
-    - type: requests
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: to investigate with the ISO/CS and MoU/MG chair, if this WI should
-        be led by ISO/TC 154 with other ISO/TC and/or MoU-eB/MG members joining the
-        work
-    - type: requests
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: requests ILNAS to prepare the final draft for PWI ballot
+  - type: requests
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: to investigate with the ISO/CS and MoU/MG chair, if this WI should be
+        led by ISO/TC 154 with other ISO/TC and/or MoU-eB/MG members joining the work
+  - type: requests
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: requests ILNAS to prepare the final draft for PWI ballot
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering the report status of VSM from LU/ILNAS
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-07
@@ -241,31 +293,38 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adoption of a NWI for XMLFACT
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Adoption of a NWI for XMLFACT
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: considering the report status of XMLFACT based on ISO/TS 20625
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves to initiate a NWIP on XMLFACT based on ISO/TS 20625
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to initiate a NWIP on XMLFACT based on ISO/TS 20625
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering the report status of XMLFACT based on ISO/TS 20625
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-08
@@ -274,33 +333,40 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adoption of a NWI to Fast-track “OAGIS – Specification for an Enterprise
+  title:
+  - spelling: eng
+    value: Adoption of a NWI to Fast-track “OAGIS – Specification for an Enterprise
       Canonical Model”
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: considering the submission by OAGi to fast-track “OAGIS – Specification
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to initiate a NWIP and DIS ballot
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was approved with one negative vote by BSI
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering the submission by OAGi to fast-track “OAGIS – Specification
         for an Enterprise Canonical Model”;
-    approvals:
-    - type: affirmative
-      degree: majority
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was approved with one negative vote by BSI
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves to initiate a NWIP and DIS ballot
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-09
@@ -309,32 +375,39 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Withdrawal of ISO/PWI 9735-11
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Withdrawal of ISO/PWI 9735-11
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: considering no progress for the development of ISO 9735-11 since it
-        was registered as PWI in 2013
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves to withdraw ISO/PWI 9735-11
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to withdraw ISO/PWI 9735-11
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering no progress for the development of ISO 9735-11 since it was
+        registered as PWI in 2013
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-10
@@ -343,32 +416,39 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establishment of ISO/TC 154/WG7
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Establishment of ISO/TC 154/WG7
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: considering that ISO/NP 21981 ballot closed with approval of a new
-        WG to be established by the TC
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: creates
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves to create ISO/TC 154/WG 7 with the title "Business"
+  actions:
+  - type: creates
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to create ISO/TC 154/WG 7 with the title "Business"
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering that ISO/NP 21981 ballot closed with approval of a new WG
+        to be established by the TC
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-11
@@ -377,26 +457,31 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appointment of Mr. Klaus-Dieter Naujok as convener of ISO/TC 154/WG7
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Appointment of Mr. Klaus-Dieter Naujok as convener of ISO/TC 154/WG7
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: appoints
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves to appoint Mr. Klaus-Dieter Naujok as the convener of Working
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to appoint Mr. Klaus-Dieter Naujok as the convener of Working
         Group 7, effective immediately
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-12
@@ -405,31 +490,38 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Allocation of the secretariat of ISO/TC 154/WG7 to SAC
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Allocation of the secretariat of ISO/TC 154/WG7 to SAC
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: allocates
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: resolves that the secretariat of ISO/TC 154/WG 7 is allocated to SAC
-    - type: requests
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: In addition the ISO/TC 154 secretariat is requested to initiate an
-        appropriate call for experts for the new WG 7
+  actions:
+  - type: allocates
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves that the secretariat of ISO/TC 154/WG 7 is allocated to SAC
+  - type: requests
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: In addition the ISO/TC 154 secretariat is requested to initiate an appropriate
+        call for experts for the new WG 7
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-13
@@ -438,27 +530,32 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Distribution of approved NWIP
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Distribution of approved NWIP
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: recommends
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: recommends that all approved New Work Items Proposals from the MoU
-        on eBusiness Management Group (MoU/MG) members shall be disseminated to the
-        MoU/MG membership for review and possible action at the earliest stage
+  actions:
+  - type: recommends
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: recommends that all approved New Work Items Proposals from the MoU on
+        eBusiness Management Group (MoU/MG) members shall be disseminated to the MoU/MG
+        membership for review and possible action at the earliest stage
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-14
@@ -467,28 +564,33 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Next ISO/TC 154 meetings
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Next ISO/TC 154 meetings
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: majority
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was approved with one negative vote by KATS
-    actions:
-    - type: agrees
-      date_effective:
-        date: '2016-10-21'
-        type: effective
-      message: agreed to alternate its plenaries and working group meetings between
+  actions:
+  - type: agrees
+    date_effective:
+      date: '2016-10-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: agreed to alternate its plenaries and working group meetings between
         physical and virtual meetings with the next meeting being a virtual meeting
         for the week starting 23 October 2017 and the next face-to-face meeting being
         held in 2018 in China
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was approved with one negative vote by KATS
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-15
@@ -497,26 +599,31 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appreciation of on-line participants
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Appreciation of on-line participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-10-21'
-        type: adoption
-      message: warmly thanks all the on-line participants for the active participation,
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: warmly thanks all the on-line participants for the active participation,
         in particular those being on-line during unearthly hours
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
 - identifier:
   - prefix: ISO/TC 154
     number: 2016-16
@@ -525,24 +632,29 @@ decisions:
   dates:
   - date: '2016-10-21'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appreciation of the meeting host
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Appreciation of the meeting host
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2016-10-21'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2016-10-21'
-        type: adoption
-      message: warmly thanks Mr. Bernd Boesler, in particular thanks our hosts DIN
-        for their kind hospitality and hosting of a successful week of WG meetings
-        and the 35th plenary meeting and for organizing social events
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: warmly thanks Mr. Bernd Boesler, in particular thanks our hosts DIN for
+        their kind hospitality and hosting of a successful week of WG meetings and
+        the 35th plenary meeting and for organizing social events
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2016-10-21'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity

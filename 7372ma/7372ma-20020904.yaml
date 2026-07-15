@@ -1,8 +1,11 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+
 ---
 metadata:
-  title: Resolutions and action items of the Joint meeting ISO7372MA - ISO/TC 154/WG
-    1, 2002-09-04/05, Genève Cointrin, CH.
+  title:
+  - spelling: eng
+    value: Resolutions and action items of the Joint meeting ISO7372MA - ISO/TC 154/WG
+      1, 2002-09-04/05, Genève Cointrin, CH.
   date: '2002-09-04'
   source: ISO7372MA - ISO/TC 154/WG 1
 decisions:
@@ -14,16 +17,17 @@ decisions:
   dates:
   - date: '2002-09-04'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: UNTDED-ISO 7372 MA
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2002-09-05'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: UNTDED-ISO 7372 MA
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2002-09-05'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         UNTDED-ISO 7372 MA resolves that the MA shall develop a new
         three-volume edition of UNTDED directory for international trade
         facilitation.
@@ -57,37 +61,44 @@ decisions:
   dates:
   - date: '2002-09-04'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: UNTDED-ISO 7372 MA
-    considerations:
-    - type: recognizing
-      date_effective:
-        date: '2002-09-05'
-        type: effective
-      message: its Data Maintenance Request (DMR) procedures shall be predictable,
-        fully documented and transparent,
-    - type: recognizing
-      date_effective:
-        date: '2002-09-05'
-        type: effective
-      message: the best available tool is the Core Component Technical Assessement
-        Checklist (cc TAC), and that in addtion,
-    - type: recognizing
-      date_effective:
-        date: '2002-09-05'
-        type: effective
-      message: the ISO7372MA DMR procedures shall be, where relevant, fully consistent
-        with the UN/CEFACT DMR procedures,
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2002-09-05'
-        type: effective
-      message: UNTDED-ISO 7372 MA resolves that its procedures, given in document
-        154 N 339, shall have the additions given in document “Core Component Technical
+  subject:
+  - spelling: eng
+    value: UNTDED-ISO 7372 MA
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2002-09-05'
+      type: effective
+    message:
+    - spelling: eng
+      value: UNTDED-ISO 7372 MA resolves that its procedures, given in document 154
+        N 339, shall have the additions given in document “Core Component Technical
         Assessment Checklist, Version 1.1”, issued as document 154 N 422.
+  considerations:
+  - type: recognizing
+    date_effective:
+      date: '2002-09-05'
+      type: effective
+    message:
+    - spelling: eng
+      value: its Data Maintenance Request (DMR) procedures shall be predictable, fully
+        documented and transparent,
+  - type: recognizing
+    date_effective:
+      date: '2002-09-05'
+      type: effective
+    message:
+    - spelling: eng
+      value: the best available tool is the Core Component Technical Assessement Checklist
+        (cc TAC), and that in addtion,
+  - type: recognizing
+    date_effective:
+      date: '2002-09-05'
+      type: effective
+    message:
+    - spelling: eng
+      value: the ISO7372MA DMR procedures shall be, where relevant, fully consistent
+        with the UN/CEFACT DMR procedures,
 - identifier:
   - prefix: ISO/TC 154
     number: '12'
@@ -96,16 +107,17 @@ decisions:
   dates:
   - date: '2002-09-04'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: UNTDED-ISO 7372 MA
-    actions:
-    - type: agrees
-      date_effective:
-        date: '2002-09-05'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: UNTDED-ISO 7372 MA
+  actions:
+  - type: agrees
+    date_effective:
+      date: '2002-09-05'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         UNTDED-ISO7372MA agreed that the publication of a new edition of UNTDED should go through successive steps:
 
         1. Review elements common to both UNTDED and EDIFACT/EDED and eliminate minor (wordsmithing) variances creating a new spreadsheet (D).
@@ -141,16 +153,17 @@ decisions:
   dates:
   - date: '2002-09-04'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: UNTDED-ISO 7372 MA
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2002-09-05'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: UNTDED-ISO 7372 MA
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2002-09-05'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO7372MA resolves to hold a one week meeting, chaired by Mrs Margaret
         Pemberton (Standards Australia), in Washington DC, hosted by LMI (Mr
         Mark Crawford), on 2003-01-13/17 (to be confirmed).
@@ -199,16 +212,17 @@ decisions:
   dates:
   - date: '2002-09-04'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: UNTDED-ISO 7372 MA
-    actions:
-    - type: notes
-      date_effective:
-        date: '2002-09-05'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: UNTDED-ISO 7372 MA
+  actions:
+  - type: notes
+    date_effective:
+      date: '2002-09-05'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Identified participants to this one week meeting are:
 
         * Mrs M. Pemberton, SAI/AU
@@ -231,16 +245,17 @@ decisions:
   dates:
   - date: '2002-09-04'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: UNTDED-ISO 7372 MA
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2002-09-05'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: UNTDED-ISO 7372 MA
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2002-09-05'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         UNTDED-ISO 7372 MA resolves to update the membership list (Section
         2.1.3 of ISO 7372:1993, see doc. 154n339):
 
@@ -256,16 +271,17 @@ decisions:
   dates:
   - date: '2002-09-04'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: UNTDED-ISO 7372 MA
-    actions:
-    - type: requests
-      date_effective:
-        date: '2002-09-05'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: UNTDED-ISO 7372 MA
+  actions:
+  - type: requests
+    date_effective:
+      date: '2002-09-05'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         As part of its liaison with UN/CEFACT Forum, ISO 7372 MA requests that
         the appropriate UN/CEFACT Forum Group(s) be tasked with the project of
         reviewing the EDED and UNCL in line with the new edition of ISO 7372.
@@ -279,15 +295,16 @@ decisions:
   dates:
   - date: '2002-09-04'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: UNTDED-ISO 7372 MA
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2002-09-05'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: UNTDED-ISO 7372 MA
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2002-09-05'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         UNTDED-ISO 7372 MA resolves to hold its next meeting back-to-back
         before the next ISO/TC 154 plenary meeting.
