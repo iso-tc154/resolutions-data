@@ -1,7 +1,10 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+
 ---
 metadata:
-  title: Resolutions from the 27th plenary meeting of ISO/TC 154
+  title:
+  - spelling: eng
+    value: Resolutions from the 27th plenary meeting of ISO/TC 154
   date: '2010-05-04'
   source: Secretariat
 decisions:
@@ -13,18 +16,21 @@ decisions:
   dates:
   - date: '2010-05-04'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: ISO 15000-5
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: ISO 15000-5
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    actions:
-    - type: requests
-      date_effective:
-        date: '2009-09-25'
-        type: effective
-      message: ISO/TC 154 resolves to ask ISO to publish ISO 15000-5 including corrigenda
+  actions:
+  - type: requests
+    date_effective:
+      date: '2009-09-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to ask ISO to publish ISO 15000-5 including corrigenda
         as approved at the TC 154 meeting in 2008-11 (Brussels).
 - identifier:
   - prefix: ISO/TC 154
@@ -34,19 +40,22 @@ decisions:
   dates:
   - date: '2010-05-04'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appreciation
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Appreciation
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2010-05-04'
-        type: adoption
-      message: ISO/TC 154 expresses its sincere appreciation to Mr. Wakaizumi for
-        his contribution to the TDED/EDED Alignment project.
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2010-05-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: ISO/TC 154 expresses its sincere appreciation to Mr. Wakaizumi for his
+        contribution to the TDED/EDED Alignment project.
 - identifier:
   - prefix: ISO/TC 154
     number: '304'
@@ -55,16 +64,19 @@ decisions:
   dates:
   - date: '2010-05-04'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appreciation
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Appreciation
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2010-05-04'
-        type: adoption
-      message: ISO/TC 154 expresses its sincere appreciation to Mr. Van den Akker
-        for his excellent support and dedication.
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2010-05-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: ISO/TC 154 expresses its sincere appreciation to Mr. Van den Akker for
+        his excellent support and dedication.

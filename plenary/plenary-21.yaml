@@ -1,7 +1,10 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+
 ---
 metadata:
-  title: Resolutions and action items of the ISO/TC 154 21th meeting
+  title:
+  - spelling: eng
+    value: Resolutions and action items of the ISO/TC 154 21th meeting
   date: '2003-09-12'
   source: ISO/TC 154
 decisions:
@@ -13,24 +16,18 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: requests
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: |
+  actions:
+  - type: requests
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         In the overall framework of current standardisation work for the supply chain security, ISO/TC 154 resolves to establish a liaison with:
         - ISO/TC 8 Ships and Marine Technology
         - ISO/TC104 Freight Containers
@@ -38,6 +35,15 @@ decisions:
 
         # ISO/TC204 Intelligent Transport Systems is already in liaison with ISO/TC 154: see Resolution 215.
         # More info. in ISO/TC 154 web (see above, top of cover page), folders g.1 and g.3
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
 - identifier:
   - prefix: ISO/TC 154
     number: '240'
@@ -46,33 +52,40 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Liaison ISO/TC 154 - ISO/TC215 Health Informatics
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Liaison ISO/TC 154 - ISO/TC215 Health Informatics
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: ISO/TC 154 resolves to thank the ISO/TC215 chair for contributing their
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to thank the ISO/TC215 chair for contributing their
         liaison report (see doc. 154N454) and for identifying a very interesting range
         of issues for further joint discussions and hopefully successful joint work
-    - type: welcomes
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: ISO/TC 154 welcomes the agreement of the Chairs of ISO/TC 215 and ISO/TC
+  - type: welcomes
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 welcomes the agreement of the Chairs of ISO/TC 215 and ISO/TC
         154 to identify any areas of common interest
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
 - identifier:
   - prefix: ISO/TC 154
     number: '241'
@@ -81,26 +94,31 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: ISO7372:1993 => 200x (revision) Trade Data Elements Directory TDED
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: ISO7372:1993 => 200x (revision) Trade Data Elements Directory TDED
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: endorses
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: ISO/TC 154 resolves to endorse the resolutions and action items adopted
+  actions:
+  - type: endorses
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to endorse the resolutions and action items adopted
         by the ISO7372MA documented in documents 154N446 and 154N452
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
 - identifier:
   - prefix: ISO/TC 154
     number: 242A
@@ -109,33 +127,40 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: OASIS/UBL TC
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: OASIS/UBL TC
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: recalling
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: Recalling the existing ISO/TC 154 liaison with OASIS (see doc. 154N406,
+  actions:
+  - type: endorses
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 endorses the Resolution of the ISO7372MA to include the OASIS
+        UBL TC as member (see doc. 154n452).
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
+  considerations:
+  - type: recalling
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: Recalling the existing ISO/TC 154 liaison with OASIS (see doc. 154N406,
         2002-02-27)
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: endorses
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: ISO/TC 154 endorses the Resolution of the ISO7372MA to include the
-        OASIS UBL TC as member (see doc. 154n452).
 - identifier:
   - prefix: ISO/TC 154
     number: 242B
@@ -144,25 +169,21 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Open Applications Group (OAGi)
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Open Applications Group (OAGi)
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: requests
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: |
+  actions:
+  - type: requests
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO/TC 154 resolves (unanimous agreement of P-members present at our
         21st session) to establish a Liaison A (active) with OAGi (see doc.
         154N457 and http://www.openapplications.org/ ), with the following
@@ -171,6 +192,15 @@ decisions:
         * Liaison to ISO TC 154: Garret Minakawa, mailto:garret.minakawa@oracle.com
         * CEO: David M. Connelly, mailto:dconnelly@openapplications.org
         * Chief Architect: Mike Rowell, mailto:mrowell@openapplications.org
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
 - identifier:
   - prefix: ISO/TC 154
     number: '243'
@@ -179,45 +209,56 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: ISO8601:2000 => 200x (in-depth revision) date and time
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: ISO8601:2000 => 200x (in-depth revision) date and time
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: notes that the in-depth revision project has been launched in 2000-07;
+  actions:
+  - type: confirms
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: confirms its availability to launch a ballot on this draft revision,
+        when available
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: notes that the in-depth revision project has been launched in 2000-07;
         as the 3 years time-frame is over, and as the draft revision is not yet ready
         for balloting, this work item has been withdrawn last month (2003-07)
-    - type: noting
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: notes that the next "ISO periodic review" will take place in 2005
-    - type: noting
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: 'notes the on-going work (see also Resolution 230 and Action 15 above,
+  - type: noting
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: notes that the next "ISO periodic review" will take place in 2005
+  - type: noting
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'notes the on-going work (see also Resolution 230 and Action 15 above,
         both open) managed by Mr. L. Visser (NEN/NL): Thanks a lot, Louis!'
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: confirms
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: confirms its availability to launch a ballot on this draft revision,
-        when available
 - identifier:
   - prefix: ISO/TC 154
     number: '244'
@@ -226,64 +267,28 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: ISO11180:1993 postal addressing (see also doc. 154n448)
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: ISO11180:1993 postal addressing (see also doc. 154n448)
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: recalling
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: recalling that trade in goods and services need to identify, in an
-        open environment allowing interoperability, the parties and the location of
-        the commodity, most of which parties and locations having a name and address,
-        processable by all parties and all modes of transport and usable across all
-        syntaxes
-    - type: recalling
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: recalling that ISO 11180:1993 had been launched by UPU
-    - type: recalling
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: 'recalling core inconsistencies between two ISO/TC 154 standards: ISO
-        6422 Layout Key (e.g. 5x35 car.) and ISO 11180 (e.g. 6x30 car.)
-
-        '
-    - type: noting
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: noting that ISO 11180 has not been widely implemented by ISO members
-    - type: noting
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: noting that ISO 11180 is no longer referenced by UPU (see e.g. the
-        new UPU S42 standard)
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: withdraws
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: resolves to withdraw ISO 11180:1993
-    - type: investigates
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: |
+  actions:
+  - type: withdraws
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to withdraw ISO 11180:1993
+  - type: investigates
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to investigate the possibility of launching an ISO New
         Work Item (NWI) on name and address (follow-up: see action 19)
 
@@ -315,6 +320,59 @@ decisions:
           - UNECE UNeDocs Project
           - OASIS Management and UBL TC + CIQ TC
           - OAGI
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
+  considerations:
+  - type: recalling
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: recalling that trade in goods and services need to identify, in an open
+        environment allowing interoperability, the parties and the location of the
+        commodity, most of which parties and locations having a name and address,
+        processable by all parties and all modes of transport and usable across all
+        syntaxes
+  - type: recalling
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: recalling that ISO 11180:1993 had been launched by UPU
+  - type: recalling
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'recalling core inconsistencies between two ISO/TC 154 standards: ISO
+        6422 Layout Key (e.g. 5x35 car.) and ISO 11180 (e.g. 6x30 car.)
+
+        '
+  - type: noting
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: noting that ISO 11180 has not been widely implemented by ISO members
+  - type: noting
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: noting that ISO 11180 is no longer referenced by UPU (see e.g. the new
+        UPU S42 standard)
 - identifier:
   - prefix: ISO/TC 154
     number: '245'
@@ -323,39 +381,48 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: ISO TS16668:2000 Basic Semantics Register BSR
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: ISO TS16668:2000 Basic Semantics Register BSR
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: noting
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: notes that the ISO/TS 16668:2000 has not been widely implemented by
-        ISO members
-    - type: noting
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: notes that this TS is also largely superseded by the latest deliverables
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to withdraw ISO TS11168:2000
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: notes that the ISO/TS 16668:2000 has not been widely implemented by ISO
+        members
+  - type: noting
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: notes that this TS is also largely superseded by the latest deliverables
         of ISO/IEC JTC1/SC32 on ISO11179 (and related products), as well as current
         developments of ebXML parts, especially by OASIS
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: resolves to withdraw ISO TS11168:2000
 - identifier:
   - prefix: ISO/TC 154
     number: '246'
@@ -364,38 +431,47 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: ISO NP22208:2000 Rules for the operation of EDI/EC Registration Authorities
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: ISO NP22208:2000 Rules for the operation of EDI/EC Registration Authorities
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: recalling
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: recall that this New Project ISO NP22208 (EDIRA) has been launched
-        in 2000-07
-    - type: noting
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: notes that EDIRA has since abandoned this ISO project
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: notes
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: notes that, in 2003-07, NP22208 has been withdrawn from the work program
+  actions:
+  - type: notes
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: notes that, in 2003-07, NP22208 has been withdrawn from the work program
         of ISO/TC 154
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
+  considerations:
+  - type: recalling
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: recall that this New Project ISO NP22208 (EDIRA) has been launched in
+        2000-07
+  - type: noting
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: notes that EDIRA has since abandoned this ISO project
 - identifier:
   - prefix: ISO/TC 154
     number: '247'
@@ -404,26 +480,29 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: regrets
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: ISO/TC 154 deeply regrets the passing of friend and colleague Michael
+  actions:
+  - type: regrets
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 deeply regrets the passing of friend and colleague Michael
         Adcock. Mike added calm, logic, humor, and wisdom to the group’s deliberations
         and his presence will always be sorely missed by the members of our Committee
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
 - identifier:
   - prefix: ISO/TC 154
     number: '248'
@@ -432,26 +511,29 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: ISO/TC 154 thanks KATS, specially Mr. Yong-Gyu JUNG, Head of the Korean
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 thanks KATS, specially Mr. Yong-Gyu JUNG, Head of the Korean
         Delegation, and Mr. Kyung-Soo CHAE, Senior Researcher, KATS, having provided
         very efficiently the hosting for this meeting, in a truly friendly environment
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
 - identifier:
   - prefix: ISO/TC 154
     number: '248'
@@ -460,24 +542,18 @@ decisions:
   dates:
   - date: '2003-09-12'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-09-12'
-        type: adoption
-      message: Approved
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: |
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Next ISO/TC 154 (22nd) meeting:
 
         * Back-to-back meeting with ISO7372MA
@@ -487,11 +563,22 @@ decisions:
         ** Back-to-back with OASIS [UBL TC]: 2004-04 2004, Copenhagen?
         ** Standalone meeting: 2004-04, McLean US or Europe (Brussels or London)?
         ** Concurrently with a possible JTC1/SC32 meeting to be held in Switzerland?
-    - type: instructs
-      date_effective:
-        date: '2003-09-12'
-        type: effective
-      message: |
+  - type: instructs
+    date_effective:
+      date: '2003-09-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO/TC 154 instructs the Co-Chairs of ISO7372MA and the Chair of
         ISO/TC 154 to identify the best option and to notify the members in
         time to meet the ISO/TC 154 notification deadline (4 months)
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-09-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved
