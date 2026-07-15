@@ -1,7 +1,10 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+
 ---
 metadata:
-  title: Resolutions of the 34th virtual plenary meeting of ISO/TC 154
+  title:
+  - spelling: eng
+    value: Resolutions of the 34th virtual plenary meeting of ISO/TC 154
   date: '2015-10-23'
   source: ISO/TC 154 Secretariat
 decisions:
@@ -13,27 +16,32 @@ decisions:
   dates:
   - date: '2015-10-23'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: ISO/TC 154 resolves that CAT should continue the conversation with ISO/CS
+  title:
+  - spelling: eng
+    value: ISO/TC 154 resolves that CAT should continue the conversation with ISO/CS
       in order to establish the ISO 9735/MA for replacing ISO/TC 154/JWG 1
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2015-10-23'
-        type: adoption
-      message: The resolution was adopted by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2015-10-23'
-        type: effective
-      message: resolves that CAT should continue the conversation with ISO/CS in order
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2015-10-23'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves that CAT should continue the conversation with ISO/CS in order
         to establish the ISO 9735/MA for replacing ISO/TC 154/JWG 1
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2015-10-23'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
 - identifier:
   - prefix: ISO/TC 154
     number: 02-2015
@@ -42,29 +50,34 @@ decisions:
   dates:
   - date: '2015-10-23'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: ISO/TC 154 resolves to create a NWIP to update ISO 8601 to take into account
+  title:
+  - spelling: eng
+    value: ISO/TC 154 resolves to create a NWIP to update ISO 8601 to take into account
       the new part 2 with its new links, minor text changes, and references and to
       be published as ISO 8601-1
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2015-10-23'
-        type: adoption
-      message: The resolution was adopted by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2015-10-23'
-        type: effective
-      message: ISO/TC 154 resolves to create a NWIP to update ISO 8601 to take into
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2015-10-23'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to create a NWIP to update ISO 8601 to take into
         account the new part 2 with its new links, minor text changes, and references
         and to be published as ISO 8601-1
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2015-10-23'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
 - identifier:
   - prefix: ISO/TC 154
     number: 03-2015
@@ -73,27 +86,32 @@ decisions:
   dates:
   - date: '2015-10-23'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: ISO/TC 154 resolves that the CD ballots for 8601-1 and 8601-2 be issued
+  title:
+  - spelling: eng
+    value: ISO/TC 154 resolves that the CD ballots for 8601-1 and 8601-2 be issued
       at the same time
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2015-10-23'
-        type: adoption
-      message: The resolution was adopted by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2015-10-23'
-        type: effective
-      message: ISO/TC 154 resolves that the CD ballots for 8601-1 and 8601-2 be issued
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2015-10-23'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves that the CD ballots for 8601-1 and 8601-2 be issued
         at the same time
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2015-10-23'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
 - identifier:
   - prefix: ISO/TC 154
     number: 04-2015
@@ -102,30 +120,35 @@ decisions:
   dates:
   - date: '2015-10-23'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: ISO/TC 154 resolves to raise an issue with the signatories of the MoU that,
+  title:
+  - spelling: eng
+    value: ISO/TC 154 resolves to raise an issue with the signatories of the MoU that,
       at the next MoU MG meeting, a discussion should be started on how best to address
       coordination issues in order to resolve identified overlaps and duplications
       in work items and to encourage effective collaboration between standards development
       teams that share a common goal
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2015-10-23'
-        type: adoption
-      message: The resolution was adopted by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2015-10-23'
-        type: effective
-      message: ISO/TC 154 resolves to raise an issue with the signatories of the MoU
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2015-10-23'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to raise an issue with the signatories of the MoU
         that, at the next MoU MG meeting, a discussion should be started on how best
         to address coordination issues in order to resolve identified overlaps and
         duplications in work items and to encourage effective collaboration between
         standards development teams that share a common goal
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2015-10-23'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity

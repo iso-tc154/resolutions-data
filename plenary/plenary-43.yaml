@@ -1,8 +1,11 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+
 ---
 metadata:
-  title: Approved final Resolutions of the 43rd hybrid plenary meeting of ISO/TC 154
-    in 2024
+  title:
+  - spelling: eng
+    value: Approved final Resolutions of the 43rd hybrid plenary meeting of ISO/TC
+      154 in 2024
   date: '2024-10-25'
   source: ISO/TC 154 Secretariat
 decisions:
@@ -16,17 +19,20 @@ decisions:
     type: adoption
   categories:
   - Resolution related to JWG 1
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate a TR project "Syntax implementation guidance of ISO 9735-11"
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Initiate a TR project "Syntax implementation guidance of ISO 9735-11"
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to approve a Technical Report (TR) project titled Syntax
         Implementation Guidance of ISO 9735-11, with the appointment of Anders
         Grangard from UNECE as the project leader. The target date for the
@@ -43,17 +49,20 @@ decisions:
     type: adoption
   categories:
   - Resolutions related to the establishment of WG 4
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate NWIP ballot for ISO/PWI 36100
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: resolves to initiate a NWIP ballot for ISO 36100 "Standardized content
+  title:
+  - spelling: eng
+    value: Initiate NWIP ballot for ISO/PWI 36100
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to initiate a NWIP ballot for ISO 36100 "Standardized content
         - Document metamodel"
 - identifier:
   - prefix: ISO/TC 154
@@ -65,17 +74,20 @@ decisions:
     type: adoption
   categories:
   - Resolutions related to the establishment of WG 4
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate NWIP ballot for ISO/PWI 36200
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: resolves to initiate a NWIP ballot for ISO 36200 "Standardized content
+  title:
+  - spelling: eng
+    value: Initiate NWIP ballot for ISO/PWI 36200
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to initiate a NWIP ballot for ISO 36200 "Standardized content
         - Document metadata"
 - identifier:
   - prefix: ISO/TC 154
@@ -87,17 +99,20 @@ decisions:
     type: adoption
   categories:
   - Resolutions related to the establishment of WG 4
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establishment of new WG with the title of "Standardization content"
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establishment of new WG with the title of "Standardization content"
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to establish a new Working Group with the title
         "standardization content" and appoint Mr. Ronald Henry Tse as WG
         convener until the end of 2027, and assign ISO 36100 and ISO 36200 in
@@ -112,33 +127,40 @@ decisions:
     type: adoption
   categories:
   - Resolution related to WG 5
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate revisions of ISO 8601-1:2019 and ISO 8601-2:2019
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Initiate revisions of ISO 8601-1:2019 and ISO 8601-2:2019
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to initiate the revisions of ISO 8601-1 and ISO 8601-2 to
         incorporate published Amendments and errata
-    - type: requests
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  - type: requests
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         requests ISO/CS to register them as WD stage 20.00 with 36 months
         development period, with following target dates - CD ballot
         2025-07-30, DIS ballot 2026-06-30, FDIS submission (if required)
         2027-04-30 and publication is 2027-10-30
-    - type: appoints
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         appoint Mr. Ronald Henry Tse (Calconnect) as the project leader of
         these two projects. The projects will support SDG 9 and without scope
         modification
@@ -152,26 +174,31 @@ decisions:
     type: adoption
   categories:
   - Resolution related to WG 6
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate a NWIP ballot for a new part of ISO 14533-5
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Initiate a NWIP ballot for a new part of ISO 14533-5
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to initiate a NWIP ballot for ISO 14533-5 "Processes, data
         elements and documents in commerce, industry and administration - Long
         term signature - Part 5: profiles for JSON Advanced Electronic
         Signatures (JAdES)" submitted by ETSI
-    - type: appoints
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: appoint Mr. Juan Carlos Cruellas as the project leader
+  - type: appoints
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: appoint Mr. Juan Carlos Cruellas as the project leader
 - identifier:
   - prefix: ISO/TC 154
     number: P-2024-07
@@ -182,24 +209,29 @@ decisions:
     type: adoption
   categories:
   - Resolutions related to WG 7
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate a TR project ISO/TR 20194
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Initiate a TR project ISO/TR 20194
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to approve a TR project ISO/TR 20194 "Digital trade - General
         principles and key initiatives"
-    - type: appoints
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         appoint Mr. Xin Yao as the project leader, with target date for CD
         ballot 2025-06-30; target date for DTR ballot 2025-11-30; target date
         for publication 2026-10-30
@@ -213,25 +245,30 @@ decisions:
     type: adoption
   categories:
   - Resolutions related to WG 7
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiating a TR project ISO/TR 16320-1
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Initiating a TR project ISO/TR 16320-1
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to approve a TR project ISO/TR 16320-1 "Processes and data in
         e-commerce - Smart Contract-based B2B Electronic Transaction Execution
         and Verification - Reference Model"
-    - type: appoints
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         appoint Dr. Youngkon Lee from KATS as the project leader, with the
         target date for DTR ballot 2025-02-28; target date for publication
         2026-10-30
@@ -245,29 +282,34 @@ decisions:
     type: adoption
   categories:
   - Resolutions related to JWG9
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: |
+  title:
+  - spelling: eng
+    value: |
       Initiate the fast-track procedure for ISO 20197-2 "Buy-Ship-Pay Reference
       Data Model - Part 2 Core Components Business Document Assembly (CCBDA)"
       for fast-track into DIS ballot as per clause F.2 of ISO/IEC Directives,
       Part 1"
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to accept a UNECE published deliverable as ISO 20197-2 into
         DIS ballot via the fast-track procedure outlined in ISO/IEC
         Directives, Part 1, F.2.1.1
-    - type: appoints
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  - type: appoints
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         appoint Ms. Sue Probert as the co-project leader from ISO side and
         request UNECE to appoint the co-project leader from UNECE side. The
         development period of this project is 24 months with following target
@@ -283,18 +325,21 @@ decisions:
     type: adoption
   categories:
   - Resolutions related to JWG9
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Change of co-leader from ISO side for ISO 5909
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: resolves to appoint Ms. Jianfei Guo (SAC) as the co-leader from ISO
-        side for ISO 5909
+  title:
+  - spelling: eng
+    value: Change of co-leader from ISO side for ISO 5909
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to appoint Ms. Jianfei Guo (SAC) as the co-leader from ISO side
+        for ISO 5909
 - identifier:
   - prefix: ISO/TC 154
     number: P-2024-11
@@ -305,17 +350,20 @@ decisions:
     type: adoption
   categories:
   - Resolutions related to CAG
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate a CIB ballot for approval of the CAG Term of Reference
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: resolves to initiate a CIB ballot to approve the CAG Term of Reference
+  title:
+  - spelling: eng
+    value: Initiate a CIB ballot for approval of the CAG Term of Reference
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to initiate a CIB ballot to approve the CAG Term of Reference
         (N1518)
 - identifier:
   - prefix: ISO/TC 154
@@ -327,20 +375,23 @@ decisions:
     type: adoption
   categories:
   - Resolutions related to CAG
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: |
+  title:
+  - spelling: eng
+    value: |
       Initiate a CIB ballot for approval of "the foundational guidelines and
       common-sense explanations on how to form TC decision from WG/JWG/CAG
       Recommendation"
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to initiate a CIB ballot to approve "the foundational
         guidelines and common-sense explanations on how to form TC decision
         from WG/JWG/CAG Recommendation" (N1519)
@@ -354,17 +405,20 @@ decisions:
     type: adoption
   categories:
   - Resolution related to liaison membership
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establishment of internal liaison from TC 154 to TC344
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Establishment of internal liaison from TC 154 to TC344
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to establish the liaison from TC 154 to TC344 and appoint Dr.
         Kyeongrim Ahn (KATS) as the liaison representative of this liaison
         membership
@@ -378,17 +432,20 @@ decisions:
     type: adoption
   categories:
   - General Resolutions
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Extension of the term of conveners of CAG and WG5
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Extension of the term of conveners of CAG and WG5
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to appoint Mr. Ronald Henry Tse as the convenor of WG5 and
         Mr. Shi Yu (ISO/TC 154 Chair) as the convenor of CAG from 2025 to 2027
 - identifier:
@@ -401,17 +458,20 @@ decisions:
     type: adoption
   categories:
   - General Resolutions
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Initiate a review of the "Terms of Reference of JWG (with UNECE)"
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Initiate a review of the "Terms of Reference of JWG (with UNECE)"
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to initiate a review of the "Terms of Reference of JWG (with
         UNECE)" (N1397) in the CAG, regarding ISO procedures on Systematic
         Reviews and the ISO Fast Track Procedure in connection with the joint
@@ -426,17 +486,20 @@ decisions:
     type: adoption
   categories:
   - General Resolutions
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: WG meetings and the 44th plenary in 2025
-    subject: ISO/TC 154
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: WG meetings and the 44th plenary in 2025
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         resolves to hold its 2025 Plenary and WG/JWG meetings hosted by the
         ANSI/OAGi in September 2025 in the United States
 - identifier:
@@ -449,17 +512,20 @@ decisions:
     type: adoption
   categories:
   - General Resolutions
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appreciation to Conveners and secretaries
-    subject: ISO/TC 154
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appreciation to Conveners and secretaries
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         expresses its appreciations to the Convenors and secretaries of its
         Working Groups - Mr. Anders Grangård (UNECE), Mr. Glenn Tice (United
         Kingdom), Mr. Ronald Henry Tse (CalConnect), Mrs. Jasmine Jaegyong
@@ -477,32 +543,39 @@ decisions:
     type: adoption
   categories:
   - General Resolutions
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appreciation to Meeting Host RRA and TTA
-    subject: ISO/TC 154
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  title:
+  - spelling: eng
+    value: Appreciation to Meeting Host RRA and TTA
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         expresses its sincere appreciations to National Radio Research Agency
         (RRA) and Telecommunications Technology Association (TTA) for hosting
         the WG/JWG meetings and the 43rd ISO/TC 154 Plenary at Bundang-gu,
         Seongnam, Gyeonggi-do, South Korea
-    - type: thanks
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  - type: thanks
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         expresses its sincere appreciation to Mr. Sejung YOON for organizing
         preparation of the meetings
-    - type: thanks
-      date_effective:
-        date: '2024-10-25'
-        type: effective
-      message: |
+  - type: thanks
+    date_effective:
+      date: '2024-10-25'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         expresses its sincere appreciation to them for their excellent supports
         of the smooth work of this Plenary
