@@ -1,7 +1,10 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+
 ---
 metadata:
-  title: Resolutions and action items of the ISO/TC 154 20th meeting
+  title:
+  - spelling: eng
+    value: Resolutions and action items of the ISO/TC 154 20th meeting
   date: '2003-03-07'
   source: ISO/TC 154
 decisions:
@@ -13,25 +16,28 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: ISO/TC 154 resolves to thank the ISO/TC 37 for contributing of their
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to thank the ISO/TC 37 for contributing of their
         liaison report (see doc. 154n435).
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '228'
@@ -40,24 +46,18 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: ISO/TC 154 are very grateful to Andrew Schoka for providing the group
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 are very grateful to Andrew Schoka for providing the group
         with an introduction to the past, present and future work plans of TC204.
         Andrew described TC204’s new Work Item, NP24533, entitled "Data Dictionary
         and Message Set to Facilitate the Movement of Freight and its Intermodal Transfer
@@ -71,15 +71,26 @@ decisions:
         BP modelling and CC definition projects. These include work in the supply
         chain related domain groups TBG1 (Materials Management), TBG2 (Procurement),
         TBG3 (Transport & Logistics), TBG4 (Customs), & TBG5 (Finance).
-    - type: recognises
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: TC 154 recognises that there exists a tangible opportunity for crucial
+  - type: recognises
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: TC 154 recognises that there exists a tangible opportunity for crucial
         convergence between the TC204 ISO 14817 and the UN/CEFACT-ebXML CCTS. In order
         to promote and secure this much needed convergence, TC 154 resolves to support
         and strengthen liaison between the 7372MA activity, the UN/CEFACT Forum, and
         TC204 to achieve this goal.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '229'
@@ -88,28 +99,31 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: welcomes
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: The ISO TC 154 Plenary resolves to welcome the Bank for International
+  actions:
+  - type: welcomes
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: The ISO TC 154 Plenary resolves to welcome the Bank for International
         Settlements (BIS) as an external Class A Liaison. In addition, the Plenary
         compliments Mr. Stuart Feder on his past excellent work as a facilitator and
         peacemaker in many organizational situations and looks forward to working
         with him in the future.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '230'
@@ -118,24 +132,18 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: requests
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: |
+  actions:
+  - type: requests
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO/TC 154 requests the ISO8601 Expert (Editing) Group to consolidate all comments received to date into a table, updating document 8601RevN007.
 
         The Group will make an initial ranking into categories of:
@@ -149,13 +157,23 @@ decisions:
         These two papers will be distributed by the Expert (Editing) Group to TC 154 membership, seeking confirmation of categories 1 and 2, and further input on category 3.
 
         Distribution is anticipated by end May, and feedback would be required by end July. It is anticipated that a revised ISO 8601 could be distributed for the CD ballot in August.
-    - type: empowers
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: TC 154 empowers the expert group to ask the ISO/TC 154 Secretary to
-        launch the revised 8601 CD ballot when the expert group feels ready to do
-        so.
+  - type: empowers
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: TC 154 empowers the expert group to ask the ISO/TC 154 Secretary to launch
+        the revised 8601 CD ballot when the expert group feels ready to do so.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '15'
@@ -164,27 +182,30 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: Japanese delegation (Kenji Itoh) to check with ISO 8601 editor (Louis
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: Japanese delegation (Kenji Itoh) to check with ISO 8601 editor (Louis
         Visser) concerning the status of the ISO 8601:2000 Corrigendum based on the
         Japanese contribution. This draft Corrigendum shall not be issued as such,
         but fed into the ISO8601 Revision (see Resolution 230 above).
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '231'
@@ -193,24 +214,18 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: request
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: |
+  actions:
+  - type: request
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         Based on the request below, ISO TC 154 resolves to withdraw the ballot on DTS15000.
 
         Date: Tue, 04 Mar 2003 01:35:05 +0100
@@ -244,6 +259,15 @@ decisions:
         If there is any further action needed by ISOCS to confirm the wishes of the specification owners, please advise us.
 
         Best regards - Jamie Clark - Chair, ebXML Joint Coordinating Committee
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '16'
@@ -252,25 +276,28 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: chairs
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: ISO/TC 154 Chair to make the necessary steps to withdraw the DTS15000
+  actions:
+  - type: chairs
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 Chair to make the necessary steps to withdraw the DTS15000
         ballot.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '232'
@@ -279,24 +306,18 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: acknowledges
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: |
+  actions:
+  - type: acknowledges
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
         ISO/TC 154 acknowledges receipt of the ISO/IEC JTC1/SC32 comments (see document 154n441). Thank you for your contribution.
 
         Reminder:
@@ -326,6 +347,15 @@ decisions:
         Should you need any further information, do not hesitate to contact me or François directly or Keith Brannon at ISOCS. Keith will contact Lisa for securing the JTC1 participation
 
         Kind regards and Happy New Year - Sophie
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '233'
@@ -334,26 +364,29 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: endorses
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: ISO/TC 154 resolves to endorse the resolutions and action items adopted
+  actions:
+  - type: endorses
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to endorse the resolutions and action items adopted
         by the ISO7372MA and ISO/TC 154/WG 1 documented in document 154 N 436 Rev.1
         + 440.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '234'
@@ -362,25 +395,28 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: ISO/TC 154 thanks Mrs. Melitta Rafelt for the excellent technical service
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 thanks Mrs. Melitta Rafelt for the excellent technical service
         she has provided for updating the JSWG (ISO9735) web page.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '235'
@@ -389,24 +425,27 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: secures
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: ISO/TC 154 resolves to secure the relevant prolongation of ISO/TS16668.
+  actions:
+  - type: secures
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to secure the relevant prolongation of ISO/TS16668.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '17'
@@ -415,25 +454,28 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: secures
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: ISO/TC 154/WG1 Secretariat to secure the proper steps for the ISO/TS16668
+  actions:
+  - type: secures
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154/WG1 Secretariat to secure the proper steps for the ISO/TS16668
         ISO systematic review taking place in 2003.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '236'
@@ -442,25 +484,28 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: ISO/TC 154 thanks Mr. Francois Vuilleumier for his wise and efficient
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 thanks Mr. Francois Vuilleumier for his wise and efficient
         chairmanship.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '237'
@@ -469,26 +514,29 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: ISO/TC 154 thanks DISA for hosting the meetings of this week. In particular,
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 thanks DISA for hosting the meetings of this week. In particular,
         ISO/TC 154 thanks Mrs. Yvonne Meding for her excellent work serving as host
         and secretariat for the ISO 7372 MA and ISO TC 154 Plenary meetings.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '238'
@@ -497,24 +545,27 @@ decisions:
   dates:
   - date: '2003-03-07'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2003-03-07'
-        type: adoption
-      message: Unanimous
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2003-03-07'
-        type: effective
-      message: Accepting with many Thanks the very kind offer made by KR/KATS, ISO/TC
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2003-03-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: Accepting with many Thanks the very kind offer made by KR/KATS, ISO/TC
         154 resolves to hold its next meeting together with the ISO7372MA and ISO/TC
         154/WG 1 back to back before the next UN/CEFACT Forum, 2003-09-10/12 in Seoul,
         hosted by KATS.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2003-03-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous

@@ -1,7 +1,10 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+
 ---
 metadata:
-  title: Resolutions of the 32th plenary meeting
+  title:
+  - spelling: eng
+    value: Resolutions of the 32th plenary meeting
   date: '2013-10-28'
   source: Secretariat
 decisions:
@@ -13,38 +16,47 @@ decisions:
   dates:
   - date: '2013-10-25'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Establishment of ISO/TC 154/WG 5
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Establishment of ISO/TC 154/WG 5
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2012-10-12'
-        type: effective
-      message: considering that project ISO/PWI 8601-2 has not been assigned to a
-        WG, and
-    - type: considering
-      date_effective:
-        date: '2012-10-12'
-        type: effective
-      message: continuous maintenance work on ISO 8601:2004 is needed,
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2013-10-25'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: resolves to establish ISO/TC 154/WG 5 with the following title 'Representation
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to establish ISO/TC 154/WG 5 with the following title 'Representation
         of dates and times', to take on the work related to the 8601 deliverables.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2013-10-25'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2012-10-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering that project ISO/PWI 8601-2 has not been assigned to a WG,
+        and
+  - type: considering
+    date_effective:
+      date: '2012-10-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: continuous maintenance work on ISO 8601:2004 is needed,
 - identifier:
   - prefix: ISO/TC 154
     number: 004-2013
@@ -53,26 +65,31 @@ decisions:
   dates:
   - date: '2013-10-25'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appointment of Mr. Klaus-Dieter Naujok as Convenor of ISO/TC 154/WG 5
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Appointment of Mr. Klaus-Dieter Naujok as Convenor of ISO/TC 154/WG 5
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2013-10-25'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: decides
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: decides to appoint Mr. Klaus-Dieter Naujok as Convenor of Working Group
+  actions:
+  - type: decides
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: decides to appoint Mr. Klaus-Dieter Naujok as Convenor of Working Group
         5, effective immediately.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2013-10-25'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
 - identifier:
   - prefix: ISO/TC 154
     number: 005-2013
@@ -81,33 +98,40 @@ decisions:
   dates:
   - date: '2013-10-25'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Retain ISO 7372:2005 (Ed. 3) after its revision
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Retain ISO 7372:2005 (Ed. 3) after its revision
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: recognizing
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: recognizing that there is still a user/business need for ISO 7372:2005
-        (Ed. 3) after its next revision,
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2013-10-25'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: requests
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: requests ISO/TMB to retain ISO 7372:2005 (Ed. 3) once the next revision
+  actions:
+  - type: requests
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: requests ISO/TMB to retain ISO 7372:2005 (Ed. 3) once the next revision
         has been published.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2013-10-25'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: recognizing
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: recognizing that there is still a user/business need for ISO 7372:2005
+        (Ed. 3) after its next revision,
 - identifier:
   - prefix: ISO/TC 154
     number: 006-2013
@@ -116,40 +140,49 @@ decisions:
   dates:
   - date: '2013-10-25'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Withdrawal of ISO TS 15000 parts 1, 2, 3 and 4
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Withdrawal of ISO TS 15000 parts 1, 2, 3 and 4
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: considering the output of the systematic reviews on ISO/TS 15000-1,
-        -2, -3 and -4;
-    - type: recognizing
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: recognizing the fact that the content of all four TS documents are
-        outdated and that repeated requests to OASIS to submit their published newer
-        versions were not successful;
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2013-10-25'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: resolves to withdraw all 4 parts, with the option to reinstate these
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to withdraw all 4 parts, with the option to reinstate these
         parts with newer versions when these are received from OASIS.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2013-10-25'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering the output of the systematic reviews on ISO/TS 15000-1, -2,
+        -3 and -4;
+  - type: recognizing
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: recognizing the fact that the content of all four TS documents are outdated
+        and that repeated requests to OASIS to submit their published newer versions
+        were not successful;
 - identifier:
   - prefix: ISO/TC 154
     number: 007-2013
@@ -158,32 +191,39 @@ decisions:
   dates:
   - date: '2013-10-25'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Registration ISO 14533-1 as DIS
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Registration ISO 14533-1 as DIS
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: considering that a first draft for the revision of ISO 14533-1 is available,
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2013-10-25'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: resolves to register ISO 14533-1 as a Draft International Standard
-        (DIS – stage 40.00) once a NWI has been adopted.
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to register ISO 14533-1 as a Draft International Standard (DIS
+        – stage 40.00) once a NWI has been adopted.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2013-10-25'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering that a first draft for the revision of ISO 14533-1 is available,
 - identifier:
   - prefix: ISO/TC 154
     number: '008-2013'
@@ -192,29 +232,34 @@ decisions:
   dates:
   - date: '2013-10-25'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Encouragement MoU-eB/MG
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Encouragement MoU-eB/MG
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2013-10-25'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: encourages
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: encourages the MoU-eB/MG to focus on its core activities to address
-        overlaps and duplications, and encourages the signatories to ensure that they
-        act on identified issues in a speedy manner, and in addition encourages the
-        MoU-eB/MG members to participate fully during the entire course of the meeting
-        to ensure that coordination can take place within the membership.
+  actions:
+  - type: encourages
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: encourages the MoU-eB/MG to focus on its core activities to address overlaps
+        and duplications, and encourages the signatories to ensure that they act on
+        identified issues in a speedy manner, and in addition encourages the MoU-eB/MG
+        members to participate fully during the entire course of the meeting to ensure
+        that coordination can take place within the membership.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2013-10-25'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
 - identifier:
   - prefix: ISO/TC 154
     number: '009-2013'
@@ -223,37 +268,46 @@ decisions:
   dates:
   - date: '2013-10-25'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adoption of a PWI for the development of ISO/TR 9735-11
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Adoption of a PWI for the development of ISO/TR 9735-11
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: considering the status report of its JWG1
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2013-10-25'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: resolves to adopt a PWI on 'User guide for migrating of EDIFACT syntax
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to adopt a PWI on 'User guide for migrating of EDIFACT syntax
         to version 4', and
-    - type: requests
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: requests its JWG1 to prepare the final draft for DTR ballot.
+  - type: requests
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: requests its JWG1 to prepare the final draft for DTR ballot.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2013-10-25'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering the status report of its JWG1
 - identifier:
   - prefix: ISO/TC 154
     number: 010-2013
@@ -262,37 +316,46 @@ decisions:
   dates:
   - date: '2013-10-25'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adoption of a PWI
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Adoption of a PWI
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: considering the status report of the TDED MA
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2013-10-25'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: resolves to adopt a PWI on 'Alignment project between ISO 7372, UN/EDIFACT
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to adopt a PWI on 'Alignment project between ISO 7372, UN/EDIFACT
         EDED+UNCL and UNCEFACT/CCL ', and
-    - type: requests
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: requests the TDED MA to prepare a final draft for DTR ballot.
+  - type: requests
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: requests the TDED MA to prepare a final draft for DTR ballot.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2013-10-25'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering the status report of the TDED MA
 - identifier:
   - prefix: ISO/TC 154
     number: 011-2013
@@ -301,37 +364,46 @@ decisions:
   dates:
   - date: '2013-10-25'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Adoption of a PWI
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Adoption of a PWI
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    considerations:
-    - type: considering
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: considering the status report of its JWG1
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2013-10-25'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: resolves
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: resolves to adopt a PWI on 'Trusted Communication Platforms for Electronic
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to adopt a PWI on 'Trusted Communication Platforms for Electronic
         Documents', and
-    - type: requests
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: requests the Korean delegation to prepare the final draft for DTR ballot.
+  - type: requests
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: requests the Korean delegation to prepare the final draft for DTR ballot.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2013-10-25'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering the status report of its JWG1
 - identifier:
   - prefix: ISO/TC 154
     number: 012-2013
@@ -340,26 +412,31 @@ decisions:
   dates:
   - date: '2013-10-25'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appreciation online participants
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Appreciation online participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2013-10-25'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: warmly thanks all the online participants for the active participation,
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: warmly thanks all the online participants for the active participation,
         in particular those being online during unearthly hours.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2013-10-25'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
 - identifier:
   - prefix: ISO/TC 154
     number: 013-2013
@@ -368,24 +445,29 @@ decisions:
   dates:
   - date: '2013-10-25'
     type: adoption
-  localizations:
-  - language_code: eng
-    script: Latn
-    title: Appreciation of the meeting host
-    subject: ISO/TC 154 Processes, data elements and documents in commerce, industry
+  title:
+  - spelling: eng
+    value: Appreciation of the meeting host
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-    approvals:
-    - type: affirmative
-      degree: unanimous
-      date:
-        date: '2013-10-25'
-        type: adoption
-      message: The resolution was taken by unanimity
-    actions:
-    - type: thanks
-      date_effective:
-        date: '2013-10-28'
-        type: effective
-      message: warmly thanks DIN and Mr. Bernd Bösler for their kind hospitality and
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2013-10-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: warmly thanks DIN and Mr. Bernd Bösler for their kind hospitality and
         hosting of a successful week of ISO/TC 154 meetings and for organizing a social
         event on Wednesday and Thursday.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2013-10-25'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
