@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 003-2013
+  urn: urn:iso:tc154:resolution:plenary-32:003-2013
   kind: resolution
   status: decided
   dates:
@@ -60,6 +61,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 004-2013
+  urn: urn:iso:tc154:resolution:plenary-32:004-2013
   kind: resolution
   status: decided
   dates:
@@ -93,6 +95,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 005-2013
+  urn: urn:iso:tc154:resolution:plenary-32:005-2013
   kind: resolution
   status: decided
   dates:
@@ -135,6 +138,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 006-2013
+  urn: urn:iso:tc154:resolution:plenary-32:006-2013
   kind: resolution
   status: decided
   dates:
@@ -186,6 +190,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 007-2013
+  urn: urn:iso:tc154:resolution:plenary-32:007-2013
   kind: resolution
   status: decided
   dates:
@@ -227,6 +232,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '008-2013'
+  urn: urn:iso:tc154:resolution:plenary-32:008-2013
   kind: resolution
   status: decided
   dates:
@@ -263,6 +269,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '009-2013'
+  urn: urn:iso:tc154:resolution:plenary-32:009-2013
   kind: resolution
   status: decided
   dates:
@@ -311,6 +318,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 010-2013
+  urn: urn:iso:tc154:resolution:plenary-32:010-2013
   kind: resolution
   status: decided
   dates:
@@ -359,6 +367,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 011-2013
+  urn: urn:iso:tc154:resolution:plenary-32:011-2013
   kind: resolution
   status: decided
   dates:
@@ -407,6 +416,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 012-2013
+  urn: urn:iso:tc154:resolution:plenary-32:012-2013
   kind: resolution
   status: decided
   dates:
@@ -440,6 +450,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 013-2013
+  urn: urn:iso:tc154:resolution:plenary-32:013-2013
   kind: resolution
   status: decided
   dates:

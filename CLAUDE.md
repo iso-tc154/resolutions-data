@@ -6,8 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 A **data repository** (not a software project) holding ISO/TC 154's formal
 resolutions as structured YAML. There is no application code, no test suite,
-no build step. The only "code" is two one-shot migration scripts under
-`scripts/`.
+no build step. The only "code" is the one-shot scripts under `scripts/`
+(two format migrations, plus `add-decision-urns.rb` which stamps the
+browser-required `urn:` on every decision).
 
 The YAML follows the **Edoxen** information model — a generic meeting /
 agenda / decision model whose canonical LutaML definition lives at
@@ -62,6 +63,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2024-01
+  urn: urn:iso:tc154:resolution:P-2024-01
   kind: resolution
   status: decided
   dates:
@@ -95,6 +97,11 @@ Key invariants — breaking any of these fails `edoxen validate`:
   `dates:` array.
 - Each `Decision.identifier` is an array of `{ prefix, number }` (1..*).
   Prefix for this repo is `ISO/TC 154`.
+- Every `Decision` carries `urn: urn:iso:tc154:resolution:{identifier[0].number}`
+  on the line right after its `identifier:` block. Repo invariant (added by
+  `scripts/add-decision-urns.rb`), not schema-enforced — `edoxen validate`
+  passes without it — but the @edoxen/browser site generator keys decision
+  detail pages off `Decision.urn`, so a decision without one gets no page.
 - `Decision.dates[]` entries are `{ date, type }` where `type ∈
   {adoption, effective, drafted, discussed, published}`.
 - `Action` and `Consideration` carry `date_effective`; `Approval` carries

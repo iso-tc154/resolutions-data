@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-01
+  urn: urn:iso:tc154:resolution:plenary-40:2021-01
   kind: resolution
   status: decided
   dates:
@@ -37,6 +38,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-02
+  urn: urn:iso:tc154:resolution:plenary-40:2021-02
   kind: resolution
   status: decided
   dates:
@@ -61,6 +63,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-03
+  urn: urn:iso:tc154:resolution:plenary-40:2021-03
   kind: resolution
   status: decided
   dates:
@@ -93,6 +96,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-04
+  urn: urn:iso:tc154:resolution:plenary-40:2021-04
   kind: resolution
   status: decided
   dates:
@@ -119,6 +123,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-05
+  urn: urn:iso:tc154:resolution:plenary-40:2021-05
   kind: resolution
   status: decided
   dates:
@@ -148,6 +153,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-06
+  urn: urn:iso:tc154:resolution:plenary-40:2021-06
   kind: resolution
   status: decided
   dates:
@@ -175,6 +181,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-07
+  urn: urn:iso:tc154:resolution:plenary-40:2021-07
   kind: resolution
   status: decided
   dates:
@@ -202,6 +209,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-08
+  urn: urn:iso:tc154:resolution:plenary-40:2021-08
   kind: resolution
   status: decided
   dates:
@@ -230,6 +238,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-09
+  urn: urn:iso:tc154:resolution:plenary-40:2021-09
   kind: resolution
   status: decided
   dates:
@@ -257,6 +266,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-10
+  urn: urn:iso:tc154:resolution:plenary-40:2021-10
   kind: resolution
   status: decided
   dates:
@@ -281,6 +291,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-11
+  urn: urn:iso:tc154:resolution:plenary-40:2021-11
   kind: resolution
   status: decided
   dates:
@@ -305,6 +316,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-12
+  urn: urn:iso:tc154:resolution:plenary-40:2021-12
   kind: resolution
   status: decided
   dates:
@@ -331,6 +343,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-13
+  urn: urn:iso:tc154:resolution:plenary-40:2021-13
   kind: resolution
   status: decided
   dates:
@@ -361,6 +374,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2021-14
+  urn: urn:iso:tc154:resolution:plenary-40:2021-14
   kind: resolution
   status: decided
   dates:
