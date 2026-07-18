@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-01
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-01
   kind: resolution
   status: decided
   dates:
@@ -60,6 +61,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-02
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-02
   kind: resolution
   status: decided
   dates:
@@ -125,6 +127,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-03
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-03
   kind: resolution
   status: decided
   dates:
@@ -170,6 +173,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-04
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-04
   kind: resolution
   status: decided
   dates:
@@ -214,6 +218,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-05
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-05
   kind: resolution
   status: decided
   dates:
@@ -259,6 +264,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-06
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-06
   kind: resolution
   status: decided
   dates:
@@ -304,6 +310,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-07
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-07
   kind: resolution
   status: decided
   dates:
@@ -368,6 +375,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-08
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-08
   kind: resolution
   status: decided
   dates:
@@ -404,6 +412,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-09
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-09
   kind: resolution
   status: decided
   dates:
@@ -441,6 +450,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-10
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-10
   kind: resolution
   status: decided
   dates:
@@ -477,6 +487,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-11
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-11
   kind: resolution
   status: decided
   dates:
@@ -513,6 +524,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-12
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-12
   kind: resolution
   status: decided
   dates:
@@ -552,6 +564,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-13
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-13
   kind: resolution
   status: decided
   dates:
@@ -588,6 +601,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-14
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-14
   kind: resolution
   status: decided
   dates:
@@ -625,6 +639,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: P-2025-15
+  urn: urn:iso:tc154:resolution:plenary-44:P-2025-15
   kind: resolution
   status: decided
   dates:

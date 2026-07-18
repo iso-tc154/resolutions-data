@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '266'
+  urn: urn:iso:tc154:resolution:plenary-24:266
   kind: resolution
   status: decided
   dates:
@@ -42,6 +43,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '267'
+  urn: urn:iso:tc154:resolution:plenary-24:267
   kind: resolution
   status: decided
   dates:
@@ -94,6 +96,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '268'
+  urn: urn:iso:tc154:resolution:plenary-24:268
   kind: resolution
   status: decided
   dates:
@@ -124,6 +127,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '269'
+  urn: urn:iso:tc154:resolution:plenary-24:269
   kind: resolution
   status: decided
   dates:
@@ -156,6 +160,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '270'
+  urn: urn:iso:tc154:resolution:plenary-24:270
   kind: resolution
   status: decided
   dates:
@@ -198,6 +203,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '271'
+  urn: urn:iso:tc154:resolution:plenary-24:271
   kind: resolution
   status: decided
   dates:
@@ -263,6 +269,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '272'
+  urn: urn:iso:tc154:resolution:plenary-24:272
   kind: resolution
   status: decided
   dates:
@@ -316,6 +323,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '273'
+  urn: urn:iso:tc154:resolution:plenary-24:273
   kind: resolution
   status: decided
   dates:
@@ -347,6 +355,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '274'
+  urn: urn:iso:tc154:resolution:plenary-24:274
   kind: resolution
   status: decided
   dates:
