@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: action-21
+  urn: urn:iso:tc154:resolution:plenary-23:action-21
   kind: resolution
   status: decided
   dates:
@@ -48,6 +49,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '256'
+  urn: urn:iso:tc154:resolution:plenary-23:256
   kind: resolution
   status: decided
   dates:
@@ -79,6 +81,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '257'
+  urn: urn:iso:tc154:resolution:plenary-23:257
   kind: resolution
   status: decided
   dates:
@@ -109,6 +112,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '258'
+  urn: urn:iso:tc154:resolution:plenary-23:258
   kind: resolution
   status: decided
   dates:
@@ -140,6 +144,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '259'
+  urn: urn:iso:tc154:resolution:plenary-23:259
   kind: resolution
   status: decided
   dates:
@@ -174,6 +179,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '260'
+  urn: urn:iso:tc154:resolution:plenary-23:260
   kind: resolution
   status: decided
   dates:
@@ -206,6 +212,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '261'
+  urn: urn:iso:tc154:resolution:plenary-23:261
   kind: resolution
   status: decided
   dates:
@@ -238,6 +245,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '262'
+  urn: urn:iso:tc154:resolution:plenary-23:262
   kind: resolution
   status: decided
   dates:
@@ -270,6 +278,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: action-22
+  urn: urn:iso:tc154:resolution:plenary-23:action-22
   kind: resolution
   status: decided
   dates:
@@ -301,6 +310,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '263'
+  urn: urn:iso:tc154:resolution:plenary-23:263
   kind: resolution
   status: decided
   dates:
@@ -334,6 +344,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '264'
+  urn: urn:iso:tc154:resolution:plenary-23:264
   kind: resolution
   status: decided
   dates:
@@ -364,6 +375,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '265'
+  urn: urn:iso:tc154:resolution:plenary-23:265
   kind: resolution
   status: decided
   dates:

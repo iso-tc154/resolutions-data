@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '172'
+  urn: urn:iso:tc154:resolution:plenary-17:172
   kind: resolution
   status: decided
   dates:
@@ -43,6 +44,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '178'
+  urn: urn:iso:tc154:resolution:plenary-17:178
   kind: resolution
   status: decided
   dates:
@@ -74,6 +76,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '180'
+  urn: urn:iso:tc154:resolution:plenary-17:180
   kind: resolution
   status: decided
   dates:
@@ -104,6 +107,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '184'
+  urn: urn:iso:tc154:resolution:plenary-17:184
   kind: resolution
   status: decided
   dates:
@@ -132,6 +136,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '185'
+  urn: urn:iso:tc154:resolution:plenary-17:185
   kind: resolution
   status: decided
   dates:
@@ -163,6 +168,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '186'
+  urn: urn:iso:tc154:resolution:plenary-17:186
   kind: resolution
   status: decided
   dates:
@@ -195,6 +201,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '187'
+  urn: urn:iso:tc154:resolution:plenary-17:187
   kind: resolution
   status: decided
   dates:
@@ -226,6 +233,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '188'
+  urn: urn:iso:tc154:resolution:plenary-17:188
   kind: resolution
   status: decided
   dates:
@@ -257,6 +265,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '189'
+  urn: urn:iso:tc154:resolution:plenary-17:189
   kind: resolution
   status: decided
   dates:
@@ -376,6 +385,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '190'
+  urn: urn:iso:tc154:resolution:plenary-17:190
   kind: resolution
   status: decided
   dates:
@@ -420,6 +430,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '191'
+  urn: urn:iso:tc154:resolution:plenary-17:191
   kind: resolution
   status: decided
   dates:
@@ -449,6 +460,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '192'
+  urn: urn:iso:tc154:resolution:plenary-17:192
   kind: resolution
   status: decided
   dates:
@@ -477,6 +489,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '193'
+  urn: urn:iso:tc154:resolution:plenary-17:193
   kind: resolution
   status: decided
   dates:
@@ -506,6 +519,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '194'
+  urn: urn:iso:tc154:resolution:plenary-17:194
   kind: resolution
   status: decided
   dates:
@@ -536,6 +550,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '195'
+  urn: urn:iso:tc154:resolution:plenary-17:195
   kind: resolution
   status: decided
   dates:
@@ -565,6 +580,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '196'
+  urn: urn:iso:tc154:resolution:plenary-17:196
   kind: resolution
   status: decided
   dates:

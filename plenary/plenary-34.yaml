@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 01-2015
+  urn: urn:iso:tc154:resolution:plenary-34:01-2015
   kind: resolution
   status: decided
   dates:
@@ -45,6 +46,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 02-2015
+  urn: urn:iso:tc154:resolution:plenary-34:02-2015
   kind: resolution
   status: decided
   dates:
@@ -81,6 +83,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 03-2015
+  urn: urn:iso:tc154:resolution:plenary-34:03-2015
   kind: resolution
   status: decided
   dates:
@@ -115,6 +118,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 04-2015
+  urn: urn:iso:tc154:resolution:plenary-34:04-2015
   kind: resolution
   status: decided
   dates:

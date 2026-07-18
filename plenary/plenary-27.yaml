@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '302'
+  urn: urn:iso:tc154:resolution:plenary-27:302
   kind: resolution
   status: decided
   dates:
@@ -35,6 +36,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '303'
+  urn: urn:iso:tc154:resolution:plenary-27:303
   kind: resolution
   status: decided
   dates:
@@ -59,6 +61,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '304'
+  urn: urn:iso:tc154:resolution:plenary-27:304
   kind: resolution
   status: decided
   dates:

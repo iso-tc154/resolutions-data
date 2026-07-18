@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '113'
+  urn: urn:iso:tc154:resolution:plenary-12:113
   kind: resolution
   status: decided
   dates:
@@ -47,6 +48,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '114'
+  urn: urn:iso:tc154:resolution:plenary-12:114
   kind: resolution
   status: decided
   dates:
@@ -105,6 +107,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '115'
+  urn: urn:iso:tc154:resolution:plenary-12:115
   kind: resolution
   status: decided
   dates:
@@ -135,6 +138,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '116'
+  urn: urn:iso:tc154:resolution:plenary-12:116
   kind: resolution
   status: decided
   dates:
@@ -165,6 +169,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '117'
+  urn: urn:iso:tc154:resolution:plenary-12:117
   kind: resolution
   status: decided
   dates:
@@ -196,6 +201,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '118'
+  urn: urn:iso:tc154:resolution:plenary-12:118
   kind: resolution
   status: decided
   dates:
@@ -235,6 +241,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '119'
+  urn: urn:iso:tc154:resolution:plenary-12:119
   kind: resolution
   status: decided
   dates:
@@ -295,6 +302,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '120'
+  urn: urn:iso:tc154:resolution:plenary-12:120
   kind: resolution
   status: decided
   dates:
@@ -326,6 +334,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '121'
+  urn: urn:iso:tc154:resolution:plenary-12:121
   kind: resolution
   status: decided
   dates:
@@ -357,6 +366,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '122'
+  urn: urn:iso:tc154:resolution:plenary-12:122
   kind: resolution
   status: decided
   dates:
@@ -386,6 +396,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '123'
+  urn: urn:iso:tc154:resolution:plenary-12:123
   kind: resolution
   status: decided
   dates:
@@ -415,6 +426,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '124'
+  urn: urn:iso:tc154:resolution:plenary-12:124
   kind: resolution
   status: decided
   dates:
@@ -444,6 +456,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '125'
+  urn: urn:iso:tc154:resolution:plenary-12:125
   kind: resolution
   status: decided
   dates:
