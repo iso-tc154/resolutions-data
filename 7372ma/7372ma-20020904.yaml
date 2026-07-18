@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '10'
+  urn: urn:iso:tc154:resolution:7372ma-20020904:10
   kind: resolution
   status: decided
   dates:
@@ -56,6 +57,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '11'
+  urn: urn:iso:tc154:resolution:7372ma-20020904:11
   kind: resolution
   status: decided
   dates:
@@ -102,6 +104,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '12'
+  urn: urn:iso:tc154:resolution:7372ma-20020904:12
   kind: resolution
   status: decided
   dates:
@@ -148,6 +151,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '13'
+  urn: urn:iso:tc154:resolution:7372ma-20020904:13
   kind: resolution
   status: decided
   dates:
@@ -207,6 +211,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '6'
+  urn: urn:iso:tc154:resolution:7372ma-20020904:6
   kind: resolution
   status: decided
   dates:
@@ -240,6 +245,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '14'
+  urn: urn:iso:tc154:resolution:7372ma-20020904:14
   kind: resolution
   status: decided
   dates:
@@ -266,6 +272,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '15'
+  urn: urn:iso:tc154:resolution:7372ma-20020904:15
   kind: resolution
   status: decided
   dates:
@@ -290,6 +297,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '16'
+  urn: urn:iso:tc154:resolution:7372ma-20020904:16
   kind: resolution
   status: decided
   dates:

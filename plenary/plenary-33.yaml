@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 01-2014
+  urn: urn:iso:tc154:resolution:plenary-33:01-2014
   kind: resolution
   status: decided
   dates:
@@ -62,6 +63,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 02-2014
+  urn: urn:iso:tc154:resolution:plenary-33:02-2014
   kind: resolution
   status: decided
   dates:
@@ -112,6 +114,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 03-2014
+  urn: urn:iso:tc154:resolution:plenary-33:03-2014
   kind: resolution
   status: decided
   dates:
@@ -145,6 +148,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 04-2014
+  urn: urn:iso:tc154:resolution:plenary-33:04-2014
   kind: resolution
   status: decided
   dates:
@@ -186,6 +190,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 05-2014
+  urn: urn:iso:tc154:resolution:plenary-33:05-2014
   kind: resolution
   status: decided
   dates:
@@ -227,6 +232,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 06-2014
+  urn: urn:iso:tc154:resolution:plenary-33:06-2014
   kind: resolution
   status: decided
   dates:
@@ -271,6 +277,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 07-2014
+  urn: urn:iso:tc154:resolution:plenary-33:07-2014
   kind: resolution
   status: decided
   dates:
@@ -305,6 +312,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '08-2014'
+  urn: urn:iso:tc154:resolution:plenary-33:08-2014
   kind: resolution
   status: decided
   dates:
@@ -356,6 +364,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '09-2014'
+  urn: urn:iso:tc154:resolution:plenary-33:09-2014
   kind: resolution
   status: decided
   dates:
@@ -390,6 +399,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 10-2014
+  urn: urn:iso:tc154:resolution:plenary-33:10-2014
   kind: resolution
   status: decided
   dates:
@@ -431,6 +441,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 11-2014
+  urn: urn:iso:tc154:resolution:plenary-33:11-2014
   kind: resolution
   status: decided
   dates:
@@ -480,6 +491,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 12-2014
+  urn: urn:iso:tc154:resolution:plenary-33:12-2014
   kind: resolution
   status: decided
   dates:
@@ -515,6 +527,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 13-2014
+  urn: urn:iso:tc154:resolution:plenary-33:13-2014
   kind: resolution
   status: decided
   dates:
@@ -548,6 +561,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 14-2014
+  urn: urn:iso:tc154:resolution:plenary-33:14-2014
   kind: resolution
   status: decided
   dates:

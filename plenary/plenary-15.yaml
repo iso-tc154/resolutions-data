@@ -12,6 +12,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '154'
+  urn: urn:iso:tc154:resolution:plenary-15:154
   kind: resolution
   status: decided
   subject:
@@ -37,6 +38,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '155'
+  urn: urn:iso:tc154:resolution:plenary-15:155
   kind: resolution
   status: decided
   subject:
@@ -62,6 +64,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '156'
+  urn: urn:iso:tc154:resolution:plenary-15:156
   kind: resolution
   status: decided
   subject:
@@ -119,6 +122,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '157'
+  urn: urn:iso:tc154:resolution:plenary-15:157
   kind: resolution
   status: decided
   subject:
@@ -160,6 +164,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '158'
+  urn: urn:iso:tc154:resolution:plenary-15:158
   kind: resolution
   status: decided
   subject:
@@ -198,6 +203,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '159'
+  urn: urn:iso:tc154:resolution:plenary-15:159
   kind: resolution
   status: decided
   subject:
@@ -313,6 +319,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '160'
+  urn: urn:iso:tc154:resolution:plenary-15:160
   kind: resolution
   status: decided
   subject:
@@ -355,6 +362,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '161'
+  urn: urn:iso:tc154:resolution:plenary-15:161
   kind: resolution
   status: decided
   subject:
@@ -393,6 +401,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '162'
+  urn: urn:iso:tc154:resolution:plenary-15:162
   kind: resolution
   status: decided
   subject:
@@ -422,6 +431,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '163'
+  urn: urn:iso:tc154:resolution:plenary-15:163
   kind: resolution
   status: decided
   subject:
@@ -469,6 +479,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '164'
+  urn: urn:iso:tc154:resolution:plenary-15:164
   kind: resolution
   status: decided
   subject:
@@ -505,6 +516,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '165'
+  urn: urn:iso:tc154:resolution:plenary-15:165
   kind: resolution
   status: decided
   subject:
@@ -548,6 +560,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '166'
+  urn: urn:iso:tc154:resolution:plenary-15:166
   kind: resolution
   status: decided
   subject:
@@ -582,6 +595,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '167'
+  urn: urn:iso:tc154:resolution:plenary-15:167
   kind: resolution
   status: decided
   subject:
@@ -624,6 +638,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '168'
+  urn: urn:iso:tc154:resolution:plenary-15:168
   kind: resolution
   status: decided
   subject:
@@ -650,6 +665,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '169'
+  urn: urn:iso:tc154:resolution:plenary-15:169
   kind: resolution
   status: decided
   subject:
@@ -676,6 +692,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '168'
+  urn: urn:iso:tc154:resolution:plenary-15:168-2
   kind: resolution
   status: decided
   subject:

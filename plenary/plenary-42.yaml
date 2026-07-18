@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-01
+  urn: urn:iso:tc154:resolution:plenary-42:2023-01
   kind: resolution
   status: decided
   dates:
@@ -52,6 +53,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-02
+  urn: urn:iso:tc154:resolution:plenary-42:2023-02
   kind: resolution
   status: decided
   dates:
@@ -93,6 +95,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-03
+  urn: urn:iso:tc154:resolution:plenary-42:2023-03
   kind: resolution
   status: decided
   dates:
@@ -128,6 +131,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-04
+  urn: urn:iso:tc154:resolution:plenary-42:2023-04
   kind: resolution
   status: decided
   dates:
@@ -156,6 +160,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-05
+  urn: urn:iso:tc154:resolution:plenary-42:2023-05
   kind: resolution
   status: decided
   dates:
@@ -201,6 +206,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-06
+  urn: urn:iso:tc154:resolution:plenary-42:2023-06
   kind: resolution
   status: decided
   dates:
@@ -244,6 +250,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-07
+  urn: urn:iso:tc154:resolution:plenary-42:2023-07
   kind: resolution
   status: decided
   dates:
@@ -269,6 +276,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-08
+  urn: urn:iso:tc154:resolution:plenary-42:2023-08
   kind: resolution
   status: decided
   dates:
@@ -294,6 +302,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-09
+  urn: urn:iso:tc154:resolution:plenary-42:2023-09
   kind: resolution
   status: decided
   dates:
@@ -331,6 +340,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-10
+  urn: urn:iso:tc154:resolution:plenary-42:2023-10
   kind: resolution
   status: decided
   dates:
@@ -355,6 +365,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-11
+  urn: urn:iso:tc154:resolution:plenary-42:2023-11
   kind: resolution
   status: decided
   dates:
@@ -400,6 +411,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-12
+  urn: urn:iso:tc154:resolution:plenary-42:2023-12
   kind: resolution
   status: decided
   dates:
@@ -438,6 +450,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-13
+  urn: urn:iso:tc154:resolution:plenary-42:2023-13
   kind: resolution
   status: decided
   dates:
@@ -489,6 +502,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-14
+  urn: urn:iso:tc154:resolution:plenary-42:2023-14
   kind: resolution
   status: decided
   dates:
@@ -515,6 +529,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-15
+  urn: urn:iso:tc154:resolution:plenary-42:2023-15
   kind: resolution
   status: decided
   dates:
@@ -547,6 +562,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-16
+  urn: urn:iso:tc154:resolution:plenary-42:2023-16
   kind: resolution
   status: decided
   dates:
@@ -590,6 +606,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-17
+  urn: urn:iso:tc154:resolution:plenary-42:2023-17
   kind: resolution
   status: decided
   dates:
@@ -624,6 +641,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-18
+  urn: urn:iso:tc154:resolution:plenary-42:2023-18
   kind: resolution
   status: decided
   dates:
@@ -658,6 +676,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-19
+  urn: urn:iso:tc154:resolution:plenary-42:2023-19
   kind: resolution
   status: decided
   dates:
@@ -704,6 +723,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-20
+  urn: urn:iso:tc154:resolution:plenary-42:2023-20
   kind: resolution
   status: decided
   dates:
@@ -731,6 +751,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-21
+  urn: urn:iso:tc154:resolution:plenary-42:2023-21
   kind: resolution
   status: decided
   dates:
@@ -759,6 +780,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-22
+  urn: urn:iso:tc154:resolution:plenary-42:2023-22
   kind: resolution
   status: decided
   dates:
@@ -786,6 +808,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2023-23
+  urn: urn:iso:tc154:resolution:plenary-42:2023-23
   kind: resolution
   status: decided
   dates:

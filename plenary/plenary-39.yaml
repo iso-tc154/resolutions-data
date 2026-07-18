@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-01
+  urn: urn:iso:tc154:resolution:plenary-39:2020-01
   kind: resolution
   status: decided
   dates:
@@ -36,6 +37,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-02
+  urn: urn:iso:tc154:resolution:plenary-39:2020-02
   kind: resolution
   status: decided
   dates:
@@ -72,6 +74,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-0
+  urn: urn:iso:tc154:resolution:plenary-39:2020-0
   kind: resolution
   status: decided
   dates:
@@ -107,6 +110,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-04
+  urn: urn:iso:tc154:resolution:plenary-39:2020-04
   kind: resolution
   status: decided
   dates:
@@ -141,6 +145,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-05
+  urn: urn:iso:tc154:resolution:plenary-39:2020-05
   kind: resolution
   status: decided
   dates:
@@ -170,6 +175,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-06
+  urn: urn:iso:tc154:resolution:plenary-39:2020-06
   kind: resolution
   status: decided
   dates:
@@ -207,6 +213,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-07
+  urn: urn:iso:tc154:resolution:plenary-39:2020-07
   kind: resolution
   status: decided
   dates:
@@ -243,6 +250,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-08
+  urn: urn:iso:tc154:resolution:plenary-39:2020-08
   kind: resolution
   status: decided
   dates:
@@ -281,6 +289,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-09
+  urn: urn:iso:tc154:resolution:plenary-39:2020-09
   kind: resolution
   status: decided
   dates:
@@ -317,6 +326,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-10
+  urn: urn:iso:tc154:resolution:plenary-39:2020-10
   kind: resolution
   status: decided
   dates:
@@ -354,6 +364,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-11
+  urn: urn:iso:tc154:resolution:plenary-39:2020-11
   kind: resolution
   status: decided
   dates:
@@ -403,6 +414,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-12
+  urn: urn:iso:tc154:resolution:plenary-39:2020-12
   kind: resolution
   status: decided
   dates:
@@ -451,6 +463,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-13
+  urn: urn:iso:tc154:resolution:plenary-39:2020-13
   kind: resolution
   status: decided
   dates:
@@ -486,6 +499,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-14
+  urn: urn:iso:tc154:resolution:plenary-39:2020-14
   kind: resolution
   status: decided
   dates:
@@ -521,6 +535,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-15
+  urn: urn:iso:tc154:resolution:plenary-39:2020-15
   kind: resolution
   status: decided
   dates:
@@ -570,6 +585,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-16
+  urn: urn:iso:tc154:resolution:plenary-39:2020-16
   kind: resolution
   status: decided
   dates:
@@ -605,6 +621,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-17
+  urn: urn:iso:tc154:resolution:plenary-39:2020-17
   kind: resolution
   status: decided
   dates:
@@ -641,6 +658,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-18
+  urn: urn:iso:tc154:resolution:plenary-39:2020-18
   kind: resolution
   status: decided
   dates:
@@ -676,6 +694,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-19
+  urn: urn:iso:tc154:resolution:plenary-39:2020-19
   kind: resolution
   status: decided
   dates:
@@ -718,6 +737,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-20
+  urn: urn:iso:tc154:resolution:plenary-39:2020-20
   kind: resolution
   status: decided
   dates:
@@ -754,6 +774,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-21
+  urn: urn:iso:tc154:resolution:plenary-39:2020-21
   kind: resolution
   status: decided
   dates:
@@ -788,6 +809,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-22
+  urn: urn:iso:tc154:resolution:plenary-39:2020-22
   kind: resolution
   status: decided
   dates:
@@ -822,6 +844,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-23
+  urn: urn:iso:tc154:resolution:plenary-39:2020-23
   kind: resolution
   status: decided
   dates:
@@ -858,6 +881,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-24
+  urn: urn:iso:tc154:resolution:plenary-39:2020-24
   kind: resolution
   status: decided
   dates:
@@ -892,6 +916,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-25
+  urn: urn:iso:tc154:resolution:plenary-39:2020-25
   kind: resolution
   status: decided
   dates:
@@ -927,6 +952,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2020-25
+  urn: urn:iso:tc154:resolution:plenary-39:2020-25-2
   kind: resolution
   status: decided
   dates:

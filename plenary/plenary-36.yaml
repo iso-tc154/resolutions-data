@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-01
+  urn: urn:iso:tc154:resolution:plenary-36:2017-01
   kind: resolution
   status: decided
   dates:
@@ -47,6 +48,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-02
+  urn: urn:iso:tc154:resolution:plenary-36:2017-02
   kind: resolution
   status: decided
   dates:
@@ -90,6 +92,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-03
+  urn: urn:iso:tc154:resolution:plenary-36:2017-03
   kind: resolution
   status: decided
   dates:
@@ -162,6 +165,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-04
+  urn: urn:iso:tc154:resolution:plenary-36:2017-04
   kind: resolution
   status: decided
   dates:
@@ -194,6 +198,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-05
+  urn: urn:iso:tc154:resolution:plenary-36:2017-05
   kind: resolution
   status: decided
   dates:
@@ -235,6 +240,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-06
+  urn: urn:iso:tc154:resolution:plenary-36:2017-06
   kind: resolution
   status: decided
   dates:
@@ -275,6 +281,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-07
+  urn: urn:iso:tc154:resolution:plenary-36:2017-07
   kind: resolution
   status: decided
   dates:
@@ -315,6 +322,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-08
+  urn: urn:iso:tc154:resolution:plenary-36:2017-08
   kind: resolution
   status: decided
   dates:
@@ -376,6 +384,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-09
+  urn: urn:iso:tc154:resolution:plenary-36:2017-09
   kind: resolution
   status: decided
   dates:
@@ -417,6 +426,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-10
+  urn: urn:iso:tc154:resolution:plenary-36:2017-10
   kind: resolution
   status: decided
   dates:
@@ -464,6 +474,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-11
+  urn: urn:iso:tc154:resolution:plenary-36:2017-11
   kind: resolution
   status: decided
   dates:
@@ -504,6 +515,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-12
+  urn: urn:iso:tc154:resolution:plenary-36:2017-12
   kind: resolution
   status: decided
   dates:
@@ -544,6 +556,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-13
+  urn: urn:iso:tc154:resolution:plenary-36:2017-13
   kind: resolution
   status: decided
   dates:
@@ -587,6 +600,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-14
+  urn: urn:iso:tc154:resolution:plenary-36:2017-14
   kind: resolution
   status: decided
   dates:
@@ -637,6 +651,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-15
+  urn: urn:iso:tc154:resolution:plenary-36:2017-15
   kind: resolution
   status: decided
   dates:
@@ -686,6 +701,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-16
+  urn: urn:iso:tc154:resolution:plenary-36:2017-16
   kind: resolution
   status: decided
   dates:
@@ -743,6 +759,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-17
+  urn: urn:iso:tc154:resolution:plenary-36:2017-17
   kind: resolution
   status: decided
   dates:
@@ -776,6 +793,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-18
+  urn: urn:iso:tc154:resolution:plenary-36:2017-18
   kind: resolution
   status: decided
   dates:
@@ -818,6 +836,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-19
+  urn: urn:iso:tc154:resolution:plenary-36:2017-19
   kind: resolution
   status: decided
   dates:
@@ -890,6 +909,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-20
+  urn: urn:iso:tc154:resolution:plenary-36:2017-20
   kind: resolution
   status: decided
   dates:
@@ -963,6 +983,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-21
+  urn: urn:iso:tc154:resolution:plenary-36:2017-21
   kind: resolution
   status: decided
   dates:
@@ -1012,6 +1033,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-22
+  urn: urn:iso:tc154:resolution:plenary-36:2017-22
   kind: resolution
   status: decided
   dates:
@@ -1061,6 +1083,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-23
+  urn: urn:iso:tc154:resolution:plenary-36:2017-23
   kind: resolution
   status: decided
   dates:
@@ -1110,6 +1133,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-24
+  urn: urn:iso:tc154:resolution:plenary-36:2017-24
   kind: resolution
   status: decided
   dates:
@@ -1143,6 +1167,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-25
+  urn: urn:iso:tc154:resolution:plenary-36:2017-25
   kind: resolution
   status: decided
   dates:

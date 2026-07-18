@@ -11,6 +11,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 006-2012
+  urn: urn:iso:tc154:resolution:plenary-31:006-2012
   kind: resolution
   status: decided
   dates:
@@ -52,6 +53,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 007-2012
+  urn: urn:iso:tc154:resolution:plenary-31:007-2012
   kind: resolution
   status: decided
   dates:
@@ -102,6 +104,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '008-2012'
+  urn: urn:iso:tc154:resolution:plenary-31:008-2012
   kind: resolution
   status: decided
   dates:
@@ -142,6 +145,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '009-2012'
+  urn: urn:iso:tc154:resolution:plenary-31:009-2012
   kind: resolution
   status: decided
   dates:
@@ -175,6 +179,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 010-2012
+  urn: urn:iso:tc154:resolution:plenary-31:010-2012
   kind: resolution
   status: decided
   dates:
@@ -232,6 +237,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 011-2012
+  urn: urn:iso:tc154:resolution:plenary-31:011-2012
   kind: resolution
   status: decided
   dates:
@@ -274,6 +280,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 012‐2012
+  urn: urn:iso:tc154:resolution:plenary-31:012‐2012
   kind: resolution
   status: decided
   dates:
@@ -315,6 +322,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 013-2012
+  urn: urn:iso:tc154:resolution:plenary-31:013-2012
   kind: resolution
   status: decided
   dates:
@@ -349,6 +357,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 014-2012
+  urn: urn:iso:tc154:resolution:plenary-31:014-2012
   kind: resolution
   status: decided
   dates:
@@ -394,6 +403,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 015-2012
+  urn: urn:iso:tc154:resolution:plenary-31:015-2012
   kind: resolution
   status: decided
   dates:
@@ -440,6 +450,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 016-2012
+  urn: urn:iso:tc154:resolution:plenary-31:016-2012
   kind: resolution
   status: decided
   dates:
@@ -500,6 +511,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 017-2012
+  urn: urn:iso:tc154:resolution:plenary-31:017-2012
   kind: resolution
   status: decided
   dates:
@@ -543,6 +555,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '018-2012'
+  urn: urn:iso:tc154:resolution:plenary-31:018-2012
   kind: resolution
   status: decided
   dates:
@@ -577,6 +590,7 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '019-2012'
+  urn: urn:iso:tc154:resolution:plenary-31:019-2012
   kind: resolution
   status: decided
   dates:
