@@ -1,0 +1,413 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+---
+metadata:
+  title:
+  - spelling: eng
+    value: Committee Internal Ballots for ISO/TC 154 in 2026
+  date: '2026-04-07'
+  source: ISO/TC 154 Secretariat
+decisions:
+- identifier:
+  - prefix: ISO/TC 154
+    number: V-2026-01
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:ballots-2026:V-2026-01
+  dates:
+  - date: '2026-04-07'
+    type: adoption
+  categories:
+  - liaison
+  title:
+  - spelling: eng
+    value: Appointment of the liaison representatives from TC 154 to ISO/IEC JTC 1/SC
+      40, SC 42 and ISO/PC 245
+  subject:
+  - spelling: eng
+    value: Liaison representatives to ISO/IEC JTC 1/SC 40, SC 42 and ISO/PC 245
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2026-04-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        N 1658 is the result of the call for liaison representative candidates
+        from TC 154 to JTC 1/SC 40, SC 42 and PC 245. KATS and GOST R have
+        nominated their candidates. The received candidates need to be approved
+        by this CIB.
+  - type: noting
+    date_effective:
+      date: '2026-04-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        This document (N 1668) is the result of voting on the Draft Resolution
+        V-2026-01: 7 P-members approve, 12 P-members abstain, without
+        disapproval. The ballot ran from 2026-03-04 to 2026-04-02.
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2026-04-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        1) Appointment of Mr. Kirill Tulenev (kirill.tulenev@gmail.com) as the
+        liaison representative to ISO/IEC JTC 1/SC 40;
+        2) Appointment of Mr. Kirill Tulenev (kirill.tulenev@gmail.com) and
+        Ms. Jasmine Jaeyong Chang (chazmi1977@gmail.com) as the liaison
+        representatives to ISO/IEC JTC 1/SC 42;
+        3) Appointment of Mr. Kirill Tulenev (kirill.tulenev@gmail.com) as the
+        liaison representative to ISO/PC 245.
+- identifier:
+  - prefix: ISO/TC 154
+    number: V-2026-02
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:ballots-2026:V-2026-02
+  dates:
+  - date: '2026-04-27'
+    type: adoption
+  categories:
+  - project initiation
+  title:
+  - spelling: eng
+    value: Initiating the development of a Technical Report project on "Application
+      of data exchange for commercial off-the-shelf (COTS) components"
+  subject:
+  - spelling: eng
+    value: TR project on data exchange for commercial off-the-shelf (COTS) components
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2026-04-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        This proposal presentation has been discussed at the WG 7 meetings of
+        last year; WG 7 meetings of 23 Sep 2025 and 5 Feb 2026 had agreed to
+        initiate a CIB ballot for this project. There is an understanding gap
+        for the CIB on PWI registration on PWI stage or AWI stage.
+  - type: noting
+    date_effective:
+      date: '2026-04-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        An updated draft and Form 4 (not required, but useful for explaining
+        justification and purpose) had been circulated to WG 7. The draft was
+        also circulated as TC 154 document N 1664.
+  - type: noting
+    date_effective:
+      date: '2026-04-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        WG 7 meeting minutes of 5 March 2026 (WG 7 document N 180) agreed to
+        launch this CIB to initiate the development of this TR project. If the
+        ballot is approved, then the project will be registered and the draft
+        will be uploaded and developed in OSD.
+  - type: noting
+    date_effective:
+      date: '2026-04-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        This document (N 1669) is the result of voting on the Draft Resolution
+        V-2026-02: 6 P-members approve, 1 P-member disapproves with comment,
+        11 P-members abstain. The Draft Resolution V-2026-02 is approved by the
+        simple majority decision of the P-members as per Clause 3.3.2 of the
+        ISO/IEC Directives, Part 1. The ballot ran from 2026-03-26 to 2026-04-26.
+  actions:
+  - type: decides
+    date_effective:
+      date: '2026-04-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        ISO/TC 154 resolves to approve a Technical Report (TR) project titled
+        "Application of data exchange for commercial off-the-shelf (COTS)
+        components", with the appointment of Mr. Liang Ao and Ms. Xiaodan Tang
+        from SAC as the co-project leaders. The target date for CD ballot:
+        2026-12-31; target date for DTR ballot: 2027-12-31; target date for
+        publication: 2028-11-30. This TR project is assigned to ISO/TC 154/WG 7.
+- identifier:
+  - prefix: ISO/TC 154
+    number: V-2026-03
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:ballots-2026:V-2026-03
+  dates:
+  - date: '2026-04-28'
+    type: adoption
+  categories:
+  - liaison
+  title:
+  - spelling: eng
+    value: Establishment of A-liaison for SBS, appointment of Mr Iordan Dunkov and
+      Mr Frédéric Dufour as liaison representatives
+  subject:
+  - spelling: eng
+    value: SBS A-liaison membership and liaison representatives
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2026-04-28'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        N 1665 is the application form from SBS (Small Business Standards) for
+        A-liaison membership with TC 154. This ballot is initiated based on
+        Clause 1.17 of the ISO/IEC Directives.
+  - type: noting
+    date_effective:
+      date: '2026-04-28'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        This document (N 1670) is the result of voting on the Draft Resolution
+        V-2026-03: 8 P-members approve, 10 P-members abstain, without
+        disapproval. The ballot ran from 2026-03-27 to 2026-04-27.
+  actions:
+  - type: establishes
+    date_effective:
+      date: '2026-04-28'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Establishment of A-liaison membership for SBS (Small Business
+        Standards) with ISO/TC 154, and appointment of Mr Iordan Dunkov
+        (idunkoff@its-bg.com) and Mr Frédéric Dufour (f.dufour@sbs-sme.eu) as
+        liaison representatives.
+
+        Note: as per the application form N 1665, the organization's point of
+        contact is Mr. Frédéric Dufour (f.dufour@sbs-sme.eu, info@sbs-sme.eu).
+- identifier:
+  - prefix: ISO/TC 154
+    number: V-2026-04
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:ballots-2026:V-2026-04
+  dates:
+  - date: '2026-08-03'
+    type: adoption
+  categories:
+  - PWI registration
+  title:
+  - spelling: eng
+    value: Adoption of an ISO/PWI TR project "Gap analysis of high-level and general
+      data concepts"
+  subject:
+  - spelling: eng
+    value: PWI TR project on gap analysis of high-level and general data concepts
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2026-08-03'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        This TR proposal was presented and discussed at the WG 7 meetings in
+        April and May, and the WG 7 meeting of 7 May agreed to initiate a CIB
+        to register the project at the PWI stage.
+  - type: noting
+    date_effective:
+      date: '2026-08-03'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        The scope of this TR proposal is: "this TR document aims to establish
+        the relationship among the high-level and general data concepts or
+        terms, and it is applicable to all kinds of data users in commerce,
+        industry and administration, and it can also be referenced to other
+        sector(s)."
+  - type: noting
+    date_effective:
+      date: '2026-08-03'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        When the ISO/NP 26087 ballot is approved, a new WG with a possible
+        title "carbon data" will be established accordingly. As per the meeting
+        discussion and minutes of 7 May, it is planned to assign this TR
+        project to the new WG at that time.
+  - type: noting
+    date_effective:
+      date: '2026-08-03'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        This document (N 1692) is the result of voting on the Draft Resolution
+        V-2026-04: 6 P-members approve, 13 P-members abstain, without
+        disapproval; comments from KATS were received. The ballot ran from
+        2026-06-29 to 2026-07-29.
+  actions:
+  - type: adopts
+    date_effective:
+      date: '2026-08-03'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Adoption of a PWI registration for the TR project "Gap analysis of
+        high-level and general data concepts".
+- identifier:
+  - prefix: ISO/TC 154
+    number: V-2026-05
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:ballots-2026:V-2026-05
+  dates:
+  - date: '2026-08-08'
+    type: adoption
+  categories:
+  - PWI registration
+  title:
+  - spelling: eng
+    value: Adoption of an ISO/PWI "Validation and Transformation Language (VTL) for
+      statistical data"
+  subject:
+  - spelling: eng
+    value: PWI IS project on Validation and Transformation Language (VTL) for statistical
+      data
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2026-08-08'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        This proposal was presented and discussed at the WG 2 meeting, and the
+        WG 2 meeting of 23 June agreed to initiate a CIB to register the
+        project at the PWI stage.
+  - type: noting
+    date_effective:
+      date: '2026-08-08'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        The scope of this proposal is: "This document specifies the
+        characteristics of a language for defining validation and
+        transformation rules (set of operators, their syntax and semantics)
+        for any kind of statistical data. This document is applicable to align
+        this standard with ISO 17369 which covers statistical data modelling
+        and exchange."
+  - type: noting
+    date_effective:
+      date: '2026-08-08'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        This document (N 1697) is the result of voting on the Draft Resolution
+        V-2026-05: 5 P-members approve, 14 P-members abstain, without
+        disapproval. The ballot ran from 2026-07-08 to 2026-08-07.
+  actions:
+  - type: adopts
+    date_effective:
+      date: '2026-08-08'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Adoption of a PWI registration for an IS project "Validation and
+        Transformation Language (VTL) for statistical data" and appointment of
+        Mr. Angelo Linardi (UNI) as the project leader.
+- identifier:
+  - prefix: ISO/TC 154
+    number: V-2026-06
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:ballots-2026:V-2026-06
+  dates:
+  - date: '2026-08-09'
+    type: adoption
+  categories:
+  - liaison
+  title:
+  - spelling: eng
+    value: Establishment of liaison with ISO/IEC JTC 5
+  subject:
+  - spelling: eng
+    value: Internal liaison membership with ISO/IEC JTC 5
+  considerations:
+  - type: noting
+    date_effective:
+      date: '2026-08-09'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        ISO/IEC JTC 5 (Digital Product Passport) has already been established;
+        ISO/AWI 25534-1 will be assigned to JTC 5 based on TMB Resolution
+        4/2026.
+  - type: noting
+    date_effective:
+      date: '2026-08-09'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        The CAG meeting of 24 June agreed to initiate a CIB to establish the
+        internal liaison membership from TC 154 to JTC 5. TC 154 members are
+        encouraged to nominate experts as liaison representative candidates.
+        The liaison representatives will be officially appointed at the plenary
+        meeting in Berlin, Germany.
+  - type: noting
+    date_effective:
+      date: '2026-08-09'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        JTC 5 sent an email on 8 July requesting the TC/WG to establish the
+        liaison with JTC 5, and TC 154 has been identified as a relevant
+        stakeholder in the attached final JTC 5 proposal. The liaison
+        representative may refer to Clauses 1.15.3, 1.15.4, 1.15.6 and 1.17.1
+        of the ISO/IEC Directives, Part 1.
+  - type: noting
+    date_effective:
+      date: '2026-08-09'
+      type: adoption
+    message:
+    - spelling: eng
+      value: |
+        This document (N 1698) is the result of voting on the Draft Resolution
+        V-2026-06: 9 P-members approve, 10 P-members abstain, without
+        disapproval; 3 P-members nominated the 3 liaison representative
+        candidates to JTC 5. The ballot ran from 2026-07-09 to 2026-08-08.
+  actions:
+  - type: establishes
+    date_effective:
+      date: '2026-08-09'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Establishment of internal liaison membership with ISO/IEC JTC 5.
+
+        Three P-members (DIN, JISC and BSI) nominated the following liaison
+        representative candidates to ISO/IEC JTC 5, and the candidates will be
+        further discussed and approved as the liaison representatives from
+        ISO/TC 154 to ISO/IEC JTC 5 by the 45th plenary meeting in Berlin:
+
+        1) Mr. Svante Schubert (Svante.Schubert@gmail.com)
+        2) Mr. Hisanao Sugamata (hsedi0111@gmail.com)
+        3) Prof. Yi Henry Li (itcly@hotmail.com)
