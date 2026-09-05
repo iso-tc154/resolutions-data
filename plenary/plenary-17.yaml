@@ -1,5 +1,4 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
-
 ---
 metadata:
   title:
@@ -12,15 +11,28 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '172'
-  urn: urn:iso:tc154:resolution:plenary-17:172
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:172
   dates:
   - date: '2000-09-20'
     type: adoption
+  title:
+  - spelling: eng
+    value: All documents of ISO/TC 154 will only be distributed electronically from
+      now on.
   subject:
   - spelling: eng
     value: ISO/TC 154
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2000-09-20'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Confirmed
   actions:
   - type: resolves
     date_effective:
@@ -32,6 +44,22 @@ decisions:
         electronically from now on. A task force composed of TC 154 Chair, secretary,
         WG1 secretary, ISO/CS and JSWG secretary will finalize the organization of
         the stock of ISO TC 154 documents.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '178'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:178
+  dates:
+  - date: '2000-09-20'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Create a ISO/TC 154 Chair Advisory Board, consisting of JISC (JP), BSI
+      (GB), DIN (DE) and…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -41,18 +69,6 @@ decisions:
     message:
     - spelling: eng
       value: Confirmed
-- identifier:
-  - prefix: ISO/TC 154
-    number: '178'
-  urn: urn:iso:tc154:resolution:plenary-17:178
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2000-09-20'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -64,6 +80,21 @@ decisions:
         of JISC (JP), BSI (GB), DIN (DE) and AFNOR (FR) to progress inter-sessional
         work activities. The Board will not have any decision making authority unless
         agreed by ISO/TC 154.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '180'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:180
+  dates:
+  - date: '2000-09-20'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Nominate DIN (H. Hermes, DE) and BSI (S.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -73,18 +104,6 @@ decisions:
     message:
     - spelling: eng
       value: Confirmed
-- identifier:
-  - prefix: ISO/TC 154
-    number: '180'
-  urn: urn:iso:tc154:resolution:plenary-17:180
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2000-09-20'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -95,35 +114,21 @@ decisions:
       value: ISO/TC 154 resolves to nominate DIN (H. Hermes, DE) and BSI (S. Probert,
         UK) to act as TC 154 representative in the ebXML initiative and report back
         to ISO/TC 154.
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '2000-09-20'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Confirmed
 - identifier:
   - prefix: ISO/TC 154
     number: '184'
-  urn: urn:iso:tc154:resolution:plenary-17:184
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:184
   dates:
   - date: '2000-09-20'
     type: adoption
+  title:
+  - spelling: eng
+    value: ISO 8440:1986, “Location of codes in trade documents”.
   subject:
   - spelling: eng
     value: ISO/TC 154
-  actions:
-  - type: confirms
-    date_effective:
-      date: '2000-09-21'
-      type: effective
-    message:
-    - spelling: eng
-      value: ISO/TC 154 confirms ISO 8440:1986, “Location of codes in trade documents”.
   approvals:
   - type: affirmative
     degree: unanimous
@@ -133,18 +138,38 @@ decisions:
     message:
     - spelling: eng
       value: Adopted
+  actions:
+  - type: confirms
+    date_effective:
+      date: '2000-09-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 confirms ISO 8440:1986, “Location of codes in trade documents”.
 - identifier:
   - prefix: ISO/TC 154
     number: '185'
-  urn: urn:iso:tc154:resolution:plenary-17:185
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:185
   dates:
   - date: '2000-09-20'
     type: adoption
+  title:
+  - spelling: eng
+    value: Issue a Technical Corrigendum on ISO8440:1986, based on document TC 154N316.
   subject:
   - spelling: eng
     value: ISO/TC 154
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2000-09-20'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Adopted
   actions:
   - type: resolves
     date_effective:
@@ -156,6 +181,22 @@ decisions:
         ISO/TC 154 resolves to issue a Technical Corrigendum on ISO8440:1986, based on document TC 154N316.
 
         The editor is Mr Boesler (DIN, DE).
+- identifier:
+  - prefix: ISO/TC 154
+    number: '186'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:186
+  dates:
+  - date: '2000-09-20'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Draw the attention of W3C (WWW Consortium) and other relevant bodies as,
+      e.g., UN/CEFACT…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -165,18 +206,6 @@ decisions:
     message:
     - spelling: eng
       value: Adopted
-- identifier:
-  - prefix: ISO/TC 154
-    number: '186'
-  urn: urn:iso:tc154:resolution:plenary-17:186
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2000-09-20'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -189,6 +218,22 @@ decisions:
         its Technical Corrigendum, as well as an up-dated document TC 154N324 (“Suite
         of ISO standards around the UN layout-key and UNTDED” of 1999-12-06) to be
         provided by ISO/TC 154 Secretary.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '187'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:187
+  dates:
+  - date: '2000-09-20'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Submit the revision of ISO8601:1988, “Representation of dates and times”,
+      related to Year…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -198,18 +243,6 @@ decisions:
     message:
     - spelling: eng
       value: Adopted
-- identifier:
-  - prefix: ISO/TC 154
-    number: '187'
-  urn: urn:iso:tc154:resolution:plenary-17:187
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2000-09-20'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -221,6 +254,22 @@ decisions:
         of dates and times”, related to Year 2000 compliance (document TC 154N344)
         to FDIS ballot using the ISO Minor Revision process, aiming to publish it
         in 2000.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '188'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:188
+  dates:
+  - date: '2000-09-20'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Further resolves to set up a Task Force to process the substantive comments
+      in a…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -230,18 +279,6 @@ decisions:
     message:
     - spelling: eng
       value: Adopted
-- identifier:
-  - prefix: ISO/TC 154
-    number: '188'
-  urn: urn:iso:tc154:resolution:plenary-17:188
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2000-09-20'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -253,67 +290,22 @@ decisions:
         ISO/TC 154 further resolves to set up a Task Force to process the substantive comments in a subsequent revision of ISO8601, “Representation of dates and times”.
 
         The task force members are: Mr Visser (NNI, NL, Convenor), Mr Crowley (US), Mr Vuilleumier (ISO/TC 154 Chairman) and Mr Bezos (ISO/TC 184 liaison).
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '2000-09-20'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Adopted
 - identifier:
   - prefix: ISO/TC 154
     number: '189'
-  urn: urn:iso:tc154:resolution:plenary-17:189
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:189
   dates:
   - date: '2000-09-20'
     type: adoption
+  title:
+  - spelling: eng
+    value: To establish a liaison group, composed of Mr Vuilleumier (ISO/TC 154 Chairman),
+      liaison…
   subject:
   - spelling: eng
     value: ISO/TC 154
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2000-09-21'
-      type: effective
-    message:
-    - spelling: eng
-      value: to establish a liaison group, composed of Mr Vuilleumier (ISO/TC 154
-        Chairman), liaison officer assisted by Mr Boesler (DIN, DE), Mr Chiaramonti
-        (ISO/TC 154/WG 1 Convener), Mr Hermes (DIN, DE), Mr Kubler (ISO/TC 154 Secretary),
-        to attend the EWG meeting to be held in Washington DC in 2001-03 ; and
-  - type: resolves
-    date_effective:
-      date: '2000-09-21'
-      type: effective
-    message:
-    - spelling: eng
-      value: to present BSR and ISO 7372 (UNTDED) to EWG and discuss opportunities
-        for cooperation with UN/EDIFACT.
-  - type: notes
-    date_effective:
-      date: '2000-09-21'
-      type: effective
-    message:
-    - spelling: eng
-      value: |
-        BACKGROUND :
-          - Historically the UNTDED was first issued as the single, common repository of semantic concepts that are used in the paper environment, later also in EDI, with bridges (so called "topographical co-ordinates") to sectoral directories as CIMP of IATA, SAD of EC/EFTA, SWIFT and MAR of IMO ;
-          - the EDI developments, specially UN/EDIFACT, were based initially on this semantic concepts repository ISO7372 (UNTDED) ;
-          - over time, the concept of generic data element and coded qualifiers developed by UN/EDIFACT enforced the syntax dependence for expressing semantic concepts ;
-          - hence a semantic concept in UN/EDIFACT requires usually a combination of at least a data element along with a code value.
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '2000-09-20'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Adopted
   considerations:
   - type: identifying
     date_effective:
@@ -382,18 +374,71 @@ decisions:
     - spelling: eng
       value: taking stock of the need for it to address the role of the BSR in relation
         to the revision of ISO7372 (UNTDED) ;
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2000-09-20'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Adopted
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2000-09-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: to establish a liaison group, composed of Mr Vuilleumier (ISO/TC 154
+        Chairman), liaison officer assisted by Mr Boesler (DIN, DE), Mr Chiaramonti
+        (ISO/TC 154/WG 1 Convener), Mr Hermes (DIN, DE), Mr Kubler (ISO/TC 154 Secretary),
+        to attend the EWG meeting to be held in Washington DC in 2001-03 ; and
+  - type: resolves
+    date_effective:
+      date: '2000-09-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: to present BSR and ISO 7372 (UNTDED) to EWG and discuss opportunities
+        for cooperation with UN/EDIFACT.
+  - type: notes
+    date_effective:
+      date: '2000-09-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        BACKGROUND :
+          - Historically the UNTDED was first issued as the single, common repository of semantic concepts that are used in the paper environment, later also in EDI, with bridges (so called "topographical co-ordinates") to sectoral directories as CIMP of IATA, SAD of EC/EFTA, SWIFT and MAR of IMO ;
+          - the EDI developments, specially UN/EDIFACT, were based initially on this semantic concepts repository ISO7372 (UNTDED) ;
+          - over time, the concept of generic data element and coded qualifiers developed by UN/EDIFACT enforced the syntax dependence for expressing semantic concepts ;
+          - hence a semantic concept in UN/EDIFACT requires usually a combination of at least a data element along with a code value.
 - identifier:
   - prefix: ISO/TC 154
     number: '190'
-  urn: urn:iso:tc154:resolution:plenary-17:190
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:190
   dates:
   - date: '2000-09-20'
     type: adoption
+  title:
+  - spelling: eng
+    value: To further process the issue of a possible revision of ISO7372:1993 (UNTDED)
+      ;
   subject:
   - spelling: eng
     value: ISO/TC 154, in cooperation with the relevant bodies
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2000-09-20'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Adopted
   actions:
   - type: resolves
     date_effective:
@@ -418,6 +463,22 @@ decisions:
     - spelling: eng
       value: This may result in a reactivation of the Joint UN-ECE/ISO Maintenance
         Agency (see document ISO/TC 154N339).
+- identifier:
+  - prefix: ISO/TC 154
+    number: '191'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:191
+  dates:
+  - date: '2000-09-20'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Grant an International Liaison A status for the EDI/EC [Electronic Commerce]
+      Registration…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -427,18 +488,6 @@ decisions:
     message:
     - spelling: eng
       value: Adopted
-- identifier:
-  - prefix: ISO/TC 154
-    number: '191'
-  urn: urn:iso:tc154:resolution:plenary-17:191
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2000-09-20'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -448,6 +497,21 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 resolves to grant an International Liaison A status for the
         EDI/EC [Electronic Commerce] Registration Authorities Association (EDIRA).
+- identifier:
+  - prefix: ISO/TC 154
+    number: '192'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:192
+  dates:
+  - date: '2000-09-20'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Set ISO/AWI 16669 to stage 00.20
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -457,18 +521,6 @@ decisions:
     message:
     - spelling: eng
       value: Adopted
-- identifier:
-  - prefix: ISO/TC 154
-    number: '192'
-  urn: urn:iso:tc154:resolution:plenary-17:192
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2000-09-20'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -477,6 +529,22 @@ decisions:
     message:
     - spelling: eng
       value: ISO/TC 154 resolves to set ISO/AWI 16669 to stage 00.20
+- identifier:
+  - prefix: ISO/TC 154
+    number: '193'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:193
+  dates:
+  - date: '2000-09-20'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Publish the standing document ISO/TC 154/WG1 N22 Rev.1 as an ISO/TC 154[N353]
+      document.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -486,18 +554,6 @@ decisions:
     message:
     - spelling: eng
       value: Adopted
-- identifier:
-  - prefix: ISO/TC 154
-    number: '193'
-  urn: urn:iso:tc154:resolution:plenary-17:193
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2000-09-20'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -507,6 +563,22 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 resolves to publish the standing document ISO/TC 154/WG1 N22
         Rev.1 as an ISO/TC 154[N353] document.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '194'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:194
+  dates:
+  - date: '2000-09-20'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Ballot the New Work Item proposal for “Rules for the operation of EDI/EC
+      registration…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -516,18 +588,6 @@ decisions:
     message:
     - spelling: eng
       value: Adopted
-- identifier:
-  - prefix: ISO/TC 154
-    number: '194'
-  urn: urn:iso:tc154:resolution:plenary-17:194
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2000-09-20'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -538,6 +598,22 @@ decisions:
       value: ISO/TC 154 resolves to ballot the New Work Item proposal for “Rules for
         the operation of EDI/EC registration authorities” (see TC 154N318, to updated
         as TC 154N354) for a three months ballot.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '195'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:195
+  dates:
+  - date: '2000-09-20'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Hold its next meeting (18th) back-to-back before the EWG meeting in Europe,
+      2001-09 (date…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -547,18 +623,6 @@ decisions:
     message:
     - spelling: eng
       value: Adopted
-- identifier:
-  - prefix: ISO/TC 154
-    number: '195'
-  urn: urn:iso:tc154:resolution:plenary-17:195
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2000-09-20'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -568,36 +632,22 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 resolves to hold its next meeting (18th) back-to-back before
         the EWG meeting in Europe, 2001-09 (date and place to be determined).
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '2000-09-20'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Adopted
 - identifier:
   - prefix: ISO/TC 154
     number: '196'
-  urn: urn:iso:tc154:resolution:plenary-17:196
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-17:196
   dates:
   - date: '2000-09-20'
     type: adoption
+  title:
+  - spelling: eng
+    value: ČSNI, MPO and Mr Petr Wallenfels (ČSNI) for hosting the meeting and for
+      the excellent…
   subject:
   - spelling: eng
     value: ISO/TC 154
-  actions:
-  - type: thanks
-    date_effective:
-      date: '2000-09-21'
-      type: effective
-    message:
-    - spelling: eng
-      value: ISO/TC 154 thanks ČSNI, MPO and Mr Petr Wallenfels (ČSNI) for hosting
-        the meeting and for the excellent arrangement.
   approvals:
   - type: affirmative
     degree: unanimous
@@ -607,3 +657,12 @@ decisions:
     message:
     - spelling: eng
       value: By acclamation
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2000-09-21'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 thanks ČSNI, MPO and Mr Petr Wallenfels (ČSNI) for hosting
+        the meeting and for the excellent arrangement.

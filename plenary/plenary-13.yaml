@@ -1,5 +1,4 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
-
 ---
 metadata:
   title:
@@ -11,15 +10,28 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '126'
-  urn: urn:iso:tc154:resolution:plenary-13:126
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:126
   dates:
   - date: '1997-06-12'
     type: adoption
+  title:
+  - spelling: eng
+    value: New title, scope, mission, principles, objectives and work items as contained
+      in document…
   subject:
   - spelling: eng
     value: ISO/TC 154
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1997-06-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
   actions:
   - type: resolves
     date_effective:
@@ -31,6 +43,22 @@ decisions:
         ISO/TC 154 resolves to approve the new title, scope, mission, principles, objectives and work items as contained in document N 227 rev. 1 and circulate it to ISO/TC 154 member bodies for consideration by 1997-07-31.
 
         Thereafter ISO/TC 154 secretariat will submit doc. N 227 rev. 1 to ISO/TMB for approval.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '127'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:127
+  dates:
+  - date: '1997-06-12'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Its secretariat to submit the procedural comments of the member body of
+      Canada on ISO DIS…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -40,18 +68,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '127'
-  urn: urn:iso:tc154:resolution:plenary-13:127
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1997-06-12'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: requests
     date_effective:
@@ -62,6 +78,22 @@ decisions:
       value: ISO/TC 154 request its secretariat to submit the procedural comments
         of the member body of Canada on ISO DIS 9735 Part 1, 2, 3 and 8 to ISO/CS
         for clarification
+- identifier:
+  - prefix: ISO/TC 154
+    number: '128'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:128
+  dates:
+  - date: '1997-06-12'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Establish an editing committee for the revision of ISO 9735, to request
+      Don Trafford to…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -71,18 +103,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '128'
-  urn: urn:iso:tc154:resolution:plenary-13:128
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1997-06-12'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -106,6 +126,22 @@ decisions:
         committee respecting the time consideration as specified in the ISO Directives.
 
         '
+- identifier:
+  - prefix: ISO/TC 154
+    number: '129'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:129
+  dates:
+  - date: '1997-06-12'
+    type: adoption
+  title:
+  - spelling: eng
+    value: The member bodies of ISO/TC 154 which have submitted substantial technical
+      comments on…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -115,18 +151,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '129'
-  urn: urn:iso:tc154:resolution:plenary-13:129
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1997-06-12'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: recommends
     date_effective:
@@ -138,24 +162,19 @@ decisions:
         submitted substantial technical comments on Parts 1, 2, 3 and 8 of ISO DIS
         9735 should be invited to assist the editing committee meeting, though their
         non-attendance shall not cause postponement of the meeting
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '1997-06-12'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '130'
-  urn: urn:iso:tc154:resolution:plenary-13:130
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:130
   dates:
   - date: '1997-06-12'
     type: adoption
+  title:
+  - spelling: eng
+    value: Nomination of Don Trafford as chair of the Joint Syntax Development Working
+      Group (JSDWG)
   subject:
   - spelling: eng
     value: ISO/TC 154
@@ -166,6 +185,24 @@ decisions:
       as secretary
 
       '
+  considerations:
+  - type: recognising
+    date_effective:
+      date: '1997-06-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: recognises the nomination of Don Trafford as chair of the Joint Syntax
+        Development Working Group (JSDWG)
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1997-06-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
   actions:
   - type: approves
     date_effective:
@@ -183,33 +220,19 @@ decisions:
     - spelling: eng
       value: appoints Bernd Boesler as secretary of the Joint Syntax Development Working
         Group (JSDWG)
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '1997-06-12'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Unanimous
-  considerations:
-  - type: recognising
-    date_effective:
-      date: '1997-06-12'
-      type: effective
-    message:
-    - spelling: eng
-      value: recognises the nomination of Don Trafford as chair of the Joint Syntax
-        Development Working Group (JSDWG)
 - identifier:
   - prefix: ISO/TC 154
     number: '131'
-  urn: urn:iso:tc154:resolution:plenary-13:131
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:131
   dates:
   - date: '1997-06-12'
     type: adoption
+  title:
+  - spelling: eng
+    value: Supports Res. 55/1997 on the submission of the UN/EDIFACT Directives from
+      the TMB
   subject:
   - spelling: eng
     value: ISO/TC 154
@@ -220,6 +243,15 @@ decisions:
       given in the High Level Steering Group (HLSG) on CALS report to the TMB (1997-05-25)
 
       '
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1997-06-12'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
   actions:
   - type: supports
     date_effective:
@@ -237,6 +269,31 @@ decisions:
     - spelling: eng
       value: requests that Res. 55/1997 be considered in conjunction with the recommendations
         given in the High Level Steering Group (HLSG) on CALS report to the TMB (1997-05-25)
+- identifier:
+  - prefix: ISO/TC 154
+    number: '132'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:132
+  dates:
+  - date: '1997-06-12'
+    type: adoption
+  title:
+  - spelling: eng
+    value: However, in order to provide initial support, ISO/TC 154 has decided to
+      initiate…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  considerations:
+  - type: recognising
+    date_effective:
+      date: '1997-06-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 recognises that ISO TMB has not yet decided that TC 154 is
+        the appropiate TC to deal with the BSR.
   approvals:
   - type: affirmative
     degree: unanimous
@@ -246,18 +303,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '132'
-  urn: urn:iso:tc154:resolution:plenary-13:132
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1997-06-12'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: decides
     date_effective:
@@ -269,6 +314,29 @@ decisions:
         to initiate preliminary work items at stage 0 (zero) relating to the BSR.
         ISO/TC 154 will provide the results of its studies to whichever TC is considered
         appropriate for the subject by the TMB
+- identifier:
+  - prefix: ISO/TC 154
+    number: '133'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:133
+  dates:
+  - date: '1997-06-12'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Changes to the ISO IEC UN/ECE MoU be considered.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  considerations:
+  - type: according
+    date_effective:
+      date: '1997-06-12'
+      type: effective
+    message:
+    - spelling: eng
+      value: in accordance with the report from the ISO HLSG on CALS
   approvals:
   - type: affirmative
     degree: unanimous
@@ -278,27 +346,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-  considerations:
-  - type: recognising
-    date_effective:
-      date: '1997-06-12'
-      type: effective
-    message:
-    - spelling: eng
-      value: ISO/TC 154 recognises that ISO TMB has not yet decided that TC 154 is
-        the appropiate TC to deal with the BSR.
-- identifier:
-  - prefix: ISO/TC 154
-    number: '133'
-  urn: urn:iso:tc154:resolution:plenary-13:133
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1997-06-12'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: recommends
     date_effective:
@@ -325,6 +372,21 @@ decisions:
         Denis Hill
         Alain Thienot
         Peter Wilson
+- identifier:
+  - prefix: ISO/TC 154
+    number: '134'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:134
+  dates:
+  - date: '1997-06-12'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Disband ISO/TC 154/SC 2
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -334,26 +396,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-  considerations:
-  - type: according
-    date_effective:
-      date: '1997-06-12'
-      type: effective
-    message:
-    - spelling: eng
-      value: in accordance with the report from the ISO HLSG on CALS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '134'
-  urn: urn:iso:tc154:resolution:plenary-13:134
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1997-06-12'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: disbands
     date_effective:
@@ -376,6 +418,21 @@ decisions:
         - ISO/NP 13183
         - ISO/NP 13185
         from its programme of work
+- identifier:
+  - prefix: ISO/TC 154
+    number: '135'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:135
+  dates:
+  - date: '1997-06-12'
+    type: adoption
+  title:
+  - spelling: eng
+    value: DIN for hosting the plenary meeting and providing support
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -385,18 +442,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '135'
-  urn: urn:iso:tc154:resolution:plenary-13:135
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1997-06-12'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: thanks
     date_effective:
@@ -405,6 +450,21 @@ decisions:
     message:
     - spelling: eng
       value: ISO/TC 154 thanks DIN for hosting the plenary meeting and providing support
+- identifier:
+  - prefix: ISO/TC 154
+    number: '136'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:136
+  dates:
+  - date: '1997-06-12'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Expresses its appreciation to Mrs.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -414,18 +474,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '136'
-  urn: urn:iso:tc154:resolution:plenary-13:136
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1997-06-12'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: thanks
     date_effective:
@@ -435,6 +483,21 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 expresses its appreciation to Mrs. Ingeborg Burger-Balogh
         to her excellent chairing of the meeting
+- identifier:
+  - prefix: ISO/TC 154
+    number: '137'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-13:137
+  dates:
+  - date: '1997-06-12'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Its secretariat and the editing committee for their efficient support
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -444,18 +507,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '137'
-  urn: urn:iso:tc154:resolution:plenary-13:137
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1997-06-12'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: thanks
     date_effective:
@@ -465,12 +516,3 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 thanks its secretariat and the editing committee for their
         efficient support
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '1997-06-12'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Unanimous
