@@ -1,0 +1,466 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
+---
+metadata:
+  title:
+  - spelling: eng
+    value: Resolution of the 45th plenary meeting of ISO/TC 154 at DIN, Berlin Germany
+      in 2026
+  date: '2026-09-04'
+  source: ISO/TC 154 Secretariat ISO/TC154/N1727
+decisions:
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-01
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-01
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Resolution related to JWG 1
+  title:
+  - spelling: eng
+    value: Initiating a meeting with UNECE on the status of the maintenance and publication
+      of the UN/EDIFACT Directories
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        resolves to initiate a meeting with UNECE Secretariat by the end of 2026 to request
+        clarification of the status of the maintenance and publication of the UN/EDIFACT Directories especially
+        D.25A which is severely delayed.
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-02
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-02
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Resolution related to WG2
+  title:
+  - spelling: eng
+    value: Initiating the fast-track procedure for the project “Validation and Transformation
+      Language (VTL) for statistical data” into DIS ballot as per clause F.2 of ISO/IEC
+      Directives, Part 1
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        After the receipt of IPR written permission from originating organizations, resolves to accept
+        the published deliverable which is submitted by UNI, as ISO standard into DIS ballot via the fast-track
+        procedure outlined in ISO/IEC Directives, Part 1, F.2.1.1.
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-03
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-03
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Resolution related to WG 5
+  title:
+  - spelling: eng
+    value: Nine-months limit date extension for ISO 8601-1
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: approves
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'approves a 9-months project limit date extension for ISO 8601-1 with
+        the following limit dates: DIS: 2027-07-31, publication: 2028-07-31'
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-04
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-04
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Resolution related to WG 5
+  title:
+  - spelling: eng
+    value: Nine-months limit date extension for ISO 8601-2
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: approves
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'approves a 9-months project limit date extension for ISO 8601-2 with
+        the following limit dates: DIS: 2027-08-30, publication: 2028-08-30.'
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-05
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-05
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Resolution related to WG 6
+  title:
+  - spelling: eng
+    value: Encouragement for discussion about harmonization between ISO 19626-3 and
+      UN/CEFACT UNTP
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering the relevance of ISO 19626-3 with UNTP.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: encourages
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        encourage ISO/TC 154/WG6 and ISO 19626-3 project team to discuss about the harmonization
+        between building trusted and transparent interoperability with UN/CEFACT UNTP.
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-06
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-06
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Resolutions related to JWG9
+  title:
+  - spelling: eng
+    value: Encouragement for more experts to ISO 7372 from both ISO and UNECE sides
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        resolve to encourage the additional international supply chain expert support to join ISO
+        7372 for strengthening the available expert resources and more support from the ISO and UNECE, for its
+        timely publication before October 2028.
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-07
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-07
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Resolutions related to JWG9
+  title:
+  - spelling: eng
+    value: Encouragement for exploring the use of an open-source platform to support
+      the maintenance and publication of ISO 7372
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        resolve to explore the use of an open-source platform (such as the pilot UN Gitlab
+        environment) to support the maintenance and publication of ISO 7372.
+  - type: requests
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        also request that ISO Central Secretariat can share best practices on OSD and Smart
+        Standards developed that could support this work.
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-08
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-08
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Resolutions related to JWG9
+  title:
+  - spelling: eng
+    value: Nine-months limit date extension for ISO 20197-2
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: approves
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'approves a 9-months project limit date extension for ISO 20197-2 with
+        the following limit dates: DIS: 2027-07-31, publication: 2028-07-31.'
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-09
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-09
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Resolutions related to TC level project
+  title:
+  - spelling: eng
+    value: Establishment ad-hoc group 2 with the title of “incubator proposal”
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Considering that the requirement of the clause 2.1.5.5 and 2.2.2 of ISO/IEC Directives Part 1 (2026
+        edition) and the development of ISO/PWI 25320, ISO/PWI 26087, and ISO/PWI TR “Gap analysis of
+        high-level and general data concepts”.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        resolve to establish an ad-hoc group 2 with the title of “incubator proposal”, assign the
+        existing TC level PWI projects to this group, and encourage TC members to nominate the experts and
+        convener candidate to the group.
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-10
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-10
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Resolutions related to liaison membership
+  title:
+  - spelling: eng
+    value: Appointment of liaison representatives from ISO/TC154 to ISO/IEC JTC5
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        Considering the establishment of internal liaison with ISO/IEC JTC5 and the received liaison
+        representative candidates via CIB in N1698 and the proposed candidate in the plenary.
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        resolves to appoint the following liaison representatives from ISO/TC 154 to ISO/IEC JTC5.
+
+        1) Mr. Svante Schubert (Svante.Schubert@gmail.com)
+        2) Professor. Yi Henry LI (itcly@hotmail.com)
+        3) Mr. Michael Dill (michael.dill@gefeg.com)
+        4) Mr. Ronald Tse (tse@ribose.com)
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-11
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-11
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - General Resolutions
+  title:
+  - spelling: eng
+    value: Extension of the term period of the conveners of JWG1, WG2, WG6
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        resolves to extend the mandate of Mr. Anders Grangård as the convener of JWG1, Mr. Glenn
+        Tice as the convener of WG2, Dr. Jasmine Jaegyong Chang as the convener of WG6 for the next 3 years
+        2027-2029.
