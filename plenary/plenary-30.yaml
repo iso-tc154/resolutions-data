@@ -1,5 +1,4 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
-
 ---
 metadata:
   title:
@@ -11,16 +10,29 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '310'
-  urn: urn:iso:tc154:resolution:plenary-30:310
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:310
   dates:
   - date: '2011-09-14'
     type: adoption
+  title:
+  - spelling: eng
+    value: Instruct its secretariat to take all the necessary steps to establish a
+      formal liaison…
   subject:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2011-09-14'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved unanimously, noting the Abstention from the UK
   actions:
   - type: resolves
     date_effective:
@@ -38,6 +50,23 @@ decisions:
     message:
     - spelling: eng
       value: instruct its secretariat to ballot ETSI TC ESI’s NWIP in TC 154.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '311'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:311
+  dates:
+  - date: '2011-09-14'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Accept the NWIP to update ISO 9735-10:2002 taking into account all releases
+      of the…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -46,20 +75,7 @@ decisions:
       type: adoption
     message:
     - spelling: eng
-      value: Approved unanimously, noting the Abstention from the UK
-- identifier:
-  - prefix: ISO/TC 154
-    number: '311'
-  urn: urn:iso:tc154:resolution:plenary-30:311
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2011-09-14'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
+      value: Approved unanimously
   actions:
   - type: resolves
     date_effective:
@@ -70,6 +86,22 @@ decisions:
       value: ISO/TC 154 resolves to accept the NWIP to update ISO 9735-10:2002 taking
         into account all releases of the service code list directories starting from
         release 40006 until the current release
+- identifier:
+  - prefix: ISO/TC 154
+    number: '312'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:312
+  dates:
+  - date: '2011-09-14'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Accept the latest draft of ISO/NP TS 17369 as the deliverable of WG2
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -79,19 +111,6 @@ decisions:
     message:
     - spelling: eng
       value: Approved unanimously
-- identifier:
-  - prefix: ISO/TC 154
-    number: '312'
-  urn: urn:iso:tc154:resolution:plenary-30:312
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2011-09-14'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -107,24 +126,18 @@ decisions:
     message:
     - spelling: eng
       value: Dissolve WG2
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '2011-09-14'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Approved unanimously
 - identifier:
   - prefix: ISO/TC 154
     number: '313'
-  urn: urn:iso:tc154:resolution:plenary-30:313
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:313
   dates:
   - date: '2011-09-14'
     type: adoption
+  title:
+  - spelling: eng
+    value: Acknowledge the deliverable of ISO/NP TS 17369 to become a full ISO standard;
   subject:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
@@ -137,6 +150,15 @@ decisions:
       - Accept the latest draft delivered by WG2 as a Committee Draft;
       - Install an ad-hoc working group with the task to deliver a DIS 17369 to the TC 154 secretariat and invite TC 154 members to participate;
       - Install Mr Chris Nelson from the United Kingdom as Project leader
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2011-09-14'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Approved unanimously
   actions:
   - type: acknowledges
     date_effective:
@@ -167,6 +189,22 @@ decisions:
     message:
     - spelling: eng
       value: Install Mr Chris Nelson from the United Kingdom as Project leader
+- identifier:
+  - prefix: ISO/TC 154
+    number: '314'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:314
+  dates:
+  - date: '2011-09-14'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Ask ISO/TMB for an extension of the timeframe for ISO/NP TS 17369
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -176,19 +214,6 @@ decisions:
     message:
     - spelling: eng
       value: Approved unanimously
-- identifier:
-  - prefix: ISO/TC 154
-    number: '314'
-  urn: urn:iso:tc154:resolution:plenary-30:314
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2011-09-14'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -198,6 +223,23 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 resolves to ask ISO/TMB for an extension of the timeframe
         for ISO/NP TS 17369
+- identifier:
+  - prefix: ISO/TC 154
+    number: '315'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:315
+  dates:
+  - date: '2011-09-14'
+    type: adoption
+  title:
+  - spelling: eng
+    value: NWIP to revise ISO/TS 15000-5:2005 in preparation for submission as an
+      International…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -207,19 +249,6 @@ decisions:
     message:
     - spelling: eng
       value: Approved unanimously
-- identifier:
-  - prefix: ISO/TC 154
-    number: '315'
-  urn: urn:iso:tc154:resolution:plenary-30:315
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2011-09-14'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -229,6 +258,23 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 resolves to approve the NWIP to revise ISO/TS 15000-5:2005
         in preparation for submission as an International Standard
+- identifier:
+  - prefix: ISO/TC 154
+    number: '316'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:316
+  dates:
+  - date: '2011-09-14'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Together with the UNECE and UN/CEFACT liaisons to change TC 154/JWG 4 to
+      a WG as there is…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -238,19 +284,6 @@ decisions:
     message:
     - spelling: eng
       value: Approved unanimously
-- identifier:
-  - prefix: ISO/TC 154
-    number: '316'
-  urn: urn:iso:tc154:resolution:plenary-30:316
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2011-09-14'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -272,6 +305,23 @@ decisions:
         that liaison experts are welcome and explicitly invited to
         participate in the future development of the technical report on
         the usage of ISO 6422 in the world.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '317'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:317
+  dates:
+  - date: '2011-09-14'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Instruct its secretariat to prepare a NWIP ballot to develop a Technical
+      Report regarding…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -281,19 +331,6 @@ decisions:
     message:
     - spelling: eng
       value: Approved unanimously
-- identifier:
-  - prefix: ISO/TC 154
-    number: '317'
-  urn: urn:iso:tc154:resolution:plenary-30:317
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2011-09-14'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -305,6 +342,23 @@ decisions:
         to develop a Technical Report regarding the progress of ISO 6422, taking into
         account the various comments from National Standard Bodies. This work item
         is registered in the preliminary stage
+- identifier:
+  - prefix: ISO/TC 154
+    number: '318'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:318
+  dates:
+  - date: '2011-09-14'
+    type: adoption
+  title:
+  - spelling: eng
+    value: EbMoU/MG to endorse TC 154’s action - To note that the new ISO28000 series
+      standards…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -314,19 +368,6 @@ decisions:
     message:
     - spelling: eng
       value: Approved unanimously
-- identifier:
-  - prefix: ISO/TC 154
-    number: '318'
-  urn: urn:iso:tc154:resolution:plenary-30:318
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2011-09-14'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: requests
     date_effective:
@@ -341,6 +382,22 @@ decisions:
         - To note that ISO/TC 8 has not been responding to requests of the ebMoU/MG to clarify the situation;
         - Request ISO/TMB to act on this situation – to ensure that TC8 does not publish standards without due consultation with other TCs and acknowledged liaison organizations.
         - Request ISO/TMB to suspend the work on the ISO 28000 series and consider the withdrawal of its published standards should TC 8 continue to work on this topic without the due consultation of other groups
+- identifier:
+  - prefix: ISO/TC 154
+    number: '319'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:319
+  dates:
+  - date: '2011-09-14'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Dissolve the Coordination Advisory Group
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -350,19 +407,6 @@ decisions:
     message:
     - spelling: eng
       value: Approved unanimously
-- identifier:
-  - prefix: ISO/TC 154
-    number: '319'
-  urn: urn:iso:tc154:resolution:plenary-30:319
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2011-09-14'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -371,6 +415,23 @@ decisions:
     message:
     - spelling: eng
       value: ISO/TC 154 resolves to dissolve the Coordination Advisory Group
+- identifier:
+  - prefix: ISO/TC 154
+    number: '320'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:320
+  dates:
+  - date: '2011-09-14'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Support the two chairmen of TC 154 and UN/CEFACT in their effort to coordinate
+      the…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -380,19 +441,6 @@ decisions:
     message:
     - spelling: eng
       value: Approved unanimously
-- identifier:
-  - prefix: ISO/TC 154
-    number: '320'
-  urn: urn:iso:tc154:resolution:plenary-30:320
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2011-09-14'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: supports
     date_effective:
@@ -402,6 +450,23 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 resolves to support the two chairmen of TC 154 and UN/CEFACT
         in their effort to coordinate the activities of their organisations
+- identifier:
+  - prefix: ISO/TC 154
+    number: '321'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:321
+  dates:
+  - date: '2011-09-14'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Thank Mrs. Melitta Rafelt for the excellent technical service she has provided
+      for…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -411,19 +476,6 @@ decisions:
     message:
     - spelling: eng
       value: Approved unanimously
-- identifier:
-  - prefix: ISO/TC 154
-    number: '321'
-  urn: urn:iso:tc154:resolution:plenary-30:321
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2011-09-14'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: thanks
     date_effective:
@@ -433,6 +485,23 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 resolves to thank Mrs. Melitta Rafelt for the excellent technical
         service she has provided for updating the JSWG (ISO9735) web page
+- identifier:
+  - prefix: ISO/TC 154
+    number: '322'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-30:322
+  dates:
+  - date: '2011-09-14'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Thank ITU, Martin Euchner, for their excellent hosting of the TC 154 meetings
+      and…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -442,19 +511,6 @@ decisions:
     message:
     - spelling: eng
       value: Approved unanimously
-- identifier:
-  - prefix: ISO/TC 154
-    number: '322'
-  urn: urn:iso:tc154:resolution:plenary-30:322
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2011-09-14'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: thanks
     date_effective:
@@ -464,12 +520,3 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 resolves to thank ITU, Martin Euchner, for their excellent
         hosting of the TC 154 meetings and explicitly for the GoToMeeting facilities
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '2011-09-14'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Approved unanimously

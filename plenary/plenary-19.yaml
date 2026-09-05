@@ -1,5 +1,4 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
-
 ---
 metadata:
   title:
@@ -11,16 +10,29 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '212'
-  urn: urn:iso:tc154:resolution:plenary-19:212
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:212
   dates:
   - date: '2002-09-06'
     type: adoption
+  title:
+  - spelling: eng
+    value: Migrate the existing liaisons with the EWG and CDWG to the UN/CEFACT Forum,
+      and requests…
   subject:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2002-09-06'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
   actions:
   - type: resolves
     date_effective:
@@ -31,6 +43,23 @@ decisions:
       value: ISO/TC 154 resolves to migrate the existing liaisons with the EWG and
         CDWG to the UN/CEFACT Forum, and requests the ISO/TC 154 Chair to contact
         the Forum Coordination Team to secure this migration.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '213'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:213
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Thank JSWG for the successful revision of ISO 9735 and for the publication
+      facilities…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -40,19 +69,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '213'
-  urn: urn:iso:tc154:resolution:plenary-19:213
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: thanks
     date_effective:
@@ -64,6 +80,22 @@ decisions:
         9735 and for the publication facilities that provide access to these documents.
         In particular TC 154 resolves to thank Bernd Boesler and Henry Schlieper for
         providing excellent and efficient hosting facilities for the JSWG web-site.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '214'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:214
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Establish a liaison with CEN/ISSS WS EC and WS eBES.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -73,19 +105,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '214'
-  urn: urn:iso:tc154:resolution:plenary-19:214
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: establishes
     date_effective:
@@ -95,6 +114,23 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 resolves to establish a liaison with CEN/ISSS WS EC and WS
         eBES.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '215'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:215
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Establish a liaison with ISO/TC 204 and to express interest in being a
+      party to their MoU…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -104,19 +140,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '215'
-  urn: urn:iso:tc154:resolution:plenary-19:215
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: establishes
     date_effective:
@@ -127,6 +150,22 @@ decisions:
       value: ISO/TC 154 resolves to establish a liaison with ISO/TC 204 and to express
         interest in being a party to their MoU on "Standards development for freight
         movement within the supply chain".
+- identifier:
+  - prefix: ISO/TC 154
+    number: '216'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:216
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Establish a liaison with ISO/TC 46/SC 11.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -136,19 +175,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '216'
-  urn: urn:iso:tc154:resolution:plenary-19:216
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: estabilishes
     date_effective:
@@ -157,6 +183,23 @@ decisions:
     message:
     - spelling: eng
       value: ISO/TC 154 resolves to establish a liaison with ISO/TC 46/SC 11.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '217'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:217
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Discontinue its liaison with ISO/TC 10, relying on good advice coming from
+      ISO/TC 184.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -166,19 +209,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '217'
-  urn: urn:iso:tc154:resolution:plenary-19:217
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -188,6 +218,23 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 resolves to discontinue its liaison with ISO/TC 10, relying
         on good advice coming from ISO/TC 184.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '218'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:218
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Set up a Task Force to process the substantive comments in a subsequent
+      revision of ISO…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -197,19 +244,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '218'
-  urn: urn:iso:tc154:resolution:plenary-19:218
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -223,6 +257,23 @@ decisions:
         The task force members are: Mr Vuilleumier (SNV, CH, Convener), Mr Visser (NEN, NL), Mr Crowley (US), Mr Itoh (JISC, JP), Mr Boesler (DIN, DE) and Mr Bezos (ISO/TC 184 liaison).
 
         The TF Convener shall report back to the ISO/TC 154 before end of 2002.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '219'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:219
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Identifies ISO/FDIS 18513, "Tourism services – Hotels and other types of
+      tourism…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -232,19 +283,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '219'
-  urn: urn:iso:tc154:resolution:plenary-19:219
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: identifies
     date_effective:
@@ -254,6 +292,23 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 identifies ISO/FDIS 18513, "Tourism services – Hotels and
         other types of tourism accommodation - Terminolgy", as an interesting document.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '12'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:12
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Chair to take note that the next ISO 11180, "Postal addressing", systematic
+      review will…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -263,19 +318,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '12'
-  urn: urn:iso:tc154:resolution:plenary-19:12
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -285,6 +327,23 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 Chair to take note that the next ISO 11180, "Postal addressing",
         systematic review will take place in 2003.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '13'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:13
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Chair to take note that the next ISO TS 16668, "BSR", systematic review
+      will take place…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -294,19 +353,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '13'
-  urn: urn:iso:tc154:resolution:plenary-19:13
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -316,6 +362,23 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 Chair to take note that the next ISO TS 16668, "BSR", systematic
         review will take place in 2003.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '220'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:220
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Resolves, in line with ISO7372MA resolution 2 (see document 154 N 420),
+      to request its WG…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -325,19 +388,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '220'
-  urn: urn:iso:tc154:resolution:plenary-19:220
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: requests
     date_effective:
@@ -354,6 +404,23 @@ decisions:
         at its next meeting.
 
         '
+- identifier:
+  - prefix: ISO/TC 154
+    number: '221'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:221
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: ISO/TC 154, taking account of changes in semantic registers development,
+      agrees to the WG…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -363,19 +430,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '221'
-  urn: urn:iso:tc154:resolution:plenary-19:221
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: agrees
     date_effective:
@@ -391,6 +445,22 @@ decisions:
         (TC 154 resolution 159: see doc. 154n303).
 
         '
+- identifier:
+  - prefix: ISO/TC 154
+    number: '14'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:14
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: ISO NP 22208 Project Leader to provide the CD, for processing ballot.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -400,19 +470,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '14'
-  urn: urn:iso:tc154:resolution:plenary-19:14
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -421,6 +478,23 @@ decisions:
     message:
     - spelling: eng
       value: ISO NP 22208 Project Leader to provide the CD, for processing ballot.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '222'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:222
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Endorse the resolutions and action items adopted by the ISO7372MA and ISO/TC
+      154/WG 1…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -430,19 +504,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '222'
-  urn: urn:iso:tc154:resolution:plenary-19:222
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: endorses
     date_effective:
@@ -452,6 +513,23 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 resolves to endorse the resolutions and action items adopted
         by the ISO7372MA and ISO/TC 154/WG 1 documented in document 154 N 420.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '223'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:223
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Hold its next meeting together with the ISO7372MA and ISO/TC 154/WG 1 back
+      to back before…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -461,19 +539,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '223'
-  urn: urn:iso:tc154:resolution:plenary-19:223
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: resolves
     date_effective:
@@ -486,6 +551,23 @@ decisions:
         to a decision on the date and place of the forum being made by end of 2002-09.
         Should a decision on the Forum date not being available in time, TC 154 Chair
         will secure an alternative.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '224'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:224
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Thank Margaret Pemberton, SAI/AU and EWG, and Henry Schlieper, DIN/DE,
+      for their…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -495,19 +577,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '224'
-  urn: urn:iso:tc154:resolution:plenary-19:224
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: thanks
     date_effective:
@@ -520,6 +589,23 @@ decisions:
         ISO7372MA and also to thank Jean-Loup Commo, AFNOR/FR for the excellent and
         effective editing of the ISO7372MA and ISO/TC 154/WG1, as well as the ISO/TC
         154 resolutions.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '225'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:225
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Thank the chair and members of WG 1 for their excellent contribution to
+      the work of the…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -529,19 +615,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '225'
-  urn: urn:iso:tc154:resolution:plenary-19:225
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: thanks
     date_effective:
@@ -552,6 +625,23 @@ decisions:
       value: ISO/TC 154 resolves to thank the chair and members of WG 1 for their
         excellent contribution to the work of the ISO7372MA and in particular for
         the availability of the BSR semantic engine.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '226'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-19:226
+  dates:
+  - date: '2002-09-06'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Thank the Direction du III e arrondissement, Geneva, of the Swiss Customs
+      Administration…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
   approvals:
   - type: affirmative
     degree: unanimous
@@ -561,19 +651,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '226'
-  urn: urn:iso:tc154:resolution:plenary-19:226
-  kind: resolution
-  status: decided
-  dates:
-  - date: '2002-09-06'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
-      and administration
   actions:
   - type: thanks
     date_effective:
@@ -585,12 +662,3 @@ decisions:
         of the Swiss Customs Administration for providing excellent and efficient
         hosting facilities for this meeting and in particular to thank François Vuilleumier,
         SNV/CH and ISO/TC 154 Chair for planning and facilitation.
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '2002-09-06'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Unanimous

@@ -1,5 +1,4 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
-
 ---
 metadata:
   title:
@@ -11,24 +10,19 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '171'
-  urn: urn:iso:tc154:resolution:plenary-16:171
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:171
   dates:
   - date: '1999-12-07'
     type: adoption
+  title:
+  - spelling: eng
+    value: Grant an International Liaison A status for the International Federation
+      of Freight…
   subject:
   - spelling: eng
     value: ISO/TC 154
-  actions:
-  - type: resolves
-    date_effective:
-      date: '1999-12-08'
-      type: effective
-    message:
-    - spelling: eng
-      value: ISO/TC 154 resolves to grant an International Liaison A status for the
-        International Federation of Freight Forwarders Associations (FIATA).
   approvals:
   - type: affirmative
     degree: unanimous
@@ -38,18 +32,40 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
+  actions:
+  - type: resolves
+    date_effective:
+      date: '1999-12-08'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 resolves to grant an International Liaison A status for the
+        International Federation of Freight Forwarders Associations (FIATA).
 - identifier:
   - prefix: ISO/TC 154
     number: '172'
-  urn: urn:iso:tc154:resolution:plenary-16:172
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:172
   dates:
   - date: '1999-12-07'
     type: adoption
+  title:
+  - spelling: eng
+    value: All documents of ISO/TC 154 will only be distributed electronically from
+      now on.
   subject:
   - spelling: eng
     value: ISO/TC 154
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1999-12-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
   actions:
   - type: resolves
     date_effective:
@@ -61,6 +77,21 @@ decisions:
         electronically from now on. A task force composed of TC 154 Chair, secretary,
         WG1 secretary, ISO/CS and JSWG secretary will finalize the organization of
         the stock of ISO TC 154 documents.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '173'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:173
+  dates:
+  - date: '1999-12-07'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Hold its next meeting in the 2nd half of year 2000 in Europe.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -70,18 +101,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '173'
-  urn: urn:iso:tc154:resolution:plenary-16:173
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1999-12-07'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -98,6 +117,46 @@ decisions:
     message:
     - spelling: eng
       value: ISO/TC 154 thanks CSNI (CZ) for their offer to host the meeting in Prague.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '174'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:174
+  dates:
+  - date: '1999-12-07'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Recognizes the need for a revision of ISO 7372, especially for aligning
+      between paper…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  considerations:
+  - type: identifying
+    date_effective:
+      date: '1999-12-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: identifying ISO 7372 as a key element in the set of ISO standards as
+        listed in N324 - Suite of ISO standards around the UN Layout-Key and UNTDED
+  - type: recognizing
+    date_effective:
+      date: '1999-12-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: recognizing TC 154 resolutions 162 and 163 and MoU resolution 99/27
+  - type: recognizing
+    date_effective:
+      date: '1999-12-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: confirming the maintenance procedures of the standard as stated in ISO
+        7372, section 2
   approvals:
   - type: affirmative
     degree: unanimous
@@ -107,18 +166,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '174'
-  urn: urn:iso:tc154:resolution:plenary-16:174
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1999-12-07'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: recognizes
     date_effective:
@@ -147,6 +194,22 @@ decisions:
       value: resolves to freeze the new work item N319 – Revison of ISO 7372 – Trade
         data interchange – Trade data elements directory, until the Task Team reports
         back to TC 154.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '175'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:175
+  dates:
+  - date: '1999-12-07'
+    type: adoption
+  title:
+  - spelling: eng
+    value: The corrections to be made to ISO 8440 to be Y2K compatible as stated in
+      N316 – Proposal…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -156,42 +219,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-  considerations:
-  - type: identifying
-    date_effective:
-      date: '1999-12-07'
-      type: effective
-    message:
-    - spelling: eng
-      value: identifying ISO 7372 as a key element in the set of ISO standards as
-        listed in N324 - Suite of ISO standards around the UN Layout-Key and UNTDED
-  - type: recognizing
-    date_effective:
-      date: '1999-12-07'
-      type: effective
-    message:
-    - spelling: eng
-      value: recognizing TC 154 resolutions 162 and 163 and MoU resolution 99/27
-  - type: recognizing
-    date_effective:
-      date: '1999-12-07'
-      type: effective
-    message:
-    - spelling: eng
-      value: confirming the maintenance procedures of the standard as stated in ISO
-        7372, section 2
-- identifier:
-  - prefix: ISO/TC 154
-    number: '175'
-  urn: urn:iso:tc154:resolution:plenary-16:175
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1999-12-07'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -203,6 +230,22 @@ decisions:
         Y2K compatible as stated in N316 – Proposal for the revision of ISO 8440 “Location
         of codes in trade", are a minor revision of the standard. TC 154 secretary
         with the Chair will prepare the changes to be sent for FDIS ballot.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '176'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:176
+  dates:
+  - date: '1999-12-07'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Revise ISO 8601 within the time frame of maximum three years, starting
+      December 1999,…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -211,19 +254,7 @@ decisions:
       type: adoption
     message:
     - spelling: eng
-      value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '176'
-  urn: urn:iso:tc154:resolution:plenary-16:176
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1999-12-07'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
+      value: Adopted with one abstention, FR
   actions:
   - type: resolves
     date_effective:
@@ -234,6 +265,32 @@ decisions:
       value: ISO/TC 154 resolves to revise ISO 8601 within the time frame of maximum
         three years, starting December 1999, with Mr. Visser (NNI, NL) as editor with
         the participation of SNV (CH), BSI (GB), DS (DK), CSNI (CZ).
+- identifier:
+  - prefix: ISO/TC 154
+    number: '177'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:177
+  dates:
+  - date: '1999-12-07'
+    type: adoption
+  title:
+  - spelling: eng
+    value: To consolidate all syntax service directories' addendums of the published
+      parts 1 to 9 of…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
+  considerations:
+  - type: recognises
+    date_effective:
+      date: '1999-12-07'
+      type: effective
+    message:
+    - spelling: eng
+      value: 'recognises the need of the users for easy implementation of ISO 9735,
+        version 4, published in 1998/99 and therefore recommends to the Joint Syntax
+        Working Group (JSWG):'
   approvals:
   - type: affirmative
     degree: unanimous
@@ -242,19 +299,7 @@ decisions:
       type: adoption
     message:
     - spelling: eng
-      value: Adopted with one abstention, FR
-- identifier:
-  - prefix: ISO/TC 154
-    number: '177'
-  urn: urn:iso:tc154:resolution:plenary-16:177
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1999-12-07'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
+      value: Unanimous
   actions:
   - type: recommends
     date_effective:
@@ -300,6 +345,22 @@ decisions:
         and reprinted in 1990) and Amendment 1:1992) is understood as "retained version"
         which is still a valid standard version and may be used further on, based
         on business needs.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '178'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:178
+  dates:
+  - date: '1999-12-07'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Create a ISO/TC 154 Chair Advisory Board, consisting of JISC (JP), BSI
+      (GB), DIN (DE) and…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -309,28 +370,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-  considerations:
-  - type: recognises
-    date_effective:
-      date: '1999-12-07'
-      type: effective
-    message:
-    - spelling: eng
-      value: 'recognises the need of the users for easy implementation of ISO 9735,
-        version 4, published in 1998/99 and therefore recommends to the Joint Syntax
-        Working Group (JSWG):'
-- identifier:
-  - prefix: ISO/TC 154
-    number: '178'
-  urn: urn:iso:tc154:resolution:plenary-16:178
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1999-12-07'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -342,46 +381,22 @@ decisions:
         of JISC (JP), BSI (GB), DIN (DE) and AFNOR (FR) to progress inter-sessional
         work activities. The Board will not have any decision making authority unless
         agreed by ISO/TC 154.
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '1999-12-07'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Unanimous
 - identifier:
   - prefix: ISO/TC 154
     number: '179'
-  urn: urn:iso:tc154:resolution:plenary-16:179
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:179
   dates:
   - date: '1999-12-07'
     type: adoption
+  title:
+  - spelling: eng
+    value: Adopts N312 – Basic Semantics Register (BSR) – Rules, Guidelines and Methodology
+      (TS…
   subject:
   - spelling: eng
     value: ISO/TC 154
-  actions:
-  - type: adopts
-    date_effective:
-      date: '1999-12-08'
-      type: effective
-    message:
-    - spelling: eng
-      value: adopts N312 – Basic Semantics Register (BSR) – Rules, Guidelines and
-        Methodology (TS 16668) as modified by WG 1 and instructs the editor to produce
-        a final version of this Technical Specification (TS) for publication by ISO.
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '1999-12-07'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Unanimous
   considerations:
   - type: considering
     date_effective:
@@ -407,18 +422,49 @@ decisions:
     - spelling: eng
       value: that France changed its vote to “approved”, therefore changing the vote
         to 9 approved, 2 disapproved, 1 abstention;
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1999-12-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
+  actions:
+  - type: adopts
+    date_effective:
+      date: '1999-12-08'
+      type: effective
+    message:
+    - spelling: eng
+      value: adopts N312 – Basic Semantics Register (BSR) – Rules, Guidelines and
+        Methodology (TS 16668) as modified by WG 1 and instructs the editor to produce
+        a final version of this Technical Specification (TS) for publication by ISO.
 - identifier:
   - prefix: ISO/TC 154
     number: '180'
-  urn: urn:iso:tc154:resolution:plenary-16:180
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:180
   dates:
   - date: '1999-12-07'
     type: adoption
+  title:
+  - spelling: eng
+    value: Nominate DIN (H. Hermes, DE) and BSI (S.
   subject:
   - spelling: eng
     value: ISO/TC 154
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1999-12-07'
+      type: adoption
+    message:
+    - spelling: eng
+      value: Unanimous
   actions:
   - type: resolves
     date_effective:
@@ -429,6 +475,22 @@ decisions:
       value: ISO/TC 154 resolves to nominate DIN (H. Hermes, DE) and BSI (S. Probert,
         UK) to act as TC 154 representative in the ebXML initiative and report back
         to ISO/TC 154.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '181'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:181
+  dates:
+  - date: '1999-12-07'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Initiate a new work item ballot as proposed in N315- EDIFACT Rules for
+      the markup of…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -438,18 +500,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '181'
-  urn: urn:iso:tc154:resolution:plenary-16:181
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1999-12-07'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -460,6 +510,22 @@ decisions:
       value: ISO/TC 154 resolves to initiate a new work item ballot as proposed in
         N315- EDIFACT Rules for the markup of UN/EDIFACT interchange structures with
         the eXtended Markup Langauge (XML) using Document Type Definitions (DTDs).
+- identifier:
+  - prefix: ISO/TC 154
+    number: '182'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:182
+  dates:
+  - date: '1999-12-07'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Initiate a new work item ballot as proposed in N318- Rules for the operation
+      of EDI/EC…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -469,18 +535,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '182'
-  urn: urn:iso:tc154:resolution:plenary-16:182
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1999-12-07'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: resolves
     date_effective:
@@ -492,6 +546,22 @@ decisions:
         N318- Rules for the operation of EDI/EC registration authorities. The start
         of the ballot is postponed until the final ballot document is approved by
         the ISO/TC 154 Chair Advisory Board.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '183'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-16:183
+  dates:
+  - date: '1999-12-07'
+    type: adoption
+  title:
+  - spelling: eng
+    value: It is open to process any documents or requests presented by UN/CEFACT
+      relating to the…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154
   approvals:
   - type: affirmative
     degree: unanimous
@@ -501,18 +571,6 @@ decisions:
     message:
     - spelling: eng
       value: Unanimous
-- identifier:
-  - prefix: ISO/TC 154
-    number: '183'
-  urn: urn:iso:tc154:resolution:plenary-16:183
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1999-12-07'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154
   actions:
   - type: confirms
     date_effective:
@@ -523,12 +581,3 @@ decisions:
       value: ISO/TC 154 confirms that it is open to process any documents or requests
         presented by UN/CEFACT relating to the UN/ECE Recommendation 20, Units of
         measure used in international trade
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '1999-12-07'
-      type: adoption
-    message:
-    - spelling: eng
-      value: Unanimous

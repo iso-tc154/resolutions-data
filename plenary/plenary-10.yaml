@@ -1,5 +1,4 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
-
 ---
 metadata:
   title:
@@ -11,16 +10,29 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: '88'
-  urn: urn:iso:tc154:resolution:plenary-10:88
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:88
   dates:
   - date: '1995-08-31'
     type: adoption
+  title:
+  - spelling: eng
+    value: 'Current scope of ISO/TC is: _"Standardization of documents and representation
+      of data…'
   subject:
   - spelling: eng
     value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
       Industry"
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '1995-08-31'
+      type: adoption
+    message:
+    - spelling: eng
+      value: UNANIMOUS
   actions:
   - type: scopes
     date_effective:
@@ -74,6 +86,23 @@ decisions:
         syntax (ISO 9735) AND TDED (ISO 7372) in accordance with the
         Memorandum of Understanding (MoU) between IEC, ISO and UN/ECE
         concerning standardization in the field of EDI and Open-edi.
+- identifier:
+  - prefix: ISO/TC 154
+    number: '89'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:89
+  dates:
+  - date: '1995-08-31'
+    type: adoption
+  title:
+  - spelling: eng
+    value: TC 154 directs its secretariat to review, maintain and establish offical
+      liaisons with…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
+      Industry"
   approvals:
   - type: affirmative
     degree: unanimous
@@ -83,19 +112,6 @@ decisions:
     message:
     - spelling: eng
       value: UNANIMOUS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '89'
-  urn: urn:iso:tc154:resolution:plenary-10:89
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1995-08-31'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
-      Industry"
   actions:
   - type: directs
     date_effective:
@@ -106,6 +122,23 @@ decisions:
       value: |
         TC 154 directs its secretariat to review, maintain and establish offical liaisons with bodies within and outside ISO. These include but are not limited to:
         BSR, JTC 1 and its relevant SCs, concerned ISO/TCs (e.g. TC 68, TC 184 and TC 46), and other relevant EDI organisations (e.g. UN/ECE and CCC)
+- identifier:
+  - prefix: ISO/TC 154
+    number: '90'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:90
+  dates:
+  - date: '1995-08-31'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Directs its secretariat to enforce Annex A.2 of the Memorandum of Understanding
+      (MoU)…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
+      Industry"
   approvals:
   - type: affirmative
     degree: unanimous
@@ -115,19 +148,6 @@ decisions:
     message:
     - spelling: eng
       value: UNANIMOUS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '90'
-  urn: urn:iso:tc154:resolution:plenary-10:90
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1995-08-31'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
-      Industry"
   actions:
   - type: directs
     date_effective:
@@ -156,6 +176,22 @@ decisions:
         ISO-UN/ECE activity in the field of EDIFACT application level syntax (ISO
         9735) and to ask for the nomination of experts for the meeting of the joint
         group (Geneva 1995-11-27/12-01)
+- identifier:
+  - prefix: ISO/TC 154
+    number: '91'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:91
+  dates:
+  - date: '1995-08-31'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Adopts the ISO/TC 154 U.S.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
+      Industry"
   approvals:
   - type: affirmative
     degree: unanimous
@@ -165,19 +201,6 @@ decisions:
     message:
     - spelling: eng
       value: UNANIMOUS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '91'
-  urn: urn:iso:tc154:resolution:plenary-10:91
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1995-08-31'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
-      Industry"
   actions:
   - type: adopts
     date_effective:
@@ -187,6 +210,23 @@ decisions:
     - spelling: eng
       value: ISO/TC 154 adopts the ISO/TC 154 U.S. TAG position as expressed in document
         in ISO/TC 154 N 164, page 1 (see annex)
+- identifier:
+  - prefix: ISO/TC 154
+    number: '92'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:92
+  dates:
+  - date: '1995-08-31'
+    type: adoption
+  title:
+  - spelling: eng
+    value: 'TC 154 resolves to create an ad hoc group to consider: 1 maintainenance
+      of the current…'
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
+      Industry"
   approvals:
   - type: affirmative
     degree: unanimous
@@ -196,19 +236,6 @@ decisions:
     message:
     - spelling: eng
       value: UNANIMOUS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '92'
-  urn: urn:iso:tc154:resolution:plenary-10:92
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1995-08-31'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
-      Industry"
   actions:
   - type: resolves
     date_effective:
@@ -220,6 +247,22 @@ decisions:
         TC 154 resolves to create an ad hoc group to consider:
         1 maintainenance of the current ISO 7372 or
         2 redevelopment of ISO 7372 in harmony with UN/ECE TDID and publication of both directories as ISO Standards
+- identifier:
+  - prefix: ISO/TC 154
+    number: '93'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:93
+  dates:
+  - date: '1995-08-31'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Appreciates the announcement of a member of the U.S.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
+      Industry"
   approvals:
   - type: affirmative
     degree: unanimous
@@ -229,19 +272,6 @@ decisions:
     message:
     - spelling: eng
       value: UNANIMOUS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '93'
-  urn: urn:iso:tc154:resolution:plenary-10:93
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1995-08-31'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
-      Industry"
   actions:
   - type: thanks
     date_effective:
@@ -252,6 +282,23 @@ decisions:
       value: ISO/TC 154 appreciates the announcement of a member of the U.S. delegation
         to investigate the possibility for taking over the responsability of the SC2
         (Documents) secretariat before 1995-12-31
+- identifier:
+  - prefix: ISO/TC 154
+    number: '94'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:94
+  dates:
+  - date: '1995-08-31'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Asks its secretariat to take the necessary steps for the review of the
+      following old and…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
+      Industry"
   approvals:
   - type: affirmative
     degree: unanimous
@@ -261,19 +308,6 @@ decisions:
     message:
     - spelling: eng
       value: UNANIMOUS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '94'
-  urn: urn:iso:tc154:resolution:plenary-10:94
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1995-08-31'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
-      Industry"
   actions:
   - type: requests
     date_effective:
@@ -293,6 +327,23 @@ decisions:
         - ISO/NP 13187 Representation of tourism data elements for data interchange (reg.: 83-04)
 
         This should be done in accordance with the Technical Management Board decisions taken at the meeting on 1995-05-12/13 by letter ballot before 1995-12-31
+- identifier:
+  - prefix: ISO/TC 154
+    number: '95'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:95
+  dates:
+  - date: '1995-08-31'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Its P member bodies to decide upon the results of the periodical reviews
+      (see ISO/TC 154…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
+      Industry"
   approvals:
   - type: affirmative
     degree: unanimous
@@ -302,19 +353,6 @@ decisions:
     message:
     - spelling: eng
       value: UNANIMOUS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '95'
-  urn: urn:iso:tc154:resolution:plenary-10:95
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1995-08-31'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
-      Industry"
   actions:
   - type: requests
     date_effective:
@@ -329,6 +367,23 @@ decisions:
         - ISO 8439 Forms design - Basic layout
 
         before 1996-12-31
+- identifier:
+  - prefix: ISO/TC 154
+    number: '96'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:96
+  dates:
+  - date: '1995-08-31'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Asks its secretariat to clarify in contact with the UN/ECE WP.4 secretariat
+      whether the…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
+      Industry"
   approvals:
   - type: affirmative
     degree: unanimous
@@ -338,19 +393,6 @@ decisions:
     message:
     - spelling: eng
       value: UNANIMOUS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '96'
-  urn: urn:iso:tc154:resolution:plenary-10:96
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1995-08-31'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
-      Industry"
   actions:
   - type: requests
     date_effective:
@@ -361,6 +403,22 @@ decisions:
       value: ISO/TC 154 asks its secretariat to clarify in contact with the UN/ECE
         WP.4 secretariat whether the wish still exists to transfer the ECE Recommendation
         No 6 "Aligned Invoice Layout Key" into an ISO Standard
+- identifier:
+  - prefix: ISO/TC 154
+    number: '97'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:97
+  dates:
+  - date: '1995-08-31'
+    type: adoption
+  title:
+  - spelling: eng
+    value: ISO 8601 (Dates and times) is to be revised.
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
+      Industry"
   approvals:
   - type: affirmative
     degree: unanimous
@@ -370,19 +428,6 @@ decisions:
     message:
     - spelling: eng
       value: UNANIMOUS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '97'
-  urn: urn:iso:tc154:resolution:plenary-10:97
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1995-08-31'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
-      Industry"
   actions:
   - type: agrees
     date_effective:
@@ -402,6 +447,23 @@ decisions:
     message:
     - spelling: eng
       value: ISO/TC 154 appreciates the offer of NNI to take over the secretariat
+- identifier:
+  - prefix: ISO/TC 154
+    number: '98'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:98
+  dates:
+  - date: '1995-08-31'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Asks its secretariat to take the necessary steps to raise a new work item
+      on the basis of…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
+      Industry"
   approvals:
   - type: affirmative
     degree: unanimous
@@ -411,19 +473,6 @@ decisions:
     message:
     - spelling: eng
       value: UNANIMOUS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '98'
-  urn: urn:iso:tc154:resolution:plenary-10:98
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1995-08-31'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
-      Industry"
   actions:
   - type: asks
     date_effective:
@@ -434,6 +483,23 @@ decisions:
       value: ISO/TC 154 asks its secretariat to take the necessary steps to raise
         a new work item on the basis of the Dutch proposal as expressed in document
         ISO/TC 154 N 151 "Standardization of functional data elements"
+- identifier:
+  - prefix: ISO/TC 154
+    number: '99'
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-10:99
+  dates:
+  - date: '1995-08-31'
+    type: adoption
+  title:
+  - spelling: eng
+    value: Committee expresses its appreciation to DIN for hosting the meeting, to
+      the chairman for…
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
+      Industry"
   approvals:
   - type: affirmative
     degree: unanimous
@@ -442,20 +508,7 @@ decisions:
       type: adoption
     message:
     - spelling: eng
-      value: UNANIMOUS
-- identifier:
-  - prefix: ISO/TC 154
-    number: '99'
-  urn: urn:iso:tc154:resolution:plenary-10:99
-  kind: resolution
-  status: decided
-  dates:
-  - date: '1995-08-31'
-    type: adoption
-  subject:
-  - spelling: eng
-    value: ISO/TC 154 "Documents and Data Elements in Administration, Commerce and
-      Industry"
+      value: ACCLAMATION
   actions:
   - type: thanks
     date_effective:
@@ -466,12 +519,3 @@ decisions:
       value: The Committee expresses its appreciation to DIN for hosting the meeting,
         to the chairman for his excellent leadership and to the secretary for his
         goo support
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '1995-08-31'
-      type: adoption
-    message:
-    - spelling: eng
-      value: ACCLAMATION
