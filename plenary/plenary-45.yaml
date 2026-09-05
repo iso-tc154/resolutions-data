@@ -464,3 +464,158 @@ decisions:
         resolves to extend the mandate of Mr. Anders Grangård as the convener of JWG1, Mr. Glenn
         Tice as the convener of WG2, Dr. Jasmine Jaegyong Chang as the convener of WG6 for the next 3 years
         2027-2029.
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-12
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-12
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Appreciation
+  title:
+  - spelling: eng
+    value: Appreciation of (J)WG Conveners and secretaries
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        expresses its appreciations to the Convenors and secretaries of its Working Groups: Mr.
+        Anders Grangård (UNECE), Mr. Glenn Tice (United Kingdom), Mr. Ronald Henry Tse (CalConnect), Mrs.
+        Jasmine Jaegyong Chang (Republic of Korea), Mr. Jim Wilson (OAGi), Ms. Yan Zhang (UNECE), Mr. Gregor
+        Roschkowski (Germany), and Mr. Kevin Bishop (UNECE) for their enthusiasm and continuous efforts that
+        they provided during the last plenary period.
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-13
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-13
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Appreciation
+  title:
+  - spelling: eng
+    value: Appreciation of the late Dr. Borges Rudolf
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: appreciates
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        appreciates the contributions of the late Dr. Borges Rudolf (DIN) who has heavily contributed
+        to WG 5, in numerous editions of ISO 8601, ISO 8601-1, ISO 8601-2, ISO 8601-1:2019/Amd 1:2025, ISO
+        8601-2:2019/Amd 1:2025, and ISO 34000.
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-14
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-14
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Appreciation
+  title:
+  - spelling: eng
+    value: Appreciation of all participants
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        warmly thanks all participants for the active participation, in particular those being on-line
+        during unearthly hours.
+- identifier:
+  - prefix: ISO/TC 154
+    number: P-2026-15
+  kind: resolution
+  status: decided
+  urn: urn:iso:tc154:resolution:plenary-45:P-2026-15
+  dates:
+  - date: '2026-09-04'
+    type: adoption
+  categories:
+  - Appreciation
+  title:
+  - spelling: eng
+    value: Appreciation of the meeting Host DIN
+  subject:
+  - spelling: eng
+    value: ISO/TC 154 Processes, data elements and documents in commerce, industry
+      and administration
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2026-09-04'
+      type: adoption
+    message:
+    - spelling: eng
+      value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2026-09-04'
+      type: effective
+    message:
+    - spelling: eng
+      value: |
+        expresses its sincere appreciations to DIN for hosting the (J)WG meetings and the 45th
+        ISO/TC154 plenary meeting at DIN, Berlin, Germany, and expresses its sincere appreciation to Mr.
+        Gregor Roschkowski and Ms. Kristina Schönebeck for organizing and preparing of the meetings.
+        ISO/TC154 also expresses its sincere appreciation to them for their excellent supports of the smooth
+        work of this Plenary.
