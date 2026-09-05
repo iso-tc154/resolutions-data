@@ -532,7 +532,7 @@ decisions:
     - spelling: eng
       value: DIN, SAC, JISC, BSI, KATS, UNI, 6 P-members approved.
   actions:
-  - type: appreciates
+  - type: thanks
     date_effective:
       date: '2026-09-04'
       type: effective
