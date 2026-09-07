@@ -1,5 +1,4 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
-
 ---
 metadata:
   title:
@@ -12,9 +11,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-01
-  urn: urn:iso:tc154:resolution:plenary-41:2022-01
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-01
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -26,6 +25,14 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering that there is no project in WG4
   actions:
   - type: resolves
     date_effective:
@@ -35,20 +42,12 @@ decisions:
     - spelling: eng
       value: resolves to disband WG4 as per the Clause 1.12.4 of ISO/IEC directives,
         effective immediately.
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: Considering that there is no project in WG4
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-02
-  urn: urn:iso:tc154:resolution:plenary-41:2022-02
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-02
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -62,6 +61,14 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering the amendment request
   actions:
   - type: resolves
     date_effective:
@@ -88,20 +95,12 @@ decisions:
         is 2023-03-30, and the target date for DIS ballot 2023-08-30, the target date
         for FDIS submission (if required) - 2024-03-30 and the target date for the
         publication is 2024-06-30.
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: Considering the amendment request
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-03
-  urn: urn:iso:tc154:resolution:plenary-41:2022-03
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-03
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -125,9 +124,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-04
-  urn: urn:iso:tc154:resolution:plenary-41:2022-04
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-04
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -140,6 +139,14 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering that change request of project leader of ISO/TR 19626-3
   actions:
   - type: resolves
     date_effective:
@@ -149,20 +156,12 @@ decisions:
     - spelling: eng
       value: resolves to re-nominate Mrs. Jasmine Jaegyong Chang from KATS as the
         project leader of ISO/TR 19626-3 to replace of Ms. Lee Jung Nam.
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: Considering that change request of project leader of ISO/TR 19626-3
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-05
-  urn: urn:iso:tc154:resolution:plenary-41:2022-05
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-05
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -175,15 +174,6 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to move ISO 15000-3 into the publication stage after the comments
-        disposition and update the draft accordingly.
   considerations:
   - type: considering
     date_effective:
@@ -193,12 +183,21 @@ decisions:
     - spelling: eng
       value: Considering that WG7 changed the “technical” comments on ISO/DIS 15000-3
         from SCC into “editorial” comments, all comments on ISO/DIS 15000-3 are editorial
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to move ISO 15000-3 into the publication stage after the comments
+        disposition and update the draft accordingly.
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-06
-  urn: urn:iso:tc154:resolution:plenary-41:2022-06
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-06
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -211,6 +210,14 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering a new proposal proposed by Mrs. Yang Wu from SAC
   actions:
   - type: resolves
     date_effective:
@@ -220,20 +227,12 @@ decisions:
     - spelling: eng
       value: resolves to adopt the proposal as a PWI on “Guidelines on risk-based
         product quality data interchange in E-commerce”.
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: Considering a new proposal proposed by Mrs. Yang Wu from SAC
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-07
-  urn: urn:iso:tc154:resolution:plenary-41:2022-07
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-07
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -247,6 +246,14 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering a new proposal proposed by Mr. Yu Shi from SAC
   actions:
   - type: resolves
     date_effective:
@@ -257,20 +264,12 @@ decisions:
       value: resolves to adopt the proposal as a PWI on “Processes, data elements
         and documents in commerce, industry and administration - Carbon data interoperability
         - Part 1 - Framework”.
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: Considering a new proposal proposed by Mr. Yu Shi from SAC
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-08
-  urn: urn:iso:tc154:resolution:plenary-41:2022-08
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-08
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -283,6 +282,14 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering a new proposal proposed by Mr. Jack Yao from SAC
   actions:
   - type: resolves
     date_effective:
@@ -292,20 +299,12 @@ decisions:
     - spelling: eng
       value: resolves to adopt the proposal as a PWI for the project “Digital trade
         -Basic concepts and key initiatives” as TR.
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: Considering a new proposal proposed by Mr. Jack Yao from SAC
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-09
-  urn: urn:iso:tc154:resolution:plenary-41:2022-09
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-09
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -318,6 +317,14 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering a new proposal proposed by Mr. Cheng Chi from SAC
   actions:
   - type: resolves
     date_effective:
@@ -327,20 +334,12 @@ decisions:
     - spelling: eng
       value: resolves to adopt the proposal as a PWI on “Technical requirements for
         blockchain implementation in industrial internet”.
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: Considering a new proposal proposed by Mr. Cheng Chi from SAC
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-10
-  urn: urn:iso:tc154:resolution:plenary-41:2022-10
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-10
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -362,7 +361,7 @@ decisions:
     - spelling: eng
       value: resolves to appoint Mrs. Jianhui Li from SAC as the project leader of
         ISO/TR 16340.
-  - type: appreciates
+  - type: thanks
     date_effective:
       date: '2022-10-14'
       type: adoption
@@ -372,9 +371,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-11
-  urn: urn:iso:tc154:resolution:plenary-41:2022-11
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-11
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -386,6 +385,14 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering the project was proposed by Dr. Youngkon Lee from KATS
   actions:
   - type: resolves
     date_effective:
@@ -395,20 +402,12 @@ decisions:
     - spelling: eng
       value: resolves to launch a NWIP ballot for ISO/PWI 16320-1 after the communication
         with TC307.
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: Considering the project was proposed by Dr. Youngkon Lee from KATS
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-12
-  urn: urn:iso:tc154:resolution:plenary-41:2022-12
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-12
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -420,6 +419,14 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering UNECE’s withdrawal from JWG8
   actions:
   - type: notifies
     date_effective:
@@ -435,20 +442,12 @@ decisions:
     message:
     - spelling: eng
       value: resolves to disband JWG8, effective immediately.
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: Considering UNECE’s withdrawal from JWG8
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-13
-  urn: urn:iso:tc154:resolution:plenary-41:2022-13
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-13
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -461,6 +460,14 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering the ToR proposed by UNECE and discussion of ISO/TC 154/CAG
   actions:
   - type: resolves
     date_effective:
@@ -470,20 +477,12 @@ decisions:
     - spelling: eng
       value: resolves to launch a 4-week CIB for comments on ToR (Term of Reference)
         after the draft is finished.
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: Considering the ToR proposed by UNECE and discussion of ISO/TC 154/CAG
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-14
-  urn: urn:iso:tc154:resolution:plenary-41:2022-14
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-14
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -496,6 +495,15 @@ decisions:
   subject:
   - spelling: eng
     value: ISO/TC 154
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2022-10-14'
+      type: effective
+    message:
+    - spelling: eng
+      value: Considering the possible project relevance between TC 154 and TC307 and
+        the request of ISO/TC 154/CAG
   actions:
   - type: resolves
     date_effective:
@@ -537,21 +545,12 @@ decisions:
       value: The ad-hoc group needs to deliver the first draft result report in 3
         months after its establishment and its final report in 6 months, after which
         it will be disbanded.
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2022-10-14'
-      type: effective
-    message:
-    - spelling: eng
-      value: Considering the possible project relevance between TC 154 and TC307 and
-        the request of ISO/TC 154/CAG
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-15
-  urn: urn:iso:tc154:resolution:plenary-41:2022-15
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-15
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -578,9 +577,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-16
-  urn: urn:iso:tc154:resolution:plenary-41:2022-16
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-16
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -613,9 +612,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-17
-  urn: urn:iso:tc154:resolution:plenary-41:2022-17
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-17
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -642,9 +641,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-18
-  urn: urn:iso:tc154:resolution:plenary-41:2022-18
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-18
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -669,9 +668,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-19
-  urn: urn:iso:tc154:resolution:plenary-41:2022-19
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-19
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -695,9 +694,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-20
-  urn: urn:iso:tc154:resolution:plenary-41:2022-20
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-20
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -724,9 +723,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-21
-  urn: urn:iso:tc154:resolution:plenary-41:2022-21
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-21
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -752,9 +751,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-22
-  urn: urn:iso:tc154:resolution:plenary-41:2022-22
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-22
   dates:
   - date: '2022-10-14'
     type: adoption
@@ -779,9 +778,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2022-23
-  urn: urn:iso:tc154:resolution:plenary-41:2022-23
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-41:2022-23
   dates:
   - date: '2022-10-14'
     type: adoption

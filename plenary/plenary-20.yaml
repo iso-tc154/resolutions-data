@@ -256,7 +256,7 @@ decisions:
     - spelling: eng
       value: Unanimous
   actions:
-  - type: request
+  - type: requests
     date_effective:
       date: '2003-03-07'
       type: effective

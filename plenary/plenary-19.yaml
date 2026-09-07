@@ -176,7 +176,7 @@ decisions:
     - spelling: eng
       value: Unanimous
   actions:
-  - type: estabilishes
+  - type: establishes
     date_effective:
       date: '2002-09-06'
       type: effective
