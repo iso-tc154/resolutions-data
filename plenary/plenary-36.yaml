@@ -1,5 +1,4 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/edoxen/edoxen/refs/heads/main/schema/edoxen.yaml
-
 ---
 metadata:
   title:
@@ -11,9 +10,9 @@ decisions:
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-01
-  urn: urn:iso:tc154:resolution:plenary-36:2017-01
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-01
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -26,16 +25,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: appreciates
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: ISO/TC 154 express great appreciation to Mr. Klaus-Dieter Naujok (former
-        Chairperson) for his persistent and outstanding contributions to ISO/TC 154,
-        and wish him all the best.
   approvals:
   - type: affirmative
     degree: unanimous
@@ -45,12 +34,22 @@ decisions:
     message:
     - spelling: eng
       value: The resolution was adopted by unanimity.
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: ISO/TC 154 express great appreciation to Mr. Klaus-Dieter Naujok (former
+        Chairperson) for his persistent and outstanding contributions to ISO/TC 154,
+        and wish him all the best.
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-02
-  urn: urn:iso:tc154:resolution:plenary-36:2017-02
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-02
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -62,24 +61,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to establish the new website of ISO/TC 154 (https://committee.iso.org/home/tc154),
-        and CAT members will provide the content of website
-  approvals:
-  - type: affirmative
-    degree: unanimous
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity.
   considerations:
   - type: considering
     date_effective:
@@ -89,12 +70,30 @@ decisions:
     - spelling: eng
       value: considering the transition of chairperson and CS role to have official
         website, and the result of voting for the new website in N902
+  approvals:
+  - type: affirmative
+    degree: unanimous
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity.
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to establish the new website of ISO/TC 154 (https://committee.iso.org/home/tc154),
+        and CAT members will provide the content of website
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-03
-  urn: urn:iso:tc154:resolution:plenary-36:2017-03
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-03
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -106,30 +105,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to remain ISO/TC 154 JWG1
-  - type: replaces
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: This resolution will replace resolution 01-2014, resolution 01-2015
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
   considerations:
   - type: considering
     date_effective:
@@ -162,12 +137,36 @@ decisions:
     - spelling: eng
       value: considering new possible project from GS1 to participate in the ISO/TC
         154 JWG1
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to remain ISO/TC 154 JWG1
+  - type: replaces
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: This resolution will replace resolution 01-2014, resolution 01-2015
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-04
-  urn: urn:iso:tc154:resolution:plenary-36:2017-04
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-04
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -178,14 +177,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: appoints
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to appoint Zhang Yan from UNECE as the convener of JWG1
   approvals:
   - type: affirmative
     degree: majority
@@ -195,12 +186,20 @@ decisions:
     message:
     - spelling: eng
       value: The resolution was adopted by unanimity
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to appoint Zhang Yan from UNECE as the convener of JWG1
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-05
-  urn: urn:iso:tc154:resolution:plenary-36:2017-05
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-05
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -211,15 +210,14 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
+  considerations:
+  - type: considering
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: resolves ISO 8601-1 to be submitted a new draft for FDIS ballot after
-        all of the comments resolved
+      value: considering the comment disposition status of ISO/DIS 8601-1
   approvals:
   - type: affirmative
     degree: majority
@@ -229,20 +227,21 @@ decisions:
     message:
     - spelling: eng
       value: The resolution was adopted by unanimity
-  considerations:
-  - type: considering
+  actions:
+  - type: resolves
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: considering the comment disposition status of ISO/DIS 8601-1
+      value: resolves ISO 8601-1 to be submitted a new draft for FDIS ballot after
+        all of the comments resolved
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-06
-  urn: urn:iso:tc154:resolution:plenary-36:2017-06
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-06
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -253,14 +252,14 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
+  considerations:
+  - type: considering
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: resolves ISO 8601-2 to be submitted for FDIS ballot after further modification
+      value: considering the comment disposition status of ISO/DIS 8601-2
   approvals:
   - type: affirmative
     degree: majority
@@ -270,20 +269,20 @@ decisions:
     message:
     - spelling: eng
       value: The resolution was adopted by unanimity
-  considerations:
-  - type: considering
+  actions:
+  - type: resolves
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: considering the comment disposition status of ISO/DIS 8601-2
+      value: resolves ISO 8601-2 to be submitted for FDIS ballot after further modification
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-07
-  urn: urn:iso:tc154:resolution:plenary-36:2017-07
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-07
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -294,14 +293,14 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
+  considerations:
+  - type: considering
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: resolves ISO/WD 14533-4 to be submitted for CD ballot after further modification
+      value: considering ISO/WD 14533-4 status
   approvals:
   - type: affirmative
     degree: majority
@@ -311,20 +310,20 @@ decisions:
     message:
     - spelling: eng
       value: The resolution was adopted by unanimity
-  considerations:
-  - type: considering
+  actions:
+  - type: resolves
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: considering ISO/WD 14533-4 status
+      value: resolves ISO/WD 14533-4 to be submitted for CD ballot after further modification
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-08
-  urn: urn:iso:tc154:resolution:plenary-36:2017-08
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-08
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -335,30 +334,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to revise ISO 14533-2
-  - type: requests
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: requests SOSMT and JISC to prepare the final draft for NWIP ballot
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
   considerations:
   - type: considering
     date_effective:
@@ -381,12 +356,36 @@ decisions:
     message:
     - spelling: eng
       value: considering the request from SK/SOSMT and JP/JISC to revise ISO 14533-2
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to revise ISO 14533-2
+  - type: requests
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: requests SOSMT and JISC to prepare the final draft for NWIP ballot
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-09
-  urn: urn:iso:tc154:resolution:plenary-36:2017-09
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-09
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -397,15 +396,14 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
+  considerations:
+  - type: considering
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: resolves ISO/CD 19626-1 to be submitted for DIS ballot after further
-        modification
+      value: considering the comment disposition status of ISO/CD 19626-1
   approvals:
   - type: affirmative
     degree: majority
@@ -415,20 +413,21 @@ decisions:
     message:
     - spelling: eng
       value: The resolution was adopted by unanimity
-  considerations:
-  - type: considering
+  actions:
+  - type: resolves
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: considering the comment disposition status of ISO/CD 19626-1
+      value: resolves ISO/CD 19626-1 to be submitted for DIS ballot after further
+        modification
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-10
-  urn: urn:iso:tc154:resolution:plenary-36:2017-10
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-10
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -439,6 +438,23 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering ISO/PWI 19626-2 draft status
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
   actions:
   - type: resolves
     date_effective:
@@ -454,29 +470,12 @@ decisions:
     message:
     - spelling: eng
       value: requests KATS to prepare the final draft for NWIP ballot
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: considering ISO/PWI 19626-2 draft status
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-11
-  urn: urn:iso:tc154:resolution:plenary-36:2017-11
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-11
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -487,14 +486,14 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
+  considerations:
+  - type: considering
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: resolves ISO 22468 to be submitted for CD ballot after further modification
+      value: considering ISO/AWI 22468 draft status
   approvals:
   - type: affirmative
     degree: majority
@@ -504,20 +503,20 @@ decisions:
     message:
     - spelling: eng
       value: The resolution was adopted by unanimity
-  considerations:
-  - type: considering
+  actions:
+  - type: resolves
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: considering ISO/AWI 22468 draft status
+      value: resolves ISO 22468 to be submitted for CD ballot after further modification
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-12
-  urn: urn:iso:tc154:resolution:plenary-36:2017-12
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-12
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -528,14 +527,14 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
+  considerations:
+  - type: considering
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: resolves ISO/WD 21981 to be submitted for CD ballot after further modification
+      value: considering ISO/WD 21981 draft status
   approvals:
   - type: affirmative
     degree: majority
@@ -545,20 +544,20 @@ decisions:
     message:
     - spelling: eng
       value: The resolution was adopted by unanimity
-  considerations:
-  - type: considering
+  actions:
+  - type: resolves
     date_effective:
       date: '2017-10-27'
       type: effective
     message:
     - spelling: eng
-      value: considering ISO/WD 21981 draft status
+      value: resolves ISO/WD 21981 to be submitted for CD ballot after further modification
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-13
-  urn: urn:iso:tc154:resolution:plenary-36:2017-13
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-13
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -570,24 +569,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: Resolves to adopt a PWI on “Business requirements for end to end visibility
-        of logistics flow”, and requests SAC to prepare the final draft for NWIP ballot
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
   considerations:
   - type: considering
     date_effective:
@@ -597,12 +578,30 @@ decisions:
     - spelling: eng
       value: considering the informal ad hoc group presentation report status of the
         project from CN/SAC
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: Resolves to adopt a PWI on “Business requirements for end to end visibility
+        of logistics flow”, and requests SAC to prepare the final draft for NWIP ballot
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-14
-  urn: urn:iso:tc154:resolution:plenary-36:2017-14
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-14
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -614,6 +613,24 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering the informal ad hoc group presentation report status of the
+        project from CN/SAC
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
   actions:
   - type: resolves
     date_effective:
@@ -630,30 +647,12 @@ decisions:
     message:
     - spelling: eng
       value: requests SAC to prepare the final draft for NWIP ballot
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: considering the informal ad hoc group presentation report status of the
-        project from CN/SAC
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-15
-  urn: urn:iso:tc154:resolution:plenary-36:2017-15
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-15
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -665,6 +664,24 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
+  considerations:
+  - type: considering
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: considering the informal ad hoc group presentation report status of the
+        project from CN/SAC
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
   actions:
   - type: resolves
     date_effective:
@@ -680,30 +697,12 @@ decisions:
     message:
     - spelling: eng
       value: requests SAC to prepare the final draft for NWIP ballot
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
-  considerations:
-  - type: considering
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: considering the informal ad hoc group presentation report status of the
-        project from CN/SAC
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-16
-  urn: urn:iso:tc154:resolution:plenary-36:2017-16
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-16
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -714,24 +713,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to establish ISO/TC 154/JWG8 (with UNECE) with the title "logistics
-        data contents and process"
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
   considerations:
   - type: considering
     date_effective:
@@ -756,12 +737,30 @@ decisions:
     - spelling: eng
       value: considering leveraging existing standards and strengthening the cooperation
         between ISO/TC 154 and UNECE
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to establish ISO/TC 154/JWG8 (with UNECE) with the title "logistics
+        data contents and process"
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-17
-  urn: urn:iso:tc154:resolution:plenary-36:2017-17
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-17
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -772,15 +771,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to appoint Mr.Dapeng(Max) Liu as the convener of JWG8, effective
-        immediately.
   approvals:
   - type: affirmative
     degree: majority
@@ -790,12 +780,21 @@ decisions:
     message:
     - spelling: eng
       value: The resolution was adopted by unanimity
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to appoint Mr.Dapeng(Max) Liu as the convener of JWG8, effective
+        immediately.
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-18
-  urn: urn:iso:tc154:resolution:plenary-36:2017-18
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-18
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -806,24 +805,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: Resolves that ISO/TC 154 and UNECE continue to work together on the ToR
-        for ISO 7372/UNTDED JMA and to update ISO 7372/UNTDED
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
   considerations:
   - type: considering
     date_effective:
@@ -833,12 +814,30 @@ decisions:
     - spelling: eng
       value: considering the importance of agreeing on the ToR(terms of reference)
         for the ISO 7372/UNTDED JMA
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: Resolves that ISO/TC 154 and UNECE continue to work together on the ToR
+        for ISO 7372/UNTDED JMA and to update ISO 7372/UNTDED
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-19
-  urn: urn:iso:tc154:resolution:plenary-36:2017-19
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-19
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -850,31 +849,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: appoints
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to appoint Mr. Jianfang Zhang(TC secretary) as the project leader
-        of ISO/DTR 18262 to communicate with ISO/CS and to forward the project
-  - type: assigns
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: assign the project to WG7
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
   considerations:
   - type: considering
     date_effective:
@@ -906,12 +880,37 @@ decisions:
     message:
     - spelling: eng
       value: considering the relationship with WG7
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
+  actions:
+  - type: appoints
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to appoint Mr. Jianfang Zhang(TC secretary) as the project leader
+        of ISO/DTR 18262 to communicate with ISO/CS and to forward the project
+  - type: assigns
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: assign the project to WG7
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-20
-  urn: urn:iso:tc154:resolution:plenary-36:2017-20
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-20
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -923,38 +922,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: Resolves that the current business plan is still valid
-  - type: resolves
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to revise a new version for review at the next plenary meeting
-  - type: welcomes
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: welcome volunteers to participate in the revision of strategic business
-        plan.
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was taken by unanimity
   considerations:
   - type: considering
     date_effective:
@@ -980,12 +947,44 @@ decisions:
     - spelling: eng
       value: Considering the new liaison organizations and more experts resources
         input to ISO/TC 154 in logistic and e-commerce
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was taken by unanimity
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: Resolves that the current business plan is still valid
+  - type: resolves
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to revise a new version for review at the next plenary meeting
+  - type: welcomes
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: welcome volunteers to participate in the revision of strategic business
+        plan.
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-21
-  urn: urn:iso:tc154:resolution:plenary-36:2017-21
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-21
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -996,24 +995,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: welcomes
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to welcome MoU/MG members to participate in ISO/TC 21981 through
-        active liaisons
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
   considerations:
   - type: considering
     date_effective:
@@ -1030,12 +1011,30 @@ decisions:
     message:
     - spelling: eng
       value: considering the Resolution 17/04 from MoU/MG in April 2017
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
+  actions:
+  - type: welcomes
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to welcome MoU/MG members to participate in ISO/TC 21981 through
+        active liaisons
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-22
-  urn: urn:iso:tc154:resolution:plenary-36:2017-22
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-22
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -1046,24 +1045,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: requests
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to request TC 184 to nominate experts to join the work of VSM(ISO
-        22468) project in ISO/TC 154/WG7
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
   considerations:
   - type: considering
     date_effective:
@@ -1080,12 +1061,30 @@ decisions:
     message:
     - spelling: eng
       value: considering the communication between ISO/CS and ISO/TC 184/SC5
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
+  actions:
+  - type: requests
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to request TC 184 to nominate experts to join the work of VSM(ISO
+        22468) project in ISO/TC 154/WG7
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-23
-  urn: urn:iso:tc154:resolution:plenary-36:2017-23
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-23
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -1097,23 +1096,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves to wait for the final draft submission from OAGi to NWIP ballot.
-  approvals:
-  - type: affirmative
-    degree: majority
-    date:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: The resolution was adopted by unanimity
   considerations:
   - type: considering
     date_effective:
@@ -1130,12 +1112,29 @@ decisions:
     - spelling: eng
       value: considering the final draft submission by OAGi to fast track “OAGIS Specification
         for an Enterprise Canonical Model” has not been received yet
+  approvals:
+  - type: affirmative
+    degree: majority
+    date:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: The resolution was adopted by unanimity
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves to wait for the final draft submission from OAGi to NWIP ballot.
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-24
-  urn: urn:iso:tc154:resolution:plenary-36:2017-24
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-24
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -1146,15 +1145,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: resolves
-    date_effective:
-      date: '2017-10-27'
-      type: effective
-    message:
-    - spelling: eng
-      value: resolves that the next physical plenary meeting of 2018 will be held
-        in China in October or November 2018
   approvals:
   - type: affirmative
     degree: majority
@@ -1164,12 +1154,21 @@ decisions:
     message:
     - spelling: eng
       value: The resolution was adopted by unanimity
+  actions:
+  - type: resolves
+    date_effective:
+      date: '2017-10-27'
+      type: effective
+    message:
+    - spelling: eng
+      value: resolves that the next physical plenary meeting of 2018 will be held
+        in China in October or November 2018
 - identifier:
   - prefix: ISO/TC 154
     number: 2017-25
-  urn: urn:iso:tc154:resolution:plenary-36:2017-25
   kind: resolution
   status: decided
+  urn: urn:iso:tc154:resolution:plenary-36:2017-25
   dates:
   - date: '2017-10-27'
     type: adoption
@@ -1180,15 +1179,6 @@ decisions:
   - spelling: eng
     value: ISO/TC 154 Processes, data elements and documents in commerce, industry
       and administration
-  actions:
-  - type: thanks
-    date_effective:
-      date: '2017-10-27'
-      type: adoption
-    message:
-    - spelling: eng
-      value: warmly thanks all the on-line participants for the active participation,
-        in particular those being on line during unearthly hours
   approvals:
   - type: affirmative
     degree: majority
@@ -1198,3 +1188,12 @@ decisions:
     message:
     - spelling: eng
       value: The resolution was adopted by unanimity
+  actions:
+  - type: thanks
+    date_effective:
+      date: '2017-10-27'
+      type: adoption
+    message:
+    - spelling: eng
+      value: warmly thanks all the on-line participants for the active participation,
+        in particular those being on line during unearthly hours

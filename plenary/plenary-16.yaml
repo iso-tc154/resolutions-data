@@ -167,7 +167,7 @@ decisions:
     - spelling: eng
       value: Unanimous
   actions:
-  - type: recognizes
+  - type: recognises
     date_effective:
       date: '1999-12-08'
       type: effective
